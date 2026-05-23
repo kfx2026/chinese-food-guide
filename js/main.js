@@ -131,6 +131,14 @@ const UPDATES = {
           history: 'Roots trace to Jialing River boatmen of the Ming/Qing era who cooked offal in spicy broth. Modern Sichuan hotpot emerged in Chongqing in the early 1900s and spread nationwide by the 1990s.',
           method: '1. Prepare broth: beef tallow, chili, Sichuan pepper, fermented beans, spices.<br>2. Slice ingredients thinly.<br>3. Bring broth to rolling boil.<br>4. Dip and cook ingredients briefly.<br>5. Dip in sesame oil with garlic and cilantro.',
         },
+        {
+          name: 'Jiangyou Braised Pork Intestine',
+          tags: ['Signature', 'Spicy'],
+          image: 'images/jiangyou-feichang-1.jpg',
+          description: 'A legendary Sichuan dish from Jiangyou County, featuring pork intestines braised to tender perfection in a rich, spicy sauce. Beloved for its bold flavor and silky texture. A must-try for offal enthusiasts and Sichuan food lovers alike.',
+          history: 'Originated in Jiangyou (modern-day Mianyang) during the Qing Dynasty, when local butchers simmered leftover pork offal with chili and spices to make a hearty, affordable meal. By the Republican era, it had grown into a beloved street food sold at market stalls. In the 1970s, state-run restaurants standardized the recipe for mass production. The 1980s saw a revival as small private eateries brought back family recipes with unique twists, cementing its status as Jiangyou\'s culinary icon and a Sichuan food heritage dish.',
+          method: '1. Thoroughly clean the intestines by scrubbing with flour and salt, then rinse and blanch in boiling water.<br>2. In a wok, heat oil and sauté ginger, garlic, doubanjiang (fermented broad bean paste), and dried red chilies until the oil turns red and fragrant.<br>3. Add the intestine pieces, splash in cooking wine and soy sauce, toss in star anise and cinnamon, and stir-fry briefly.<br>4. Pour in enough boiling water to cover the intestines, bring to a boil, then reduce heat and simmer gently for 1.5 hours until fork-tender.<br>5. Turn up the heat and reduce the sauce until thick and glossy; garnish with fresh cilantro and scallions before serving.',
+        },
       ],
     },
   ],
@@ -160,6 +168,14 @@ const UPDATES = {
           description: '以翻滚的红油锅底为核心的聚餐体验。食客将毛肚、牛肉、藕片、豆皮等食材现涮现吃。',
           history: '源自明清时期嘉陵江船工，以麻辣汤底煮内脏。现代四川火锅于1900年代初在重庆兴起，1990年代风靡全国。',
           method: '1. 謷制锅底：牛油、辣椒、花椒、豆瓣、香料。<br>2. 食材切薄片。<br>3. 汤底大火烧开。<br>4. 食材涮烫即食。<br>5. 蘸香油蒜泥香菜碟。',
+        },
+        {
+          name: '江油红烧肥肠',
+          tags: ['招牌', '香辣'],
+          image: 'images/jiangyou-feichang-1.jpg',
+          description: '江油最具代表性的地方美食，以猪大肠为主料，经过精心清洗和长时间红烧，成菜色泽红亮、肥而不腻、口感软糯香辣。是江油人日常饮食和宴客的必备硬菜，也是四川饮食文化的一张名片。',
+          history: '起源于清朝时期，江油（今绵阳境内）屠户将剩余猪下水加入辣椒、香料红烧而成，物美价廉、深受百姓喜爱。民国时期逐渐成为街头巷尾的热门小吃，赶集的乡民无不以一碗红烧肥肠配米饭为快事。70年代国营饭店将其纳入正式菜单，配方趋于标准化。80年代个体餐饮兴起，各家以祖传秘方改良发扬，江油肥肠自此名扬川内外，成为江油饮食文化的标志性符号。',
+          method: '1. 肥肠翻面，用面粉和盐反复搓洗去腥去黏液，清水冲净后冷水下锅焯水捞出切段。<br>2. 热锅宽油，下姜片、蒜瓣、郫县豆瓣酱和干辣椒段，小火炒出红油和香味。<br>3. 倒入肥肠段大火翻炒，沿锅边淋入料酒去腥，加酱油上色，放入八角、桂皮等香料。<br>4. 注入足量开水没过肥肠，大火烧开转小火加盖慢炖1.5小时，至肥肠软糯入味。<br>5. 开盖大火收汁至汤汁浓稠裹住肥肠，出锅撒上香菜碎和葱花即可。',
         },
       ],
     },
@@ -358,6 +374,7 @@ function renderUpdates() {
     html += `
       <div class="food-card page-reveal" style="animation-delay:${idx * 60}ms">
         <div class="food-card__header">
+          ${d.image ? `<img class="food-card__img" src="${d.image}" alt="${d.name}" loading="lazy">` : ''}
           <div class="food-card__info">
             <h3 class="food-card__title">${d.name}</h3>
             <div class="food-card__tag-row">
