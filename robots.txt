@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow:
 
-Sitemap: https://chinese-food-guide.surge.sh/sitemap.xml
+Sitemap: https://kfx2026.github.io/chinese-food-guide/sitemap.xml
