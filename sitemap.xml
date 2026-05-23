@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- English Homepage -->
+  <url>
+    <loc>https://chinese-food-guide.surge.sh/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chinese-food-guide.surge.sh/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://chinese-food-guide.surge.sh/index-zh.html"/>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- Chinese Homepage -->
+  <url>
+    <loc>https://chinese-food-guide.surge.sh/index-zh.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://chinese-food-guide.surge.sh/index-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chinese-food-guide.surge.sh/"/>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- Updates English -->
+  <url>
+    <loc>https://chinese-food-guide.surge.sh/updates.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chinese-food-guide.surge.sh/updates.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://chinese-food-guide.surge.sh/updates-zh.html"/>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Updates Chinese -->
+  <url>
+    <loc>https://chinese-food-guide.surge.sh/updates-zh.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://chinese-food-guide.surge.sh/updates-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chinese-food-guide.surge.sh/updates.html"/>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Privacy Policy English -->
+  <url>
+    <loc>https://chinese-food-guide.surge.sh/privacy-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chinese-food-guide.surge.sh/privacy-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://chinese-food-guide.surge.sh/privacy-policy-zh.html"/>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- Privacy Policy Chinese -->
+  <url>
+    <loc>https://chinese-food-guide.surge.sh/privacy-policy-zh.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://chinese-food-guide.surge.sh/privacy-policy-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chinese-food-guide.surge.sh/privacy-policy.html"/>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>

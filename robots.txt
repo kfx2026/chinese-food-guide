@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow:
+
+Sitemap: https://chinese-food-guide.surge.sh/sitemap.xml
