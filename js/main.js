@@ -118,6 +118,7 @@ const UPDATES = {
       dishes: [
         {
           name: 'Mapo Tofu',
+          image: 'images/mapo-tofu-2.jpg',
           tags: ['Spicy', 'Signature'],
           description: 'Silken tofu simmered in a rich, fiery sauce of fermented broad beans, chili oil, and Sichuan peppercorns. Invented in the late Qing Dynasty by Chen Mapo, a restaurateur in Chengdu. The dish balances the signature "mala" (numbing-spicy) flavor with the delicate softness of tofu.',
           history: 'Originated in the late Qing Dynasty (c. 1860s) at Chen Xingsheng Restaurant in Chengdu. The owner\'s wife, Chen Mapo, created this dish. It was inscribed as a national intangible cultural heritage dish in 2010.',
@@ -125,6 +126,7 @@ const UPDATES = {
         },
         {
           name: 'Kung Pao Chicken',
+          image: 'images/kung-pao-chicken-1.jpg',
           tags: ['Classic', 'Sweet-Spicy'],
           description: 'Diced chicken stir-fried with peanuts, dried red chilies, and scallions in a sweet-savory sauce. Named after Ding Baozhen, a Qing Dynasty official whose title was "Gongbao".',
           history: 'Named after Ding Baozhen (1820–1886), a Qing Dynasty governor of Sichuan who loved this dish. It spread globally and is one of the most recognized Chinese dishes internationally.',
@@ -132,6 +134,7 @@ const UPDATES = {
         },
         {
           name: 'Sichuan Hotpot',
+          image: 'images/sichuan-hotpot-1.jpg',
           tags: ['Iconic', 'Communal'],
           description: 'A communal dining experience centered around a pot of simmering, chili-laced broth. Diners cook raw ingredients tableside — from thin-sliced beef to tripe, lotus root, and tofu skin.',
           history: 'Roots trace to Jialing River boatmen of the Ming/Qing era who cooked offal in spicy broth. Modern Sichuan hotpot emerged in Chongqing in the early 1900s and spread nationwide by the 1990s.',
@@ -147,6 +150,7 @@ const UPDATES = {
         },
         {
           name: 'Husband and Wife Lung Slice (Fuqi Feipian)',
+          image: 'images/fuqi-feipian-1.jpg',
           tags: ['Challenge', 'Classic'],
           description: 'Thin slices of beef, beef tripe, and offal in a numbing chili oil dressing. The name sounds wild — but the flavor is unforgettable. Brave hearts only.',
           history: 'Created in the 1930s by Guo Zhaohua and his wife in Chengdu. Despite the alarming name (no literal lungs are used), it became a cold dish staple across Sichuan. The name comes from the original vendors being a husband-wife team.',
@@ -154,6 +158,7 @@ const UPDATES = {
         },
         {
           name: 'Rabbit Head (Tu Tou)',
+          image: 'images/rabbit-head-1.jpg',
           tags: ['Challenge', 'Snack'],
           description: 'Sichuan\'s most controversial street snack — a whole rabbit head, spiced and braised. Intense flavor, hands-on eating. Not for the faint of heart.',
           history: 'A specialty of the "Rabbit Capital" of China — Sichuan consumes over 300 million rabbits annually. Rabbit head braised in spicy broth became a late-night street food staple in Chengdu in the 1990s.',
@@ -161,6 +166,7 @@ const UPDATES = {
         },
         {
           name: 'Grilled Brain Flower (Kao Nao Hua)',
+          image: 'images/kao-nao-hua-1.jpg',
           tags: ['Challenge', 'Street Food'],
           description: 'Silky, creamy pig brain grilled on a skewer with chili, cumin, and Sichuan pepper. An acquired taste — but fans call it the ultimate late-night indulgence. Dare to try?',
           history: 'Emerged as a late-night street food in Chengdu in the 2000s, paired with beer and skewers. It reflects Sichuan\'s "eat everything" food culture and the philosophy of wasting nothing.',
@@ -168,6 +174,7 @@ const UPDATES = {
         },
         {
           name: 'Dan Dan Noodles',
+          image: 'images/dan-dan-noodles-1.jpg',
           tags: ['Classic', 'Street Food'],
           description: 'Chengdu\'s iconic street noodles — thin wheat noodles topped with a spicy, numbing sauce of preserved vegetables, chili oil, Sichuan peppercorns, and minced pork. Originally carried by pole-bearing street vendors (dan dan).',
           history: 'Originated in the early 20th century in Chengdu. Vendors carried noodles and stove on a shoulder pole (dan dan) and stopped to cook a bowl for passersby. It became a UNESCO-recognized intangible cultural heritage dish in 2024.',
@@ -175,24 +182,11 @@ const UPDATES = {
         },
         {
           name: 'Sliced Fish in Hot Chili Oil (Shui Zhu Yu)',
+          image: 'images/shui-zhu-yu-1.jpg',
           tags: ['Spicy', 'Signature'],
           description: 'Tender fish fillets poached in mild broth, then smothered in hot chili oil with dried chilies and Sichuan peppercorns. The oil is for aroma, not for drinking — scoop it aside and enjoy the fish.',
           history: 'A modern Sichuan classic from the 1980s, created by chef Fan Jun in Chongqing. It revolutionized "fish cooking" in Sichuan cuisine, combining the numbing-spicy flavor with delicate white fish.',
           method: '1. Marinate fish fillets (carp or catfish) in egg white and cornstarch.<br>2. Poach fillets gently in light broth, transfer to serving bowl.<br>3. Top with dried chilies, Sichuan peppercorns, garlic, scallions.<br>4. Pour smoking-hot oil over toppings to release aroma. Serve immediately.',
-        },
-        {
-          name: 'Long Chao Shou (Dragon Wontons)',
-          tags: ['Comfort', 'Soup'],
-          description: 'Chengdu\'s beloved wontons in a rich, pork-based broth with chili oil drizzle. Thin wrappers, juicy pork filling, and a soul-warming soup. A perfect intro to Sichuan flavors for first-timers.',
-          history: 'Originated in Chengdu in the 1940s, named "Dragon" for the mythical creature. Long Chao Shou became a household name across Sichuan and is now a chain with hundreds of locations.',
-          method: '1. Make filling: minced pork, ginger, scallion, soy sauce, sesame oil, beaten egg.<br>2. Wrap in thin wonton skins, fold into boat shape.<br>3. Boil in pork bone broth until wrappers turn translucent.<br>4. Serve in bowl with broth, chili oil, and chopped scallions.',
-        },
-        {
-          name: 'Zhong Shui Jiao (Zhong Style Dumplings)',
-          tags: ['Classic', 'Sweet-Spicy'],
-          description: 'Chengdu\'s famous dumplings served in a sweet-spicy sauce of brown sugar, red chili oil, mashed garlic, and sesame. The sauce is the star — rich, complex, and utterly addictive.',
-          history: 'Created by Zhong Xielin in Chengdu in 1893. Originally sold from a street stall, Zhong\'s recipe became so famous that "Zhong Shui Jiao" is now a protected geographical indication product.',
-          method: '1. Make dumpling filling: minced pork, ginger, Shaoxing wine, soy sauce.<br>2. Wrap in round dumpling skins, pleat edges.<br>3. Boil until floating, drain.<br>4. Serve with sauce: brown sugar water, red chili oil, mashed garlic, sesame paste, soy sauce.',
         },
       ],
     },
@@ -205,6 +199,7 @@ const UPDATES = {
       dishes: [
         {
           name: '麻婆豆腐',
+          image: 'images/mapo-tofu-2.jpg',
           tags: ['麻辣', '招牌'],
           description: '嫩豆腐在发酵豆瓣、红油和花椒调制的浓郁麻辣酱汁中慢炖而成。清晚期成都陈麻婆所创，麻辣与豆腐的细嫩形成绝妙平衡。',
           history: '起源于清晚期（约1860年代）成都陈兴盛饭铺，老板娘陈麻婆创制。2010年入选国家级非物质文化遗产名录。',
@@ -212,6 +207,7 @@ const UPDATES = {
         },
         {
           name: '宫保鸡丁',
+          image: 'images/kung-pao-chicken-1.jpg',
           tags: ['经典', '糊辣'],
           description: '鸡丁与花生、干辣椒、葱段同炒，甜咸酱汁包裹。得名于清朝官员丁宝桢的官衔"宫保"。',
           history: '得名于清朝四川总督丁宝桢（1820–1886），嗜好此菜。现已传遍全球，是最具国际知名度的中国菜之一。',
@@ -219,6 +215,7 @@ const UPDATES = {
         },
         {
           name: '四川火锅',
+          image: 'images/sichuan-hotpot-1.jpg',
           tags: ['标志性', '聚餐'],
           description: '以翻滚的红油锅底为核心的聚餐体验。食客将毛肚、牛肉、藕片、豆皮等食材现涮现吃。',
           history: '源自明清时期嘉陵江船工，以麻辣汤底煮内脏。现代四川火锅于1900年代初在重庆兴起，1990年代风靡全国。',
@@ -234,6 +231,7 @@ const UPDATES = {
         },
         {
           name: '夫妻肺片',
+          image: 'images/fuqi-feipian-1.jpg',
           tags: ['挑战', '经典'],
           description: '牛肉、牛肚、牛舌等薄切后用麻辣红油拌匀的冷盘。名字听起来很吓人——但味道让人忘不了。胆大的再来！',
           history: '1930年代由郭朝华、张田政夫妇在成都创制。虽然叫"肺片"，但实际上并不用肺，而是各种牛杂。因夫妻搭档售卖而得名，现已成为川菜冷盘的代表。',
@@ -241,6 +239,7 @@ const UPDATES = {
         },
         {
           name: '兔头',
+          image: 'images/rabbit-head-1.jpg',
           tags: ['挑战', '小吃'],
           description: '四川最具争议的街头小吃——整只兔头，香料卤制。味道浓烈，需要动手啃。胆小的请绕道。',
           history: '四川是中国"兔肉之都"，每年消耗超过3亿只兔子。兔头卤制起源于1990年代成都的夜市文化，现已成为四川夜宵的标志性小吃。',
@@ -248,6 +247,7 @@ const UPDATES = {
         },
         {
           name: '烤脑花',
+          image: 'images/kao-nao-hua-1.jpg',
           tags: ['挑战', '夜宵'],
           description: '猪脑花串在铁签上炭烤，辣椒、孜然、花椒抹满。口感如奶油般丝滑——爱吃的人欲罢不能，不敢吃的看着就怕。你敢吗？',
           history: '兴起于2000年代成都的夜宵摊，配啤酒和烧烤串。体现了四川"万物可食"的饮食文化和杜绝浪费的哲学。',
@@ -255,6 +255,7 @@ const UPDATES = {
         },
         {
           name: '担担面',
+          image: 'images/dan-dan-noodles-1.jpg',
           tags: ['经典', '小吃'],
           description: '成都标志性街头面条——细面条浇上麻辣酱汁，配芽菜末、红油、花椒和肉臊。最早由挑着担子沿街叫卖的小贩创制。',
           history: '起源于20世纪初的成都，小贩肩挑担子（担担），一头是锅一头是面条，沿街现煮现卖。2024年入选联合国非遗美食名录。',
@@ -262,24 +263,11 @@ const UPDATES = {
         },
         {
           name: '水煮鱼',
+          image: 'images/shui-zhu-yu-1.jpg',
           tags: ['麻辣', '招牌'],
           description: '嫩鱼片在清汤中煮熟，然后浇上滚烫的红油和干辣椒。油是用来闻香味的——把它拨到一边，专心吃鱼。',
           history: '1980年代由重庆厨师范俊创制， revolutionized 川菜做鱼的方式，将麻辣味型与细嫩白鱼完美结合。',
           method: '1. 鱼片（草鱼或鲶鱼）用蛋清和淀粉腌制。<br>2. 清汤将鱼片轻轻煮熟，捞入大碗。<br>3. 鱼片上铺干辣椒、花椒、蒜末、葱花。<br>4. 滚烫热油浇在佐料上，激发香气。立即上桌。',
-        },
-        {
-          name: '龙抄手',
-          tags: ['家常', '汤品'],
-          description: '成都人最爱的馄饨，薄皮大馅，猪骨汤底，一勺红油提味。最适合第一次尝试川菜的人。',
-          history: '1940年代创立于成都，因"龙"字吉祥而得名。现已发展成为拥有数百家门店的连锁品牌，是成都人日常饮食的一部分。',
-          method: '1. 制馅：猪肉末、姜末、葱末、酱油、香油、鸡蛋。<br>2. 用薄馄饨皮包成元宝形。<br>3. 猪骨汤煮熟馄饨至皮透明。<br>4. 连汤盛入碗中，加红油和葱花。',
-        },
-        {
-          name: '钟水饺',
-          tags: ['经典', '甜辣'],
-          description: '成都名小吃，饺子蘸着独特的甜辣酱吃——红糖水、红油、蒜泥、芝麻酱调制而成。酱汁是灵魂，吃完还想舔盘子。',
-          history: '1893年钟燮林创制于成都，最初是街边小摊。因味道独特，"钟水饺"已成为国家地理标志产品。',
-          method: '1. 制馅：猪肉末、姜末、绍兴酒、酱油。<br>2. 用圆饺子皮包成月牙形。<br>3. 水煮浮起捞出。<br>4. 浇上甜辣酱汁（红糖水+红油+蒜泥+芝麻酱+酱油）食用。',
         },
       ],
     },
