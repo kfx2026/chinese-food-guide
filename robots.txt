@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow:
 
-Sitemap: https://kfx2026.github.io/chinese-food-guide/sitemap.xml
+Sitemap: https://food.eastculture.top/sitemap.xml

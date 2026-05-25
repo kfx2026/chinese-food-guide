@@ -3,54 +3,54 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <!-- English Homepage -->
   <url>
-    <loc>https://kfx2026.github.io/chinese-food-guide/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://kfx2026.github.io/chinese-food-guide/"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://kfx2026.github.io/chinese-food-guide/index-zh.html"/>
+    <loc>https://food.eastculture.top/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://food.eastculture.top/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://food.eastculture.top/index-zh.html"/>
     <lastmod>2026-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <!-- Chinese Homepage -->
   <url>
-    <loc>https://kfx2026.github.io/chinese-food-guide/index-zh.html</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://kfx2026.github.io/chinese-food-guide/index-zh.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://kfx2026.github.io/chinese-food-guide/"/>
+    <loc>https://food.eastculture.top/index-zh.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://food.eastculture.top/index-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://food.eastculture.top/"/>
     <lastmod>2026-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <!-- Updates English -->
   <url>
-    <loc>https://kfx2026.github.io/chinese-food-guide/updates.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://kfx2026.github.io/chinese-food-guide/updates.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://kfx2026.github.io/chinese-food-guide/updates-zh.html"/>
+    <loc>https://food.eastculture.top/updates.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://food.eastculture.top/updates.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://food.eastculture.top/updates-zh.html"/>
     <lastmod>2026-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Updates Chinese -->
   <url>
-    <loc>https://kfx2026.github.io/chinese-food-guide/updates-zh.html</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://kfx2026.github.io/chinese-food-guide/updates-zh.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://kfx2026.github.io/chinese-food-guide/updates.html"/>
+    <loc>https://food.eastculture.top/updates-zh.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://food.eastculture.top/updates-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://food.eastculture.top/updates.html"/>
     <lastmod>2026-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Privacy Policy English -->
   <url>
-    <loc>https://kfx2026.github.io/chinese-food-guide/privacy-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://kfx2026.github.io/chinese-food-guide/privacy-policy.html"/>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://kfx2026.github.io/chinese-food-guide/privacy-policy-zh.html"/>
+    <loc>https://food.eastculture.top/privacy-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://food.eastculture.top/privacy-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://food.eastculture.top/privacy-policy-zh.html"/>
     <lastmod>2026-05-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <!-- Privacy Policy Chinese -->
   <url>
-    <loc>https://kfx2026.github.io/chinese-food-guide/privacy-policy-zh.html</loc>
-    <xhtml:link rel="alternate" hreflang="zh" href="https://kfx2026.github.io/chinese-food-guide/privacy-policy-zh.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://kfx2026.github.io/chinese-food-guide/privacy-policy.html"/>
+    <loc>https://food.eastculture.top/privacy-policy-zh.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://food.eastculture.top/privacy-policy-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://food.eastculture.top/privacy-policy.html"/>
     <lastmod>2026-05-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
