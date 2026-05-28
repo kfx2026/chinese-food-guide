@@ -12,7 +12,7 @@ const PREVIEW_QUEUE = {
     {
       id: 'sichuan',
       province: 'Sichuan Province',
-      status: 'coming',   // coming | live | past
+      status: 'live',   // now live!
       dishes: [
         { name: 'Mapo Tofu', desc: 'Silken tofu in fiery chili-bean sauce — Sichuan\'s most iconic dish' },
         { name: 'Kung Pao Chicken', desc: 'Tender chicken with peanuts and dried chilies, sweet-savory-spicy' },
