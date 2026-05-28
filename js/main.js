@@ -236,6 +236,7 @@ const UPDATES = {
           eatingGuide: '<b>Eat it immediately while warm.</b> The sequence: pick up a soybean-coated rice ball (it\'s hot, be careful), dip it in the brown sugar syrup, take a bite. The outer layer is nutty and dry from the soybean flour; the inside is soft, warm, and chewy; the syrup adds caramel sweetness. <b>The perfect pairing:</strong> a cup of bitter aged tea (老荫茶 or 老鹰茶) — the bitterness cuts the sweetness perfectly. The three balls are meant to be eaten one after another, not shared — this is a snack of indulgence.',
           culturalCode: '<b>San Da Pao is the ultimate example of "auditory marketing" in Chinese street food.</b> Before digital advertising, street vendors needed creative ways to stand out. Li Hongxing\'s "three cannons" was pure genius — everyone within 200 meters heard the bangs and came running. It represents the carnival spirit of Qingyang Palace Fair, the biggest temple fair in western Sichuan. Along with Zhang\'s Cold Noodles and Sugar Oil Fruits, it was known as one of the "Three Kings of Fair Snacks." The snack is inseparable from the fair experience — eating it elsewhere is just not the same.',
           honestTalk: '<b>The honest truth:</b> San Da Pao is more about the experience than the taste. The rice ball itself is simply glutinous rice — not particularly flavorful. The magic is in the auditory performance, the fresh soybean flour, and the nostalgia. If you judge it purely on flavor, it\'s just sweet sticky rice. But if you judge it on the whole package — the bang, the scent of roasted soy, the warm chewiness, the brown sugar — it\'s unforgettable. Look for it at temple fairs or traditional snack streets in Chengdu, not fancy restaurants. And don\'t expect it to travel well — it needs to be eaten within minutes of being "fired."',
+        },
       ],
     },
     {
@@ -297,6 +298,7 @@ const UPDATES = {
           eatingGuide: '<b>How to eat it:</b> Best enjoyed in your hand — bite down and listen for the "crunch." The texture should be airy but not crumbly, sweet but not cloying. Traditional way: with a cup of hot tea or coffee — the warmth softens the candy slightly and balances the sweetness. Modern way: crumble it over yogurt or bingfen (ice jelly) for a crunchy topping. <b>Pro tip:</b> fresh-made mihuatang from Suji is noticeably better — the puffed rice is still crisp and the maltose hasn\'t hardened. Avoid vacuum-packed versions sold in tourist shops; they\'re often stale.',
           culturalCode: '<b>Why this dish matters beyond taste:</b> Suji Mihuatang represents the pinnacle of Leshan\'s snack-making tradition — transforming humble ingredients (rice, lard, sugar) into something extraordinary through pure craftsmanship. The 20+ step process is a dying art; few young artisans are learning it. It\'s also a window into pre-industrial Chinese confectionery: no machines, no preservatives, just skill and patience. For older Leshan residents, the taste of mihuatang is the taste of childhood — a rare sweet treat in an era of scarcity.',
           honestTalk: '<b>The honest truth:</b> Mihuatang is very sweet. If you\'re not used to Chinese-style sweets, a single piece is enough — they\'re dense with sugar and lard flavor. The pork lard gives it a richness that vegetable oil versions can\'t replicate, but it also means it\'s not light. Freshness is everything: if the candy is hard and sticks to your teeth instead of shattering, it\'s old. The best souvenir is buying it from a small workshop in Suji Ancient Town, not a gift shop. And yes, it will leave crumbs everywhere.',
+        },
       ],
     },
   ],
@@ -426,6 +428,7 @@ const UPDATES = {
           eatingGuide: '<b>趁热吃，趁热吃，趁热吃。</b>步骤：拿起裹满豆粉的糍粑团（烫，小心），蘸红糖浆，一大口。外层豆粉香、细、干香；内里糯米软糯、温热、Q弹不粘牙；红糖甜香不齁。<b>绝配：</b>配老荫茶或老鹰茶，清苦解腻，完美。三个糍粑团要连着吃，别分着——这是一个放纵的小吃时刻。<b>找它要去庙会或传统小吃街，</b>不是大饭店。它出锅后几分钟内必须吃掉，没法打包走。',
           culturalCode: '<b>三大炮是中国街头小吃"声音营销"的终极案例。</b>在没有数字广告的年代，小贩需要创意来吸引顾客。李洪兴的"三炮"是天才之举——方圆两百米内都听到那三声"当"，所有人都会跑过来看。它代表了青羊宫花会的狂欢精神，与张凉粉、糖油果子并称"花会间食之霸"。这道小吃和庙会密不可分——在其他地方吃就不是那个味了。',
           honestTalk: '<b>实话实说：</b>三大炮更多是关于体验而不是味道。糍粑本身只是糯米——谈不上特别好吃。魔力在于那几声"当"、现磨豆粉的香气、温热的嚼劲、红糖的甜——整个package才是难忘的。纯粹从味道评价，它就是甜的糯米饭。但如果你把声音、香气、温度、味道加在一起——那是难忘的。不要在高级餐厅找它。另外，它出锅几分钟内必须吃掉，不能打包。',
+        },
       ],
     },
     {
@@ -487,6 +490,7 @@ const UPDATES = {
           eatingGuide: '<b>怎么吃：</b>直接嚼——咔嚓脆响，米香、芝麻香、花生香交融，清甜不腻。传统吃法：配热茶或咖啡，解腻又暖胃。现代吃法：掰碎拌酸奶、冰粉，增添酥脆口感。百年传承，是乐山人走亲访友的伴手礼，也是老乐山记忆里的甜香。<b>点菜秘籍：</b>苏稽古镇现做的米花糖明显更好吃——米花还酥脆，饴糖没硬化。旅游商店真空包装的通常不新鲜。',
           culturalCode: '<b>不止是好吃：</b>苏稽米花糖代表了乐山糕点制作的顶尖水平——把最普通的食材（米、猪油、糖）通过纯手工做成惊艳。二十多道工序是正在失传的手艺，很少有年轻人愿意学。它也是中国工业化前糖果工艺的窗口：没有机器、没有添加剂，只有手艺和耐心。对老乐山人来说，米花糖的味道就是童年的味道。',
           honestTalk: '<b>实话实说：</b>米花糖非常甜。不太习惯中式甜食的话，一块就够了——糖和猪油的密度很高。猪油带来的醇香是植物油无法复制的，但也意味着它不"轻"。新鲜是关键：如果米花糖变硬了、粘牙而不是入口即化，那就是放久了。最好的伴手礼是从苏稽古镇的小作坊买的，不是礼品店。对了，吃它会掉一地渣。',
+        },
       ],
     },
   ],
