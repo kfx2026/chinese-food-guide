@@ -6,6 +6,13 @@
       "name_zh": "四川省",
       "dish_count": 3,
       "status": "live"
+    },
+    {
+      "id": "shanghai",
+      "name_en": "Shanghai",
+      "name_zh": "上海市",
+      "dish_count": 8,
+      "status": "live"
     }
   ]
 }
