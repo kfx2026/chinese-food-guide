@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Mapo Tofu",
+    "image": "images/mapo-tofu-2.jpg",
+    "tags": [
+      "Spicy",
+      "Signature"
+    ],
+    "description": "Silken tofu simmered in a rich, fiery sauce of fermented broad beans, chili oil, and Sichuan peppercorns. Invented in the late Qing Dynasty by Chen Mapo, a restaurateur in Chengdu. The dish balances t",
+    "region": "Sichuan · Chengdu",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "image": "images/kung-pao-chicken-1.jpg",
+    "tags": [
+      "Classic",
+      "Sweet-Spicy"
+    ],
+    "description": "Diced chicken stir-fried with peanuts, dried red chilies, and scallions in a sweet-savory sauce. Named after Ding Baozhen, a Qing Dynasty official whose title was \"Gongbao\".",
+    "region": "Sichuan · Chengdu",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "Sichuan Hotpot",
+    "image": "images/sichuan-hotpot-1.jpg",
+    "tags": [
+      "Iconic",
+      "Communal"
+    ],
+    "description": "A communal dining experience centered around a pot of simmering, chili-laced broth. Diners cook raw ingredients tableside — from thin-sliced beef to tripe, lotus root, and tofu skin.",
+    "region": "Sichuan · Chengdu",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "Jiangyou Braised Pork Intestine",
+    "image": "images/jiangyou-feichang-1.jpg",
+    "tags": [
+      "Challenge",
+      "Spicy"
+    ],
+    "description": "A legendary Sichuan dish from Jiangyou County, featuring pork intestines braised to tender perfection in a rich, spicy sauce. Chewy, bold, and definitely NOT for everyone. Dare to take the ultimate Si",
+    "region": "Sichuan · Chengdu",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "Husband and Wife Lung Slice (Fuqi Feipian)",
+    "image": "images/fuqi-feipian-1.jpg",
+    "tags": [
+      "Challenge",
+      "Classic"
+    ],
+    "description": "Thin slices of beef, beef tripe, and offal in a numbing chili oil dressing. The name sounds wild — but the flavor is unforgettable. Brave hearts only.",
+    "region": "Sichuan · Chengdu",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "Rabbit Head (Tu Tou)",
+    "image": "images/rabbit-head-1.jpg",
+    "tags": [
+      "Challenge",
+      "Snack"
+    ],
+    "description": "Sichuan's most controversial street snack — a whole rabbit head, spiced and braised. Intense flavor, hands-on eating. Not for the faint of heart.",
+    "region": "Sichuan · Chengdu",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "Grilled Brain Flower (Kao Nao Hua)",
+    "image": "images/kao-nao-hua-1.jpg",
+    "tags": [
+      "Challenge",
+      "Street Food"
+    ],
+    "description": "Silky, creamy pig brain grilled on a skewer with chili, cumin, and Sichuan pepper. An acquired taste — but fans call it the ultimate late-night indulgence. Dare to try?",
+    "region": "Sichuan · Chengdu",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "Dan Dan Noodles",
+    "image": "images/dan-dan-noodles-1.jpg",
+    "tags": [
+      "Classic",
+      "Street Food"
+    ],
+    "description": "Chengdu's iconic street noodles — thin wheat noodles topped with a spicy, numbing sauce of preserved vegetables, chili oil, Sichuan peppercorns, and minced pork. Originally carried by pole-bearing str",
+    "region": "Sichuan · Chengdu",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "Sliced Fish in Hot Chili Oil (Shui Zhu Yu)",
+    "image": "images/shui-zhu-yu-1.jpg",
+    "tags": [
+      "Spicy",
+      "Signature"
+    ],
+    "description": "Tender fish fillets poached in mild broth, then smothered in hot chili oil with dried chilies and Sichuan peppercorns. The oil is for aroma, not for drinking — scoop it aside and enjoy the fish.",
+    "region": "Sichuan · Chengdu",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "Kaishui Baicai (Boiled Cabbage in Supreme Broth)",
+    "image": "images/kaishui-baicai.jpg",
+    "tags": [
+      "Classic",
+      "National Banquet"
+    ],
+    "description": "Perhaps the most deceptive dish in all of Sichuan cuisine. What looks like plain cabbage in clear water is actually the pinnacle of Sichuan's clear-soup technique — a masterwork that shatters the ster",
+    "region": "Sichuan · Chengdu",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "San Da Pao (Three Cannons — Chengdu's Loudest Snack)",
+    "image": "images/san-dapao.jpg",
+    "tags": [
+      "Street Food",
+      "Intangible Heritage"
+    ],
+    "description": "A performance disguised as a snack. Three sticky glutinous rice balls are thrown with force against a wooden board fitted with brass plates — producing three explosive \"BANG — BANG — BANG\" sounds like",
+    "region": "Sichuan · Chengdu",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "Leshan Sweet Glazed Duck (Tianpi Ya)",
+    "image": "images/tianpi-ya.jpg",
+    "tags": [
+      "Signature",
+      "Sweet-Savory"
+    ],
+    "description": "A whole duck brined with Sichuan spices, air-dried, brushed with maltose syrup, then deep-fried until the skin transforms into a glossy, caramelized amber. The crackling-sweet exterior gives way to te",
+    "region": "Sichuan · Leshan",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "Bobo Chicken",
+    "image": "images/bobo-chicken.jpg",
+    "tags": [
+      "Cold",
+      "Spicy-Numbing"
+    ],
+    "description": "Cold skewers of chicken, tripe, duck tongue, lotus root, and vegetables steeped in a chilled broth of chili oil, Sichuan pepper, sesame, and aromatics. \"Bobo\" means earthenware pot in Sichuan dialect ",
+    "region": "Sichuan · Leshan",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "Leshan Qiaojiao Beef (Crossed-Leg Beef Soup)",
+    "image": "images/qiaojiao-beef.jpg",
+    "tags": [
+      "Soup",
+      "Herbal"
+    ],
+    "description": "A soul-warming beef offal soup simmered with over 30 Chinese medicinal herbs. Clear golden broth, tender sliced beef and tripe, with a subtle aromatic complexity from white peony root, amomum villosum",
+    "region": "Sichuan · Leshan",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "Linjiang Shredded Eel",
+    "image": "images/linjiang-shansi.jpg",
+    "tags": [
+      "Fresh-Spicy",
+      "Intangible Heritage"
+    ],
+    "description": "Fresh稻田 eels from Leshan's rice paddies, skillfully deboned with an ox-bone knife into perfect shreds, then quick-fried in pork fat with pickled chilies, Sichuan pepper, and local herbs. The eel shred",
+    "region": "Sichuan · Leshan",
+    "date": "June 1, 2026"
+  },
+  {
+    "name": "Suji Fried Rice Puff Candy (Mihuatang)",
+    "image": "images/suji-mihuatang.jpg",
+    "tags": [
+      "Snack",
+      "Sweet-Crunchy"
+    ],
+    "description": "A traditional Leshan sweet snack made from premium glutinous rice, puffed in pork fat and bound with maltose syrup into snowy-white blocks studded with peanuts and sesame. Each bite shatters with a cr",
+    "region": "Sichuan · Leshan",
+    "date": "June 1, 2026"
+  }
+]

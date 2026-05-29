@@ -1,0 +1,94 @@
+[
+  {
+    "id": "sichuan",
+    "province": "Sichuan Province",
+    "status": "live",
+    "dishes": [
+      {
+        "name": "Mapo Tofu",
+        "desc": "Silken tofu in fiery chili-bean sauce — Sichuan's most iconic dish"
+      },
+      {
+        "name": "Kung Pao Chicken",
+        "desc": "Tender chicken with peanuts and dried chilies, sweet-savory-spicy"
+      },
+      {
+        "name": "Sichuan Hotpot",
+        "desc": "Boiling chili oil broth with endless dipping ingredients"
+      },
+      {
+        "name": "Dan Dan Noodles",
+        "desc": "Chengdu street noodles with spicy numbing sauce and minced pork"
+      },
+      {
+        "name": "Husband and Wife Lung Slice",
+        "desc": "Classic cold offal platter — brave hearts only"
+      },
+      {
+        "name": "Rabbit Head",
+        "desc": "Sichuan's most controversial street snack — dare to try?"
+      }
+    ],
+    "eta": "Coming June 2026"
+  },
+  {
+    "id": "chongqing",
+    "province": "Chongqing Municipality",
+    "status": "scheduled",
+    "dishes": [
+      {
+        "name": "Chongqing Hotpot",
+        "desc": "Extra-fiery beef tallow broth — the original hotpot experience"
+      },
+      {
+        "name": "Xiao Mian (Spicy Noodles)",
+        "desc": "Street-style noodles with peppery sesame paste topping"
+      },
+      {
+        "name": "Sour Soup Fish",
+        "desc": "Tomato-sour broth with fresh fish slices and pickled veggies"
+      }
+    ],
+    "eta": "Coming July 2026"
+  },
+  {
+    "id": "yunnan",
+    "province": "Yunnan Province",
+    "status": "scheduled",
+    "dishes": [
+      {
+        "name": "Crossing-the-Bridge Noodles",
+        "desc": "Broth kept hot with a layer of chicken fat, ingredients added tableside"
+      },
+      {
+        "name": "Steamed Pot Chicken",
+        "desc": "Clay pot steamed with medicinal herbs and flowers"
+      },
+      {
+        "name": "Er Kuai (Rice Cakes)",
+        "desc": "Grilled or stir-fried rice cakes with savory toppings"
+      }
+    ],
+    "eta": "Coming August 2026"
+  },
+  {
+    "id": "guangdong",
+    "province": "Guangdong Province",
+    "status": "planned",
+    "dishes": [
+      {
+        "name": "Dim Sum Platter",
+        "desc": "Bite-sized steamed delicacies — har gow, siu mai, char siu bao"
+      },
+      {
+        "name": "Cantonese Roast Goose",
+        "desc": "Crispy golden skin with succulent meat, served with plum sauce"
+      },
+      {
+        "name": "White Cut Chicken",
+        "desc": "Poached chicken with ginger-scallion oil dip, texture is everything"
+      }
+    ],
+    "eta": "Coming September 2026"
+  }
+]
