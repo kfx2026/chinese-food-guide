@@ -1,0 +1,11 @@
+{
+  "provinces": [
+    {
+      "id": "sichuan",
+      "name_en": "Sichuan",
+      "name_zh": "四川省",
+      "dish_count": 2,
+      "status": "live"
+    }
+  ]
+}
