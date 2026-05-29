@@ -240,6 +240,58 @@
           "honestTalk": "<b>The honest truth:</b> Mihuatang is very sweet. If you're not used to Chinese-style sweets, a single piece is enough — they're dense with sugar and lard flavor. The pork lard gives it a richness that vegetable oil versions can't replicate, but it also means it's not light. Freshness is everything: if the candy is hard and sticks to your teeth instead of shattering, it's old. The best souvenir is buying it from a small workshop in Suji Ancient Town, not a gift shop. And yes, it will leave crumbs everywhere."
         }
       ]
+    },
+    {
+      "id": "sichuan-003",
+      "date": "May 30, 2026",
+      "region": "Sichuan · Yibin",
+      "dishes": [
+        {
+          "name": "Yibin Burning Noodles (Ran Mian)",
+          "image": "images/yibin-ranmian.jpg",
+          "tags": [
+            "Spicy",
+            "Breakfast",
+            "Street Food"
+          ],
+          "description": "The soul of Yibin's breakfast culture — alkaline wheat noodles boiled to al dente, drained, then tossed in a secret chili oil blend, aged vinegar, and soy sauce. Topped with crispy preserved ya cai (碎米芽菜), crushed peanuts, and scallions, the name 'burning noodles' comes from how the oil-drenched strands glisten like fire — and how the chili heat builds with each mouthful. Dry-tossed, never soupy, every strand coated in a numbing, spicy, umami-packed coating.",
+          "history": "Dating back to the Qing Dynasty, Yibin Burning Noodles emerged from the city's bustling river port. Dock workers and merchants needed a filling, quick meal — vendors improvised by tossing alkaline noodles with generous amounts of rapeseed oil, chili, and preserved vegetables. The name 'Ran Mian' (燃面, literally 'flaming noodles') originated from an old legend: the oil-rich noodles, when lifted with chopsticks, could briefly catch fire. By the Republican era, the recipe had standardized, moving from dockside stalls to city streets, eventually becoming one of Sichuan's most iconic noodle dishes.",
+          "method": "1. Use high-gluten local wheat noodles — thin, chewy, and alkaline.<br>2. Boil until 80% done (al dente), drain quickly but don't shake completely dry — leave a touch of noodle water to prevent sticking.<br>3. Toss immediately with roasted rapeseed oil, spread flat and cool.<br>4. Prepare the dressing: ya cai (preserved vegetable), roasted crushed peanuts, white sesame, fine scallions.<br>5. Mix in soy sauce, chili oil, Sichuan pepper powder, and a pinch of sugar for balance.<br>6. Plate the cooled noodles, top with dressing, toss thoroughly — every strand must be coated.",
+          "eatingGuide": "<b>How to eat it:</b> Dry-toss it yourself — the noodles arrive with toppings piled on top, and the ritual of mixing is half the experience. Go aggressive on the chili (喊'加麻加辣') if you want the real deal. NEVER add soup — this is a dry noodle. It comes with a side of seaweed broth (海带汤), which serves as a palate cleanser, not a soup base. <b>Pro tip:</b> The ya cai should be audibly CRUNCHY — if it's soft, the shop isn't doing it right. The best shops make their own ya cai in-house. Burnings noodles are breakfast food — most authentic shops close by 2 PM.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> Yibin Burning Noodles embody the river-port pragmatism of Sichuan cuisine: simple ingredients elevated through technique. The use of ya cai is pure Yibin — this specific preserved mustard green is a local specialty, fermented in clay jars for months. The noodles reflect the geography of the city itself: the alkaline water from Yibin's wells gives the noodles their signature chew. In 2011, Yibin Burning Noodles were inscribed on the Sichuan Provincial Intangible Cultural Heritage list. For locals, a day without burning noodles is a day without a proper morning.",
+          "honestTalk": "<b>The honest truth:</b> Burning noodles are OILY. That's the whole point — they're meant to coat the noodles and deliver flavor. If you're counting calories, look away. The spiciness builds gradually; don't judge the first bite. The quality varies wildly between shops — good ya cai is the difference between heaven and mediocrity. Also: they cool down fast. Eat them within 5 minutes or the oil congeals. If you can't handle spice at all, order '微微辣' (the lightest level), but the locals will know you're a tourist. Pair with a boiled egg and the complimentary seaweed broth for the authentic Yibin breakfast experience."
+        },
+        {
+          "name": "Full Bamboo Banquet (Quan Zhu Yan)",
+          "image": "images/yibin-quanzhuyan.jpg",
+          "tags": [
+            "Festive",
+            "Natural",
+            "Heritage"
+          ],
+          "description": "A magnificent feast drawn entirely from bamboo — a culinary tradition unique to southern Sichuan. Every part of the bamboo plant is transformed into a dish: tender spring bamboo shoots, delicate bamboo fungus (竹荪) with its lace-like veil, bamboo shoot eggs, bamboo ears, bamboo insects, and bamboo fungi. The banquet spans cold appetizers, hot stir-fries, braised dishes, soups, and even bamboo-tube rice — each course celebrating the plant's astonishing versatility. Light, clean, and profoundly fresh, it's the antidote to Sichuan's heavy chili-and-oil reputation.",
+          "history": "The Full Bamboo Banquet has roots stretching back to the Tang and Song dynasties, when mountain communities in southern Sichuan began systematically cooking with bamboo. By the Ming and Qing dynasties, bamboo-based dishes had evolved into formal banquet structures, originally served at village celebrations, ancestral rites, and to honor distinguished guests. The tradition emerged from necessity — bamboo forests dominated the landscape — and ingenuity: local cooks discovered that every part of bamboo, from tender shoot to woody fungus, could be edible if prepared correctly. In modern times, the banquet has been refined to include dozens of courses and is recognized as a Yibin intangible cultural heritage tradition, drawing food pilgrims from across China.",
+          "method": "The banquet showcases diverse cooking techniques. Cold dishes: tossed bamboo fungus, hand-torn bamboo shoot tips, pickled pepper bamboo ears — crisp, refreshing appetizers. Hot dishes: oil-braised winter bamboo shoots, bamboo fungus stewed with chicken, crispy fried bamboo insects, bamboo-tube pork (肉馅填入鲜竹筒蒸制, bamboo fragrance infuses the meat). The signature soup — bamboo fungus chicken soup — is the star: the delicate fungus absorbs the rich broth, becoming a vessel of flavor. No heavy chili or oil; the philosophy is 'let bamboo speak for itself.'",
+          "eatingGuide": "<b>How to eat it:</b> This is a banquet, not a solo meal — best enjoyed with a group. Pace yourself; the cold appetizers are light and crisp, setting the stage for richer hot dishes. The bamboo-tube pork is a must: break the bamboo tube open and the aroma hits you before the meat does. The bamboo fungus chicken soup should be savored slowly — each spoonful is cleaner and more subtle than the last. <b>Pro tip:</b> The best bamboo banquets are at farm-to-table guesthouses (农家乐) inside the Shunan Bamboo Sea scenic area, where the bamboo shoots were dug that morning. Don't eat this at a city restaurant — the freshness gap is enormous.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> The Full Bamboo Banquet is the culinary expression of 'coexisting with bamboo' (与竹共生) — the defining relationship between southern Sichuan people and their landscape. Bamboo isn't just food here; it's housing material, furniture, cooking fuel, and the very soil of the region's agriculture. The banquet philosophy — light, clean, ingredient-respecting — is the polar opposite of Sichuan's famous 'mala' cuisine, proving the province's culinary diversity. Every course uses bamboo in a different part of the cooking: as ingredient, as vessel (bamboo tubes for steaming), as fuel (dried bamboo for the fire), and as tableware (bamboo plates). It's zero-waste cooking before the term existed.",
+          "honestTalk": "<b>The honest truth:</b> The bamboo insects (竹虫) are a test. They're deep-fried and taste nutty and crispy, like crunchy peanut snacks — but they look exactly like what they are. You don't have to eat them; the banquet has 30+ other dishes. The bamboo fungus has a strange texture if you're not used to it — spongy, jelly-like, with a slight squeak when you chew. Some people love it; others politely move on. Most travelers find the bamboo-tube pork and bamboo shoot chicken soup to be the safest and most universally delicious entry points. The farmhouse restaurants inside the scenic area are rustic — this is not fine dining, it's honest farm cooking, and that's exactly why it's great."
+        },
+        {
+          "name": "Lizhuang White Pork (Lizhuang Bai Rou)",
+          "image": "images/yibin-baizhu.jpg",
+          "tags": [
+            "Classic",
+            "Artisan",
+            "Knife Skill"
+          ],
+          "description": "The pride of Lizhuang Ancient Town — impossibly thin slices of boiled pork, each spanning an entire plate, so translucent you can read newsprint through them. Dipped in a pounded chili-garlic-soy sauce, the pork melts on the tongue: the fat dissolves into creamy richness while the lean meat stays tender. Along with Lizhuang White Cake (白糕) and locally distilled baijiu (白酒), it forms the town's legendary 'Three Whites' — a trinity of local gastronomy that has drawn food lovers to this Yangtze-side town for over 300 years.",
+          "history": "Originating in the late Ming / early Qing Dynasty (17th century), Lizhuang White Pork began as a practical village dish — whole pork cuts simply boiled and sliced for festivals and family gatherings. By the mid-Qing period, local chefs refined both the knife work and the dipping sauce, elevating it from rustic fare to regional delicacy. During the Second Sino-Japanese War (1937–1945), when Tongji University and the Academia Sinica relocated to Lizhuang, scholars and intellectuals from across China discovered the dish and spread its fame nationwide. Today, watching a master chef slice the pork is considered a performance art — the blade moves in one continuous, fluid stroke, producing slices thin enough to wrap around chopsticks without breaking.",
+          "method": "1. Select the 'er dao rou' (二刀肉) — the second cut from the pork hind leg, with ideal fat-to-lean ratio and firm texture.<br>2. Place whole cut in cold water with ginger, scallion, and cooking wine; bring to boil, then simmer until just cooked — tender but not falling apart.<br>3. Cool naturally, then refrigerate briefly for best slicing texture.<br>4. The knife work is the soul: a master chef wields a long, thin blade, slicing continuously to produce sheets as thin as paper, up to 30cm long, translucent but unbroken.<br>5. The dipping sauce: pound local Qixing chili (七星椒) into a paste, mix with crushed garlic, light soy sauce, aged vinegar, sesame oil, scallions, and a touch of sugar — layers of sour, spicy, savory, and sweet.",
+          "eatingGuide": "<b>How to eat it:</b> Pick up a slice with chopsticks — it should drape elegantly without tearing. Dip generously into the sauce, coating every inch. Fold it into your mouth in one go; don't nibble. The fat should melt INSTANTLY, and the lean meat should be tender without resistance. <b>Pro tip:</b> Watch the chef slice before you sit down — the spectacle is half the joy. In Lizhuang, the best white pork is at riverside restaurants where the pork is boiled and sliced to order. The version at Liufen Restaurant (留芬饭店) is the gold standard. Don't order just the pork — get the full Three Whites experience: white pork + white cake + local baijiu.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> Lizhuang White Pork is a living museum of knife-craft heritage. The slicing technique takes years to master and is passed down through apprenticeship, not cookbooks. When scholars like Liang Sicheng and Lin Huiyin lived in Lizhuang during WWII, they marveled not just at the taste but at the artisanship — comparing it to the precision of architectural drafting. The dish also reflects the resourcefulness of rural Chinese cooking: a single cheap cut of pork, transformed through technique alone into something extraordinary. In 2008, Lizhuang White Pork was inscribed as a Sichuan Provincial Intangible Cultural Heritage item.",
+          "honestTalk": "<b>The honest truth:</b> White pork is FAT — that's the point. The slices are roughly 70% fat, 30% lean meat. If the idea of eating a big slab of pork fat makes you queasy, this dish isn't for you. But if you can get past that, the experience is revelatory — the fat doesn't taste greasy at all when balanced with the acidic, garlicky dipping sauce. The quality varies by restaurant: good white pork has distinct marbling and doesn't taste porky; bad white pork is soggy and gamey. Temperature matters — it should be slightly chilled, not warm. And the dipping sauce should make your lips tingle from the raw garlic; if it's mild, you're at the wrong restaurant."
+        }
+      ]
     }
   ],
   "zh": [
@@ -478,6 +530,58 @@
           "eatingGuide": "<b>怎么吃：</b>直接嚼——咔嚓脆响，米香、芝麻香、花生香交融，清甜不腻。传统吃法：配热茶或咖啡，解腻又暖胃。现代吃法：掰碎拌酸奶、冰粉，增添酥脆口感。百年传承，是乐山人走亲访友的伴手礼，也是老乐山记忆里的甜香。<b>点菜秘籍：</b>苏稽古镇现做的米花糖明显更好吃——米花还酥脆，饴糖没硬化。旅游商店真空包装的通常不新鲜。",
           "culturalCode": "<b>不止是好吃：</b>苏稽米花糖代表了乐山糕点制作的顶尖水平——把最普通的食材（米、猪油、糖）通过纯手工做成惊艳。二十多道工序是正在失传的手艺，很少有年轻人愿意学。它也是中国工业化前糖果工艺的窗口：没有机器、没有添加剂，只有手艺和耐心。对老乐山人来说，米花糖的味道就是童年的味道。",
           "honestTalk": "<b>实话实说：</b>米花糖非常甜。不太习惯中式甜食的话，一块就够了——糖和猪油的密度很高。猪油带来的醇香是植物油无法复制的，但也意味着它不\"轻\"。新鲜是关键：如果米花糖变硬了、粘牙而不是入口即化，那就是放久了。最好的伴手礼是从苏稽古镇的小作坊买的，不是礼品店。对了，吃它会掉一地渣。"
+        }
+      ]
+    },
+    {
+      "id": "sichuan-003",
+      "date": "2026年5月30日",
+      "region": "四川·宜宾",
+      "dishes": [
+        {
+          "name": "宜宾燃面",
+          "image": "images/yibin-ranmian.jpg",
+          "tags": [
+            "麻辣",
+            "早餐",
+            "街头小吃"
+          ],
+          "description": "宜宾地标性特色小吃，距今数百年历史。碱水面煮至八分熟捞出，淋熟菜籽油抖散晾凉，配芽菜碎、花生碎、白芝麻、葱花，加酱油、红油辣椒、花椒面拌匀。因古时面条油润可短暂引火得名'燃面'。干拌无汤，麻辣干香，芽菜脆爽，油而不腻，是宜宾饮食文化的代表。",
+          "history": "最早雏形可追溯至清代。宜宾古时水运发达，码头商贩船工频繁，人们需要饱腹强、快捷味浓的面食。当地气候湿润，面条少油易坨，当地人改良加入大量菜籽油拌匀，面条油润干爽、根根分明。相传食客夹起面条时油面遇明火可短暂引燃，'燃面'之名由此传开。民国时期工艺逐步定型，从码头简食走入市井街巷，成为宜宾人家常主食，如今更是四川名小吃，2011年列入四川省级非物质文化遗产名录。",
+          "method": "选用本地高筋水面，面条偏细且筋道。水沸下面，煮至八分熟捞出，不沥尽面汤保留少许防止粘连，淋熟菜籽油充分抖散晾凉。碗中放芽菜碎、炒香花生碎、白芝麻、细葱花，搭配酱油、红油辣椒、花椒面、少许白糖提鲜，不添加汤水。凉面盛入充分拌匀，每根面条裹满调料。",
+          "eatingGuide": "<b>怎么吃：</b>干拌是灵魂——面上来自己拌匀，不要加汤！敢吃辣的直接喊'加麻加辣'，配一碗海带汤解腻。芽菜必须是脆的，一咬嘎嘣响；如果芽菜软了，这家店不行。好店芽菜自己腌制的。<b>点菜秘籍：</b>燃面是早餐——正宗燃面店下午两点前就关了，别晚餐去吃。加个煮鸡蛋，配海带汤，才是宜宾人的标准早餐。",
+          "culturalCode": "<b>不止是好吃：</b>燃面是宜宾码头文化的味觉记忆——简单食材通过工艺升华。宜宾芽菜是本地特产，陶罐腌制数月才出坛。面条的筋道得益于宜宾井水的碱性。2011年入选四川省非遗，更是宜宾的城市味觉名片。对宜宾人来说，一天不吃燃面，等于早上白过了。",
+          "honestTalk": "<b>实话实说：</b>燃面很油——这就是它的特点，油裹在面条上才能出味。减肥的别看。辣味是慢慢上来的，第一口别急着下结论。品质天差地别——好芽菜才是燃面的灵魂。面凉得很快，5分钟内必须吃完，否则油会凝住。完全不能吃辣的叫'微微辣'，但本地人一眼就看出你是游客。"
+        },
+        {
+          "name": "全竹宴",
+          "image": "images/yibin-quanzhuyan.jpg",
+          "tags": [
+            "宴席",
+            "天然",
+            "非遗"
+          ],
+          "description": "依托宜宾丰富竹类资源而生的川南独有宴席。囊括春笋、冬笋、竹荪、竹荪蛋、竹耳、竹虫、竹菌等数十种竹类食材，凉菜脆嫩爽口，热菜各有讲究，汤品清鲜醇厚。主打竹本味，清鲜淡雅、营养健康，从食材到器皿皆与竹相融，完美展现川南人与竹共生的饮食智慧。",
+          "history": "唐宋时期当地百姓已利用竹笋、竹荪、竹荪蛋、竹虫、竹胎盘等竹系食材入菜。明清时期竹制菜品不断丰富，逐渐形成宴席规制，最初多用于乡宴、祭祀与招待远道宾客。先民就地取材摸索出蒸煮、爆炒、煲汤、凉拌等多样做法。近代以来不断改良创新，整合数十道菜品，成为宜宾非遗特色美食和当地文旅名片。",
+          "method": "凉菜：凉拌竹荪、手撕笋尖、泡椒竹耳——脆嫩爽口、清鲜解腻。热菜：油焖冬笋、竹荪烩鸡、香炸竹虫、竹筒肉——做法各有讲究。经典竹筒肉将猪肉剁馅调味填入鲜竹筒蒸制，竹香渗入肉里，肉质软糯鲜香。竹荪鸡汤是宴席汤品一绝，竹荪吸满鸡汤鲜味，汤清味醇。整席不过重辣重油，主打竹本味。",
+          "eatingGuide": "<b>怎么吃：</b>全竹宴是宴席，不是一个人吃的——呼朋唤友最合适。凉菜打头阵开胃，热菜接上。竹筒肉是必点——竹筒一掰开，竹香扑面而来。竹荪鸡汤要细细品，每一口都比上一口鲜。<b>点菜秘籍：</b>一定要去蜀南竹海景区的农家乐吃，竹笋是当天早上现挖的——和在城里饭店吃的完全两码事。竹虫是勇者挑战——炸过之后像香脆花生，但样子就是虫子的样子。不敢吃就别勉强，还有30多道菜可以选择。",
+          "culturalCode": "<b>不止是好吃：</b>全竹宴是川南'与竹共生'饮食哲学的极致体现。在这里竹子不仅是食材——是房子、是家具、是燃料、是土壤。整席清新淡雅，和四川'麻辣'标签完全相反，证明了四川美食的多样面貌。每一道菜里竹子扮演不同角色：食材（竹笋）、容器（竹筒蒸）、燃料（干竹生火）、餐具（竹盘竹筷）。零废弃烹饪的先驱。",
+          "honestTalk": "<b>实话实说：</b>竹虫是最大考验——油炸后像花生零食但样子就是虫子，不吃完全没关系。竹荪口感很特别——海绵状、果冻感，嚼起来带点咯吱声。有人一口爱上，有人默默跳过。最安全的菜是竹筒肉和竹笋炖鸡，人人都爱。景区里农家乐环境简陋——这不是高级餐厅，是地道农家菜，但正因如此才好吃。"
+        },
+        {
+          "name": "李庄白肉",
+          "image": "images/yibin-baizhu.jpg",
+          "tags": [
+            "经典",
+            "刀工",
+            "非遗"
+          ],
+          "description": "宜宾翠屏区李庄镇经典名菜，三百年历史。猪后腿二刀肉冷水煮熟放凉，师傅手持长刀切成薄如蝉翼、长达尺余的肉片，肉片透光不断。蘸七星椒蒜泥酱油水，肥肉油润不腻，瘦肉细嫩不柴。与白糕、白酒并称'李庄三白'，被誉为'李庄一绝'。",
+          "history": "起源于明末清初，最初当地农户逢年过节杀猪待客，将大块猪肉清水煮熟切片蘸料食用。清代中期当地厨师不断优化刀工与调味，让家常菜升级为地方名菜。抗战时期大批文人学者迁居李庄，李庄白肉因口感独特风味绝佳被广为传播，名声远扬。梁思成、林徽因住在李庄时都对这道菜的刀工赞叹不已。2008年列入四川省级非物质文化遗产名录。",
+          "method": "选材用猪后腿二刀肉，肥瘦相间肉质紧实。整块肉冷水下锅，加姜片葱段料酒去腥，大火煮沸转小火慢煮至熟透但不软烂，捞出自然放凉，冷藏片刻口感更佳。最考验手艺的是刀工，老师傅手持长刀将肉切成薄如蝉翼的肉片，刀起肉落一片到底，肉片透光不断，卷而不碎。蘸水取本地七星椒捣成糍粑辣椒，加蒜泥、生抽、香醋、香油、葱花、少许白糖调配，酸辣鲜香层次丰富。",
+          "eatingGuide": "<b>怎么吃：</b>夹起一片——应该整片垂落不破。蘸足蘸水，裹满入口，一口吃下别小口咬。肥肉应该瞬间化开，瘦肉细嫩无抵抗。<b>点菜秘籍：</b>进店先看师傅切肉——刀工本身就是表演。江边现煮现切的餐厅最好。去李庄留芬饭店是招牌老店。别光点白肉——白肉+白糕+白酒，三白齐活才是正解。",
+          "culturalCode": "<b>不止是好吃：</b>李庄白肉是一座活着的刀工博物馆。切肉技艺需要数年磨炼，靠师徒传承而非菜谱。抗战时期梁思成、林徽因住在李庄时，不仅赞叹味道更惊叹于工匠精神——把刀工比作建筑制图的精准。这道菜也体现了农村烹饪的智慧：一块便宜的猪后腿，仅凭技艺就变身为惊艳名菜。以薄、长、匀、香四大特点闻名，是李庄古镇不可替代的饮食符号。",
+          "honestTalk": "<b>实话实说：</b>白肉就是肥肉——这是它的特点。一片里大约七分肥三分瘦。如果大块吃肥肉让你害怕，这道菜不适合你。但如果你能接受，体验是颠覆性的——搭配酸辣蒜泥蘸水，肥肉完全不腻。品质因店而异：好白肉肥瘦分明不带猪肉腥味；差白肉水嗒嗒有骚味。温度很关键——应该微凉不是温的。蘸水里的生蒜应该让你嘴唇发麻，不麻的店换一家。"
         }
       ]
     }
