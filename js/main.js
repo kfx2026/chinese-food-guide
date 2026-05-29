@@ -5,28 +5,154 @@
    ============================================================ */
 
 const PAGE_LANG = (document.documentElement.lang || '').startsWith('zh') ? 'zh' : 'en';
-/* ========== Async Data Loading ========== */
-let PREVIEW_QUEUE = null;
-let UPDATES = null;
 
-function loadData() {
-  return Promise.all([
-    fetch('data/preview-' + PAGE_LANG + '.json').then(function(r) { return r.json(); }),
-    fetch('data/updates-' + PAGE_LANG + '.json').then(function(r) { return r.json(); })
-  ]).then(function(results) {
-    PREVIEW_QUEUE = results[0];
-    UPDATES = { en: results[1], zh: results[1] };
-    return true;
-  }).catch(function(err) {
-    console.error("Data load failed:", err);
-    return false;
-  });
+/* ========== Preview Carousel Data (per-language) ========== */
+const PREVIEW_QUEUE = {
+  en: [
+    {
+      id: 'sichuan',
+      province: 'Sichuan Province',
+      status: 'live',   // now live!
+      dishes: [
+        { name: 'Mapo Tofu', desc: 'Silken tofu in fiery chili-bean sauce — Sichuan\'s most iconic dish' },
+        { name: 'Kung Pao Chicken', desc: 'Tender chicken with peanuts and dried chilies, sweet-savory-spicy' },
+        { name: 'Sichuan Hotpot', desc: 'Boiling chili oil broth with endless dipping ingredients' },
+        { name: 'Dan Dan Noodles', desc: 'Chengdu street noodles with spicy numbing sauce and minced pork' },
+        { name: 'Husband and Wife Lung Slice', desc: 'Classic cold offal platter — brave hearts only' },
+        { name: 'Rabbit Head', desc: 'Sichuan\'s most controversial street snack — dare to try?' },
+      ],
+      eta: 'Coming June 2026',
+    },
+    {
+      id: 'chongqing',
+      province: 'Chongqing Municipality',
+      status: 'scheduled',
+      dishes: [
+        { name: 'Chongqing Hotpot', desc: 'Extra-fiery beef tallow broth — the original hotpot experience' },
+        { name: 'Xiao Mian (Spicy Noodles)', desc: 'Street-style noodles with peppery sesame paste topping' },
+        { name: 'Sour Soup Fish', desc: 'Tomato-sour broth with fresh fish slices and pickled veggies' },
+      ],
+      eta: 'Coming July 2026',
+    },
+    {
+      id: 'yunnan',
+      province: 'Yunnan Province',
+      status: 'scheduled',
+      dishes: [
+        { name: 'Crossing-the-Bridge Noodles', desc: 'Broth kept hot with a layer of chicken fat, ingredients added tableside' },
+        { name: 'Steamed Pot Chicken', desc: 'Clay pot steamed with medicinal herbs and flowers' },
+        { name: 'Er Kuai (Rice Cakes)', desc: 'Grilled or stir-fried rice cakes with savory toppings' },
+      ],
+      eta: 'Coming August 2026',
+    },
+    {
+      id: 'guangdong',
+      province: 'Guangdong Province',
+      status: 'planned',
+      dishes: [
+        { name: 'Dim Sum Platter', desc: 'Bite-sized steamed delicacies — har gow, siu mai, char siu bao' },
+        { name: 'Cantonese Roast Goose', desc: 'Crispy golden skin with succulent meat, served with plum sauce' },
+        { name: 'White Cut Chicken', desc: 'Poached chicken with ginger-scallion oil dip, texture is everything' },
+      ],
+      eta: 'Coming September 2026',
+    },
+  ],
+  zh: [
+    {
+      id: 'sichuan',
+      province: '四川省',
+      status: 'coming',
+      dishes: [
+        { name: '麻婆豆腐', desc: '嫩豆腐配麻辣豆瓣酱——川菜第一代表' },
+        { name: '宫保鸡丁', desc: '嫩鸡丁配花生和干辣椒，甜咸麻辣四味交融' },
+        { name: '四川火锅', desc: '翻滚的红油汤底，涮遍天下食材' },
+        { name: '担担面', desc: '成都街头细面条，麻辣酱汁配芽菜肉臊' },
+        { name: '夫妻肺片', desc: '经典冷盘牛杂片——胆大的再来！' },
+        { name: '兔头', desc: '四川最具争议的街头小吃——你敢吗？' },
+      ],
+      eta: '预计 2026 年 6 月上线',
+    },
+    {
+      id: 'chongqing',
+      province: '重庆市',
+      status: 'scheduled',
+      dishes: [
+        { name: '重庆火锅', desc: '牛油超辣锅底——火锅的发源地体验' },
+        { name: '重庆小面', desc: '街边风味面条，花椒芝麻酱香扑鼻' },
+        { name: '酸汤鱼', desc: '番茄酸汤配鲜鱼片，开胃爽口' },
+      ],
+      eta: '预计 2026 年 7 月上线',
+    },
+    {
+      id: 'yunnan',
+      province: '云南省',
+      status: 'scheduled',
+      dishes: [
+        { name: '过桥米线', desc: '滚油封汤，食材现烫入碗' },
+        { name: '汽锅鸡', desc: '建水紫汽锅蒸制，药膳花香' },
+        { name: '饵块', desc: '烤或炒的年糕片，咸香软糯' },
+      ],
+      eta: '预计 2026 年 8 月上线',
+    },
+    {
+      id: 'guangdong',
+      province: '广东省',
+      status: 'planned',
+      dishes: [
+        { name: '广式早茶', desc: '虾饺、烧卖、叉烧包——蒸笼里的精致艺术' },
+        { name: '深井烧鹅', desc: '脆皮金黄肉质鲜嫩，配酸梅酱一绝' },
+        { name: '白切鸡', desc: '白斩鸡蘸姜葱油，口感即灵魂' },
+      ],
+      eta: '预计 2026 年 9 月上线',
+    },
+  ],
+};
+
+/* ========== Published Updates (per-language) ========== */
+/* ========== Food Data — Dynamic Loading (v4.0 Modular) ========== */
+// Data stored in data/provinces/*.json — one file per province
+// Add a province = add a JSON file. No full-site redeploy needed.
+
+let FOOD_DATA = { en: [], zh: [] };
+let DATA_READY = false;
+const dataReadyCallbacks = [];
+
+function onDataReady(fn) {
+  if (DATA_READY) { fn(); return; }
+  dataReadyCallbacks.push(fn);
 }
 
+async function loadFoodData() {
+  if (DATA_READY) return;
+  try {
+    const idxResp = await fetch('data/index.json');
+    const index = await idxResp.json();
+    const promises = index.provinces
+      .filter(p => p.status === 'live')
+      .map(p => fetch('data/provinces/' + p.id + '.json').then(r => r.json()));
+    const provinces = await Promise.all(promises);
+    for (const p of provinces) {
+      if (p.en) FOOD_DATA.en.push(...p.en);
+      if (p.zh) FOOD_DATA.zh.push(...p.zh);
+    }
+    DATA_READY = true;
+    console.log('Food data loaded: ' + FOOD_DATA.en.length + ' EN, ' + FOOD_DATA.zh.length + ' ZH');
+    for (const fn of dataReadyCallbacks) fn();
+  } catch (e) {
+    console.error('Failed to load food data:', e);
+  }
+}
+loadFoodData();
 
 
 /* ========== Render Preview Carousel + Tag Bar ========== */
 let previewIndex = 0;
+
+function initRender() {
+  renderPreviewCarousel();
+  renderUpdates();
+}
+onDataReady(initRender);
 
 function renderPreviewCarousel() {
   const el = document.getElementById('nextPreview');
@@ -138,7 +264,7 @@ function renderUpdates() {
   const paginationEl = document.getElementById('paginationWrap');
   if (!container) return;
 
-  const allData = UPDATES[PAGE_LANG] || UPDATES.en;
+  const allData = FOOD_DATA[PAGE_LANG] || FOOD_DATA.en;
   if (!allData.length) {
     container.innerHTML = `<p style="text-align:center;color:var(--text-muted);padding:40px 0;font-size:.92rem">
       ${PAGE_LANG === 'zh' ? '暂无更新内容，敬请期待！' : 'No updates yet — stay tuned!'}
@@ -323,7 +449,7 @@ function goPage(p) {
 function populateProvinceFilter() {
   const sel = document.getElementById('provinceFilter');
   if (!sel) return;
-  const allData = UPDATES[PAGE_LANG] || UPDATES.en;
+  const allData = FOOD_DATA[PAGE_LANG] || FOOD_DATA.en;
   const provinces = [...new Set(allData.map(a => a.region))].sort();
   const placeholder = sel.options[0]?.text || '';
   sel.innerHTML = `<option value="">${placeholder}</option>` +
@@ -354,7 +480,7 @@ function bindFilterEvents() {
 function searchDish() {
   const q = document.getElementById('heroSearch')?.value.trim().toLowerCase();
   if (!q) return;
-  const list = UPDATES[PAGE_LANG] || UPDATES.en;
+  const list = FOOD_DATA[PAGE_LANG] || FOOD_DATA.en;
   const results = [];
   list.forEach(u => u.dishes.forEach(d => {
     if ((d.name + ' ' + d.description + ' ' + d.history).toLowerCase().includes(q)) results.push(d.name);
@@ -413,17 +539,15 @@ function initBackToTop() {
 }
 
 /* ========== Init ========== */
-document.addEventListener('DOMContentLoaded', function() {
-  loadData().then(function() {
-    renderPreviewCarousel();
-    initPreviewSwipe();
-    populateProvinceFilter();
-    bindFilterEvents();
-    renderUpdates();
-    initScrollReveal();
-    initNavScroll();
-    initMobileMenu();
-    initRefreshBtn();
-    initBackToTop();
-  });
+document.addEventListener('DOMContentLoaded', () => {
+  renderPreviewCarousel();
+  initPreviewSwipe();
+  populateProvinceFilter();
+  bindFilterEvents();
+  renderUpdates();
+  initScrollReveal();
+  initNavScroll();
+  initMobileMenu();
+  initRefreshBtn();
+  initBackToTop();
 });
