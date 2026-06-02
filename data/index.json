@@ -8,6 +8,13 @@
       "status": "live"
     },
     {
+      "id": "chongqing",
+      "name_en": "Chongqing",
+      "name_zh": "重庆市",
+      "dish_count": 1,
+      "status": "live"
+    },
+    {
       "id": "shanghai",
       "name_en": "Shanghai",
       "name_zh": "上海市",

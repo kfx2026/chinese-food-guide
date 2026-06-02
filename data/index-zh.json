@@ -174,5 +174,77 @@
     "description": "苏稽米花糖原名\"猪油谷花\"，是乐山苏稽镇的百年非遗小吃。精选乐山糯米，用猪边油慢炒爆开成米花，加白糖、饴糖糖浆、花生、芝麻拌匀压实。成品色泽洁白带光泽，松泡不散，酥脆化渣不粘牙，一口回到童年。",
     "region": "四川·乐山",
     "date": "2026年6月1日"
+  },
+  {
+    "name": "重庆火锅",
+    "image": "images/chongqing-hotpot-1.jpg",
+    "tags": ["标志性", "聚餐"],
+    "description": "牛油、辣椒、花椒翻滚沸腾的火锅发源地体验。源自朝天门码头船工纤夫的果腹吃食。",
+    "region": "重庆",
+    "date": "2026年6月2日"
+  },
+  {
+    "name": "毛血旺",
+    "image": "images/maoxuewang-1.jpg",
+    "tags": ["招牌", "麻辣"],
+    "description": "鸭血、毛肚、黄喉在红油汤中翻腾的码头江湖菜。",
+    "region": "重庆",
+    "date": "2026年6月2日"
+  },
+  {
+    "name": "重庆小面",
+    "image": "images/chongqing-xiaomian-1.jpg",
+    "tags": ["早餐", "小吃"],
+    "description": "碱水面搭配十几种调料，红油花椒在碗中碰撞出山城最市井的味道。",
+    "region": "重庆",
+    "date": "2026年6月2日"
+  },
+  {
+    "name": "合川桃片",
+    "image": "images/hechuan-taopian-1.jpg",
+    "tags": ["小吃", "非遗"],
+    "description": "薄如纸白如雪的百年巴渝名点。糯米、核桃仁、蜜玫瑰制成的非遗糕点。",
+    "region": "重庆",
+    "date": "2026年6月2日"
+  },
+  {
+    "name": "荣昌卤鹅",
+    "image": "images/rongchang-luoe-1.jpg",
+    "tags": ["招牌", "卤味"],
+    "description": "整鹅在百年老卤中慢卤——三十余种香料层层渗透的卤味名吃。",
+    "region": "重庆",
+    "date": "2026年6月2日"
+  },
+  {
+    "name": "重庆油茶",
+    "image": "images/chongqing-youcha-1.jpg",
+    "tags": ["早餐", "小吃"],
+    "description": "米糊配酥馓子加油辣椒的古早冬日早餐——正在消失的山城味道。",
+    "region": "重庆",
+    "date": "2026年6月2日"
+  },
+  {
+    "name": "白市驿板鸭",
+    "image": "images/baishiyi-banduck-1.jpg",
+    "tags": ["腊味", "熏制"],
+    "description": "清代传承的压制熏腊板鸭，成渝古道上流传百年的佐酒佳品。",
+    "region": "重庆",
+    "date": "2026年6月2日"
+  },
+  {
+    "name": "万州烤鱼",
+    "image": "images/wanzhou-grilled-fish-1.jpg",
+    "tags": ["招牌", "麻辣"],
+    "description": "先烤后炖的三峡江畔名菜——融合烧烤与火锅特色的风靡全国之味。",
+    "region": "重庆",
+    "date": "2026年6月2日"
+  },
+  {
+    "name": "潼南盘龙鳝",
+    "image": "images/tongnan-coiled-eel-1.jpg",
+    "tags": ["招牌", "干煸"],
+    "description": "整条小鳝鱼干煸至骨酥肉香，不剖肚不切段的江湖硬菜。",
+    "region": "重庆",
+    "date": "2026年6月2日"
   }
 ]

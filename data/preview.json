@@ -35,22 +35,46 @@
     {
       "id": "chongqing",
       "province": "Chongqing Municipality",
-      "status": "scheduled",
+      "status": "live",
       "dishes": [
         {
           "name": "Chongqing Hotpot",
-          "desc": "Extra-fiery beef tallow broth — the original hotpot experience"
+          "desc": "Beef tallow broth with chili — the original hotpot"
         },
         {
-          "name": "Xiao Mian (Spicy Noodles)",
-          "desc": "Street-style noodles with peppery sesame paste topping"
+          "name": "Mao Xue Wang",
+          "desc": "Duck blood curd and tripe in fiery chili broth"
         },
         {
-          "name": "Sour Soup Fish",
-          "desc": "Tomato-sour broth with fresh fish slices and pickled veggies"
+          "name": "Chongqing Xiao Mian",
+          "desc": "Alkaline noodles in chili oil — the city's soul breakfast"
+        },
+        {
+          "name": "Hechuan Peach Slice",
+          "desc": "Paper-thin rice-walnut confection, 180 years old"
+        },
+        {
+          "name": "Rongchang Braised Goose",
+          "desc": "Whole goose in century-old master stock"
+        },
+        {
+          "name": "Chongqing Youcha",
+          "desc": "Silky rice porridge with crispy fried noodles"
+        },
+        {
+          "name": "Baishiyi Pressed Duck",
+          "desc": "Smoked pressed duck, a Qing Dynasty preserved specialty"
+        },
+        {
+          "name": "Wanzhou Grilled Fish",
+          "desc": "Charcoal-grilled river fish simmered in chili pan"
+        },
+        {
+          "name": "Tongnan Coiled Eel",
+          "desc": "Dry-fried whole baby eels, bones edible"
         }
       ],
-      "eta": "Coming July 2026"
+      "eta": "Live now"
     },
     {
       "id": "yunnan",
@@ -129,22 +153,46 @@
     {
       "id": "chongqing",
       "province": "重庆市",
-      "status": "scheduled",
+      "status": "live",
       "dishes": [
         {
           "name": "重庆火锅",
-          "desc": "牛油超辣锅底——火锅的发源地体验"
+          "desc": "牛油原汤锅底——火锅的发源地体验"
+        },
+        {
+          "name": "毛血旺",
+          "desc": "鸭血毛肚在红油中翻滚的码头名菜"
         },
         {
           "name": "重庆小面",
-          "desc": "街边风味面条，花椒芝麻酱香扑鼻"
+          "desc": "碱水面配红油调料——山城灵魂早餐"
         },
         {
-          "name": "酸汤鱼",
-          "desc": "番茄酸汤配鲜鱼片，开胃爽口"
+          "name": "合川桃片",
+          "desc": "薄如纸白如雪的百年非遗糕点"
+        },
+        {
+          "name": "荣昌卤鹅",
+          "desc": "百年老卤慢卤的整鹅——卤味名吃"
+        },
+        {
+          "name": "重庆油茶",
+          "desc": "米糊配酥馓子的古早冬日早餐"
+        },
+        {
+          "name": "白市驿板鸭",
+          "desc": "清代传承的压制熏腊板鸭"
+        },
+        {
+          "name": "万州烤鱼",
+          "desc": "先烤后炖的三峡江畔名菜"
+        },
+        {
+          "name": "潼南盘龙鳝",
+          "desc": "整条干煸至骨酥肉香的江湖硬菜"
         }
       ],
-      "eta": "预计 2026 年 7 月上线"
+      "eta": "已上线"
     },
     {
       "id": "yunnan",

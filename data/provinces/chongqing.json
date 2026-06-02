@@ -1,0 +1,221 @@
+{
+  "id": "chongqing",
+  "name_en": "Chongqing",
+  "name_zh": "重庆市",
+  "en": [
+    {
+      "id": "chongqing-001",
+      "date": "June 2, 2026",
+      "region": "Chongqing",
+      "dishes": [
+        {
+          "name": "Chongqing Hotpot",
+          "image": "images/chongqing-hotpot-1.jpg",
+          "tags": ["Iconic", "Communal"],
+          "description": "The original Chinese hotpot — a blazing cauldron of beef tallow, dried chilies, and Sichuan peppercorns. Born from Chongqing's dockworker culture, this is the fieriest, most visceral hotpot experience in China.",
+          "history": "Originated in the late Qing Dynasty (c. 1860s) at Chaotianmen Dock. Dockworkers scavenged discarded beef offal, boiled it with chili, Sichuan pepper, and beef tallow. The earliest form was called 'Eight Water Pieces' (水八块). By the Republican era it moved into proper eateries and evolved into today's Chongqing Hotpot, now a national intangible cultural heritage item.",
+          "method": "1. Render beef tallow, fry doubanjiang, chili flakes until crimson.<br>2. Add dried chilies, Sichuan peppercorns, star anise, rock sugar.<br>3. Pour in beef bone broth, bring to rolling boil.<br>4. Prepare dip: sesame oil, crushed garlic, cilantro.<br>5. Cook: tripe 15s, beef 30s, duck intestine 10s.",
+          "eatingGuide": "The oil is NOT soup. Push it aside. Tripe needs 15 seconds max. The sesame oil dip cools the heat. Chongqing hotpot is significantly spicier than Sichuan — if new, order a yuanyang split pot.",
+          "culturalCode": "Chongqing had over 30,000 hotpot restaurants in 2024 — more than any other city. Pure beef tallow (no veg oil), single spicy broth, and a heavier hand with peppercorns define the Chongqing style.",
+          "honestTalk": "It will wreck you in the best way. Objectively the spiciest food most people will ever eat. You'll sweat, your nose will run, your lips will go numb. Wear dark clothes."
+        },
+        {
+          "name": "Mao Xue Wang",
+          "image": "images/maoxuewang-1.jpg",
+          "tags": ["Signature", "Spicy"],
+          "description": "A fiery Chongqing classic — duck blood curd, tripe, and offal simmered in a crimson chili broth. Born from dock culture, it's the boldest expression of Chongqing's 'waste nothing' philosophy.",
+          "history": "Originated in the late Qing Dynasty at Ciqikou Dock. Butchers cooked duck blood, pork offal, and tripe with chili and Sichuan pepper in large pots — cheap, filling, and warming for dock laborers. Over a century of refinement, it became a representative dish of Chongqing cuisine.",
+          "method": "1. Blanch bean sprouts and lettuce as base.<br>2. Fry ginger, garlic, Sichuan pepper, dried chilies in hot oil.<br>3. Add doubanjiang, stir until oil turns red.<br>4. Add broth, bring to boil. Add duck blood, tripe, beef, luncheon meat.<br>5. Pour into bowl, top with sizzling hot chili oil.",
+          "eatingGuide": "The best bites combine all textures in one spoonful — a piece of silky blood curd, a strip of tripe, and some bean sprouts. The top layer of chili oil holds the heat; mix it in, don't skim it off.",
+          "culturalCode": "Mao Xue Wang represents Chongqing's 'bold and direct' (豪爽) food culture — no subtlety, no pretense, just pure flavor delivered with maximum intensity.",
+          "honestTalk": "Duck blood curd has a silky, jelly-like texture that surprises first-timers. It doesn't taste like blood at all — it mostly absorbs the flavor of whatever broth it's in."
+        },
+        {
+          "name": "Chongqing Xiao Mian (Small Noodles)",
+          "image": "images/chongqing-xiaomian-1.jpg",
+          "tags": ["Street Food", "Breakfast"],
+          "description": "Chongqing's soul breakfast — alkaline wheat noodles tossed in a fiery blend of chili oil, Sichuan pepper, soy sauce, and sesame paste. Simple ingredients, devastating flavor.",
+          "history": "Traces back to the Tang Dynasty, took shape during the Ming-Qing period at Chongqing's docks. The first dedicated xiao mian shop opened in the Jiaqing era (c. 1800). Officially named 'xiao mian' during the Republican era. Street vendors carried the noodles on shoulder poles, serving dockworkers a cheap, fast, energy-packed breakfast.",
+          "method": "1. Mix high-gluten flour with alkaline water, knead and rest repeatedly for springy texture.<br>2. Prepare the bowl sauce: chili oil, soy sauce, Sichuan pepper powder, garlic water, preserved-vegetable (yacai), crushed peanuts.<br>3. Pour boiling noodle water into the sauce to bloom the flavors.<br>4. Boil fresh noodles until al dente, drain, toss into the bowl.<br>5. Top with pea-based sauce (wanza), minced pork, or braised beef.",
+          "eatingGuide": "Mix it fast — within 10 seconds of serving — or the noodles will clump. Every strand must be coated in the red oil. The broth at the bottom is the best part; sip it when you finish the noodles.",
+          "culturalCode": "Chongqing people eat xiao mian for breakfast like New Yorkers eat bagels — it's ritual, not just food. There are over 8,000 xiao mian shops in the city. A shop's reputation rests entirely on its chili oil recipe.",
+          "honestTalk": "The 'small' in 'small noodles' refers to the humble ingredients (no meat, no fancy toppings), not the portion size. A proper bowl is deceptively filling. Most versions outside Chongqing fail to replicate the unique alkalinity of the noodles."
+        },
+        {
+          "name": "Hechuan Peach Slice (Taopian)",
+          "image": "images/hechuan-taopian-1.jpg",
+          "tags": ["Snack", "Intangible Heritage"],
+          "description": "Paper-thin, snow-white confection made from glutinous rice, walnut kernels, and honey — a Qing Dynasty delicacy from Hechuan District that folds without breaking and melts in your mouth.",
+          "history": "Created in 1840 (Daoguang 20th year) by Hechuan confectioners. Perfected by time-honored brands like Xiangyunzhai and Tongdefu during the Guangxu era. Won a gold medal at the 1917 Panama International Exposition. Its production technique is listed as a Chongqing intangible cultural heritage.",
+          "method": "1. Wash and soak premium glutinous rice, dry and stir-fry with river sand until puffed.<br>2. Grind into fine powder, sift and condition multiple times.<br>3. Mix rice powder with sugar syrup, candied rose, and chopped walnuts.<br>4. Press into molds, steam-set, cool, then hand-slice into paper-thin pieces.<br>5. Each slice should be thin enough to see through and flexible enough to roll without breaking.",
+          "eatingGuide": "Peach slice is meant to be savored slowly — let it sit on your tongue for a moment before chewing. The sweetness is gentle, not cloying. Pairs beautifully with green tea.",
+          "culturalCode": "Hechuan Peach Slice represents the pinnacle of Chongqing's traditional pastry craft. The 'thin as paper, white as snow, roll without breaking' standard has been the gold standard for two centuries.",
+          "honestTalk": "Despite the name, there are no peaches in Peach Slice. The 'peach' refers to the color and shape of the original version. The modern snow-white version is actually a later innovation."
+        },
+        {
+          "name": "Rongchang Braised Goose",
+          "image": "images/rongchang-luoe-1.jpg",
+          "tags": ["Signature", "Braised"],
+          "description": "A whole goose slowly braised in a century-old master stock infused with 30+ spices — golden-skinned, fall-off-the-bone tender, with a complex layering of five-spice and mild chili heat.",
+          "history": "Traces back to the Ming-Qing era, shaped by the 'Huguang Fills Sichuan' migration waves that blended braising techniques from multiple provinces. Perfected during the Guangxu era of the Qing Dynasty, it became Rongchang's signature specialty. The Rongchang white goose breed, known for its tender meat, is the essential ingredient. Listed as a Chongqing intangible cultural heritage item.",
+          "method": "1. Select a mature Rongchang white goose, clean thoroughly.<br>2. Marinate with ginger, scallion, and yellow wine for several hours.<br>3. Prepare master stock: chicken bones, pork marrow, 30+ spices (star anise, kaempferia, tangerine peel, clove, etc.), caramelized sugar for color.<br>4. Bring stock to boil, submerge whole goose, simmer 50 minutes, then steep 30 minutes off heat.<br>5. Slice and serve with a spicy-vinegar dipping sauce.",
+          "eatingGuide": "Eat the skin first — it's the best part, thin and flavorful with a light smoke aroma. The dark meat is more tender than the breast. Dip in the accompanying chili-vinegar sauce for the full experience.",
+          "culturalCode": "Rongchang is famous for its white goose breed, one of China's premier waterfowl varieties. The century-old master stock (老卤水) is a restaurant's most prized possession — some establishments have stocks continuously maintained for generations.",
+          "honestTalk": "Whole goose is expensive and not every restaurant serves it daily. Some places sell out by noon. If it's unavailable, the braised goose parts (wings, legs, gizzards) are equally delicious and more affordable."
+        },
+        {
+          "name": "Chongqing Youcha (Oil Tea)",
+          "image": "images/chongqing-youcha-1.jpg",
+          "tags": ["Breakfast", "Street Food"],
+          "description": "Despite the name, it contains no tea — a warm bowl of silky rice porridge topped with crispy fried noodle curls, chili oil, and savory garnishes. Chongqing's ultimate winter breakfast.",
+          "history": "Originated during the Qing Dynasty as a fusion snack from the 'Huguang Fills Sichuan' migration. Spread through Chongqing's docks and alleyways during the Republican era, becoming a classic Chongqing breakfast. The name comes from the original version that included tea broth; the modern version evolved as tea became optional.",
+          "method": "1. Soak rice, grind into slurry, simmer slowly while stirring constantly to create a smooth, thick rice paste.<br>2. Deep-fry thin wheat noodles into golden crispy 'sanzhi' (fried dough curls).<br>3. In a bowl: chili oil, Sichuan pepper powder, lard, chopped pickled mustard, crushed peanuts.<br>4. Pour hot rice paste over the seasonings, top with crispy sanzi.<br>5. Eat immediately while the sanzi is still crunchy.",
+          "eatingGuide": "Eat it immediately — the crispy sanzi softens fast in the hot porridge. Scoop from the bottom to mix the seasonings evenly. The perfect bite has both creamy rice paste and crunchy sanzi.",
+          "culturalCode": "Youcha is a living artifact of the 'Huguang Fills Sichuan' migration — a dish that traveled across provinces and adapted to local tastes. Today it's a disappearing breakfast art, kept alive by a handful of old-school stalls.",
+          "honestTalk": "Youcha is becoming increasingly rare in modern Chongqing. Most young people prefer faster breakfast options. The best youcha is found at decades-old breakfast stalls in older neighborhoods. If you see it on a menu, order it — it may not be around forever."
+        },
+        {
+          "name": "Baishiyi Pressed Duck",
+          "image": "images/baishiyi-banduck-1.jpg",
+          "tags": ["Preserved", "Smoked"],
+          "description": "A pressed, smoked whole duck with a fan-like shape, golden-bronze skin, and intensely savory cured meat — a Qing Dynasty specialty from Baishiyi Town that combines salting, pressing, smoking, and air-drying into one complex process.",
+          "history": "Created during the Tongzhi era of the Qing Dynasty (c. 1860s) in Baishiyi Town on the ancient Chengdu-Chongqing road. The town's bustling trade routes and abundant duck farming led to generations of refinement. Listed as a Chongqing intangible cultural heritage food.",
+          "method": "1. Select a fat duck, clean and flatten with bamboo strips.<br>2. Marinate with 10+ spices and salt, adjusting curing time by season.<br>3. Press flat with bamboo strips to form the signature fan shape, air-dry naturally.<br>4. Cold-smoke over rice husks and chaff for 40-50 minutes.<br>5. Brush with sesame oil for gloss and aroma, steam or stir-fry before serving.",
+          "eatingGuide": "Eat it cold or steamed. The breast meat is dense and intensely savory — slice it thin. The smoked skin is the highlight. Pairs perfectly with beer as a cold appetizer. Can also be shredded and stir-fried with chilies.",
+          "culturalCode": "Baishiyi Pressed Duck is one of China's great preserved duck traditions alongside Nanjing Salted Duck and Beijing Roast Duck. Its unique pressing and smoking process creates an entirely different texture and flavor profile.",
+          "honestTalk": "Pressed duck is an acquired taste — the meat is significantly drier and saltier than roast duck. That's intentional: it was originally a preserved food meant to last through long journeys on the Chengdu-Chongqing road."
+        },
+        {
+          "name": "Wanzhou Grilled Fish",
+          "image": "images/wanzhou-grilled-fish-1.jpg",
+          "tags": ["Signature", "Spicy"],
+          "description": "A whole river fish marinated, charcoal-grilled until the skin is crisp, then simmered tableside in a sizzling iron pan with chili-laced broth and vegetables. The Three Gorges' gift to Chinese barbecue.",
+          "history": "Traces back to the Southern Song Dynasty in the Three Gorges region, where fishermen grilled their catch over open fires. Evolved through the Ming-Qing era and was perfected in the early 20th century. The current 'grill then braise' technique was developed in Wanzhou during the 1990s and spread nationwide. Listed as a Chongqing intangible cultural heritage item.",
+          "method": "1. Split a fresh river fish, score the flesh, marinate with salt, wine, and spices.<br>2. Grill over charcoal on a wire rack until skin is golden and crisp.<br>3. Prepare the pan sauce: fry beef tallow, doubanjiang, chili, Sichuan pepper with ginger and garlic.<br>4. Arrange parboiled vegetables (bean sprouts, potatoes, celery) in an iron pan.<br>5. Place grilled fish on top, pour over the sauce, simmer on a small burner tableside.",
+          "eatingGuide": "Start with the skin — it's the best part, charred and smoky. Then work through the flesh, letting it absorb the bubbling sauce. The vegetables underneath soak up all the flavor. Order extra tofu skin and lotus root to add as the broth reduces.",
+          "culturalCode": "Wanzhou Grilled Fish revolutionized Chinese fish cookery by combining barbecue and hotpot into one dish. It's a Three Gorges innovation that has spawned a national chain-restaurant category, with thousands of 'Kao Yu' (grilled fish) chains across China.",
+          "honestTalk": "Most grilled fish you eat outside Chongqing is made with frozen tilapia or catfish. In Wanzhou, they use fresh river fish — usually grass carp (caoyu) — which has a much firmer, sweeter flesh. The difference is night and day."
+        },
+        {
+          "name": "Tongnan Coiled Eel",
+          "image": "images/tongnan-coiled-eel-1.jpg",
+          "tags": ["Signature", "Dry-Fried"],
+          "description": "Whole baby eels cooked until they coil into perfect spirals, then dry-fried with chili and Sichuan pepper until the bones are brittle enough to eat whole. A Chongqing Jianghu classic that demands respect.",
+          "history": "Originated during the Qing Dynasty in Tongnan District, passed down through generations for over a century. Named for the way the eels coil into dragon-like spirals during cooking. The dish uses pencil-thin wild eels, cooked whole without gutting or cutting — a testament to the chef's skill.",
+          "method": "1. Select pencil-thin live eels, keep in clean water to purge.<br>2. Scrub with salt and high-proof liquor to remove slime and earthiness.<br>3. Heat oil to 70% hot, flash-fry eels until they naturally coil into spirals and the skin crisps.<br>4. Drain oil, stir-fry ginger, garlic, dried chilies, green Sichuan peppercorns, doubanjiang.<br>5. Return eels, add wine and soy sauce, dry-fry until the bones are brittle and fragrant.",
+          "eatingGuide": "Hold the eel by the head and pull the meat off the backbone with your teeth. The bones are cooked crispy enough to chew and swallow — don't bother picking them out. Eat with cold beer to balance the intense dry-fried heat.",
+          "culturalCode": "Tongnan Coiled Eel is the ultimate test of a Jianghu chef's skill: the eels must be cooked whole without gutting, the coil must form naturally (not forced), and the bones must be rendered completely edible through precise heat control.",
+          "honestTalk": "This is hands-down the most 'out-there' dish on this list for Western palates. Whole eels, head and all, looking like coiled snakes on the plate. The texture is chewy and intense. But for adventurous eaters, it's an unforgettable experience — the dry-fried preparation is genuinely delicious."
+        }
+      ]
+    }
+  ],
+  "zh": [
+    {
+      "id": "chongqing-001",
+      "date": "2026年6月2日",
+      "region": "重庆",
+      "dishes": [
+        {
+          "name": "重庆火锅",
+          "image": "images/chongqing-hotpot-1.jpg",
+          "tags": ["标志性", "聚餐"],
+          "description": "牛油、辣椒、花椒翻滚沸腾的火锅发源地体验。源自朝天门码头船工纤夫的果腹吃食，是重庆最火爆、最原始的饮食图腾。",
+          "history": "起源于清末朝天门码头，距今一百五十余年。码头工人捡拾屠宰场丢弃的牛毛肚、黄喉等下水，架起泥炉，加入辣椒、花椒、牛油同煮，形成最早'水八块'吃法。民国时期走进店铺，演变为如今风靡全国的重庆火锅，被列入国家级非物质文化遗产。传统做法以牛油为基底，郫县豆瓣、糍粑辣椒、姜蒜、豆豉等香料慢炒出红油后掺入原汤，搭配冰糖、醪糟调和风味。",
+          "method": "1. 牛油入锅融化，下郫县豆瓣、糍粑辣椒小火慢炒出红油。<br>2. 加干辣椒、花椒、八角、冰糖、醪糟炒香。<br>3. 倒入牛骨汤，大火烧开。<br>4. 配香油蒜泥碟作蘸料。<br>5. 毛肚15秒、鸭肠10秒、牛肉30秒，涮烫即食。",
+          "eatingGuide": "牛油层不是汤——别喝。拨开涮菜。毛肚是火锅的灵魂，15秒足矣，多一秒就老了。香油蒜泥碟不是装饰品，它能降温护胃。重庆火锅比四川火锅更辣更油——第一次吃建议点鸳鸯锅。",
+          "culturalCode": "2024年重庆有超过3万家火锅店，全球第一。纯牛油、单一口味（本地人不吃鸳鸯锅）、重花椒是重庆火锅的三大铁律。'火锅指数'甚至被用作经济指标——生意越好吃火锅的人越多。",
+          "honestTalk": "重庆火锅会把你彻底'折磨'一遍——然后你还想再来。它客观上是大多数人吃过最辣的东西。你会流汗、流鼻涕、嘴唇发麻。穿深色衣服去，吃完衣服上那股牛油味至少留两天。但对重庆人来说，这就是回家的味道。"
+        },
+        {
+          "name": "毛血旺",
+          "image": "images/maoxuewang-1.jpg",
+          "tags": ["招牌", "麻辣"],
+          "description": "鸭血、毛肚、黄喉在红油汤中翻腾的重庆江湖菜。诞生于码头，是重庆'物尽其用'饮食哲学的代表。",
+          "history": "诞生于清末重庆磁器口码头，最初由码头屠户与小贩创制。旧时屠户将鲜鸭血、猪杂、毛肚等食材放入大锅中炖煮，搭配豆芽、豌豆，以辣椒、花椒调味，价格低廉、饱腹解馋。历经百年演变成为重庆美食代表。制作时先将素菜焯水铺底，热锅起油爆香姜蒜、花椒、干辣椒，加郫县豆瓣炒出红油，依次下入鸭血、毛肚、黄喉等食材，起锅后淋上滚烫香辣热油激发出浓郁香味。",
+          "method": "1. 黄豆芽、莴笋焯水铺碗底。<br>2. 热锅起油，爆香姜蒜、花椒、干辣椒。<br>3. 加郫县豆瓣炒出红油，掺鲜汤熬制汤底。<br>4. 依次下入鸭血、毛肚、黄喉、鳝鱼、午餐肉煮熟。<br>5. 连汤带料倒入碗中，撒干辣椒花椒，淋滚油激香。",
+          "eatingGuide": "一勺舀起鸭血、毛肚和豆芽——三种口感同时入口才是毛血旺的正确吃法。面上那层热油不要撇掉，它是保温的关键。鸭血吸饱了汤汁才是最好吃的状态。",
+          "culturalCode": "毛血旺代表了重庆'豪爽'的饮食文化：不玩花哨、不搞形式，味道就是一切。它也是典型的'下水菜'——用最廉价的食材做出最惊艳的味道，是巴渝码头文化的味觉遗产。",
+          "honestTalk": "鸭血的口感像嫩豆腐果冻一样，第一次吃会有点意外。它本身没什么味道，全靠吸收汤底的麻辣鲜香。别被'血'字吓到——吃过之后你会发现它才是整道菜的主角。"
+        },
+        {
+          "name": "重庆小面",
+          "image": "images/chongqing-xiaomian-1.jpg",
+          "tags": ["早餐", "小吃"],
+          "description": "重庆人的灵魂早餐——碱水面搭配十几种调料，红油、花椒、酱油、芝麻酱在碗中碰撞出山城最市井的味道。",
+          "history": "饮食渊源可追溯至唐代，明清时期在重庆码头逐步成型。清嘉庆年间出现首家专业面馆，民国时期正式得名'小面'。挑担小贩沿街叫卖，碱水面搭配简单麻辣调料，廉价快捷，适配码头工人高强度的体力劳作。地道重庆小面选用高筋面粉搭配食用碱制作，经反复揉醒制成细碱面，煮后筋道爽滑、久泡不坨。碗中提前调配红油辣椒、酱油、花椒粉、姜蒜水、芽菜、花生碎等十余种调料，用滚烫面汤冲开料汁。",
+          "method": "1. 高筋面粉加碱水反复揉醒制成碱水面。<br>2. 碗中调配：红油辣椒、酱油、花椒粉、姜蒜水、芽菜、花生碎。<br>3. 滚烫面汤冲开碗底料汁。<br>4. 面条煮熟捞入碗中，不沥干水分。<br>5. 可加豌豆杂酱、红烧牛肉等浇头。",
+          "eatingGuide": "上桌10秒内必须开拌，否则面条就坨了。每一根面条都要裹上红油。碗底的料汁是精华——吃完面后端起碗喝掉最后那口汤，是重庆人的收尾仪式。",
+          "culturalCode": "重庆人早餐吃小面，就像纽约人吃贝果——不是吃早餐，是执行仪式。重庆有超过8000家小面馆。一家店的名声全靠那碗红油辣椒——配方是老板的命根子。",
+          "honestTalk": "'小面'的'小'指的是朴素简陋（没有肉臊等浇头），不是分量小。一碗素小面其实非常顶饱。出了重庆很难吃到正宗小面——外地版本的面条碱味不够，辣椒油也不对。来重庆的第一顿早餐，早起的理由就是这碗面。"
+        },
+        {
+          "name": "合川桃片",
+          "image": "images/hechuan-taopian-1.jpg",
+          "tags": ["小吃", "非遗"],
+          "description": "薄如纸、白如雪、卷而不烂的巴渝名点。糯米、核桃仁、蜜玫瑰制成的传统糕点，清道光年间传承至今近两百年。",
+          "history": "始创于清道光二十年（1840年），光绪年间由合川'祥云斋''同德福'等老字号不断改良定型，至今近两百年历史。1917年在巴拿马博览会斩获金质奖章。传统桃片以本地优质糯米、核桃仁、川白糖、蜜玫瑰为核心原料，制作工序有十八道流程：糯米温水淘洗捂润、河砂旺火炒熟、研磨成细粉多次回润过筛，与糖浆、蜜玫瑰、核桃仁混合均匀，经炖糕、压型、冷却后手工切片。",
+          "method": "1. 糯米温水淘洗、捂润，河砂旺火炒熟。<br>2. 研磨成细粉，多次回润过筛。<br>3. 糯米粉与糖浆、蜜玫瑰、核桃仁混合均匀。<br>4. 入模炖糕、压型、冷却定型。<br>5. 手工切成薄如纸片的桃片。",
+          "eatingGuide": "合川桃片要慢慢品——放入口中先含一会儿再咀嚼，甜味会慢慢释放出来。配一杯清茶最佳。传统款含猪油，素食者需注意。",
+          "culturalCode": "合川桃片代表了重庆传统糕点技艺的巅峰。'薄如纸、白如雪、卷而不烂'的标准传承了两百年。2011年，合川桃片制作技艺入选重庆市非物质文化遗产。",
+          "honestTalk": "名字叫桃片，但里面并没有桃子。'桃'字最初指的是桃花的粉白色泽，后来改良为雪白色。如果你买的桃片颜色发黄或碎裂，要么工艺不行要么不新鲜。好的桃片卷起来不会断，放手上一会儿就自己回直。"
+        },
+        {
+          "name": "荣昌卤鹅",
+          "image": "images/rongchang-luoe-1.jpg",
+          "tags": ["招牌", "卤味"],
+          "description": "整鹅在传承百年的老卤水中慢卤而成——色泽金黄、骨酥肉烂、三十余种香料层层渗透。川渝家喻户晓的卤味名吃。",
+          "history": "历史可追溯至明清时期，在'湖广填四川'移民浪潮中融合多地卤制技法逐步成型。清代光绪年间便成为荣昌标志性特产。当地盛产优质荣昌白鹅，肉质细嫩。百年老卤水是这道美食的灵魂。制作选用适龄白鹅，用姜葱黄酒腌制数小时去腥，再以土鸡骨架、猪筒子骨熬制高汤，搭配八角、山奈、陈皮、丁香等三十余种香料制成卤汁。制作技艺入选重庆市级非遗。",
+          "method": "1. 选适龄荣昌白鹅，宰杀洗净。<br>2. 姜葱、黄酒腌制去腥。<br>3. 三十余种香料熬制卤汁，加冰糖炒糖色。<br>4. 整鹅入卤水大火烧开，小火卤制50分钟，关火焖浸半小时。<br>5. 晾凉斩件，配麻辣蘸料食用。",
+          "eatingGuide": "鹅皮是最精华的部分——薄而透亮，带着淡淡的烟熏香气。深色肉比胸脯肉更嫩。蘸着搭配的辣椒醋碟吃，五香味和麻辣味在嘴里交融。",
+          "culturalCode": "荣昌白鹅是中国优质水禽品种之一。那锅百年老卤水是每家老店的镇店之宝——有些店的老卤已经延续了几代人。卤鹅的比拼说到底就是老卤的比拼。",
+          "honestTalk": "整鹅价格不便宜，很多店上午就卖完了。如果整鹅卖完了别灰心——卤鹅翅、卤鹅掌、卤鹅胗同样好吃，而且更便宜。正宗荣昌卤鹅应该色泽金黄、肉质耙软、骨松脆。如果肉很硬或者颜色暗沉，就是不正宗。"
+        },
+        {
+          "name": "重庆油茶",
+          "image": "images/chongqing-youcha-1.jpg",
+          "tags": ["早餐", "小吃"],
+          "description": "虽名带'茶'，却无茶叶——温热细腻的米糊配上金黄酥脆的馓子，再淋上红油辣椒和花椒粉。山城冬日最暖身的早餐，如今正在慢慢消失的古早味道。",
+          "history": "起源于清代，是'湖广填四川'移民融合而来的市井小吃。民国时期在码头、街巷广泛流传。取名'油茶'是因为早期版本确实含茶水，后来逐渐演变为以米糊、馓子为核心食材的现代版本。制作先将大米浸泡磨浆，入锅小火慢熬成细腻米糊，全程不断搅拌防止糊底；再将面条油炸制成金黄酥脆的馓子。",
+          "method": "1. 大米浸泡磨浆，小火慢熬成细腻米糊不停搅拌。<br>2. 面条油炸制成金黄酥脆的馓子。<br>3. 碗中调入红油辣椒、花椒粉、猪油、榨菜粒、花生碎。<br>4. 倒入热米糊，最后撒上碎馓子。<br>5. 立即食用，保持馓子酥脆。",
+          "eatingGuide": "上桌就要吃——馓子在热米糊里泡软了就毁了。从碗底往上舀，让调料和米糊充分混合。最佳吃法是每勺里既有软糯的米糊又有酥脆的馓子。",
+          "culturalCode": "油茶是'湖广填四川'饮食融合的活化石——一道穿越多个省份、落地山城后改造而来的早餐。如今做油茶的老摊越来越少，年轻人更喜欢快捷的西式早餐。能吃到的机会越来越珍贵。",
+          "honestTalk": "油茶在重庆正变得越来越稀有。大多数年轻人不知道它或者不感兴趣。最好吃的油茶藏在老城区的旧巷子里，那种开了二三十年的小摊。如果你看到菜单上有油茶，一定要点一碗——它可能在十年内就找不到了。"
+        },
+        {
+          "name": "白市驿板鸭",
+          "image": "images/baishiyi-banduck-1.jpg",
+          "tags": ["腊味", "熏制"],
+          "description": "竹片撑开成蒲扇形的整鸭，经腌渍、风干、谷壳慢火熏制而成——肉质紧实、腊香浓郁，是成渝古道上流传百年的佐酒佳品。",
+          "history": "诞生于清代同治年间（约1860年代），因产自成渝古道上的白市驿镇得名。古时当地商旅云集、养鸭之风盛行，经代代改良形成独特熏腊工艺。制作选用适龄肥鸭，宰杀洗净后用十余种香料腌渍，根据季节把控腌制时长。随后用竹片将鸭身撑开定型，自然风干，再以谷壳慢火熏烤，最后抹上香油收尾。重庆市级非遗美食。",
+          "method": "1. 选肥鸭宰杀洗净，十余种香料腌渍。<br>2. 竹片撑开鸭身定型，自然风干。<br>3. 谷壳慢火熏烤40-50分钟。<br>4. 抹香油增亮增香。<br>5. 蒸熟或炒制后食用。",
+          "eatingGuide": "冷吃或蒸热皆可。鸭胸肉紧实干香——切薄片更佳。烟熏过的鸭皮是精华所在。配冰啤酒当冷盘一绝。也可以撕成丝和干辣椒同炒。",
+          "culturalCode": "白市驿板鸭是中国三大鸭馔传统之一（与南京盐水鸭、北京烤鸭并列），但名气最小。独特的压制和烟熏工艺创造了完全不同的口感——它不是烤鸭，不是盐水鸭，就是板鸭。",
+          "honestTalk": "板鸭是腊味，比烤鸭干得多、咸得多——这是有意为之，因为它最初是做成长途商旅的便携口粮。吃不惯腊味的人会觉得太硬太咸。但正是这种嚼劲和腊香，让爱它的人欲罢不能。吃之前最好先蒸一下回软。"
+        },
+        {
+          "name": "万州烤鱼",
+          "image": "images/wanzhou-grilled-fish-1.jpg",
+          "tags": ["招牌", "麻辣"],
+          "description": "整条江鱼先腌后烤至皮焦肉嫩，再放入铁盘浇上麻辣汤汁，边炖边吃。融合烧烤与火锅特色的三峡江畔名菜，风靡全国。",
+          "history": "历史可追溯至南宋，三峡地区自古渔猎盛行，早期是长江纤夫、渔民就地烤制江鱼的果腹吃食。清末民国逐步改良成型。融合烧烤与火锅特色，采用先腌、后烤、再炖的独特工艺。先将鲜活江鱼剖洗腌制入味，炭火烤至鱼皮焦香金黄；再起锅入铁盘，浇上牛油、豆瓣、辣椒、花椒等炒制的秘制底料，搭配豆芽、土豆、西芹等配菜，小火边煮边吃。制作技艺入选重庆市级非遗。",
+          "method": "1. 鲜活江鱼剖洗净，盐、料酒、香料腌制。<br>2. 炭火铁夹上烤至鱼皮焦香金黄。<br>3. 牛油、豆瓣、辣椒、花椒等炒制秘制底料。<br>4. 铁盘铺豆芽、土豆、西芹等配菜。<br>5. 放上烤鱼，浇底料，上桌小火边煮边吃。",
+          "eatingGuide": "先吃皮——炭火烤出的鱼皮焦香是最精华的部分。然后拨开鱼肉，让它慢慢吸收底部汤汁。配菜在鱼下面，等汤汁收浓后更好吃。加一份豆皮和藕片，让它们在汤汁里慢慢炖。",
+          "culturalCode": "万州烤鱼彻底改变了中国人吃鱼的方式——把烧烤和火锅合二为一。这道三峡地区的创新做法已经催生了全国性的'烤鱼'连锁品类，全国有数万家烤鱼店。但出了万州，用的基本都是冷冻罗非鱼。",
+          "honestTalk": "你在外地吃到的烤鱼99%是用冻罗非鱼或巴沙鱼做的。在万州本地，他们用鲜活江鱼（主要是草鱼），肉质紧实鲜甜得多——差距不是一星半点。另外，万州烤鱼有很多口味：麻辣、香辣、豆豉、酱香、泡椒……第一次去吃麻辣准没错。"
+        },
+        {
+          "name": "潼南盘龙鳝",
+          "image": "images/tongnan-coiled-eel-1.jpg",
+          "tags": ["招牌", "干煸"],
+          "description": "整条小鳝鱼烹制后自然蜷曲盘绕成盘龙状，不剖肚不切段，干煸至骨酥肉香。川渝江湖菜的硬核代表——吃的是手艺，更是胆量。",
+          "history": "起源于清代，在潼南及周边地区流传百年，因鳝鱼经烹制后蜷缩盘绕、形似盘龙而得名。讲究不剖肚、不切段，保留整根鳝鱼。选用笔杆粗细的鲜活小鳝鱼，清水静养吐净泥沙，再用食盐、高度白酒搓洗去除体表黏液与土腥味。菜籽油烧至七成热下入鳝鱼，高温使其自然盘卷定型，炸至外皮微酥。",
+          "method": "1. 选笔杆粗细鲜活小鳝鱼，清水静养吐沙。<br>2. 食盐、高度白酒搓洗，去黏液和土腥味。<br>3. 菜籽油烧至七成热，入鳝鱼炸至自然盘卷、外皮微酥。<br>4. 留底油爆香姜蒜、干辣椒、青花椒、豆瓣酱。<br>5. 倒回鳝鱼加料酒生抽，小火焖炒至骨酥肉香。",
+          "eatingGuide": "捏住鳝头，顺着纹路撕肉入口。鱼骨已经炸酥可以一起嚼着吃——不用挑刺！配冰啤酒是绝配，干煸的麻辣香和冰啤酒的爽快相互对冲，越吃越过瘾。",
+          "culturalCode": "盘龙鳝是检验江湖菜师傅手艺的终极题目——鳝鱼不能剖不能切、盘龙形状不能人为摆弄而要自然形成、骨头要炸到能直接嚼着吃。这三个要求，任何一个没达到都是不及格。",
+          "honestTalk": "坦率说，这道菜是重庆菜里对西方人来说最'出格'的一道——整条鳝鱼蜷在盘子里像蛇一样，看着就很挑战。口感硬韧、味道浓郁，不是所有人都能接受。但如果你是冒险型食客，这道菜绝对让你难忘——干煸的做法是真的香。第一次吃的话，可以先从最小的那条开始。"
+        }
+      ]
+    }
+  ]
+}

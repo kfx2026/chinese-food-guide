@@ -174,5 +174,77 @@
     "description": "A traditional Leshan sweet snack made from premium glutinous rice, puffed in pork fat and bound with maltose syrup into snowy-white blocks studded with peanuts and sesame. Each bite shatters with a cr",
     "region": "Sichuan · Leshan",
     "date": "June 1, 2026"
+  },
+  {
+    "name": "Chongqing Hotpot",
+    "image": "images/chongqing-hotpot-1.jpg",
+    "tags": ["Iconic", "Communal"],
+    "description": "The original Chinese hotpot — a blazing cauldron of beef tallow, dried chilies, and Sichuan peppercorns. Born from Chongqing's dockworker culture.",
+    "region": "Chongqing",
+    "date": "June 2, 2026"
+  },
+  {
+    "name": "Mao Xue Wang",
+    "image": "images/maoxuewang-1.jpg",
+    "tags": ["Signature", "Spicy"],
+    "description": "Duck blood curd and tripe simmered in a crimson chili broth. Born from Chongqing's dock culture.",
+    "region": "Chongqing",
+    "date": "June 2, 2026"
+  },
+  {
+    "name": "Chongqing Xiao Mian (Small Noodles)",
+    "image": "images/chongqing-xiaomian-1.jpg",
+    "tags": ["Street Food", "Breakfast"],
+    "description": "Chongqing's soul breakfast — alkaline wheat noodles in a fiery blend of chili oil, Sichuan pepper, and sesame paste.",
+    "region": "Chongqing",
+    "date": "June 2, 2026"
+  },
+  {
+    "name": "Hechuan Peach Slice",
+    "image": "images/hechuan-taopian-1.jpg",
+    "tags": ["Snack", "Intangible Heritage"],
+    "description": "Paper-thin confection of glutinous rice and walnuts — 180-year-old tradition from Hechuan.",
+    "region": "Chongqing",
+    "date": "June 2, 2026"
+  },
+  {
+    "name": "Rongchang Braised Goose",
+    "image": "images/rongchang-luoe-1.jpg",
+    "tags": ["Signature", "Braised"],
+    "description": "Whole goose braised in century-old master stock with 30+ spices.",
+    "region": "Chongqing",
+    "date": "June 2, 2026"
+  },
+  {
+    "name": "Chongqing Youcha (Oil Tea)",
+    "image": "images/chongqing-youcha-1.jpg",
+    "tags": ["Breakfast", "Street Food"],
+    "description": "Silky rice porridge topped with crispy fried noodles and chili oil — a disappearing breakfast classic.",
+    "region": "Chongqing",
+    "date": "June 2, 2026"
+  },
+  {
+    "name": "Baishiyi Pressed Duck",
+    "image": "images/baishiyi-banduck-1.jpg",
+    "tags": ["Preserved", "Smoked"],
+    "description": "Pressed, smoked whole duck with fan shape and intensely savory cured meat. Qing Dynasty heritage.",
+    "region": "Chongqing",
+    "date": "June 2, 2026"
+  },
+  {
+    "name": "Wanzhou Grilled Fish",
+    "image": "images/wanzhou-grilled-fish-1.jpg",
+    "tags": ["Signature", "Spicy"],
+    "description": "Charcoal-grilled whole river fish simmered tableside in chili-laced broth. Three Gorges culinary treasure.",
+    "region": "Chongqing",
+    "date": "June 2, 2026"
+  },
+  {
+    "name": "Tongnan Coiled Eel",
+    "image": "images/tongnan-coiled-eel-1.jpg",
+    "tags": ["Signature", "Dry-Fried"],
+    "description": "Whole baby eels dry-fried into spirals until the bones are crispy enough to eat. Ultimate Jianghu challenge.",
+    "region": "Chongqing",
+    "date": "June 2, 2026"
   }
 ]
