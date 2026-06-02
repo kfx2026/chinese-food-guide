@@ -4,14 +4,14 @@
       "id": "sichuan",
       "name_en": "Sichuan",
       "name_zh": "四川省",
-      "dish_count": 3,
+      "dish_count": 19,
       "status": "live"
     },
     {
       "id": "chongqing",
       "name_en": "Chongqing",
       "name_zh": "重庆市",
-      "dish_count": 1,
+      "dish_count": 9,
       "status": "live"
     },
     {
