@@ -501,9 +501,10 @@ function searchDish() {
 /* ========== Scroll Reveal ========== */
 function initScrollReveal() {
   document.querySelectorAll('.page-reveal').forEach(el => {
-    new IntersectionObserver(entries => {
+    const obs = new IntersectionObserver(entries => {
       entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('revealed'); obs.unobserve(e.target); }});
-    }, { threshold: 0.1 }).observe(el);
+    }, { threshold: 0.1 });
+    obs.observe(el);
   });
 }
 
