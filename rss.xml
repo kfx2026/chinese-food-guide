@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>食 · 中华美食魅力 — 中国34省地道美食深度档案</title>
+  <link>https://food.eastculture.top/</link>
+  <description>逐一探索中国各省级行政区的地道美食。每道菜背后的历史、文化与正宗做法，一个省份一个深度。</description>
+  <language>zh-cn</language>
+  <lastBuildDate>Wed, 10 Jun 2026 08:24:28 GMT</lastBuildDate>
+  <atom:link href="https://food.eastculture.top/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Sichuan (四川省) — 19 道地道风味深度探索</title>
+    <link>https://food.eastculture.top/region.html?id=sichuan</link>
+    <description>探索四川省的19道经典美食——每道菜背后的历史、文化与正宗做法。</description>
+    <pubDate>2026-06-10T12:00:00+08:00</pubDate>
+    <guid isPermaLink="true">https://food.eastculture.top/region.html?id=sichuan</guid>
+    <category>Regional Cuisine</category>
+  </item>
+  <item>
+    <title>Chongqing (重庆市) — 9 道地道风味深度探索</title>
+    <link>https://food.eastculture.top/region.html?id=chongqing</link>
+    <description>探索重庆市的9道经典美食——每道菜背后的历史、文化与正宗做法。</description>
+    <pubDate>2026-06-10T12:00:00+08:00</pubDate>
+    <guid isPermaLink="true">https://food.eastculture.top/region.html?id=chongqing</guid>
+    <category>Regional Cuisine</category>
+  </item>
+  <item>
+    <title>Shanghai (上海市) — 8 道地道风味深度探索</title>
+    <link>https://food.eastculture.top/region.html?id=shanghai</link>
+    <description>探索上海市的8道经典美食——每道菜背后的历史、文化与正宗做法。</description>
+    <pubDate>2026-06-10T12:00:00+08:00</pubDate>
+    <guid isPermaLink="true">https://food.eastculture.top/region.html?id=shanghai</guid>
+    <category>Regional Cuisine</category>
+  </item>
+  <item>
+    <title>Jiangsu · Nanjing (江苏·南京) — 6 道地道风味深度探索</title>
+    <link>https://food.eastculture.top/region.html?id=jiangsu</link>
+    <description>探索江苏·南京的6道经典美食——每道菜背后的历史、文化与正宗做法。</description>
+    <pubDate>2026-06-10T12:00:00+08:00</pubDate>
+    <guid isPermaLink="true">https://food.eastculture.top/region.html?id=jiangsu</guid>
+    <category>Regional Cuisine</category>
+  </item>
+</channel>
+</rss>
