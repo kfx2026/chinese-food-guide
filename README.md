@@ -1,10 +1,34 @@
-# Authentic Chinese Food Guide
+# 🍜 Chinese Food Guide
 
-Welcome to our professional food sharing platform.
+**Bilingual Regional Chinese Cuisine Explorer**
 
-We introduce classic cuisines, local snacks and food culture from all over China.
-If you want to explore diverse delicious Chinese dishes, please visit our official website:
+## 🔗 Website
 
-[https://food.eastculture.top](https://food.eastculture.top)
+[**food.eastculture.top**](https://food.eastculture.top)
 
-We will update new food articles regularly every week.
+
+---
+
+## 🌐 KFX2026 Digital Tools Collection
+
+| Site | URL |
+|------|-----|
+| 🍜 Chinese Food Guide | [food.eastculture.top](https://food.eastculture.top) |
+| 🏯 East City Tourism | [travel.eastculture.top](https://travel.eastculture.top) |
+| 💪 FitHer | [healthlab.beauty](https://healthlab.beauty) |
+| 🏥 Health Calculator | [healthcalc.aichatmail.one](https://healthcalc.aichatmail.one) |
+| 🏥 Chinamed Directory | [cnhospitalmap.help](https://cnhospitalmap.help) |
+| 🎓 China University List | [chinaunilist.top](https://chinaunilist.top) |
+| 📝 AI Resume Guru | [airesumeguru.top](https://airesumeguru.top) |
+| 📄 Resume Writer | [resumewrite.pages.dev](https://resumewrite.pages.dev) |
+| 👕 LogoTee | [logotee.top](https://logotee.top) |
+| 🐾 PetGuardian | [petlegend.top](https://petlegend.top) |
+| 📈 Global Short Video Trend | [globalshortvideotrend.top](https://globalshortvideotrend.top) |
+| 📱 QR2Mail | [qr2mail.top](https://qr2mail.top) |
+| 🔲 QR Generator | [qr.qr2mail.top](https://qr.qr2mail.top) |
+| 🔧 DevTools Pro | [devtools.aichatmail.one](https://devtools.aichatmail.one) |
+| ✉️ Temp Mail | [aichatmail.one](https://aichatmail.one) |
+
+---
+
+*All tools are free to use. No tracking, no analytics collected.*
