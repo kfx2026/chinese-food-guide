@@ -1,0 +1,155 @@
+{
+  "id": "jiangsu",
+  "name_en": "Jiangsu · Nanjing",
+  "name_zh": "江苏·南京",
+  "en": [
+    {
+      "id": "jiangsu-001",
+      "date": "June 10, 2026",
+      "region": "Jiangsu · Nanjing",
+      "dishes": [
+        {
+          "name": "Nanjing Salted Duck (Yanshui Ya)",
+          "image": "images/nanjing-yanshuiya.jpg",
+          "tags": ["Heritage", "Signature", "Cold Dish"],
+          "description": "Nanjing's undisputed culinary crown — ivory-white duck meat, tender and delicately salted, served cold with translucent fat gleaming under the skin. A faint fragrance of Sichuan peppercorn and star anise lingers in each slice. Unlike roast duck, salted duck is all about purity: the duck's natural flavor shines through, earning it the title 'First Flavor of Jinling.'",
+          "history": "Legend traces salted duck to the Warring States period, when citizens prepared 'King Wu's Duck' to reward Wu Zixu's army. By the Ming Dynasty, it was a tribute dish to the imperial court. In the Qing Dynasty, it became a folk staple. Today, it's a National Intangible Cultural Heritage dish. The classic method uses three-month-old Hushu sesame ducks, following the mantra: 'rub with hot salt, soak in seasoned brine, air-dry thoroughly, and slow-poach to perfection.' The autumn 'Osmanthus Duck' is the pinnacle — a segment of old lotus root is added to the brine, neutralizing gaminess while infusing a subtle floral note.",
+          "method": "1. Select a 3-month-old Hushu sesame duck (湖熟麻鸭), clean thoroughly. 2. Dry-roast salt with Sichuan peppercorn until fragrant, then rub the hot salt mix all over the duck, inside and out. 3. Place in a century-old seasoned brine (老卤) and soak for 3 days. 4. Remove, hang to air-dry until the skin is taut. 5. Poach gently in barely-simmering water — never let it boil — until cooked through. 6. Cool completely, then slice thinly with skin intact.",
+          "eatingGuide": "<b>Serve cold, always.</b> Room temperature or slightly chilled is ideal — the fat crystallizes into a clean, refreshing texture. Slice thinly with the skin on. Eat on its own first to appreciate the pure duck flavor, then try it with a light dip of black vinegar and shredded ginger. It's the perfect companion to cold beer or warm rice. <b>Pro tip:</b> The drumstick is the best part — the meat is pink and the most succulent. Han Fuxing (韩复兴), established 1866, is the gold standard.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> Nanjingers have a saying: 'No duck leaves Nanjing alive' — the city consumes more duck per capita than anywhere in China. Salted duck is not just food; it's the city's identity. The technique of cold-poaching requires absolute mastery of temperature control (one degree too high and the fat melts out). Every family gathering, every festival, every weeknight dinner features this dish. It's the taste of home for Nanjing people everywhere.",
+          "honestTalk": "<b>The honest truth:</b> Salted duck tastes subtle — if you're expecting bold, punchy flavors, you might be underwhelmed at first bite. Its genius is in the purity and texture, not the seasoning. The fat layer can be thick; if that bothers you, remove it. The best salted duck comes from heritage shops like Han Fuxing, not supermarket versions (which are often too salty and dry). Autumn (September–November) is peak season when 'Osmanthus Duck' is available — the flavor is noticeably more aromatic."
+        },
+        {
+          "name": "Braised Pounded Eel (Dun Sheng Qiao)",
+          "image": "images/nanjing-dunshengqiao.jpg",
+          "tags": ["Classic", "Banquet", "Technique"],
+          "description": "A lost art of old Jinling banquet cuisine — live eel, deboned and pounded with a wooden mallet until the flesh relaxes into tender ribbons, then coated in starch, deep-fried, and finally braised with pork belly and bamboo shoots for hours. The result is eel so soft it melts on the tongue yet retains a resilient chew — a texture achieved only through the 'pounding' technique passed down through generations of Nanjing chefs.",
+          "history": "Created during the Daoguang era of the Qing Dynasty (c. 1820–1850), this dish was originally the grand finale of high-end Jinling banquets. The pounding technique was born from necessity: eel meat is naturally firm and can be tough if cooked directly. By pounding it with a wooden mallet (敲), the muscle fibers are broken down while preserving the structural integrity — a technique unique to Nanjing cuisine. It nearly vanished during the 20th century and has only been revived in recent decades by heritage restaurants.",
+          "method": "1. Select live yellow eels, kill, debone, and flatten. 2. Pound the flesh repeatedly with a wooden mallet until it becomes loose and tender. 3. Cut into sections, coat with starch, then deep-fry until golden. 4. In a clay pot, layer the fried eel with sliced pork belly and winter bamboo shoots. 5. Add premium stock, Shaoxing wine, light soy sauce, and rock sugar. 6. Braise over low heat for 2–3 hours until the eel is spoon-tender and the broth is milky and rich.",
+          "eatingGuide": "<b>Eat it with a spoon — the eel is that tender.</b> The braising liquid is pure gold: rich, creamy, deeply savory from the pork belly and eel collagens. Pour it generously over steamed rice. Each piece of eel should be eaten with a slice of bamboo shoot and a morsel of pork belly for the full texture symphony. <b>Pro tip:</b> This dish is rarely found outside Nanjing. At Nanjing Impressions (南京大牌档), it's one of their signature banquet dishes — order it for a special occasion.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> The pounding technique is the soul of this dish — it's a physical, almost meditative act that can't be rushed or mechanized. Each strike of the mallet is a conversation between chef and ingredient. This dish represents the pinnacle of Jinling banquet culture: transforming a humble river eel into an aristocratic delicacy through sheer technique and patience. It's a testament to the philosophy that great cooking is about process, not just ingredients.",
+          "honestTalk": "<b>The honest truth:</b> If you've never had eel before, the texture might surprise you — it's softer than any fish but firmer than tofu. The pounding makes it almost custard-like. The dish is quite rich due to the pork belly and long braising. Portions are typically small because it's a banquet dish meant to be savored, not a main course. At ¥80-150 per portion, it's on the pricier side, but worth it for the technique alone. Not all restaurants do it justice — stick to established names like Nanjing Impressions (南京大牌档)."
+        },
+        {
+          "name": "Jinling Lion's Head Meatball (Jinling Shizitou)",
+          "image": "images/nanjing-shizitou.jpg",
+          "tags": ["Classic", "Banquet", "Comfort"],
+          "description": "A massive half-jin (250g) meatball — the Jiangnan cousin of the famous Huaiyang lion's head. Made from hand-diced pork belly (70% lean, 30% fat), hand-beaten to develop elasticity, then simmered in supreme stock for 3 hours until it collapses at the lightest touch of chopsticks. The authentic version is enriched with crab roe and crowned with crispy puffed rice — a dish so tender it's eaten with a spoon.",
+          "history": "The lion's head meatball originated in Yangzhou during the Sui-Tang dynasties and spread throughout Jiangnan. Nanjing's version developed its own identity: larger, softer, and always enriched with crab roe from nearby Gaoyou Lake. It became a centerpiece of Jinling banquet tables, symbolizing family reunion and prosperity (the round shape represents completeness). The name comes from its appearance — the large meatball with crab roe 'mane' resembles a traditional stone lion's head.",
+          "method": "1. Select pork belly with 30% fat, hand-dice into small cubes (never use ground meat — the texture is completely different). 2. Mix with minced ginger, scallion, Shaoxing wine, and a touch of cornstarch. 3. Hand-beat the mixture against the bowl repeatedly until it develops a springy, cohesive texture. 4. Form into large balls (about 250g each). 5. Sear gently in a pan until the surface is golden. 6. Transfer to a pot, add supreme stock (made from old hen, Jinhua ham, and pork bone), and simmer for 3 hours. 7. Add crab roe in the last 30 minutes. 8. Serve topped with crispy puffed rice (炒米) and a spoonful of the simmering broth.",
+          "eatingGuide": "<b>Don't even try chopsticks — this demands a spoon.</b> The meatball should be so tender that it falls apart at the slightest pressure. Take a spoonful with broth, a bit of crab roe, and some crispy puffed rice for the ideal bite: soft, rich, briny, crunchy, all at once. <b>Pro tip:</b> Order it as a shared dish — one lion's head easily serves 2-3 people as part of a larger meal. At Nanjing Impressions (南京大牌档), it's a menu staple and one of their most popular dishes.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> The lion's head embodies the Jiangnan culinary philosophy: 'rich but not heavy, light but not bland' (浓而不腻，淡而不薄). The hand-dicing of the pork (never machine-ground) is non-negotiable — it's the difference between a sublime, multi-textured meatball and a dense, rubbery one. In Nanjing family culture, a meal with lion's head means it's a special occasion. The dish is also a masterclass in patience: 3 hours of gentle simmering transforms humble pork belly into something ethereal.",
+          "honestTalk": "<b>The honest truth:</b> A proper lion's head is very soft — almost too soft if you're used to firmer Western meatballs. The 30% fat content means it's quite rich; one or two spoonfuls with rice is deeply satisfying but more than that can feel heavy. The crab roe adds a subtle briny sweetness, but outside crab season (Sept–Nov) some restaurants skip it — ask before ordering. At ¥60-90 per meatball, it's not cheap, but one is plenty for sharing. Don't confuse this with the smaller, denser meatballs you get at takeout joints."
+        },
+        {
+          "name": "Meiling Porridge (Meiling Zhou)",
+          "image": "images/nanjing-meilingzhou.jpg",
+          "tags": ["Sweet", "Heritage", "Comfort"],
+          "description": "A sweet, velvety porridge named after Soong Mei-ling (宋美龄), the former First Lady of the Republic of China. Glutinous rice and japonica rice are soaked overnight, then slowly cooked with soybean milk instead of water, enriched with mashed Chinese yam, lily bulbs, goji berries, and rock sugar. The result is a creamy, naturally sweet, nourishing bowl that soothes the stomach and the soul — Nanjing's most elegant comfort food.",
+          "history": "Created in the 1930s specifically for Soong Mei-ling, who suffered from chronic digestive issues during her time in Nanjing. Palace chefs experimented with ingredients known in traditional Chinese medicine for stomach health: Chinese yam (健脾养胃), soybean milk (滋阴润燥), lily bulbs (清心安神), and goji berries (滋补肝肾). The porridge was so effective at soothing her stomach that it became her daily breakfast. After 1949, the recipe spread among Nanjing locals and evolved into the beloved street-side and restaurant staple it is today.",
+          "method": "1. Soak equal parts glutinous rice and japonica rice in water for 4+ hours (overnight is best). 2. Steam fresh Chinese yam until tender, then peel and mash into a smooth paste. 3. In a thick-bottomed pot, combine the soaked rice with fresh soybean milk (NOT water — this is essential). 4. Bring to a gentle simmer and cook, stirring constantly, until the rice grains break down and the porridge thickens (about 40 minutes). 5. Add the yam paste, fresh lily bulbs, and rock sugar. Simmer another 10 minutes. 6. Serve hot, topped with a sprinkle of goji berries.",
+          "eatingGuide": "<b>Eat it fresh and hot.</b> Meiling Porridge should be creamy and flowing, not thick like congee. The soybean milk gives it a nutty richness that plain rice porridge lacks. It's traditionally eaten for breakfast or as a light afternoon snack. <b>Pro tip:</b> The best versions in Nanjing are found at local breakfast shops and heritage dessert stores like Lianhu Cake Shop (莲湖糕团店). It pairs beautifully with a side of savory pickled vegetables (酱菜) for a sweet-salty contrast.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> This dish is a perfect encapsulation of Nanjing's dual identity — the grandeur of being a national capital (created for the First Lady) and the everyday warmth of a local breakfast staple. It's also a brilliant example of Chinese 'food as medicine' philosophy: every ingredient serves both flavor and function. Meiling Porridge represents the Jiangnan approach to dessert: never cloying, always balanced, with an underlying sophistication that reveals itself slowly.",
+          "honestTalk": "<b>The honest truth:</b> If you're expecting a punchy, intensely sweet dessert, this is not it. Meiling Porridge is subtle — the sweetness comes mainly from the natural starch conversion and a modest amount of rock sugar. The texture is slightly grainy from the yam, which some people find off-putting and others find comforting. It looks unassuming (pale beige, slightly lumpy), but the flavor grows on you with each spoonful. It's particularly good on cold winter mornings. The soybean milk version is noticeably richer than the water-based shortcuts some places use."
+        },
+        {
+          "name": "Duck Blood Vermicelli Soup (Yaxue Fensi Tang)",
+          "image": "images/nanjing-yaxuefensi.jpg",
+          "tags": ["Street Food", "Breakfast", "Signature"],
+          "description": "Nanjing's ultimate morning ritual — a steaming bowl of milky duck bone broth loaded with silky duck blood (with a tofu-like tenderness), chewy duck gizzard, soft duck liver, and slippery sweet potato vermicelli. Finished with a scatter of cilantro and a splash of chili oil, each spoonful delivers the deep, soul-warming umami that defines Nanjing's food culture. This is not a tourist dish — this is what Nanjing people actually eat every single day.",
+          "history": "Evolved from Nanjing's millennia-old duck farming tradition. When every part of the duck was used, humble offal became treasured delicacies. Duck blood, prized for its silky texture and nutritional value in traditional Chinese medicine (补血养气), became the star. By the Republican era, duck blood vermicelli soup was Nanjing's unofficial breakfast. Today, it's the city's most democratic dish — from construction workers to office executives, everyone queues for their morning bowl. The 'three ducks in one' (三鸭合一) principle — blood for silkiness, gizzard for crunch, liver for richness — is the gold standard.",
+          "method": "1. Make the broth: simmer duck bones, ginger, and scallion for 3+ hours until milky white. 2. Prepare fresh duck blood: coagulate with salt water, then poach gently and cut into cubes. 3. Clean and slice duck gizzard, liver, and intestines. 4. Soak sweet potato vermicelli until soft. 5. To serve: place vermicelli and duck blood in a bowl, ladle boiling broth over them, top with gizzard, liver, and intestines. 6. Finish with cilantro, chopped scallion, and a drizzle of chili oil.",
+          "eatingGuide": "<b>Slurp the broth first — it's the soul of the dish.</b> Mix in the chili oil and a splash of black vinegar to your taste. Alternate between vermicelli, duck blood, and offal for the full texture experience: slippery, silky, crunchy, chewy, all in one bowl. <b>Pro tip:</b> The best bowls are found at small, crowded street-side shops near residential neighborhoods, not touristy Fuzimiao. Xiao Pan Ji (小潘记) in Laomendong is legendary — arrive before 9 AM or prepare to queue. At ¥15-25 per bowl, it's one of the best-value meals in China.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> This dish is the ultimate expression of Nanjing's duck obsession. The principle of 'three ducks in one' (三鸭合一) reflects the Chinese philosophy of using every part of the animal with intention and skill. It's also a classless food — eaten by everyone, everywhere, at any time of day. Duck blood vermicelli soup is the taste of Nanjing mornings: the steam rising from bowls lined up at a street stall, the clatter of chopsticks, the satisfied sighs of people starting their day the Nanjing way.",
+          "honestTalk": "<b>The honest truth:</b> Duck blood has a specific, mild mineral flavor and a soft, almost custard-like texture. If you've never had blood-based foods before, the psychological barrier is higher than the actual taste (it's much milder than you expect). The broth is the real star — rich, creamy, intensely savory. Some budget versions use MSG-heavy shortcuts instead of real bone broth — look for shops where you can see the big pots of bones simmering. The chili oil is optional but recommended; without it, the broth can taste one-dimensional. Weekday mornings at neighborhood shops offer the most authentic experience."
+        },
+        {
+          "name": "Osmanthus Sugar Taro (Guihua Tang Yumiao)",
+          "image": "images/nanjing-tangyumiao.jpg",
+          "tags": ["Dessert", "Heritage", "Seasonal"],
+          "description": "A warm, sweet, deeply comforting dessert — local Nanjing baby taros are cooked until meltingly tender, then simmered in a syrup of brown sugar and osmanthus flower. The taros absorb the fragrant sweetness, becoming silky and almost translucent, while the osmanthus imparts a delicate floral perfume. This is the taste of a Nanjing autumn, served in a bowl.",
+          "history": "Dating back to the Ming-Qing dynasties, osmanthus sugar taro was once a delicacy served by the celebrated Qinhuai courtesans to entertain distinguished guests. The combination of taro (a humble, nourishing root) with osmanthus (the most aristocratic of Chinese flowers) reflects the Jiangnan aesthetic of elevating the ordinary. By the Republican era, it had become a popular street dessert, especially in autumn when both taros and osmanthus flowers are at their peak. Lianhu Cake Shop (莲湖糕团店) near Confucius Temple has been serving the definitive version for generations.",
+          "method": "1. Select small, round Nanjing local taros (about the size of a quail egg). 2. Boil until just tender, then peel carefully (the skin should slip off easily). 3. In a separate pot, dissolve brown sugar in water, add dried osmanthus flowers, and bring to a gentle simmer. 4. Add the peeled taros and cook over low heat for 20-30 minutes, allowing them to absorb the syrup slowly. 5. The taros are ready when they're soft, slightly translucent, and infused with the osmanthus fragrance. 6. Serve hot in small bowls with extra syrup.",
+          "eatingGuide": "<b>Eat it hot, one taro at a time.</b> Pop a whole taro in your mouth — it should dissolve with the lightest pressure from your tongue. The syrup should be sweet but not cloying, with the osmanthus fragrance rising as you exhale. <b>Pro tip:</b> Lianhu Cake Shop (莲湖糕团店) near Confucius Temple is the most famous spot. It's best enjoyed in autumn and winter when the warmth and sweetness are most comforting. Pair with a cup of Longjing tea (龙井茶) for the full Jiangnan experience.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> Osmanthus sugar taro is autumn distilled into a dessert. The osmanthus flower is deeply symbolic in Chinese culture — it represents nobility, love, and the fleeting beauty of autumn. The dish embodies the Jiangnan dessert philosophy: sweetness should enhance natural flavors, not overwhelm them. It's also a dish of patience — the taros can't be rushed; they must slowly drink in the syrup over low heat, absorbing flavor without losing their integrity. This is the art of Jiangnan cooking in miniature.",
+          "honestTalk": "<b>The honest truth:</b> If you don't like soft, starchy textures, this dessert might not be for you — the taros are extremely tender, almost mushy. The sweetness level is moderate by Chinese standards but can still feel quite sweet to those accustomed to European desserts. The osmanthus flavor is subtle and floral, not fruity — if you're expecting a bold flavor, you'll be surprised by its delicacy. It's best eaten fresh and hot; cold or reheated versions lose the magic. Lianhu Cake Shop is the gold standard, but their version is on the sweeter side — ask for 'less sugar' (少糖) if you prefer."
+        }
+      ]
+    }
+  ],
+  "zh": [
+    {
+      "id": "jiangsu-001",
+      "date": "2026年6月10日",
+      "region": "江苏·南京",
+      "dishes": [
+        {
+          "name": "盐水鸭",
+          "image": "images/nanjing-yanshuiya.jpg",
+          "tags": ["非遗", "招牌", "冷盘"],
+          "description": "南京美食的绝对王者——皮白肉粉、咸香入骨，冷食时油脂晶莹剔透，带着花椒和八角的淡淡清香。与烤鸭不同，盐水鸭追求的是鸭肉本真之味，清淡回甘，\"金陵第一味\"名不虚传。",
+          "history": "传说盐水鸭始于战国末年，百姓以\"吴王鸭\"犒劳伍子胥大军。明代成为宫廷御膳，清代流传至民间。如今已是国家级非遗美食。正宗做法遵循\"热盐擦、清卤复、吹得干、焐得透\"十二字诀：选三个月大的湖熟麻鸭，用炒盐加花椒揉透肌理，入百年老卤浸泡三天，悬挂风干后文火慢煮。秋季\"桂花鸭\"最绝——卤水中放一截老藕，中和鸭腥的同时，让鸭肉自带桂花香。",
+          "method": "1. 选取三个月大的湖熟麻鸭，洗净沥干。2. 锅中干炒粗盐与花椒至香，趁热均匀揉搓鸭身内外。3. 将鸭浸入百年老卤中，腌制三天。4. 取出悬挂通风处风干，至鸭皮紧绷。5. 入大锅文火慢浸——水不能沸腾，保持将开未开的状态，焐至熟透。6. 完全冷却后，带皮切薄片装盘。",
+          "eatingGuide": "<b>必须冷食。</b>室温或微凉最佳——脂肪凝固后口感清爽不腻。带皮切成薄片，先空口品尝鸭肉本真之味，再蘸少许黑醋姜丝提鲜。配热米饭或冷盘佐啤酒，皆为上选。<b>老饕秘笈：</b>鸭腿是精华——肉色粉嫩、最是多汁。韩复兴（创于1866年）是金字招牌，品质无可匹敌。",
+          "culturalCode": "<b>味道之外的重量：</b>南京有句老话：\"没有一只鸭子能活着游出南京\"——这里的人均鸭肉消费量全国第一。盐水鸭不仅是食物，更是城市名片。文火慢浸的火候功夫，差一度脂肪即化、口感全无。南京人的家庭聚餐、节庆宴席、平日晚饭，都少不了这一碟。它是所有南京人走到哪里都忘不了的家乡味。",
+          "honestTalk": "<b>讲真：</b>盐水鸭的味道偏清淡——如果你期待浓烈的冲击感，第一口可能会觉得\"就这？\"它的妙处在于纯净和口感，不在调味。皮下脂肪层可能偏厚，介意的话可以去掉。最好的盐水鸭出自韩复兴等老字号，超市版本往往偏咸偏干。秋季（9-11月）是黄金季节，\"桂花鸭\"上市，香气明显更丰富——错过等一年。"
+        },
+        {
+          "name": "炖生敲",
+          "image": "images/nanjing-dunshengqiao.jpg",
+          "tags": ["经典", "宴席", "功夫菜"],
+          "description": "老金陵宴席的压轴绝技——鳝鱼活杀去骨后，用木棒反复敲击使其肉质松散如丝，再裹淀粉油炸，最后与五花肉、笋片同炖数小时。成菜鳝肉软糯酥嫩，入口即化却不失韧性，汤汁醇厚如乳。这道\"敲\"的功夫，是代代南京厨师传下来的绝技。",
+          "history": "创于清朝道光年间（约1820-1850年），原是金陵高档宴席的压轴大菜。敲击技法源于对食材的深刻理解：鳝肉天然紧实，直接烹饪容易发硬。用木棒反复敲打，让肌肉纤维断裂松弛，同时保持结构的完整——这是南京菜独有的工艺。二十世纪曾一度濒临失传，近些年才由老字号餐厅重新挖掘复原。",
+          "method": "1. 选鲜活黄鳝，宰杀去骨，剖开拍平。2. 用木棒反复敲击鳝肉，至肉质松散柔软。3. 切段，裹淀粉，入油锅炸至金黄。4. 砂锅中将炸好的鳝段与五花肉片、冬笋片层层码放。5. 加入高汤、绍酒、生抽、冰糖，大火烧开。6. 转小火慢炖2-3小时，至鳝肉酥烂、汤汁浓白如乳。",
+          "eatingGuide": "<b>用勺子吃——鳝肉已经软到筷子夹不起来了。</b>炖汁才是精华：浓郁、奶白、鲜得让人想把碗舔干净。浇在米饭上，每一粒米都裹满汤汁。一口鳝肉配一片笋、一块五花肉，软糯、脆嫩、油润三种口感同时在口腔绽放。<b>老饕秘笈：</b>这道菜在南京以外几乎找不到。南京大牌档的炖生敲是他们的看家宴席菜，值得专程为它来一趟。",
+          "culturalCode": "<b>味道之外的重量：</b>敲击是这道菜的灵魂——一个无法被机器替代的手工动作，每一次敲打都是厨师与食材的对话。它代表了金陵宴席文化的巅峰：用纯粹的技艺和耐心，把一条平凡的河鳝变成一道贵族珍馐。这道菜诠释了中国烹饪的核心理念——伟大的厨艺在于过程，不止于食材。",
+          "honestTalk": "<b>讲真：</b>如果你从没吃过鳝鱼，口感可能会让你惊讶——比任何鱼肉都软、但比豆腐更有韧性。敲打过后的鳝肉近乎布丁般嫩滑。整道菜因为五花肉和长时间炖煮，油脂感较强。分量通常不大，因为它是宴席菜，用来细品的，不是管饱的。¥80-150一份不算便宜，但就冲着这个功夫，值。不是每家店都做得好——认准南京大牌档这类老字号。"
+        },
+        {
+          "name": "金陵狮子头",
+          "image": "images/nanjing-shizitou.jpg",
+          "tags": ["经典", "宴席", "治愈系"],
+          "description": "一个重达半斤的巨型肉圆——淮扬狮子头的金陵版本。选用肥瘦三七开的五花肉，手工切成小丁（绝不用绞肉机），反复摔打上劲，入高汤慢炖三小时，松软到筷子一夹就散。正宗做法必加蟹粉提鲜，出锅撒上炒米——既有蟹的鲜甜，又有米花的焦脆，是江南\"浓而不腻、淡而不薄\"的完美诠释。",
+          "history": "狮子头起源于隋唐时期的扬州，随后流传至整个江南。南京版本发展出了自己的个性：个头更大、口感更软、必加高邮湖蟹粉提鲜。它成为金陵宴席的镇桌菜，圆形象征团圆美满。\"狮子头\"这个名字来自它的外形——硕大的肉圆配上蟹粉\"鬃毛\"，活像一只传统的石狮子。",
+          "method": "1. 选用肥瘦三七开的五花肉，手工切成小丁（绝不能绞——口感天差地别）。2. 加入姜末、葱花、绍酒和少量淀粉，顺一个方向反复摔打上劲。3. 团成约半斤重的大肉圆。4. 平底锅小火煎至表面金黄定型。5. 转入砂锅，加入用老母鸡、金华火腿、猪骨熬制的高汤，小火慢炖3小时。6. 最后30分钟加入蟹粉。7. 出锅撒上炒米，淋一勺炖汁。",
+          "eatingGuide": "<b>别用筷子——用勺子挖着吃。</b>正宗狮子头松软到筷子一碰就散，只能用勺子舀。最佳吃法：一勺带汤汁的肉圆+一点蟹粉+几粒炒米，软、鲜、脆同时在口中爆发。<b>老饕秘笈：</b>这是分享菜——一个狮子头足够2-3人各尝几口。南京大牌档的金陵狮子头是菜单常青款，点单率极高。",
+          "culturalCode": "<b>味道之外的重量：</b>狮子头承载了江南菜\"浓而不腻、淡而不薄\"的至高哲学。手工切丁（决不用绞肉）是不可妥协的底线——这是入口即化与死板发柴之间的分水岭。在南京人的家庭文化中，饭桌上有狮子头，说明今天是个大日子。三小时的细火慢炖，把朴素的五花肉炖出了仙气——这就是江南人的耐心和讲究。",
+          "honestTalk": "<b>讲真：</b>正宗狮子头非常松软——如果你习惯西式紧实肉丸的口感，可能会觉得它\"散了架\"。30%的肥肉比例意味着它确实比较肥腻，一两勺配饭最满足，多了容易腻。蟹粉的季节性很强（9-11月），非蟹季有些店会省略——点之前问清楚。¥60-90一个不便宜，但一个就够分享。别拿它跟外卖店那种又小又紧的肉丸子混为一谈。"
+        },
+        {
+          "name": "美龄粥",
+          "image": "images/nanjing-meilingzhou.jpg",
+          "tags": ["甜点", "名流", "养身"],
+          "description": "因宋美龄而得名的一道金陵甜点，实则是南京人智慧的结晶。糯米与粳米浸泡数时，用豆浆替代清水慢熬至浓稠，加入蒸熟的山药泥、百合、枸杞和冰糖。豆浆的醇、糯米的甜、山药的绵在舌尖层层绽放——甜而不腻，养身又养心，是南京最优雅的治愈系食物。",
+          "history": "创于1930年代，专为宋美龄而制。彼时她在南京期间患有慢性肠胃不适，御厨们遍寻中医典籍，将健脾养胃的山药、滋阴润燥的豆浆、清心安神的百合、滋补肝肾的枸杞融于一锅粥中。这碗粥对调理肠胃效果极好，成为宋美龄的每日早餐。1949年后，配方流入南京民间，从总统府的餐桌走入寻常百姓家，演变成今天街头巷尾的暖心甜品。",
+          "method": "1. 将糯米与粳米按1:1比例混合，清水浸泡4小时以上（隔夜更佳）。2. 新鲜山药蒸熟后去皮，碾成细腻的山药泥。3. 厚底锅中放入泡好的米，倒入新鲜豆浆（不是水——这是关键）。4. 小火慢熬，不停搅拌，至米粒开花、粥体浓稠（约40分钟）。5. 加入山药泥、鲜百合和冰糖，再熬10分钟。6. 盛碗后撒上一小把枸杞点缀。",
+          "eatingGuide": "<b>趁热吃，新鲜最佳。</b>美龄粥应该是流动的糊状，不是厚重的稀饭。豆浆替代清水熬出来的粥，自带一股坚果般的醇香，是普通白粥没有的层次感。传统上当早餐或下午轻食。搭配一碟酱菜，咸甜交织，一口粥一口小菜。<b>老饕秘笈：</b>南京最好的美龄粥藏在老字号早餐铺和莲湖糕团店这类传统甜品店。冬天的早晨来一碗，整个人都暖了。",
+          "culturalCode": "<b>味道之外的重量：</b>这碗粥浓缩了南京的双重气质——曾为第一夫人定制的皇家规格，与今天街头巷尾的平民日常，奇妙地共存于一碗粥中。它也是中医\"药食同源\"理念的教科书级案例：每一种配料都有其味，更有其用。美龄粥代表了江南甜品的审美：永远不甜腻，层层递进，那种精致是不声张的、需要慢慢品出来的。",
+          "honestTalk": "<b>讲真：</b>如果你期待的是浓烈甜蜜的冲击，这碗粥会让你觉得\"寡淡\"。美龄粥的甜来自冰糖和食材本身的慢慢释放，很克制。山药泥让粥的质地有些许颗粒感——有人觉得这是手工感的温度，有人可能不习惯。外表朴实（浅米白色，微微带点颗粒），但越喝越舒服，味道是慢慢占领味蕾的那种。寒冬早晨来一碗，比什么甜品都治愈。豆浆熬的版本比用水的浓郁很多——认准豆浆熬的。"
+        },
+        {
+          "name": "鸭血粉丝汤",
+          "image": "images/nanjing-yaxuefensi.jpg",
+          "tags": ["街头小吃", "早餐", "城市符号"],
+          "description": "南京人的终极早餐仪式——鸭骨熬制的奶白浓汤打底，滑嫩如布丁的鸭血、脆爽的鸭肠、绵软的鸭肝，配上晶莹的红薯粉丝和吸饱汤汁的豆泡，撒上香菜、浇一勺辣椒油。每一勺都是南京的灵魂，每一口都是金陵的烟火气。这不是游客打卡菜——这是南京人日复一日、实实在在的日常。",
+          "history": "从南京千年养鸭传统中自然演化而来。鸭子全身是宝，平凡的下水被南京人做出了令人痴迷的美味。鸭血因其丝滑口感和中医补血养气的功效，成为碗中主角。到了民国时期，鸭血粉丝汤已经是南京人不用言说的早餐默契。今天，它是这座城市最民主的美食——从工地上的建筑工人到写字楼里的白领，清晨排队的都是同一碗汤。\"三鸭合一\"是黄金标准：鸭血要嫩、鸭肠要脆、鸭肝要香。",
+          "method": "1. 熬汤：鸭骨架加姜葱大火煮沸，转小火熬3小时以上，至汤色奶白。2. 新鲜鸭血加盐水凝固，轻煮定型后切块。3. 鸭胗、鸭肝、鸭肠分别清洗处理，煮熟切片。4. 红薯粉丝提前泡软。5. 出餐：碗底铺粉丝和鸭血，浇上滚烫的鸭骨原汤，铺上鸭胗、鸭肝、鸭肠。6. 撒香菜、葱花，淋一勺辣椒油，上桌。",
+          "eatingGuide": "<b>先喝一口原汤——这才是整碗的灵魂。</b>然后根据自己的口味加入辣椒油和醋。粉丝、鸭血、鸭杂交替着吃，感受不同口感在口中接力：滑、嫩、脆、弹。汤底最后的几口最浓——别浪费了。<b>老饕秘笈：</b>最好吃的鸭血粉丝汤不在夫子庙的游客店，而是藏在居民区的小巷里。老门东的小潘记是本地人公认的传奇——早上9点前到，不然排队排到怀疑人生。¥15-25一碗，放在全世界任何一个城市，这都是性价比之王。",
+          "culturalCode": "<b>味道之外的重量：</b>一碗鸭血粉丝汤，是南京人\"惜物\"哲学的最高表达：鸭子身上的每一个部位都被认真对待、被用心烹饪。\"三鸭合一\"的讲究，折射出中国人对食材的深刻理解——没有废料，只有没被发现的美味。它更是一碗没有任何阶层印记的食物：谁都可以走进来，谁都可以坐下来，谁都可以喝到同一碗汤——这就是南京的底色，从不张扬，自有大气。",
+          "honestTalk": "<b>讲真：</b>鸭血有一种特殊的淡腥味和布丁般的质感。如果你从没吃过血制品，心理门槛比实际味道高很多（比你想的清淡多了）。汤底才是真正的灵魂——浓郁的鸭骨白汤，鲜得让你原谅所有疑惑。有些便宜的店用味精汤底糊弄——找那种你能看见大锅骨头在咕嘟咕嘟熬的店。辣椒油是推荐项不是必选项，但不加的话汤味会略显单一。工作日的早晨，找个居民区小店坐下来，这是最南京的体验。"
+        },
+        {
+          "name": "桂花糖芋苗",
+          "image": "images/nanjing-tangyumiao.jpg",
+          "tags": ["甜点", "传统", "时令"],
+          "description": "温暖、甜润、让人无比安心的南京秋日限定甜品。本地小芋头煮至软烂，用红糖和桂花糖浆慢熬，小小一颗吸饱了甜润的汤汁，通体半透明，带着淡淡的桂花香气。这是把金陵的秋天，盛进了一只碗里。",
+          "history": "始于明清时期，曾是秦淮八艳宴请宾客的雅致佳品。芋头（平实滋养的根茎）与桂花（中国最矜贵的花之一）的组合，体现了江南\"用平凡造就不凡\"的美学精神。到了民国，已演变为寻常百姓的秋冬暖食。夫子庙旁的莲湖糕团店，世代传承着最经典的版本。",
+          "method": "1. 选本地小芋头（鹌鹑蛋大小最佳），带皮煮熟至筷子能轻松插入。2. 趁热剥皮——熟芋头皮轻松就能褪下来。3. 另起锅，红糖加水融化，放入干桂花，小火慢熬出桂花糖浆。4. 放入剥好的芋头，小火慢煨20-30分钟，让芋头慢慢吸收糖浆。5. 至芋头绵软、微微透亮、桂香渗透，即可盛碗。",
+          "eatingGuide": "<b>趁热吃，一口一个。</b>把一整颗芋苗送进嘴里——舌头轻轻一压就化开了。糖浆要甜而不腻，桂花香在呼出的时候弥漫鼻间。<b>老饕秘笈：</b>夫子庙旁的莲湖糕团店是最有名的去处。秋冬季节最是应景——寒风里一碗热乎乎的糖芋苗，配一杯龙井茶，就是江南的极致享受。",
+          "culturalCode": "<b>味道之外的重量：</b>桂花糖芋苗，是把整个秋天浓缩成一碗甜品。桂花在中国文化中寓意高洁、爱与秋日的绚烂易逝。这道甜品体现了江南甜食的最高哲学：甜是引导，不是主角——桂花的芬芳才是。它也是一道耐心的菜——芋头不能急，要小火慢慢煨，让糖浆一点一点渗透进去，吸收味道却不失筋骨。这就是江南的烹饪艺术，微小处见功夫。",
+          "honestTalk": "<b>讲真：</b>如果你不喜欢软糯粉质口感，这道甜品可能不是你的菜——芋头煮得极软，几乎入口即化。甜度按中国标准算中等，但习惯西式甜品的人可能仍觉得偏甜。桂花味是清幽花香，不是浓郁果味——如果你期待强烈风味，可能会觉得太\"淡\"。趁热吃最好，冷掉或复热都差点意思。莲湖糕团店是标杆，但他们的版本偏甜——怕甜的可以跟阿姨说\"少糖\"。"
+        }
+      ]
+    }
+  ]
+}

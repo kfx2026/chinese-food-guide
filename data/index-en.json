@@ -246,5 +246,53 @@
     "description": "Whole baby eels dry-fried into spirals until the bones are crispy enough to eat. Ultimate Jianghu challenge.",
     "region": "Chongqing",
     "date": "June 2, 2026"
+  },
+  {
+    "name": "Nanjing Salted Duck (Yanshui Ya)",
+    "image": "images/nanjing-yanshuiya.jpg",
+    "tags": ["Heritage", "Signature"],
+    "description": "Nanjing's culinary crown — ivory-white duck, tender and delicately salted, served cold. The 'First Flavor of Jinling' with 2,000 years of history behind each slice.",
+    "region": "Jiangsu · Nanjing",
+    "date": "June 10, 2026"
+  },
+  {
+    "name": "Braised Pounded Eel (Dun Sheng Qiao)",
+    "image": "images/nanjing-dunshengqiao.jpg",
+    "tags": ["Classic", "Banquet"],
+    "description": "A lost art of Jinling banquets — eel pounded with a wooden mallet until melt-in-your-mouth tender, then braised for hours with pork belly.",
+    "region": "Jiangsu · Nanjing",
+    "date": "June 10, 2026"
+  },
+  {
+    "name": "Jinling Lion's Head Meatball",
+    "image": "images/nanjing-shizitou.jpg",
+    "tags": ["Classic", "Banquet"],
+    "description": "A half-jin giant meatball of hand-diced pork, enriched with crab roe and slow-braised for 3 hours. So tender it must be eaten with a spoon.",
+    "region": "Jiangsu · Nanjing",
+    "date": "June 10, 2026"
+  },
+  {
+    "name": "Meiling Porridge",
+    "image": "images/nanjing-meilingzhou.jpg",
+    "tags": ["Sweet", "Heritage"],
+    "description": "A velvety soy-milk porridge created for Soong Mei-ling — rice, Chinese yam, lily bulbs, and goji berries for a nourishing, elegant sweetness.",
+    "region": "Jiangsu · Nanjing",
+    "date": "June 10, 2026"
+  },
+  {
+    "name": "Duck Blood Vermicelli Soup",
+    "image": "images/nanjing-yaxuefensi.jpg",
+    "tags": ["Street Food", "Breakfast"],
+    "description": "Nanjing's ultimate morning ritual — milky duck bone broth with silky duck blood, vermicelli, and offal. The soul of the city in a bowl.",
+    "region": "Jiangsu · Nanjing",
+    "date": "June 10, 2026"
+  },
+  {
+    "name": "Osmanthus Sugar Taro",
+    "image": "images/nanjing-tangyumiao.jpg",
+    "tags": ["Dessert", "Seasonal"],
+    "description": "Baby taros slowly simmered in brown sugar and osmanthus syrup until meltingly tender. The taste of a Nanjing autumn in dessert form.",
+    "region": "Jiangsu · Nanjing",
+    "date": "June 10, 2026"
   }
 ]

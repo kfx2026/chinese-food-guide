@@ -20,6 +20,13 @@
       "name_zh": "上海市",
       "dish_count": 8,
       "status": "live"
+    },
+    {
+      "id": "jiangsu",
+      "name_en": "Jiangsu · Nanjing",
+      "name_zh": "江苏·南京",
+      "dish_count": 6,
+      "status": "live"
     }
   ]
 }

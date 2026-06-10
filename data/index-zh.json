@@ -246,5 +246,53 @@
     "description": "整条小鳝鱼干煸至骨酥肉香，不剖肚不切段的江湖硬菜。",
     "region": "重庆",
     "date": "2026年6月2日"
+  },
+  {
+    "name": "盐水鸭",
+    "image": "images/nanjing-yanshuiya.jpg",
+    "tags": ["非遗", "招牌"],
+    "description": "南京美食之冠——皮白肉粉、咸香入骨，冷食晶莹剔透。千年传承的\"金陵第一味\"，国家级非遗美食。",
+    "region": "江苏·南京",
+    "date": "2026年6月10日"
+  },
+  {
+    "name": "炖生敲",
+    "image": "images/nanjing-dunshengqiao.jpg",
+    "tags": ["经典", "宴席"],
+    "description": "老金陵宴席的失传绝技——鳝鱼木棒敲打至酥，与五花肉同炖数小时，入口即化而不失韧性。",
+    "region": "江苏·南京",
+    "date": "2026年6月10日"
+  },
+  {
+    "name": "金陵狮子头",
+    "image": "images/nanjing-shizitou.jpg",
+    "tags": ["经典", "宴席"],
+    "description": "半斤重的巨型肉圆，手工切丁、蟹粉提鲜、高汤慢炖三小时，松软到筷子一夹就散。",
+    "region": "江苏·南京",
+    "date": "2026年6月10日"
+  },
+  {
+    "name": "美龄粥",
+    "image": "images/nanjing-meilingzhou.jpg",
+    "tags": ["甜点", "名流"],
+    "description": "因宋美龄而得名的金陵甜点——豆浆慢熬糯米山药，甜而不腻、养身养心，南京最优雅的治愈系美食。",
+    "region": "江苏·南京",
+    "date": "2026年6月10日"
+  },
+  {
+    "name": "鸭血粉丝汤",
+    "image": "images/nanjing-yaxuefensi.jpg",
+    "tags": ["街头小吃", "早餐"],
+    "description": "南京人的终极早餐——鸭骨白汤、滑嫩鸭血、脆爽鸭杂、晶莹粉丝，一碗装下整座金陵的烟火气。",
+    "region": "江苏·南京",
+    "date": "2026年6月10日"
+  },
+  {
+    "name": "桂花糖芋苗",
+    "image": "images/nanjing-tangyumiao.jpg",
+    "tags": ["甜点", "时令"],
+    "description": "南京小芋头用红糖桂花慢煨至透亮绵软，一口一个、甜润暖心，金陵秋天的味道。",
+    "region": "江苏·南京",
+    "date": "2026年6月10日"
   }
 ]
