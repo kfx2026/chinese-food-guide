@@ -162,6 +162,70 @@ const PROVINCE_IMAGES = {
 };
 const PROVINCE_IMAGES_ZH = PROVINCE_IMAGES; // same images
 
+/* ========== Render All Recipe Schemas ========== */
+let _schemasRendered = false;
+function renderAllSchemas() {
+  if (_schemasRendered) return;
+  _schemasRendered = true;
+  const allData = FOOD_DATA.en;
+  if (!allData.length) return;
+  
+  const schemas = [];
+  
+  // 1. Recipe schemas for all dishes
+  allData.forEach(article => {
+    article.dishes.forEach(d => {
+      const steps = d.method.split(/<br\s*\/?>/i).filter(s => s.trim()).map(s => ({
+        "@type": "HowToStep",
+        "text": s.replace(/^\d+\.\s*/, '').trim()
+      }));
+      schemas.push({
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": d.name,
+        "image": d.image ? `https://food.eastculture.top/${d.image}` : undefined,
+        "description": d.description,
+        "recipeCuisine": article.region.split(' · ')[0],
+        "keywords": d.tags ? d.tags.join(', ') : '',
+        "recipeInstructions": steps.length > 0 ? steps : d.method,
+        "author": { "@type": "Organization", "name": "Great Chinese Food Charm" },
+        "datePublished": article.date,
+      });
+    });
+  });
+  
+  // 2. ItemList for province cards
+  const seenProv = new Set();
+  const provinceItems = [];
+  allData.forEach(article => {
+    const provId = article.id.split('-')[0];
+    if (seenProv.has(provId)) return;
+    seenProv.add(provId);
+    const totalDishes = allData.filter(a => a.id.split('-')[0] === provId)
+      .reduce((sum, a) => sum + a.dishes.length, 0);
+    provinceItems.push({
+      "@type": "ListItem",
+      "position": provinceItems.length + 1,
+      "name": article.region.split(' · ')[0],
+      "item": { "@type": "Thing", "name": article.region, "description": `${totalDishes} authentic dishes from ${article.region}` }
+    });
+  });
+  schemas.push({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Chinese Regional Cuisines",
+    "description": "Explore authentic Chinese dishes by province — Sichuan, Chongqing, Shanghai, Jiangsu and more.",
+    "numberOfItems": provinceItems.length,
+    "itemListElement": provinceItems,
+  });
+  
+  const schemaDiv = document.getElementById('recipeSchemas');
+  if (!schemaDiv) return;
+  schemaDiv.innerHTML = schemas.map(s => 
+    `<script type="application/ld+json">${JSON.stringify(s)}</script>`
+  ).join('');
+}
+
 /* ========== Render Province Cards Grid ========== */
 function renderProvinceCards() {
   const grid = document.getElementById('provinceGrid');
@@ -260,6 +324,7 @@ function toggleDishCard(card) {
 let previewIndex = 0;
 
 function initRender() {
+  renderAllSchemas();
   renderProvinceCards();
   renderPreviewCarousel();
   renderUpdates();
