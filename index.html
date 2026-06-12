@@ -137,6 +137,15 @@
   </div>
 </section>
 
+<!-- ========== Explore by Region ========== -->
+<section class="section page-reveal" id="explore">
+  <div class="container">
+    <h2 class="section__title page-reveal">Explore by Region</h2>
+    <p class="section__subtitle page-reveal">Click a province to discover its iconic dishes</p>
+    <div class="province-grid" id="provinceGrid"></div>
+  </div>
+</section>
+
 <!-- ========== Ad Banner ========== -->
 <div class="ad-banner page-reveal">
   <span class="ad-label">Advertisement</span>
@@ -144,15 +153,16 @@
 </div>
 
 <!-- ========== Latest Updates ========== -->
-<section class="section section--alt" id="updates">
+<section class="section section--alt" id="dishes">
   <div class="container">
-    <h2 class="section__title page-reveal">Latest Dishes</h2>
-    <p class="section__subtitle page-reveal">Recently added — explore by region</p>
-    <div id="resultsCount" style="font-size:.82rem;color:var(--text-muted);margin:14px 0 6px;padding:0 4px"></div>
+    <h2 class="section__title page-reveal">All Dishes</h2>
+    <p class="section__subtitle page-reveal">Browse all dishes — click to expand details</p>
+    <div id="resultsCount" style="font-size:.82rem;color:var(--text-muted);margin:8px 0 6px;padding:0 4px"></div>
+    <div class="region-tabs" id="regionTabs"></div>
   </div>
 </section>
 
-<section class="section" style="padding-top:12px">
+<section class="section" style="padding-top:4px">
   <div class="container" id="updatesContainer"></div>
   <div class="pagination-wrap" id="paginationWrap"></div>
 </section>

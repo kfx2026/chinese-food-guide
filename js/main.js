@@ -151,12 +151,110 @@ async function loadFoodData() {
 loadFoodData();
 
 
-/* ========== Render Preview Carousel + Tag Bar ========== */
+/* ========== Province Card Images (from travel site) ========== */
+const PROVINCE_IMAGES = {
+  sichuan: 'images/sichuan-card.jpg',
+  chongqing: 'images/chongqing-card.jpg',
+  shanghai: 'images/shanghai-card.jpg',
+  jiangsu: 'images/jiangsu-card.jpg',
+  guangdong: 'images/jiangsu-card.jpg', // fallback
+  yunnan: 'images/sichuan-card.jpg',    // fallback
+};
+const PROVINCE_IMAGES_ZH = PROVINCE_IMAGES; // same images
+
+/* ========== Render Province Cards Grid ========== */
+function renderProvinceCards() {
+  const grid = document.getElementById('provinceGrid');
+  if (!grid) return;
+  const allData = FOOD_DATA[PAGE_LANG] || FOOD_DATA.en;
+  // Build province summary: { id, name, dishCount, firstDishes[] }
+  const provinces = [];
+  const seen = new Set();
+  allData.forEach(article => {
+    // Extract province id from article.id (e.g., "sichuan-2026")
+    const provId = article.id.split('-')[0] || article.id;
+    if (seen.has(provId)) return;
+    seen.add(provId);
+    const dishCount = article.dishes.length;
+    const preview = article.dishes.slice(0, 3).map(d => d.name).join(' · ');
+    const img = PROVINCE_IMAGES[provId] || '';
+    provinces.push({ id: provId, name: article.region, count: dishCount, preview, img });
+  });
+
+  grid.innerHTML = provinces.map(p => `
+    <div class="province-card page-reveal" onclick="scrollToProvince('${p.id}')">
+      <div class="province-card__bg" style="background-image:url(${p.img})"></div>
+      <div class="province-card__overlay"></div>
+      <span class="province-card__count">${p.count} ${PAGE_LANG === 'zh' ? '道菜' : 'dishes'}</span>
+      <div class="province-card__content">
+        <div class="province-card__name">${p.name}</div>
+        <div class="province-card__preview">${p.preview}</div>
+      </div>
+    </div>
+  `).join('');
+}
+
+/* ========== Scroll to Province ========== */
+function scrollToProvince(provId) {
+  // Set province filter and scroll to dishes
+  const sel = document.getElementById('provinceFilter');
+  if (sel) {
+    const allData = FOOD_DATA[PAGE_LANG] || FOOD_DATA.en;
+    const article = allData.find(a => (a.id.split('-')[0] || a.id) === provId);
+    if (article) {
+      // Find matching option
+      for (let i = 0; i < sel.options.length; i++) {
+        if (sel.options[i].value === article.region) {
+          sel.selectedIndex = i;
+          break;
+        }
+      }
+    }
+  }
+  currentPage = 1;
+  renderRegionTabs();
+  renderUpdates();
+  document.getElementById('dishes')?.scrollIntoView({ behavior: 'smooth' });
+}
+
+/* ========== Render Region Tabs ========== */
+function renderRegionTabs() {
+  const tabs = document.getElementById('regionTabs');
+  if (!tabs) return;
+  const allData = FOOD_DATA[PAGE_LANG] || FOOD_DATA.en;
+  const seen = new Set();
+  const regions = [];
+  allData.forEach(a => {
+    if (!seen.has(a.region)) { seen.add(a.region); regions.push(a.region); }
+  });
+
+  const selVal = document.getElementById('provinceFilter')?.value || '';
+  const allLabel = PAGE_LANG === 'zh' ? '全部' : 'All';
+
+  tabs.innerHTML = `<button class="region-tab ${!selVal ? 'region-tab--active' : ''}" onclick="filterByRegion('')">${allLabel}</button>` +
+    regions.map(r => `<button class="region-tab ${selVal === r ? 'region-tab--active' : ''}" onclick="filterByRegion('${r.replace(/'/g, "\\'")}')">${r}</button>`).join('');
+}
+
+function filterByRegion(region) {
+  const sel = document.getElementById('provinceFilter');
+  if (sel) sel.value = region;
+  currentPage = 1;
+  renderRegionTabs();
+  renderUpdates();
+  window.scrollTo({ top: document.getElementById('dishes')?.offsetTop - 100 || 0, behavior: 'smooth' });
+}
+
+/* ========== Toggle Dish Card Expand/Collapse ========== */
+function toggleDishCard(card) {
+  card.classList.toggle('expanded');
+}
 let previewIndex = 0;
 
 function initRender() {
+  renderProvinceCards();
   renderPreviewCarousel();
   renderUpdates();
+  renderRegionTabs();
 }
 onDataReady(initRender);
 
@@ -339,10 +437,13 @@ function renderUpdates() {
   pageItems.forEach((it, idx) => {
     if (it.region !== lastRegion) {
       lastRegion = it.region;
+      const countLabel = PAGE_LANG === 'zh' ? '道菜' : 'dishes';
+      // Count total dishes in this region for the header
+      const regionCount = items.filter(x => x.region === it.region).length;
       html += `
-        <div class="update-article__header page-reveal" style="margin-top:${idx > 0 ? '36px' : '0'}">
+        <div class="update-article__header page-reveal" id="region-${it.articleId.split('-')[0] || it.articleId}" style="margin-top:${idx > 0 ? '36px' : '0'};scroll-margin-top:120px">
           <span class="update-article__date">${it.date}</span>
-          <h2 class="update-article__title">${it.region}</h2>
+          <h2 class="update-article__title">${it.region} · ${regionCount} ${countLabel}</h2>
         </div>`;
     }
     const d = it.dish;
@@ -352,44 +453,30 @@ function renderUpdates() {
     const labelGuide = PAGE_LANG === 'zh' ? '🥢 吃法指南' : '🥢 Eating Guide';
     const labelCode = PAGE_LANG === 'zh' ? '🔍 文化密码' : '🔍 Cultural Code';
     const labelHonest = PAGE_LANG === 'zh' ? '💬 实话实说' : '💬 Honest Truth';
+    const toggleLabel = PAGE_LANG === 'zh' ? '展开详情' : 'View Details';
+
     html += `
-      <div class="food-card page-reveal" style="animation-delay:${idx * 60}ms">
-        <div class="food-card__header">
-          ${d.image ? `<img class="food-card__img" src="${d.image}" alt="${d.name}" loading="lazy">` : ''}
-          <div class="food-card__info">
-            <h3 class="food-card__title">${d.name}</h3>
-            <div class="food-card__tag-row">
-              ${d.tags.map(t => `<span class="food-tag food-tag--taste">${t}</span>`).join('')}
-            </div>
+      <div class="dish-card page-reveal" style="animation-delay:${idx * 50}ms" onclick="toggleDishCard(this)" id="dish-${d.name.replace(/[^a-zA-Z0-9\u4e00-\u9fa5]/g,'-')}">
+        ${d.image ? `<img class="dish-card__img" src="${d.image}" alt="${d.name}" loading="lazy">` : ''}
+        <div class="dish-card__body">
+          <h3 class="dish-card__name">${d.name}</h3>
+          <div class="dish-card__tags">
+            ${d.tags.map(t => `<span class="food-tag food-tag--taste">${t}</span>`).join('')}
           </div>
+          <p class="dish-card__desc">${d.description}</p>
+          <button class="dish-card__toggle" onclick="event.stopPropagation();toggleDishCard(this.parentElement.parentElement)">${toggleLabel}</button>
         </div>
-        <div class="food-field">
-          <div class="food-field__label">${labelDesc}</div>
-          <div class="food-field__value">${d.description}</div>
+        <div class="dish-card__detail">
+          <div class="dish-card__section-label">${labelDesc}</div>
+          <div class="dish-card__section-text">${d.description}</div>
+          <div class="dish-card__section-label">${labelHistory}</div>
+          <div class="dish-card__section-text">${d.history}</div>
+          <div class="dish-card__section-label">${labelMethod}</div>
+          <div class="dish-card__section-text">${d.method}</div>
+          ${d.eatingGuide ? `<div class="dish-card__section-label">${labelGuide}</div><div class="dish-card__section-text">${d.eatingGuide}</div>` : ''}
+          ${d.culturalCode ? `<div class="dish-card__section-label">${labelCode}</div><div class="dish-card__section-text">${d.culturalCode}</div>` : ''}
+          ${d.honestTalk ? `<div class="dish-card__section-label">${labelHonest}</div><div class="dish-card__section-text">${d.honestTalk}</div>` : ''}
         </div>
-        <div class="food-field">
-          <div class="food-field__label">${labelHistory}</div>
-          <div class="food-field__value">${d.history}</div>
-        </div>
-        <div class="food-field">
-          <div class="food-field__label">${labelMethod}</div>
-          <div class="food-field__value">${d.method}</div>
-        </div>
-        ${d.eatingGuide ? `
-        <div class="food-field food-field--special">
-          <div class="food-field__label">${labelGuide}</div>
-          <div class="food-field__value">${d.eatingGuide}</div>
-        </div>` : ''}
-        ${d.culturalCode ? `
-        <div class="food-field food-field--special">
-          <div class="food-field__label">${labelCode}</div>
-          <div class="food-field__value">${d.culturalCode}</div>
-        </div>` : ''}
-        ${d.honestTalk ? `
-        <div class="food-field food-field--special">
-          <div class="food-field__label">${labelHonest}</div>
-          <div class="food-field__value">${d.honestTalk}</div>
-        </div>` : ''}
       </div>`;
   });
   container.innerHTML = html || `<p style="text-align:center;color:var(--text-muted);padding:40px 0;font-size:.92rem">
@@ -547,14 +634,21 @@ function initBackToTop() {
 
 /* ========== Init ========== */
 document.addEventListener('DOMContentLoaded', () => {
+  // Data-dependent renders happen via onDataReady(initRender)
+  // Below are DOM-only initializations
   renderPreviewCarousel();
   initPreviewSwipe();
   populateProvinceFilter();
   bindFilterEvents();
-  renderUpdates();
   initScrollReveal();
   initNavScroll();
   initMobileMenu();
   initRefreshBtn();
   initBackToTop();
+  // Re-render when data arrives (safe to call multiple times)
+  onDataReady(() => {
+    renderProvinceCards();
+    renderRegionTabs();
+    renderUpdates();
+  });
 });
