@@ -431,14 +431,22 @@ function renderUpdates() {
   const start = (currentPage - 1) * PER_PAGE;
   const pageItems = items.slice(start, start + PER_PAGE);
 
-  // Group consecutive dishes from same article under one header
+  // Group dishes by region, wrap each group in a dish-grid
   let html = '';
-  let lastRegion = null;
+  let currentRegion = null;
+  let regionCards = []; // accumulate dish cards for current region
+  
+  function flushRegion() {
+    if (!currentRegion) return;
+    html += `<div class="dish-grid">${regionCards.join('')}</div>`;
+    regionCards = [];
+  }
+
   pageItems.forEach((it, idx) => {
-    if (it.region !== lastRegion) {
-      lastRegion = it.region;
+    if (it.region !== currentRegion) {
+      flushRegion(); // close previous grid
+      currentRegion = it.region;
       const countLabel = PAGE_LANG === 'zh' ? '道菜' : 'dishes';
-      // Count total dishes in this region for the header
       const regionCount = items.filter(x => x.region === it.region).length;
       html += `
         <div class="update-article__header page-reveal" id="region-${it.articleId.split('-')[0] || it.articleId}" style="margin-top:${idx > 0 ? '36px' : '0'};scroll-margin-top:120px">
@@ -455,7 +463,7 @@ function renderUpdates() {
     const labelHonest = PAGE_LANG === 'zh' ? '💬 实话实说' : '💬 Honest Truth';
     const toggleLabel = PAGE_LANG === 'zh' ? '展开详情' : 'View Details';
 
-    html += `
+    regionCards.push(`
       <div class="dish-card page-reveal" style="animation-delay:${idx * 50}ms" onclick="toggleDishCard(this)" id="dish-${d.name.replace(/[^a-zA-Z0-9\u4e00-\u9fa5]/g,'-')}">
         ${d.image ? `<img class="dish-card__img" src="${d.image}" alt="${d.name}" loading="lazy">` : ''}
         <div class="dish-card__body">
@@ -477,8 +485,9 @@ function renderUpdates() {
           ${d.culturalCode ? `<div class="dish-card__section-label">${labelCode}</div><div class="dish-card__section-text">${d.culturalCode}</div>` : ''}
           ${d.honestTalk ? `<div class="dish-card__section-label">${labelHonest}</div><div class="dish-card__section-text">${d.honestTalk}</div>` : ''}
         </div>
-      </div>`;
+      </div>`);
   });
+  flushRegion(); // close last grid
   container.innerHTML = html || `<p style="text-align:center;color:var(--text-muted);padding:40px 0;font-size:.92rem">
     ${PAGE_LANG === 'zh' ? '没有匹配的美食，试试其他关键词？' : 'No matching dishes — try a different search.'}
   </p>`;

@@ -793,8 +793,8 @@ a:hover { color: var(--coral); }
 /* ======== Dish Grid (compact cards) ======== */
 .dish-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 18px;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
 }
 .dish-card {
   background: var(--warm-surface);
@@ -806,7 +806,7 @@ a:hover { color: var(--coral); }
 }
 .dish-card:hover { box-shadow: var(--shadow-md); }
 .dish-card__img {
-  width: 100%; height: 180px;
+  width: 100%; height: 160px;
   object-fit: cover; display: block;
   background: var(--warm-border);
 }
