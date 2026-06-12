@@ -194,23 +194,16 @@ function renderProvinceCards() {
   `).join('');
 }
 
-/* ========== Scroll to Province ========== */
+/* ========== Scroll to Province (from card click) ========== */
+let _currentRegionFilter = ''; // direct filter, not dependent on dropdown DOM
+
 function scrollToProvince(provId) {
-  // Set province filter and scroll to dishes
+  const allData = FOOD_DATA[PAGE_LANG] || FOOD_DATA.en;
+  const article = allData.find(a => (a.id.split('-')[0] || a.id) === provId);
+  _currentRegionFilter = article ? article.region : '';
+  // Also sync dropdown if it exists
   const sel = document.getElementById('provinceFilter');
-  if (sel) {
-    const allData = FOOD_DATA[PAGE_LANG] || FOOD_DATA.en;
-    const article = allData.find(a => (a.id.split('-')[0] || a.id) === provId);
-    if (article) {
-      // Find matching option
-      for (let i = 0; i < sel.options.length; i++) {
-        if (sel.options[i].value === article.region) {
-          sel.selectedIndex = i;
-          break;
-        }
-      }
-    }
-  }
+  if (sel && article) sel.value = _currentRegionFilter;
   currentPage = 1;
   renderRegionTabs();
   renderUpdates();
@@ -228,20 +221,20 @@ function renderRegionTabs() {
     if (!seen.has(a.region)) { seen.add(a.region); regions.push(a.region); }
   });
 
-  const selVal = document.getElementById('provinceFilter')?.value || '';
   const allLabel = PAGE_LANG === 'zh' ? '全部' : 'All';
 
-  tabs.innerHTML = `<button class="region-tab ${!selVal ? 'region-tab--active' : ''}" onclick="filterByRegion('')">${allLabel}</button>` +
-    regions.map(r => `<button class="region-tab ${selVal === r ? 'region-tab--active' : ''}" onclick="filterByRegion('${r.replace(/'/g, "\\'")}')">${r}</button>`).join('');
+  tabs.innerHTML = `<button class="region-tab ${!_currentRegionFilter ? 'region-tab--active' : ''}" onclick="filterByRegion('')">${allLabel}</button>` +
+    regions.map(r => `<button class="region-tab ${_currentRegionFilter === r ? 'region-tab--active' : ''}" onclick="filterByRegion('${r.replace(/'/g, "\\'")}')">${r}</button>`).join('');
 }
 
 function filterByRegion(region) {
+  _currentRegionFilter = region;
   const sel = document.getElementById('provinceFilter');
   if (sel) sel.value = region;
   currentPage = 1;
   renderRegionTabs();
   renderUpdates();
-  window.scrollTo({ top: document.getElementById('dishes')?.offsetTop - 100 || 0, behavior: 'smooth' });
+  document.getElementById('dishes')?.scrollIntoView({ behavior: 'smooth' });
 }
 
 /* ========== Toggle Dish Card Expand/Collapse ========== */
@@ -388,7 +381,7 @@ function renderUpdates() {
 
   // --- Apply filters ---
   const searchQ = (document.getElementById('updateSearch')?.value || '').trim().toLowerCase();
-  const provinceVal = document.getElementById('provinceFilter')?.value || '';
+  const provinceVal = _currentRegionFilter || document.getElementById('provinceFilter')?.value || '';
   const sortVal = document.getElementById('sortFilter')?.value || 'newest';
 
   if (searchQ || provinceVal) {

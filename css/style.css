@@ -806,7 +806,7 @@ a:hover { color: var(--coral); }
 }
 .dish-card:hover { box-shadow: var(--shadow-md); }
 .dish-card__img {
-  width: 100%; height: 160px;
+  width: 100%; height: 150px;
   object-fit: cover; display: block;
   background: var(--warm-border);
 }
