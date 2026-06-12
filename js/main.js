@@ -194,23 +194,32 @@ function renderProvinceCards() {
   `).join('');
 }
 
-/* ========== Scroll to Province (from card click) ========== */
-let _currentRegionFilter = ''; // direct filter, not dependent on dropdown DOM
+/* ========== Filter & Scroll ========== */
+let _currentRegionFilter = '';  // province name prefix OR full region name
+let _filterIsProvince = false; // true = province-level (prefix match), false = exact match
 
 function scrollToProvince(provId) {
+  // Province card click → filter all regions under this province
   const allData = FOOD_DATA[PAGE_LANG] || FOOD_DATA.en;
-  const article = allData.find(a => (a.id.split('-')[0] || a.id) === provId);
-  _currentRegionFilter = article ? article.region : '';
-  // Also sync dropdown if it exists
+  const firstArticle = allData.find(a => (a.id.split('-')[0] || a.id) === provId);
+  if (!firstArticle) return;
+  // Extract province base name: "Sichuan · Chengdu" → "Sichuan"
+  const regionParts = firstArticle.region.split(' · ');
+  const provinceName = regionParts[0];
+  _currentRegionFilter = provinceName;
+  _filterIsProvince = true;
+  // Sync dropdown: set to first matching region
   const sel = document.getElementById('provinceFilter');
-  if (sel && article) sel.value = _currentRegionFilter;
+  if (sel) {
+    const match = allData.find(a => a.region.includes(provinceName));
+    if (match) sel.value = match.region;
+  }
   currentPage = 1;
   renderRegionTabs();
   renderUpdates();
   document.getElementById('dishes')?.scrollIntoView({ behavior: 'smooth' });
 }
 
-/* ========== Render Region Tabs ========== */
 function renderRegionTabs() {
   const tabs = document.getElementById('regionTabs');
   if (!tabs) return;
@@ -224,11 +233,18 @@ function renderRegionTabs() {
   const allLabel = PAGE_LANG === 'zh' ? '全部' : 'All';
 
   tabs.innerHTML = `<button class="region-tab ${!_currentRegionFilter ? 'region-tab--active' : ''}" onclick="filterByRegion('')">${allLabel}</button>` +
-    regions.map(r => `<button class="region-tab ${_currentRegionFilter === r ? 'region-tab--active' : ''}" onclick="filterByRegion('${r.replace(/'/g, "\\'")}')">${r}</button>`).join('');
+    regions.map(r => {
+      const isActive = _filterIsProvince
+        ? r.startsWith(_currentRegionFilter)    // province mode: highlight all sub-regions
+        : _currentRegionFilter === r;            // exact mode: only matching region
+      return `<button class="region-tab ${isActive ? 'region-tab--active' : ''}" onclick="filterByRegion('${r.replace(/'/g, "\\'")}')">${r}</button>`;
+    }).join('');
 }
 
 function filterByRegion(region) {
+  // Tag bar click → exact match
   _currentRegionFilter = region;
+  _filterIsProvince = false;
   const sel = document.getElementById('provinceFilter');
   if (sel) sel.value = region;
   currentPage = 1;
@@ -396,7 +412,11 @@ function renderUpdates() {
         (d.culturalCode && d.culturalCode.toLowerCase().includes(searchQ)) ||
         (d.honestTalk && d.honestTalk.toLowerCase().includes(searchQ))
       );
-      const matchProv = !provinceVal || it.region.toLowerCase().includes(provinceVal.toLowerCase());
+      const matchProv = !provinceVal || (
+        _filterIsProvince
+          ? it.region.startsWith(provinceVal)
+          : it.region === provinceVal
+      );
       return matchSearch && matchProv;
     });
   }
