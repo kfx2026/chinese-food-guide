@@ -157,6 +157,7 @@ const PROVINCE_IMAGES = {
   chongqing: 'images/chongqing-card.jpg',
   shanghai: 'images/shanghai-card.jpg',
   jiangsu: 'images/jiangsu-card.jpg',
+  hunan: 'images/changsha-cuisine-hero.png',
   guangdong: 'images/jiangsu-card.jpg', // fallback
   yunnan: 'images/sichuan-card.jpg',    // fallback
 };

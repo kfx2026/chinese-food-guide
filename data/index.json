@@ -27,6 +27,13 @@
       "name_zh": "江苏·南京",
       "dish_count": 6,
       "status": "live"
+    },
+    {
+      "id": "hunan",
+      "name_en": "Hunan · Changsha",
+      "name_zh": "湖南·长沙",
+      "dish_count": 6,
+      "status": "live"
     }
   ]
 }

@@ -1,0 +1,80 @@
+{
+  "id": "hunan",
+  "name_en": "Hunan · Changsha",
+  "name_zh": "湖南·长沙",
+  "en": [
+    {
+      "id": "hunan-001",
+      "date": "June 19, 2026",
+      "region": "Hunan · Changsha",
+      "dishes": [
+        {
+          "name": "Changsha Stinky Tofu（长沙臭豆腐）",
+          "image": "images/changsha-cuisine-hero.png",
+          "tags": ["Spicy", "Street Food", "National Intangible Heritage"],
+          "description": "Changsha's culinary icon with over a century of street history. The tofu is soaked in a fermented brine made from black beans, shiitake mushrooms, and a dozen spices, then deep-fried until the exterior blisters golden-crisp while the inside stays soft and porous. Finished with garlic-chili sauce, pickled radish, and cilantro.",
+          "history": "A century-old Changsha street food that evolved from handmade fermented tofu sold by street vendors. The unique 'smells strong, tastes incredible' experience made it a city signature. Now recognized as a national intangible cultural heritage dish.",
+          "method": "1. Prepare aged brine with black beans, shiitake, and spices.<br>2. Soak white tofu blocks until fully infused.<br>3. Deep-fry at high temperature until golden and blistered.<br>4. Poke open the crispy shell, fill with garlic-chili sauce.<br>5. Top with pickled radish and fresh cilantro.",
+          "eatingGuide": "<b>Must eat piping hot.</b> Bite through the crispy shell immediately while the sauce bursts inside your mouth. Never eat it cold — the shell turns tough and the flavor disappears. One bite gives you the perfect contrast: crispy exterior, soft interior, and an explosion of spicy, garlicky goodness.",
+          "culturalCode": "<b>Smelly on the street, legendary on the plate.</b> The aroma of stinky tofu is as much a part of Changsha's streetscape as the Xiang River. It's the ultimate 'don't judge by appearance' food — locals line up at Pozi Street stalls every evening. The classic black version (黑色经典) is the gold standard for first-timers.",
+          "honestTalk": "<b>It genuinely smells strong on the street.</b> The smell hits you from a block away — this is normal. It tastes much milder than it smells. First-timers should start with the classic black version at a reputable shop on Pozi Street. Avoid stalls that look like they reuse old oil."
+        },
+        {
+          "name": "Sugar Oil BaBa（糖油粑粑）",
+          "image": "images/changsha-cuisine-hero.png",
+          "tags": ["Sweet", "Street Food", "Childhood Classic"],
+          "description": "A beloved Changsha childhood snack tracing back to Ming-Qing market stalls. Pure glutinous rice dough kneaded into small rounds, slowly fried in warm oil until golden and translucent, then coated in thick brown sugar syrup until every piece glistens.",
+          "history": "Originated in the Ming-Qing dynasty street markets of Changsha. A simple sweet treat that generations of Changsha locals grew up eating. Despite changing times, it remains a constant presence on old streets and food alleys.",
+          "method": "1. Knead pure glutinous rice flour into smooth dough.<br>2. Form into small round balls.<br>3. Fry in warm oil over low heat until puffed and golden.<br>4. Prepare thick brown sugar syrup separately.<br>5. Coat each ball evenly in syrup, turning constantly.",
+          "eatingGuide": "<b>Must eat while hot.</b> The outer caramelized sugar shell is crunchy-sweet, while the inside stretches soft and chewy. Eat it immediately off the stick — the contrast between crispy shell and gooey center is what makes it magical. Perfect for all ages and any time of day.",
+          "culturalCode": "<b>The taste of every Changsha person's childhood.</b> No visit to Taiping Old Street is complete without a stick of sugar oil baba. It's comfort food in its purest form — no complicated flavors, just the honest satisfaction of hot, sweet, chewy dough.",
+          "honestTalk": "<b>It looks simple but is surprisingly hard to make at home.</b> The oil temperature control is everything — too hot burns the outside, too cold makes it greasy. Let the street vendors do it. Buy 2-3 pieces per person; they're small and addictive."
+        },
+        {
+          "name": "Changsha Rice Noodles（长沙米粉）",
+          "image": "images/changsha-cuisine-hero.png",
+          "tags": ["Breakfast", "Comfort Food", "Century-old Tradition"],
+          "description": "Changsha's century-old breakfast staple. Unlike other regions, Changsha specializes in thin, tender flat rice noodles made from early-season rice. The soul of the dish lies in the bone broth — pork bones and chicken frames simmered for hours into a milky white elixir — and the 'mazi' (码子), freshly stir-fried toppings like shredded pork, minced meat sauce, or braised beef.",
+          "history": "Rice noodles have been Changsha's breakfast tradition since the Qing Dynasty. The culture of 'eating powder' (嗦粉) is woven into the city's daily rhythm — every neighborhood has its favorite noodle shop.",
+          "method": "1. Simmer pork leg bones and chicken frames for 4-6 hours until broth turns milky white.<br>2. Quickly blanch flat rice noodles in boiling water.<br>3. Place noodles in bowl, ladle hot broth over.<br>4. Top with freshly stir-fried 'mazi' (meat toppings).<br>5. Serve with pickled long beans and chili on the side.",
+          "eatingGuide": "<b>Local rule: 'Light pick, heavy cover' (轻挑重盖).</b> Less noodle, more topping. Sip the pure broth first to appreciate its depth, then mix in chili and pickled beans. Slurp the noodles — it's the proper Changsha way. This is how the city wakes up every morning.",
+          "culturalCode": "<b>A bowl of rice noodles is Changsha's morning ritual.</b> The greasier and more unassuming the shop, the better the noodles. Locals judge a shop by the richness of its broth, not its decor. Find a random noodle shop (粉店) with a morning crowd — that's where the real breakfast is.",
+          "honestTalk": "<b>Skip the hotel breakfast. Find a street noodle shop.</b> The best rice noodles are at hole-in-the-wall spots where the broth has been simmering since 5 AM. Don't be intimidated by the local dialect — just point at what looks good."
+        },
+        {
+          "name": "Changsha Spicy Crayfish（口味虾）",
+          "image": "images/changsha-cuisine-hero.png",
+          "tags": ["Night Market", "Summer", "Spicy"],
+          "description": "The undisputed king of Changsha's night market scene. Fresh Dongting Lake crayfish cleaned and deveined, then violently stir-fried with perilla leaves, garlic, dried chilies, and secret sauce before a gentle simmer locks the bold flavors into every shell.",
+          "history": "Emerging in the 1990s, spicy crayfish quickly became Changsha's summer night signature. The tradition of gathering around tables of red-hot crayfish with cold beer defines the city's summer culture.",
+          "method": "1. Select live Dongting Lake crayfish, clean and devein.<br>2. Prepare perilla, garlic, dried chilies, and proprietary spice blend.<br>3. High-heat stir-fry until shells turn bright red.<br>4. Add sauce, simmer on low heat to infuse flavor.<br>5. Serve piled high on a large platter.",
+          "eatingGuide": "<b>Local mantra: 'Suck the shell, peel the meat, dip in sauce, lick your fingers.'</b> Suck the spicy sauce off the shell first — that's where the flavor lives. Peel the tail, dip the firm bouncy meat back in the pan sauce, and enjoy. Repeat until your fingers are red and your lips are tingling.",
+          "culturalCode": "<b>Summer in Changsha is measured in plates of crayfish.</b> No summer night is complete without a table of crayfish, cold beer, and good company. The ritual of peeling and eating together is as much about social connection as it is about food.",
+          "honestTalk": "<b>It's messy and that's the point.</b> Wear clothes you don't care about. The red oil will get everywhere. Order perilla peach ginger (紫苏桃子姜) on the side to cool down between rounds. Expect to spend ¥80-150 per person at a decent spot."
+        },
+        {
+          "name": "Chopped Pepper Fish Head（剁椒鱼头）",
+          "image": "images/changsha-cuisine-hero.png",
+          "tags": ["Banquet Dish", "Hunan Classic", "Steamed"],
+          "description": "The headline dish of Hunan cuisine with over a century of history. A fresh Dongting Lake bighead carp head topped generously with three-year-aged chopped chilies, steamed over high heat, then finished with a sizzling pour of rendered pork fat that awakens the chilies' deep, aromatic heat.",
+          "history": "A century-old Hunan banquet classic, representing the pinnacle of steamed fish technique. The combination of fermented chopped chilies and fresh fish head embodies the 'xian-la' (鲜辣, fresh-spicy) philosophy that defines Hunan cuisine.",
+          "method": "1. Select fresh bighead carp head, clean thoroughly.<br>2. Layer ginger slices underneath to remove any fishiness.<br>3. Generously cover with three-year aged chopped chilies.<br>4. Steam over high heat until the meat is tender and translucent.<br>5. Heat rendered pork fat until smoking, pour over to release chili aroma.",
+          "eatingGuide": "<b>Eat the fish meat first, then use the sauce for noodles.</b> The tender cheek meat is the prize. After finishing the fish, order a portion of plain noodles or rice — pour the remaining chili-fish sauce over it. The noodles soaked in that sauce might be even better than the fish itself.",
+          "culturalCode": "<b>The face of Hunan banquet cuisine.</b> When Hunan people host guests, chopped pepper fish head is non-negotiable. The bright red chilies symbolize prosperity and warmth. The dish represents the Hunan spirit: bold, direct, and unforgettable.",
+          "honestTalk": "<b>The best part is the cheek meat and the sauce.</b> Don't be intimidated by the fish head — the meat around the cheeks and jaw is incredibly tender. The sauce-soaked noodles at the end are considered by many locals to be the real main event."
+        },
+        {
+          "name": "Mao's Braised Pork（毛氏红烧肉）",
+          "image": "images/changsha-cuisine-hero.png",
+          "tags": ["Classic", "Banquet Dish", "Red-Braised"],
+          "description": "A legendary red-braised Hunan classic originating from Chairman Mao's hometown cooking tradition. Select pork belly with perfect fat-to-lean ratio, blanched and caramelized with rock sugar, then slow-braised for an hour in stock until the meat glows amber-red like ancient lacquerware.",
+          "history": "A classic red cuisine dish from Chairman Mao Zedong's hometown in Hunan. This home-style recipe was refined over generations into a celebrated Hunan banquet dish, embodying the rich, savory-sweet depth of traditional braised cooking.",
+          "method": "1. Select pork belly with even fat-lean ratio, with skin on.<br>2. Blanch in boiling water to remove impurities.<br>3. Caramelize rock sugar over low heat until amber.<br>4. Add pork, coat evenly with caramel.<br>5. Add stock, simmer on low heat for 1 hour until tender.<br>6. Reduce sauce until thick and glossy.",
+          "eatingGuide": "<b>The perfect bite has both fat and lean.</b> The fat should melt on your tongue — soft, unctuous, never greasy. The lean meat stays firm and flavorful. Eat it with plain white rice; let the glossy sauce soak into the grains. The sauce is the soul of this dish — don't leave a drop behind.",
+          "culturalCode": "<b>A dish that carries history in every bite.</b> Mao's Braised Pork represents the soul of Hunan home cooking elevated to banquet status. It's comfort and ceremony in one dish — the kind of food that makes Hunan people homesick no matter where they are in the world.",
+          "honestTalk": "<b>It looks heavy but the fat should be light and silky.</b> Properly made, the fat dissolves on contact with your tongue. If it feels greasy or heavy, the braising time wasn't long enough. This dish is best eaten family-style — order it as one of several shared dishes, not as a solo main course."
+        }
+      ]
+    }
+  ]
+}
