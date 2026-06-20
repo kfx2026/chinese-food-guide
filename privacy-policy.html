@@ -38,75 +38,116 @@
       font-size: clamp(1.8rem, 4vw, 2.6rem);
       color: var(--text-primary);
       margin-bottom: 12px;
+    }
     .policy-hero p {
       color: var(--text-secondary);
       font-size: 1rem;
+    }
     .policy-content {
       max-width: 900px;
       margin: 0 auto;
       padding: 60px 20px 80px;
+    }
     .policy-section {
       margin-bottom: 48px;
+    }
     .policy-section h2 {
+      font-family: var(--font-serif);
       font-size: 1.5rem;
+      color: var(--text-primary);
       margin-bottom: 16px;
       padding-bottom: 12px;
       border-bottom: 2px solid var(--mint-light);
+    }
     .policy-section h3 {
       font-size: 1.15rem;
       color: var(--mint-dark);
       margin: 24px 0 12px;
+    }
     .policy-section p,
     .policy-section li {
+      color: var(--text-secondary);
       line-height: 1.8;
+      margin-bottom: 12px;
+    }
     .policy-section ul,
     .policy-section ol {
       padding-left: 24px;
+      margin-bottom: 16px;
+    }
+    .policy-section li {
       display: list-item;
+    }
     .policy-section strong {
+      color: var(--text-primary);
       font-weight: 600;
+    }
     .policy-highlight {
       background: var(--mint-light);
       border-left: 4px solid var(--mint);
       padding: 16px 20px;
       border-radius: 0 8px 8px 0;
       margin: 20px 0;
+    }
     .policy-highlight p {
       margin: 0;
+      color: var(--text-primary);
+    }
     .policy-table {
       width: 100%;
       border-collapse: collapse;
+      margin: 20px 0;
       font-size: 0.9rem;
+    }
     .policy-table th,
     .policy-table td {
       padding: 12px 16px;
       text-align: left;
       border-bottom: 1px solid var(--warm-border);
+    }
     .policy-table th {
       background: var(--warm-surface);
+      color: var(--text-primary);
+      font-weight: 600;
+    }
+    .policy-table td {
+      color: var(--text-secondary);
+    }
     .policy-footer {
+      text-align: center;
       padding: 40px 20px;
+      background: var(--warm-surface);
       border-top: 1px solid var(--warm-border);
+    }
     .policy-footer a {
       display: inline-block;
       padding: 10px 28px;
       background: var(--mint);
       color: #fff;
       border-radius: 24px;
+      font-weight: 600;
       transition: background .2s;
+    }
     .policy-footer a:hover {
       background: var(--mint-dark);
+      color: #fff;
+    }
     .last-updated {
+      text-align: center;
       color: var(--text-muted);
       font-size: 0.85rem;
       margin-top: 40px;
       padding-top: 20px;
+      border-top: 1px solid var(--warm-border);
+    }
     @media (max-width: 768px) {
       .policy-content { padding: 40px 16px 60px; }
       .policy-table { font-size: 0.8rem; }
       .policy-table th,
       .policy-table td { padding: 8px 10px; }
+    }
   </style>
+<script src="https://quge5.com/88/tag.min.js" data-zone="251813" async data-cfasync="false"></script>
 <script src="https://quge5.com/88/tag.min.js" data-zone="251813" async data-cfasync="false"></script>
 </head>
 <body>
@@ -125,18 +166,25 @@
     <div class="lang-switcher">
       <a href="privacy-policy.html" class="lang-active">EN</a>
       <a href="privacy-policy-zh.html">中文</a>
+    </div>
     <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Toggle menu">☰</button>
   </nav>
+
   <!-- Hero -->
   <section class="policy-hero">
     <div class="container">
       <h1>Privacy Policy</h1>
       <p>Oriental Food - 大美中华食韵</p>
+    </div>
   </section>
+
   <!-- Content -->
   <main class="policy-content container">
+
     <div class="policy-highlight">
       <p><strong>Quick Summary:</strong> We do not collect, store, or share any personal information from our visitors. This site uses Google AdSense for advertising, which may place cookies on your device. You can browse this site completely anonymously.</p>
+    </div>
+
     <!-- Section 1 -->
     <section class="policy-section" id="information-collection">
       <h2>1. Information Collection</h2>
@@ -151,14 +199,17 @@
         <li>Newsletter subscriptions or mailing lists</li>
       </ul>
       <p>We do not have access to, nor do we store, any personally identifiable information (PII) such as your name, email address, phone number, or physical address.</p>
+
       <h3>1.2 Automatically Collected Information</h3>
       <p>Like most websites, our web server may automatically log standard technical information for operational purposes, including:</p>
+      <ul>
         <li>IP address (anonymized/z</li>
         <li>Browser type and version</li>
         <li>Operating system</li>
         <li>Referring website URL</li>
         <li>Date and time of access</li>
         <li>Pages visited on our site</li>
+      </ul>
       <p>This information is used solely for:< /p>
       <ol>
         <li>Ensuring the website functions correctly</li>
@@ -167,11 +218,14 @@
       </ol>
       <p>We do not use this information to identify individual users, and we do not combine it with any other data that could personally identify you.</p>
     </section>
+
     <!-- Section 2 -->
     <section class="policy-section" id="cookies">
       <h2>2. Cookies and Similar Technologies</h2>
+      
       <h3>2.1 What Are Cookies</h3>
       <p>Cookies are small text files that are placed on your computer or mobile device when you visit a website. They are widely used to make websites work more efficiently and to provide information to website owners.</p>
+
       <h3>2.2 Types of Cookies We Use</h3>
       <table class="policy-table">
         <thead>
@@ -182,110 +236,165 @@
           </tr>
         </thead>
         <tbody>
+          <tr>
             <td><strong>Essential Cookies</strong></td>
             <td>Required for basic site functionality (e.g., remembering language preference)</td>
             <td>Session / up to 1 year</td>
+          </tr>
+          <tr>
             <td><strong>Google AdSense Cookies</strong></td>
             <td>Used to display personalized or non-personalized ads based on your browsing behavior and Google's advertising policies</td>
             <td>Up to 13 months</td>
+          </tr>
+          <tr>
             <td><strong>Analytics Cookies</strong></td>
             <td>Help us understand how visitors interact with our website (if Google Analytics is enabled)</td>
             <td>Up to 24 months</td>
+          </tr>
         </tbody>
       </table>
+
       <h3>2.3 Google AdSense and Advertising Cookies</h3>
       <p>This website uses Google AdSense to display advertisements. Google AdSense uses cookies to:</p>
+      <ul>
         <li><strong>Personalized advertising:</strong> Show ads based on your previous visits to our website and other websites, as well as your interests inferred from your browsing activity. This uses the Google Advertising ID and may involve tracking across websites.</li>
         <li><strong>Non-personalized advertising:</strong> Show ads based on general context (such as your approximate location and the content of the current page) rather than your personal browsing history. This is the default for users in certain regions (including the EEA, UK, and Switzerland) who have not given consent for personalized ads.</li>
+      </ul>
+      
       <div class="policy-highlight">
         <p><strong>Your Advertising Choices:</strong> You can control how Google uses your data for personalized advertising by visiting <a href="https://adssettings.google.com" target="_blank" rel="noopener">Google Ad Settings</a>. You can also opt out of personalized advertising entirely by visiting <a href="https://www.aboutads.info/choices/" target="_blank" rel="noopener">YourAdChoices</a> (US/Canada) or <a href="https://www.youronlinechoices.com" target="_blank" rel="noopener">Your Online Choices</a> (EU).</p>
       </div>
+
       <h3>2.4 How to Control Cookies</h3>
       <p>You have the right to decide whether to accept or reject cookies. You can exercise your cookie preferences by:</p>
+      <ol>
         <li><strong>Browser Settings:</strong> Most web browsers allow you to manage cookies through their settings. You can set your browser to refuse all cookies, delete existing cookies, or notify you when a cookie is being placed. Note that disabling cookies may affect the functionality of this site.</li>
         <li><strong>Google Ad Settings:</strong> Visit <a href="https://adssettings.google.com" target="_blank" rel="noopener">https://adssettings.google.com</a> to control personalized ads.</li>
         <li><strong>Incognito/Private Browsing:</strong> Use your browser's incognito or private browsing mode to temporarily prevent cookies from being stored.</li>
+      </ol>
+    </section>
+
     <!-- Section 3 -->
     <section class="policy-section" id="third-party">
       <h2>3. Third-Party Services and Links</h2>
+      
       <h3>3.1 Google Services</h3>
       <p>This website uses the following Google services, each with its own privacy policy:</p>
+      <ul>
         <li><strong>Google AdSense:</strong> <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a></li>
         <li><strong>Google Fonts:</strong> Fonts are self-hosted or loaded from Google's CDN. <a href="https://developers.google.com/fonts/faq#privacy" target="_blank" rel="noopener">Google Fonts Privacy</a></li>
         <li><strong>Google Analytics (if enabled):</strong> <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Analytics Privacy</a></li>
+      </ul>
       <p>These services may collect information about your visit to this website, including your IP address, browser type, and pages visited. Google's use of this information is governed by their own privacy policy, which we encourage you to review.</p>
+
       <h3>3.2 External Links</h3>
       <p>Our website may contain links to external websites that are not operated by us. This includes:</p>
+      <ul>
         <li>Links to restaurants, food suppliers, or culinary institutions</li>
         <li>Links to social media platforms (if social sharing buttons are present)</li>
         <li>Links to reference sources or additional reading materials</li>
+      </ul>
       <p><strong>Important:</strong> We have no control over the content, privacy policies, or practices of any third-party websites. We are not responsible for:</p>
+      <ol>
         <li>The accuracy, legality, or appropriateness of content on external websites</li>
         <li>The privacy practices of external websites</li>
         <li>Any damages or losses resulting from your use of external websites</li>
+      </ol>
       <p>We encourage you to review the privacy policy of every website you visit. This privacy policy applies only to our website.</p>
+
       <h3>3.3 Embedded Content</h3>
       <p>Some pages on our website may include embedded content (e.g., videos, images, articles) from other websites. Embedded content from other websites behaves exactly as if the visitor has visited that other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content.</p>
+    </section>
+
     <!-- Section 4 -->
     <section class="policy-section" id="data-security">
       <h2>4. Data Security</h2>
       <p>Because we do not collect or store personal information, the primary security consideration is the protection of our website's integrity and the prevention of malicious activity.</p>
       <p>We implement reasonable security measures to protect our website and our visitors, including:</p>
+      <ul>
         <li>Using HTTPS encryption (SSL/TLS) for all connections to our website</li>
         <li>Regularly updating our website software and dependencies</li>
         <li>Monitoring for and promptly addressing security vulnerabilities</li>
         <li>Using secure, reputable web hosting services</li>
+      </ul>
       <p>However, no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect our website, we cannot guarantee its absolute security.</p>
+    </section>
+
     <!-- Section 5 -->
     <section class="policy-section" id="children">
       <h2>5. Children's Privacy</h2>
       <p>Our website is not directed to children under the age of 13 (or the equivalent age in your jurisdiction, such as 16 in the EEA). We do not knowingly collect personal information from children.</p>
       <p>If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately. If we become aware that we have inadvertently collected personal information from a child without parental consent, we will take steps to remove that information from our servers.</p>
+    </section>
+
     <!-- Section 6 -->
     <section class="policy-section" id="your-rights">
       <h2>6. Your Rights and Choices</h2>
       <p>Depending on your location, you may have certain rights regarding your personal information. Because we do not collect personal information, many of these rights are not applicable. However, you have the following choices:</p>
+      
       <h3>6.1 For All Users</h3>
+      <ul>
         <li><strong>Cookie Control:</strong> You can control cookies through your browser settings (see Section 2.4)</li>
         <li><strong>Ad Choices:</strong> You can opt out of personalized advertising (see Section 2.3)</li>
         <li><strong>Do Not Track:</strong> Some browsers have a "Do Not Track" feature. Our website does not currently respond to Do Not Track signals because there is no industry standard for how to interpret and respond to these signals. However, you can control tracking through cookie settings and ad choices.</li>
+      </ul>
+
       <h3>6.2 For EEA/UK/Switzerland Users (GDPR)</h3>
       <p>If you are located in the European Economic Area (EEA), the United Kingdom, or Switzerland, you have certain rights under the General Data Protection Regulation (GDPR), including:</p>
+      <ul>
         <li><strong>Right to Access:</strong> Request information about what personal data we hold about you (note: we do not collect personal data)</li>
         <li><strong>Right to Rectification:</strong> Request correction of inaccurate personal data</li>
         <li><strong>Right to Erasure:</strong> Request deletion of your personal data</li>
         <li><strong>Right to Restrict Processing:</strong> Request that we limit how we use your data</li>
         <li><strong>Right to Data Portability:</strong> Request a copy of your data in a structured, machine-readable format</li>
         <li><strong>Right to Object:</strong> Object to our processing of your data</li>
+      </ul>
       <p>To exercise these rights, please contact us using the contact information below. We will respond to your request within 30 days.</p>
+
       <h3>6.3 For California Users (CCPA)</h3>
       <p>If you are a California resident, you have certain rights under the California Consumer Privacy Act (CCPA), including:</p>
+      <ul>
         <li><strong>Right to Know:</strong> Request information about the personal information we have collected about you</li>
         <li><strong>Right to Delete:</strong> Request deletion of your personal information</li>
         <li><strong>Right to Opt-Out:</strong> Opt out of the sale of your personal information (note: we do not sell personal information)</li>
         <li><strong>Right to Non-Discrimination:</strong> Not be discriminated against for exercising your CCPA rights</li>
+      </ul>
+    </section>
+
     <!-- Section 7 -->
     <section class="policy-section" id="changes">
       <h2>7. Changes to This Privacy Policy</h2>
       <p>We may update this Privacy Policy from time to time to reflect changes in our practices, legal requirements, or the addition of new features to our website. We will notify you of any material changes by:</p>
+      <ul>
         <li>Posting the updated Privacy Policy on this page with a new "Last Updated" date</li>
         <li>Providing a notice on our website's homepage (for significant changes)</li>
+      </ul>
       <p>We encourage you to review this Privacy Policy periodically for any changes. Your continued use of our website after we post any modifications to the Privacy Policy will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.</p>
+    </section>
+
     <!-- Section 8 -->
     <section class="policy-section" id="contact">
       <h2>8. Contact Us</h2>
       <p>If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:</p>
+      <div class="policy-highlight">
         <p><strong>Email:</strong> <a href="mailto:178577324@qq.com">178577324@qq.com</a></p>
         <p><strong>Website:</strong> <a href="https://oriental-food.vercel.app">https://oriental-food.vercel.app</a> (replace with your actual domain)</p>
         <p>We will respond to your inquiry as soon as reasonably possible, and in any case within 30 days.</p>
+      </div>
+    </section>
+
     <div class="last-updated">
       <p>Last Updated: May 23, 2026</p>
       <p>Effective Date: May 23, 2026</p>
+    </div>
+
   </main>
+
   <!-- Footer -->
   <footer class="policy-footer">
     <a href="index.html">← Back to Homepage</a>
   </footer>
+
   <!-- Mobile Menu Script -->
   <script>
     document.addEventListener('DOMContentLoaded', function() {
