@@ -24,3 +24,10 @@ desktop.ini
 *.swo
 food-push
 # Redeployed Sat Jul 11 11:38:30     2026
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
