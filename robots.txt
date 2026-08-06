@@ -1,16 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /assets/
-Disallow: /*.txt
-Disallow: /*.md
-Disallow: /build_*.py
-
-User-agent: Bingbot
-Allow: /
-Crawl-delay: 2
-
-User-agent: Googlebot
-Allow: /
-Crawl-delay: 2
-
-Sitemap: https://food.eastculture.top/sitemap.xml
+Sitemap: https://chinaculture.pages.dev/sitemap.xml

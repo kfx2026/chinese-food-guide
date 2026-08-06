@@ -98,6 +98,18 @@ const PREVIEW_QUEUE = {
       ],
       eta: '',
     },
+    {
+      id: 'henan',
+      province: 'Henan · Zhengzhou',
+      status: 'live',
+      dishes: [
+        { name: 'Hu La Tang (Spicy Pepper Soup)', desc: 'Henan\'s legendary breakfast — fiery beef soup with tofu skin and glass noodles' },
+        { name: 'Zhengzhou Hui Mian (Braised Noodles)', desc: 'Hand-pulled noodles in milky lamb broth — the city\'s signature comfort food' },
+        { name: 'Daokou Roast Chicken', desc: 'Three centuries of imperial heritage — amber-golden, meat falling off the bone' },
+        { name: 'Kaifeng Soup Dumplings', desc: 'Paper-thin skins, rich broth — rivaling Shanghai\'s best xiaolongbao' },
+      ],
+      eta: '',
+    },
   ],
   zh: [
     {
@@ -189,6 +201,18 @@ const PREVIEW_QUEUE = {
       ],
       eta: '',
     },
+    {
+      id: 'henan',
+      province: '河南·郑州',
+      status: 'live',
+      dishes: [
+        { name: '胡辣汤', desc: '河南传奇早餐——胡椒辣汤配牛肉、豆皮、面筋和粉条' },
+        { name: '郑州烩面', desc: '手抻宽面配浓郁羊骨汤——城市灵魂食物' },
+        { name: '道口烧鸡', desc: '三百年御膳——琥珀色泽，骨肉分离' },
+        { name: '开封灌汤包', desc: '薄皮浓汤——比上海小笼包还惊艳' },
+      ],
+      eta: '',
+    },
   ],
 };
 
@@ -236,6 +260,7 @@ const PROVINCE_IMAGES = {
   shanghai: 'images/shanghai-card.jpg',
   jiangsu: 'images/jiangsu-card.jpg',
   hunan: 'images/changsha-cuisine-hero.png',
+  henan: 'images/zhengzhou/cbd-ruyi-lake.jpg',
   guangdong: 'images/jiangsu-card.jpg', // fallback
   yunnan: 'images/sichuan-card.jpg',    // fallback
 };

@@ -34,6 +34,13 @@
       "name_zh": "湖南·长沙",
       "dish_count": 6,
       "status": "live"
+    },
+    {
+      "id": "henan",
+      "name_en": "Henan · Zhengzhou",
+      "name_zh": "河南·郑州",
+      "dish_count": 4,
+      "status": "live"
     }
   ]
 }

@@ -5,7 +5,7 @@
 """
 
 # 读取文件
-with open(r'D:\东方美食\js\main.js', 'r', encoding='utf-8') as f:
+with open(r'E:\网站源码\网站源码\中国美食\js\main.js', 'r', encoding='utf-8') as f:
     content = f.read()
 
 # 要查找的文本（UPDATES.zh 里的四川火锅）
@@ -41,7 +41,7 @@ new_text = """        {
 
 if old_text in content:
     content = content.replace(old_text, new_text, 1)
-    with open(r'D:\东方美食\js\main.js', 'w', encoding='utf-8') as f:
+    with open(r'E:\网站源码\网站源码\中国美食\js\main.js', 'w', encoding='utf-8') as f:
         f.write(content)
     print("SUCCESS: 江油肥肠已添加到四川美食栏")
 else:

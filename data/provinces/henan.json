@@ -1,0 +1,191 @@
+{
+  "id": "henan",
+  "name_en": "Henan · Zhengzhou",
+  "name_zh": "河南·郑州",
+  "en": [
+    {
+      "id": "henan-001",
+      "region": "Henan · Zhengzhou",
+      "date": "2026-07-13",
+      "dishes": [
+        {
+          "name": "Hu La Tang (胡辣汤)",
+          "name_zh": "胡辣汤",
+          "description": "Henan's legendary spicy breakfast soup — thick, peppery broth loaded with beef, tofu skin, gluten, and glass noodles. Every street corner in old Zhengzhou has a stall claiming to be the best. Fang Zhongshan on Shunhe Road has been the gold standard since 1980.",
+          "description_zh": "河南传奇早餐——浓稠胡椒辣汤配牛肉、豆皮、面筋和粉条。老郑州每个街头都有自称最好的胡辣汤摊。顺河路方中山自1980年起就是金字招牌。",
+          "history": "Originated in Zhoukou, Henan during the Qing Dynasty. Originally a simple pepper soup, it evolved over centuries into the complex, multi-ingredient breakfast dish known today.",
+          "history_zh": "起源于河南周口，清朝时期。最初是简单的胡椒汤，历经数百年演变为今天食材丰富的早餐名吃。",
+          "method": "1. Simmer beef bones for 4 hours for broth. 2. Add pepper, star anise, cinnamon to broth. 3. Cook sliced beef until tender. 4. Add tofu skin strips and gluten cubes. 5. Thicken with starch slurry. 6. Serve piping hot with chopped cilantro.",
+          "method_zh": "1. 牛骨熬汤4小时。2. 汤中加入胡椒、八角、桂皮。3. 炖牛肉至软烂。4. 加入豆皮丝和面筋块。5. 用淀粉勾芡。6. 趁热盛碗，撒香菜。",
+          "tags": [
+            "Spicy",
+            "Breakfast",
+            "Soup"
+          ],
+          "tags_zh": [
+            "辣",
+            "早餐",
+            "汤"
+          ],
+          "image": "images/zhengzhou/hulatang.jpg"
+        },
+        {
+          "name": "Zhengzhou Hui Mian (烩面)",
+          "name_zh": "郑州烩面",
+          "description": "Henan's signature hand-pulled braised noodles in milky lamb bone broth. Topped with sliced lamb, quail eggs, and wood ear mushrooms. Xiao Ji San Xian Hui Mian has been serving since the 1940s.",
+          "description_zh": "河南最具代表性的手抻烩面，浓郁羊骨汤配羊肉片、鹌鹑蛋和木耳。萧记三鲜烩面上世纪40年代开业至今。",
+          "history": "Created in the 1940s by Xiao family in Zhengzhou, inspired by Hui Muslim cuisine. The name 'Hui Mian' literally means 'braised noodles' — distinct from regular noodle soups.",
+          "history_zh": "由郑州萧氏家族于1940年代创制，灵感来自回族清真烹饪。'烩面'意为'烩制的面'——与普通汤面截然不同。",
+          "method": "1. Simmer lamb bones 6-8 hours for milky broth. 2. Make hand-pulled dough strips. 3. Cook noodles in broth. 4. Top with sliced lamb, quail eggs, wood ear mushrooms. 5. Garnish with cilantro and chili oil.",
+          "method_zh": "1. 羊骨炖6-8小时至汤白。2. 手工抻面成宽条。3. 汤中煮面。4. 铺上羊肉片、鹌鹑蛋、木耳。5. 撒香菜、淋辣椒油。",
+          "tags": [
+            "Noodles",
+            "Comfort Food",
+            "Lamb"
+          ],
+          "tags_zh": [
+            "面",
+            "暖胃",
+            "羊肉"
+          ],
+          "image": "images/zhengzhou/huimian.jpg"
+        },
+        {
+          "name": "Daokou Roast Chicken (道口烧鸡)",
+          "name_zh": "道口烧鸡",
+          "description": "An imperial tribute dish with three centuries of history. Marinated in eight secret spices, steamed then roasted — the meat falls off the bone and the skin glistens amber. Look for the original brand: Yixingzhang (义兴张).",
+          "description_zh": "三百年宫廷贡品历史。八味秘制香料腌制、先蒸后烤——骨肉分离、鸡皮琥珀色。认准义兴张品牌。",
+          "history": "Dating back to the Qing Dynasty (c.1661), this dish originated in Daokou town, Henan. It was favored by Empress Dowager Cixi as an imperial kitchen tribute.",
+          "history_zh": "可追溯至清朝（约1661年），源自河南道口镇。深得慈禧太后喜爱，成为御膳贡品。",
+          "method": "1. Clean whole chicken, truss legs. 2. Marinate 12 hours in 8-spice blend (star anise, cinnamon, clove, fennel, etc.). 3. Steam for 1 hour. 4. Hang to dry skin. 5. Roast at 180°C until amber-golden. 6. Serve at room temperature.",
+          "method_zh": "1. 整鸡洗净，捆好鸡腿。2. 八味香料腌制12小时。3. 蒸1小时。4. 挂起晾皮。5. 180°C烤至琥珀色。6. 常温食用。",
+          "tags": [
+            "Poultry",
+            "Imperial",
+            "Roast"
+          ],
+          "tags_zh": [
+            "禽肉",
+            "宫廷",
+            "烤"
+          ],
+          "image": "images/zhengzhou/daokou-chicken.jpg"
+        },
+        {
+          "name": "Kaifeng Soup Dumplings (开封灌汤包)",
+          "name_zh": "开封灌汤包",
+          "description": "An hour east of Zhengzhou, Kaifeng's xiaolongbao rival Shanghai's — thinner skins, richer broth. Poke a hole, sip the soup, then devour the dumpling. The pilgrimage to Kaifeng is worth it.",
+          "description_zh": "郑州东行一小时即达开封，灌汤包皮更薄、汤更浓。戳洞、喝汤、吃包。去一趟开封值得。",
+          "history": "Kaifeng was the capital of the Northern Song Dynasty (960-1127 AD), and these soup dumplings date back to that era of culinary refinement under imperial patronage.",
+          "history_zh": "开封是北宋（960-1127年）都城，灌汤包可追溯至那个皇室烹饪鼎盛的时代。",
+          "method": "1. Make aspic jelly from pork skin and bones. 2. Mix minced pork with aspic cubes, ginger, Shaoxing wine. 3. Wrap in paper-thin dough skins. 4. Steam for 8 minutes. 5. Serve immediately — poke hole, sip soup, eat.",
+          "method_zh": "1. 猪皮熬冻。2. 猪肉末拌皮冻粒、姜末、绍兴酒。3. 薄面皮包入馅料。4. 蒸8分钟。5. 立即食用——戳洞、喝汤、吃包。",
+          "tags": [
+            "Dim Sum",
+            "Dumpling",
+            "Soup"
+          ],
+          "tags_zh": [
+            "点心",
+            "包子",
+            "汤"
+          ],
+          "image": "images/zhengzhou/soup-dumplings.jpg"
+        }
+      ]
+    }
+  ],
+  "zh": [
+    {
+      "id": "henan-001",
+      "region": "Henan · Zhengzhou",
+      "date": "2026-07-13",
+      "dishes": [
+        {
+          "name": "Hu La Tang (胡辣汤)",
+          "name_zh": "胡辣汤",
+          "description": "Henan's legendary spicy breakfast soup — thick, peppery broth loaded with beef, tofu skin, gluten, and glass noodles. Every street corner in old Zhengzhou has a stall claiming to be the best. Fang Zhongshan on Shunhe Road has been the gold standard since 1980.",
+          "description_zh": "河南传奇早餐——浓稠胡椒辣汤配牛肉、豆皮、面筋和粉条。老郑州每个街头都有自称最好的胡辣汤摊。顺河路方中山自1980年起就是金字招牌。",
+          "history": "Originated in Zhoukou, Henan during the Qing Dynasty. Originally a simple pepper soup, it evolved over centuries into the complex, multi-ingredient breakfast dish known today.",
+          "history_zh": "起源于河南周口，清朝时期。最初是简单的胡椒汤，历经数百年演变为今天食材丰富的早餐名吃。",
+          "method": "1. Simmer beef bones for 4 hours for broth. 2. Add pepper, star anise, cinnamon to broth. 3. Cook sliced beef until tender. 4. Add tofu skin strips and gluten cubes. 5. Thicken with starch slurry. 6. Serve piping hot with chopped cilantro.",
+          "method_zh": "1. 牛骨熬汤4小时。2. 汤中加入胡椒、八角、桂皮。3. 炖牛肉至软烂。4. 加入豆皮丝和面筋块。5. 用淀粉勾芡。6. 趁热盛碗，撒香菜。",
+          "tags": [
+            "Spicy",
+            "Breakfast",
+            "Soup"
+          ],
+          "tags_zh": [
+            "辣",
+            "早餐",
+            "汤"
+          ],
+          "image": "images/zhengzhou/hulatang.jpg"
+        },
+        {
+          "name": "Zhengzhou Hui Mian (烩面)",
+          "name_zh": "郑州烩面",
+          "description": "Henan's signature hand-pulled braised noodles in milky lamb bone broth. Topped with sliced lamb, quail eggs, and wood ear mushrooms. Xiao Ji San Xian Hui Mian has been serving since the 1940s.",
+          "description_zh": "河南最具代表性的手抻烩面，浓郁羊骨汤配羊肉片、鹌鹑蛋和木耳。萧记三鲜烩面上世纪40年代开业至今。",
+          "history": "Created in the 1940s by Xiao family in Zhengzhou, inspired by Hui Muslim cuisine. The name 'Hui Mian' literally means 'braised noodles' — distinct from regular noodle soups.",
+          "history_zh": "由郑州萧氏家族于1940年代创制，灵感来自回族清真烹饪。'烩面'意为'烩制的面'——与普通汤面截然不同。",
+          "method": "1. Simmer lamb bones 6-8 hours for milky broth. 2. Make hand-pulled dough strips. 3. Cook noodles in broth. 4. Top with sliced lamb, quail eggs, wood ear mushrooms. 5. Garnish with cilantro and chili oil.",
+          "method_zh": "1. 羊骨炖6-8小时至汤白。2. 手工抻面成宽条。3. 汤中煮面。4. 铺上羊肉片、鹌鹑蛋、木耳。5. 撒香菜、淋辣椒油。",
+          "tags": [
+            "Noodles",
+            "Comfort Food",
+            "Lamb"
+          ],
+          "tags_zh": [
+            "面",
+            "暖胃",
+            "羊肉"
+          ],
+          "image": "images/zhengzhou/huimian.jpg"
+        },
+        {
+          "name": "Daokou Roast Chicken (道口烧鸡)",
+          "name_zh": "道口烧鸡",
+          "description": "An imperial tribute dish with three centuries of history. Marinated in eight secret spices, steamed then roasted — the meat falls off the bone and the skin glistens amber. Look for the original brand: Yixingzhang (义兴张).",
+          "description_zh": "三百年宫廷贡品历史。八味秘制香料腌制、先蒸后烤——骨肉分离、鸡皮琥珀色。认准义兴张品牌。",
+          "history": "Dating back to the Qing Dynasty (c.1661), this dish originated in Daokou town, Henan. It was favored by Empress Dowager Cixi as an imperial kitchen tribute.",
+          "history_zh": "可追溯至清朝（约1661年），源自河南道口镇。深得慈禧太后喜爱，成为御膳贡品。",
+          "method": "1. Clean whole chicken, truss legs. 2. Marinate 12 hours in 8-spice blend (star anise, cinnamon, clove, fennel, etc.). 3. Steam for 1 hour. 4. Hang to dry skin. 5. Roast at 180°C until amber-golden. 6. Serve at room temperature.",
+          "method_zh": "1. 整鸡洗净，捆好鸡腿。2. 八味香料腌制12小时。3. 蒸1小时。4. 挂起晾皮。5. 180°C烤至琥珀色。6. 常温食用。",
+          "tags": [
+            "Poultry",
+            "Imperial",
+            "Roast"
+          ],
+          "tags_zh": [
+            "禽肉",
+            "宫廷",
+            "烤"
+          ],
+          "image": "images/zhengzhou/daokou-chicken.jpg"
+        },
+        {
+          "name": "Kaifeng Soup Dumplings (开封灌汤包)",
+          "name_zh": "开封灌汤包",
+          "description": "An hour east of Zhengzhou, Kaifeng's xiaolongbao rival Shanghai's — thinner skins, richer broth. Poke a hole, sip the soup, then devour the dumpling. The pilgrimage to Kaifeng is worth it.",
+          "description_zh": "郑州东行一小时即达开封，灌汤包皮更薄、汤更浓。戳洞、喝汤、吃包。去一趟开封值得。",
+          "history": "Kaifeng was the capital of the Northern Song Dynasty (960-1127 AD), and these soup dumplings date back to that era of culinary refinement under imperial patronage.",
+          "history_zh": "开封是北宋（960-1127年）都城，灌汤包可追溯至那个皇室烹饪鼎盛的时代。",
+          "method": "1. Make aspic jelly from pork skin and bones. 2. Mix minced pork with aspic cubes, ginger, Shaoxing wine. 3. Wrap in paper-thin dough skins. 4. Steam for 8 minutes. 5. Serve immediately — poke hole, sip soup, eat.",
+          "method_zh": "1. 猪皮熬冻。2. 猪肉末拌皮冻粒、姜末、绍兴酒。3. 薄面皮包入馅料。4. 蒸8分钟。5. 立即食用——戳洞、喝汤、吃包。",
+          "tags": [
+            "Dim Sum",
+            "Dumpling",
+            "Soup"
+          ],
+          "tags_zh": [
+            "点心",
+            "包子",
+            "汤"
+          ],
+          "image": "images/zhengzhou/soup-dumplings.jpg"
+        }
+      ]
+    }
+  ]
+}

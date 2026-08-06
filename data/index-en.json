@@ -177,7 +177,7 @@
   },
   {
     "name": "Chongqing Hotpot",
-    "image": "images/chongqing-hotpot-1.jpg",
+    "image": "images/chongqing-hotpot.jpg",
     "tags": ["Iconic", "Communal"],
     "description": "The original Chinese hotpot — a blazing cauldron of beef tallow, dried chilies, and Sichuan peppercorns. Born from Chongqing's dockworker culture.",
     "region": "Chongqing",
@@ -185,7 +185,7 @@
   },
   {
     "name": "Mao Xue Wang",
-    "image": "images/maoxuewang-1.jpg",
+    "image": "images/mao-xue-wang.jpg",
     "tags": ["Signature", "Spicy"],
     "description": "Duck blood curd and tripe simmered in a crimson chili broth. Born from Chongqing's dock culture.",
     "region": "Chongqing",
@@ -193,7 +193,7 @@
   },
   {
     "name": "Chongqing Xiao Mian (Small Noodles)",
-    "image": "images/chongqing-xiaomian-1.jpg",
+    "image": "images/chongqing-xiaomian.jpg",
     "tags": ["Street Food", "Breakfast"],
     "description": "Chongqing's soul breakfast — alkaline wheat noodles in a fiery blend of chili oil, Sichuan pepper, and sesame paste.",
     "region": "Chongqing",
@@ -201,7 +201,7 @@
   },
   {
     "name": "Hechuan Peach Slice",
-    "image": "images/hechuan-taopian-1.jpg",
+    "image": "images/hechuan-taopian.jpg",
     "tags": ["Snack", "Intangible Heritage"],
     "description": "Paper-thin confection of glutinous rice and walnuts — 180-year-old tradition from Hechuan.",
     "region": "Chongqing",
@@ -209,7 +209,7 @@
   },
   {
     "name": "Rongchang Braised Goose",
-    "image": "images/rongchang-luoe-1.jpg",
+    "image": "images/rongchang-braised-goose.jpg",
     "tags": ["Signature", "Braised"],
     "description": "Whole goose braised in century-old master stock with 30+ spices.",
     "region": "Chongqing",
@@ -217,7 +217,7 @@
   },
   {
     "name": "Chongqing Youcha (Oil Tea)",
-    "image": "images/chongqing-youcha-1.jpg",
+    "image": "images/chongqing-youchai.jpg",
     "tags": ["Breakfast", "Street Food"],
     "description": "Silky rice porridge topped with crispy fried noodles and chili oil — a disappearing breakfast classic.",
     "region": "Chongqing",
@@ -225,7 +225,7 @@
   },
   {
     "name": "Baishiyi Pressed Duck",
-    "image": "images/baishiyi-banduck-1.jpg",
+    "image": "images/baishiyi-pressed-duck.jpg",
     "tags": ["Preserved", "Smoked"],
     "description": "Pressed, smoked whole duck with fan shape and intensely savory cured meat. Qing Dynasty heritage.",
     "region": "Chongqing",
@@ -233,7 +233,7 @@
   },
   {
     "name": "Wanzhou Grilled Fish",
-    "image": "images/wanzhou-grilled-fish-1.jpg",
+    "image": "images/wanzhou-grilled-fish.jpg",
     "tags": ["Signature", "Spicy"],
     "description": "Charcoal-grilled whole river fish simmered tableside in chili-laced broth. Three Gorges culinary treasure.",
     "region": "Chongqing",
@@ -241,7 +241,7 @@
   },
   {
     "name": "Tongnan Coiled Eel",
-    "image": "images/tongnan-coiled-eel-1.jpg",
+    "image": "images/tongnan-coiled-eel.jpg",
     "tags": ["Signature", "Dry-Fried"],
     "description": "Whole baby eels dry-fried into spirals until the bones are crispy enough to eat. Ultimate Jianghu challenge.",
     "region": "Chongqing",

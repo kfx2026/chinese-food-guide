@@ -5,7 +5,7 @@
 """
 
 # 读取文件
-with open(r'D:\东方美食\js\main.js', 'r', encoding='utf-8') as f:
+with open(r'E:\网站源码\网站源码\中国美食\js\main.js', 'r', encoding='utf-8') as f:
     content = f.read()
 
 # 新菜谱数据（江油肥肠）
@@ -36,7 +36,7 @@ new_marker = """          method: '1. 调制锅底：牛油、辣椒、花椒、
 if old_marker in content:
     content = content.replace(old_marker, new_marker, 1)
     # 写回文件
-    with open(r'D:\东方美食\js\main.js', 'w', encoding='utf-8') as f:
+    with open(r'E:\网站源码\网站源码\中国美食\js\main.js', 'w', encoding='utf-8') as f:
         f.write(content)
     print("✅ 成功添加江油肥肠到四川美食栏！")
 else:
