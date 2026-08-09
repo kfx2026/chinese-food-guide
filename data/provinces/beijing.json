@@ -1,0 +1,155 @@
+{
+  "id": "beijing",
+  "name_en": "Beijing",
+  "name_zh": "北京",
+  "en": [
+    {
+      "id": "beijing-001",
+      "date": "August 9, 2026",
+      "region": "Beijing",
+      "dishes": [
+        {
+          "name": "Peking Duck（北京烤鸭）",
+          "image": "images/chinese-food-hero.png",
+          "tags": ["Signature", "Imperial", "Roasted"],
+          "description": "Beijing's undisputed culinary crown jewel with 600 years of imperial history. Whole ducks are inflated to separate skin from fat, glazed with maltose syrup, and roasted in a hung oven over fruitwood until the skin shatters like glass. Carved tableside by a master chef into exactly 108 thin slices — each piece a perfect ratio of crackling skin, melting fat, and succulent meat.",
+          "history": "Dating back to the Yuan Dynasty (13th century), Peking Duck was perfected in the Ming Dynasty imperial kitchens. The dish became the centerpiece of imperial banquets. Quanjude (全聚德), founded in 1864, standardized the hung-oven technique still used today. Nixon's 1972 state dinner famously featured this dish.",
+          "method": "1. Select 45-day-old Peking ducks, inflate skin from fat.<br>2. Blanch and glaze with maltose syrup, air-dry for 24 hours.<br>3. Roast in hung oven over jujube/pear wood at 270°C for 40-50 min.<br>4. Carve 108 slices at the table, starting with crispy skin.<br>5. Serve with thin pancakes, sweet bean sauce, cucumber, and scallion.",
+          "eatingGuide": "<b>Skin first, then the rest.</b> Dip the crackling skin in white sugar — it dissolves instantly on your tongue. Then make your own wrap: pancake, 2-3 slices of duck, a dab of sweet bean sauce, cucumber, scallion. Roll it up tight. The duck carcass makes a rich soup (鸭架汤) served after — don't skip it.",
+          "culturalCode": "<b>A meal that is also theater.</b> The tableside carving is performance art. Watching the chef slice with surgical precision — skin separated from meat with one fluid motion — is part of the experience. A proper Peking Duck dinner is not a quick meal; it's an event. Duck was so central to Beijing culture that in the Qing Dynasty, duck chefs held elite status.",
+          "honestTalk": "<b>Go at lunch for the same quality at lower prices.</b> Quanjude is the famous chain but Da Dong (大董) and Bianyifang (便宜坊) are often preferred by locals. Budget ¥200-400 per person at a good spot. The skin-only first course with sugar is the most memorable bite. Make a reservation — good ducks sell out by 7 PM."
+        },
+        {
+          "name": "Zhajiangmian（老北京炸酱面）",
+          "image": "images/chinese-food-hero.png",
+          "tags": ["Comfort Food", "Noodles", "Everyday Classic"],
+          "description": "Beijing's soul food — a humble bowl of hand-pulled wheat noodles crowned with dark, glistening fried sauce made from fermented soybean paste (黄酱) and diced pork belly. The sauce is the star, slowly fried for an hour until the oil separates and carries the deep umami of fermented beans. Served with a rainbow of fresh vegetable toppings called 'mianma' (面码) — julienned cucumber, radish, soybean sprouts, and celery.",
+          "history": "Rooted in Shandong cuisine brought to Beijing by Qing Dynasty officials, zhajiangmian evolved into the capital's defining comfort food. Every Beijing family has their own recipe for the sauce — some insist on sweet bean paste (甜面酱), others on fermented soybean paste. The dish represents the city's working-class culinary soul.",
+          "method": "1. Dice pork belly into small cubes.<br>2. Slowly fry pork in oil until golden and fat renders.<br>3. Add fermented soybean paste, sweet bean paste, stir constantly.<br>4. Add splash of water, simmer on low for 40-60 min until oil separates.<br>5. Boil thick wheat noodles until chewy (al dente).<br>6. Top with sauce, surround with fresh julienned vegetables.",
+          "eatingGuide": "<b>Mix everything aggressively.</b> The sauce is thick and concentrated — you need to toss it thoroughly into the noodles until every strand is coated. Add chili oil and black vinegar to taste. Eat it quickly while the noodles are still hot; the chewiness fades as they cool. Fresh crunchy vegetables against the rich, oily sauce is the magic combination.",
+          "culturalCode": "<b>A bowl that tastes like home.</b> Every Beijinger's mother makes zhajiangmian. The debate about proper sauce ratios is as heated as Italian grandmothers arguing about ragù. In a city of imperial banquets and Michelin stars, this ¥15 noodle bowl is what locals actually crave.",
+          "honestTalk": "<b>The sauce should be visibly oily — that's correct.</b> If the sauce doesn't have a layer of oil on top, it wasn't fried long enough. Restaurant versions often rush the frying step; homemade is always better. Haichuan Hutong (海碗居) on Zengguang Road does a solid restaurant version. Add the vegetables yourself — the contrast of hot noodles against cold, crunchy toppings is the whole point."
+        },
+        {
+          "name": "Instant-Boiled Mutton（老北京涮羊肉）",
+          "image": "images/chinese-food-hero.png",
+          "tags": ["Winter", "Communal", "Century-old Tradition"],
+          "description": "Beijing's winter ritual since the Yuan Dynasty — paper-thin slices of Inner Mongolian lamb swished briefly in a copper hot pot of clear, bubbling broth. The pot has a distinctive tall chimney heated by charcoal at its core. The broth is intentionally plain (just water, scallion, ginger, and dried jujube) — it's not about the broth, it's about the quality of the lamb and the dipping sauce.",
+          "history": "Introduced by Mongol horsemen during the Yuan Dynasty (13th century). The copper hot pot design, with its central chimney, was developed specifically for this dish. Donglaishun (东来顺), founded in 1903, perfected the mutton-slicing technique and remains Beijing's most famous institution for this dish.",
+          "method": "1. Slice top-quality Inner Mongolian lamb paper-thin (1mm) against the grain.<br>2. Prepare the copper pot with charcoal, fill with water, scallion, ginger, dates.<br>3. Mix sesame dipping sauce: sesame paste, fermented tofu, chive flower paste, chili oil.<br>4. Swish lamb slices in boiling broth for 8-10 seconds — just until color changes.<br>5. Dip in sauce, eat immediately. Repeat.",
+          "eatingGuide": "<b>Don't overcook the lamb.</b> 8-10 seconds is all it needs — any longer and it turns tough. The sesame dipping sauce (芝麻酱) is not optional; mix it yourself from the condiment tray. Start with plain lamb to appreciate the meat quality, then add chili oil. After the lamb, throw in cabbage, glass noodles, and frozen tofu to soak up the now-enriched broth. The broth at the end (汤底) is a delicious bonus.",
+          "culturalCode": "<b>The taste of Beijing winter.</b> When the first snow falls, Beijingers head straight for the hot pot restaurants. The copper chimney pot is a design icon — the taller the chimney, the stronger the fire. Eating shuan yang rou is a slow, social affair designed for hours of conversation. The ritual of swirling raw lamb in bubbling water and the instant transformation is hypnotic.",
+          "honestTalk": "<b>Donglaishun (东来顺) is the classic choice but touristy.</b> For a more local experience, try Nanmen Shuanrou (南门涮肉). The sesame dipping sauce is an acquired taste for some foreigners — it's rich, nutty, and thick. Start with 60% sesame paste + 20% chive flower + 20% fermented tofu. Add chili oil to taste. Budget ¥100-180 per person."
+        },
+        {
+          "name": "Luzhu Huoshao（卤煮火烧）",
+          "image": "images/chinese-food-hero.png",
+          "tags": ["Challenge", "Street Food", "Century-old Tradition"],
+          "description": "Beijing's most hardcore street food and a test of culinary courage. Pork lungs, intestines, and tofu are braised for hours in a dark, aromatic master broth with over 20 spices, then served in a bowl with thick wheat flatbread (火烧) that soaks up every drop of the intensely savory liquid. Garnished with garlic paste, cilantro, fermented tofu, and chili oil.",
+          "history": "Born in the Qing Dynasty from the Suzao (苏造肉) tradition of braised pork offal. Originally a cheap, filling meal for laborers and rickshaw pullers in old Beijing's hutongs. The dish survived decades of urban transformation and is now protected as a Beijing intangible cultural heritage food.",
+          "method": "1. Clean pork intestines and lungs thoroughly with flour and vinegar.<br>2. Prepare master broth with star anise, cinnamon, fennel, ginger, and 20+ spices.<br>3. Braise offal for 2-3 hours until tender but still toothsome.<br>4. Cut flatbread into thick strips, add to broth to soak.<br>5. Assemble in bowl: flatbread base, sliced offal on top, ladle broth over.<br>6. Finish with garlic paste, cilantro, fermented tofu, and chili oil.",
+          "eatingGuide": "<b>The flatbread (火烧) is the best part.</b> It's the sponge that absorbed hours of braising liquid — every bite bursts with the broth's complex flavor. The intestines should be tender with a slight chew; the lungs melt into creaminess. Mix in the garlic paste — it cuts through the richness. This is not a delicate dish; eat it with purpose and don't think too hard about the ingredients.",
+          "culturalCode": "<b>Old Beijing in a bowl.</b> Luzhu shops are time capsules — some have been serving from the same perpetual broth for decades. The dish is a remnant of a Beijing that is rapidly disappearing: the hutong alleyways, the working-class food culture, the tradition of making luxury from humble ingredients. Asking a Beijinger 'where's the best luzhu?' will spark passionate debates.",
+          "honestTalk": "<b>This dish separates the curious from the committed.</b> The earthy, mineral flavor of organ meats is intense. The look of the dish — dark broth with floating pieces of unidentifiable offal — is intimidating. But the flavor is complex and deeply satisfying in a way that clean, pretty food rarely achieves. Start at Xiaochang Chen (小肠陈), the most famous name in luzhu. Order a small bowl the first time. The garlic and chili oil are your friends."
+        },
+        {
+          "name": "Jingjiang Rousi（京酱肉丝）",
+          "image": "images/chinese-food-hero.png",
+          "tags": ["Classic", "Banquet Dish", "Sweet-Savory"],
+          "description": "A refined Beijing classic that shows the capital's delicate side. Slim pork tenderloin strips are velveted in egg white and cornstarch, flash-fried, then coated in a glossy dark sauce of fermented sweet bean paste (甜面酱). Served on a bed of raw scallion strips with thin tofu skin wrappers — you assemble your own mini wraps at the table.",
+          "history": "A product of Beijing's imperial kitchens, this dish embodies the 'Jing' (京) school of Shandong-influenced Beijing cuisine. Unlike the bold, spicy, oily dishes common elsewhere in China, Jingjiang Rousi requires surgical knife work and precise sauce control. It's often the test dish for aspiring Beijing chefs.",
+          "method": "1. Slice pork tenderloin into matchstick-thin strips, marinate with egg white and cornstarch.<br>2. Flash-fry in warm oil (70°C) until just white — 30 seconds.<br>3. In a clean wok, gently heat sweet bean paste with sugar and a touch of water.<br>4. Toss pork strips in the sauce until evenly glazed.<br>5. Serve on a bed of fresh scallion strips with tofu skin wrappers on the side.",
+          "eatingGuide": "<b>DIY assembly is half the fun.</b> Take a tofu skin wrapper, layer on fresh scallion strips, top with glazed pork, roll it up tight. The cool, sharp scallion cuts through the rich, sweet sauce perfectly. Each wrap should be 2-3 bites. Don't pour extra sauce — the pork carries exactly the right amount.",
+          "culturalCode": "<b>Elegance on a plate.</b> This dish represents the 'soft power' of Beijing cuisine — not every dish needs chili and boldness. The technique of velveting (passing through warm oil) is a uniquely Chinese method that creates an ethereally tender texture impossible to replicate with direct heat. Jingjiang Rousi proves that Beijing cuisine is about refinement as much as rustic comfort.",
+          "honestTalk": "<b>Looks simple, tastes surprisingly complex.</b> The sweet bean paste has a deep, fermented umami that's completely different from hoisin sauce (don't confuse them). Good Jingjiang Rousi should have glossy, not greasy, pork. If the pork isn't silky-soft, the chef rushed the velveting step. This is a safe, approachable dish for anyone intimidated by more adventurous Beijing options."
+        },
+        {
+          "name": "Douzhi & Jiaoquan（豆汁儿配焦圈）",
+          "image": "images/chinese-food-hero.png",
+          "tags": ["Challenge", "Breakfast", "Acquired Taste"],
+          "description": "Beijing's most divisive breakfast and the ultimate authenticity test. Douzhi is a fermented mung bean drink — gray-green, slightly sour, with an aroma that hits you before the taste does. It's served piping hot alongside Jiaoquan (焦圈), deep-fried rings of dough that are impossibly crispy. A side of pickled vegetables cuts the funk. Together, they are Beijing's morning ritual for the brave.",
+          "history": "Originating in the Liao Dynasty (10th century), douzhi was first a byproduct of making mung bean starch for noodles. Poor hutong residents discovered that the fermented leftover liquid was surprisingly drinkable when heated. Over centuries, it evolved from survival food to nostalgic breakfast. Lao Cixi (慈禧) was said to enjoy it, elevating its status from paupers' drink to imperial breakfast.",
+          "method": "1. Soak mung beans overnight, grind into a slurry.<br>2. Let the slurry naturally ferment at room temperature for 24 hours.<br>3. Separate the liquid (douzhi) from the starch.<br>4. Heat douzhi gently — never bring to a full boil.<br>5. Serve in a bowl with jiaoquan (crispy fried dough rings) and pickled mustard root.",
+          "eatingGuide": "<b>Three sips to decide if you're a Beijinger.</b> The first sip is shocking — your brain says 'this is sour milk.' The second sip, you start to notice nutty, grassy undertones. By the third sip, you might understand why millions of Beijingers start their day this way. Alternate bites of jiaoquan (to absorb the liquid) with sips of douzhi. The pickled vegetables are essential — they provide the salty-sour counterpoint.",
+          "culturalCode": "<b>The drink that defines 'Old Beijing'.</b> If you claim to love Beijing but hate douzhi, a local will smile and say 'you haven't really been here yet.' It's the ultimate shibboleth — drinking a bowl of douzhi is drinking centuries of hutong history. The smell is part of the experience; don't fight it, lean in. Foreigners who finish their bowl earn instant respect from the lao Beijing uncles at the next table.",
+          "honestTalk": "<b>Most Chinese people outside Beijing can't stand it either.</b> You're in good company. The smell resembles wet sourdough starter mixed with gym socks. The taste is milder than the smell — think kombucha gone savory. Start at Huguosi Snack Shop (护国寺小吃), the most approachable version. Order a small bowl. Don't give up after one sip. The jiaoquan is genuinely delicious and you can always claim you came for the crispy dough."
+        }
+      ]
+    }
+  ],
+  "zh": [
+    {
+      "id": "beijing-001",
+      "date": "August 9, 2026",
+      "region": "Beijing",
+      "dishes": [
+        {
+          "name": "Peking Duck（北京烤鸭）",
+          "image": "images/chinese-food-hero.png",
+          "tags": ["Signature", "Imperial", "Roasted"],
+          "description": "Beijing's undisputed culinary crown jewel with 600 years of imperial history. Whole ducks are inflated to separate skin from fat, glazed with maltose syrup, and roasted in a hung oven over fruitwood until the skin shatters like glass. Carved tableside by a master chef into exactly 108 thin slices — each piece a perfect ratio of crackling skin, melting fat, and succulent meat.",
+          "history": "Dating back to the Yuan Dynasty (13th century), Peking Duck was perfected in the Ming Dynasty imperial kitchens. The dish became the centerpiece of imperial banquets. Quanjude (全聚德), founded in 1864, standardized the hung-oven technique still used today. Nixon's 1972 state dinner famously featured this dish.",
+          "method": "1. Select 45-day-old Peking ducks, inflate skin from fat.<br>2. Blanch and glaze with maltose syrup, air-dry for 24 hours.<br>3. Roast in hung oven over jujube/pear wood at 270°C for 40-50 min.<br>4. Carve 108 slices at the table, starting with crispy skin.<br>5. Serve with thin pancakes, sweet bean sauce, cucumber, and scallion.",
+          "eatingGuide": "<b>Skin first, then the rest.</b> Dip the crackling skin in white sugar — it dissolves instantly on your tongue. Then make your own wrap: pancake, 2-3 slices of duck, a dab of sweet bean sauce, cucumber, scallion. Roll it up tight. The duck carcass makes a rich soup (鸭架汤) served after — don't skip it.",
+          "culturalCode": "<b>A meal that is also theater.</b> The tableside carving is performance art. Watching the chef slice with surgical precision — skin separated from meat with one fluid motion — is part of the experience. A proper Peking Duck dinner is not a quick meal; it's an event. Duck was so central to Beijing culture that in the Qing Dynasty, duck chefs held elite status.",
+          "honestTalk": "<b>Go at lunch for the same quality at lower prices.</b> Quanjude is the famous chain but Da Dong (大董) and Bianyifang (便宜坊) are often preferred by locals. Budget ¥200-400 per person at a good spot. The skin-only first course with sugar is the most memorable bite. Make a reservation — good ducks sell out by 7 PM."
+        },
+        {
+          "name": "Zhajiangmian（老北京炸酱面）",
+          "image": "images/chinese-food-hero.png",
+          "tags": ["Comfort Food", "Noodles", "Everyday Classic"],
+          "description": "Beijing's soul food — a humble bowl of hand-pulled wheat noodles crowned with dark, glistening fried sauce made from fermented soybean paste (黄酱) and diced pork belly. The sauce is the star, slowly fried for an hour until the oil separates and carries the deep umami of fermented beans. Served with a rainbow of fresh vegetable toppings called 'mianma' (面码) — julienned cucumber, radish, soybean sprouts, and celery.",
+          "history": "Rooted in Shandong cuisine brought to Beijing by Qing Dynasty officials, zhajiangmian evolved into the capital's defining comfort food. Every Beijing family has their own recipe for the sauce — some insist on sweet bean paste (甜面酱), others on fermented soybean paste. The dish represents the city's working-class culinary soul.",
+          "method": "1. Dice pork belly into small cubes.<br>2. Slowly fry pork in oil until golden and fat renders.<br>3. Add fermented soybean paste, sweet bean paste, stir constantly.<br>4. Add splash of water, simmer on low for 40-60 min until oil separates.<br>5. Boil thick wheat noodles until chewy (al dente).<br>6. Top with sauce, surround with fresh julienned vegetables.",
+          "eatingGuide": "<b>Mix everything aggressively.</b> The sauce is thick and concentrated — you need to toss it thoroughly into the noodles until every strand is coated. Add chili oil and black vinegar to taste. Eat it quickly while the noodles are still hot; the chewiness fades as they cool. Fresh crunchy vegetables against the rich, oily sauce is the magic combination.",
+          "culturalCode": "<b>A bowl that tastes like home.</b> Every Beijinger's mother makes zhajiangmian. The debate about proper sauce ratios is as heated as Italian grandmothers arguing about ragù. In a city of imperial banquets and Michelin stars, this ¥15 noodle bowl is what locals actually crave.",
+          "honestTalk": "<b>The sauce should be visibly oily — that's correct.</b> If the sauce doesn't have a layer of oil on top, it wasn't fried long enough. Restaurant versions often rush the frying step; homemade is always better. Haichuan Hutong (海碗居) on Zengguang Road does a solid restaurant version. Add the vegetables yourself — the contrast of hot noodles against cold, crunchy toppings is the whole point."
+        },
+        {
+          "name": "Instant-Boiled Mutton（老北京涮羊肉）",
+          "image": "images/chinese-food-hero.png",
+          "tags": ["Winter", "Communal", "Century-old Tradition"],
+          "description": "Beijing's winter ritual since the Yuan Dynasty — paper-thin slices of Inner Mongolian lamb swished briefly in a copper hot pot of clear, bubbling broth. The pot has a distinctive tall chimney heated by charcoal at its core. The broth is intentionally plain (just water, scallion, ginger, and dried jujube) — it's not about the broth, it's about the quality of the lamb and the dipping sauce.",
+          "history": "Introduced by Mongol horsemen during the Yuan Dynasty (13th century). The copper hot pot design, with its central chimney, was developed specifically for this dish. Donglaishun (东来顺), founded in 1903, perfected the mutton-slicing technique and remains Beijing's most famous institution for this dish.",
+          "method": "1. Slice top-quality Inner Mongolian lamb paper-thin (1mm) against the grain.<br>2. Prepare the copper pot with charcoal, fill with water, scallion, ginger, dates.<br>3. Mix sesame dipping sauce: sesame paste, fermented tofu, chive flower paste, chili oil.<br>4. Swish lamb slices in boiling broth for 8-10 seconds — just until color changes.<br>5. Dip in sauce, eat immediately. Repeat.",
+          "eatingGuide": "<b>Don't overcook the lamb.</b> 8-10 seconds is all it needs — any longer and it turns tough. The sesame dipping sauce (芝麻酱) is not optional; mix it yourself from the condiment tray. Start with plain lamb to appreciate the meat quality, then add chili oil. After the lamb, throw in cabbage, glass noodles, and frozen tofu to soak up the now-enriched broth. The broth at the end (汤底) is a delicious bonus.",
+          "culturalCode": "<b>The taste of Beijing winter.</b> When the first snow falls, Beijingers head straight for the hot pot restaurants. The copper chimney pot is a design icon — the taller the chimney, the stronger the fire. Eating shuan yang rou is a slow, social affair designed for hours of conversation. The ritual of swirling raw lamb in bubbling water and the instant transformation is hypnotic.",
+          "honestTalk": "<b>Donglaishun (东来顺) is the classic choice but touristy.</b> For a more local experience, try Nanmen Shuanrou (南门涮肉). The sesame dipping sauce is an acquired taste for some foreigners — it's rich, nutty, and thick. Start with 60% sesame paste + 20% chive flower + 20% fermented tofu. Add chili oil to taste. Budget ¥100-180 per person."
+        },
+        {
+          "name": "Luzhu Huoshao（卤煮火烧）",
+          "image": "images/chinese-food-hero.png",
+          "tags": ["Challenge", "Street Food", "Century-old Tradition"],
+          "description": "Beijing's most hardcore street food and a test of culinary courage. Pork lungs, intestines, and tofu are braised for hours in a dark, aromatic master broth with over 20 spices, then served in a bowl with thick wheat flatbread (火烧) that soaks up every drop of the intensely savory liquid. Garnished with garlic paste, cilantro, fermented tofu, and chili oil.",
+          "history": "Born in the Qing Dynasty from the Suzao (苏造肉) tradition of braised pork offal. Originally a cheap, filling meal for laborers and rickshaw pullers in old Beijing's hutongs. The dish survived decades of urban transformation and is now protected as a Beijing intangible cultural heritage food.",
+          "method": "1. Clean pork intestines and lungs thoroughly with flour and vinegar.<br>2. Prepare master broth with star anise, cinnamon, fennel, ginger, and 20+ spices.<br>3. Braise offal for 2-3 hours until tender but still toothsome.<br>4. Cut flatbread into thick strips, add to broth to soak.<br>5. Assemble in bowl: flatbread base, sliced offal on top, ladle broth over.<br>6. Finish with garlic paste, cilantro, fermented tofu, and chili oil.",
+          "eatingGuide": "<b>The flatbread (火烧) is the best part.</b> It's the sponge that absorbed hours of braising liquid — every bite bursts with the broth's complex flavor. The intestines should be tender with a slight chew; the lungs melt into creaminess. Mix in the garlic paste — it cuts through the richness. This is not a delicate dish; eat it with purpose and don't think too hard about the ingredients.",
+          "culturalCode": "<b>Old Beijing in a bowl.</b> Luzhu shops are time capsules — some have been serving from the same perpetual broth for decades. The dish is a remnant of a Beijing that is rapidly disappearing: the hutong alleyways, the working-class food culture, the tradition of making luxury from humble ingredients. Asking a Beijinger 'where's the best luzhu?' will spark passionate debates.",
+          "honestTalk": "<b>This dish separates the curious from the committed.</b> The earthy, mineral flavor of organ meats is intense. The look of the dish — dark broth with floating pieces of unidentifiable offal — is intimidating. But the flavor is complex and deeply satisfying in a way that clean, pretty food rarely achieves. Start at Xiaochang Chen (小肠陈), the most famous name in luzhu. Order a small bowl the first time. The garlic and chili oil are your friends."
+        },
+        {
+          "name": "Jingjiang Rousi（京酱肉丝）",
+          "image": "images/chinese-food-hero.png",
+          "tags": ["Classic", "Banquet Dish", "Sweet-Savory"],
+          "description": "A refined Beijing classic that shows the capital's delicate side. Slim pork tenderloin strips are velveted in egg white and cornstarch, flash-fried, then coated in a glossy dark sauce of fermented sweet bean paste (甜面酱). Served on a bed of raw scallion strips with thin tofu skin wrappers — you assemble your own mini wraps at the table.",
+          "history": "A product of Beijing's imperial kitchens, this dish embodies the 'Jing' (京) school of Shandong-influenced Beijing cuisine. Unlike the bold, spicy, oily dishes common elsewhere in China, Jingjiang Rousi requires surgical knife work and precise sauce control. It's often the test dish for aspiring Beijing chefs.",
+          "method": "1. Slice pork tenderloin into matchstick-thin strips, marinate with egg white and cornstarch.<br>2. Flash-fry in warm oil (70°C) until just white — 30 seconds.<br>3. In a clean wok, gently heat sweet bean paste with sugar and a touch of water.<br>4. Toss pork strips in the sauce until evenly glazed.<br>5. Serve on a bed of fresh scallion strips with tofu skin wrappers on the side.",
+          "eatingGuide": "<b>DIY assembly is half the fun.</b> Take a tofu skin wrapper, layer on fresh scallion strips, top with glazed pork, roll it up tight. The cool, sharp scallion cuts through the rich, sweet sauce perfectly. Each wrap should be 2-3 bites. Don't pour extra sauce — the pork carries exactly the right amount.",
+          "culturalCode": "<b>Elegance on a plate.</b> This dish represents the 'soft power' of Beijing cuisine — not every dish needs chili and boldness. The technique of velveting (passing through warm oil) is a uniquely Chinese method that creates an ethereally tender texture impossible to replicate with direct heat. Jingjiang Rousi proves that Beijing cuisine is about refinement as much as rustic comfort.",
+          "honestTalk": "<b>Looks simple, tastes surprisingly complex.</b> The sweet bean paste has a deep, fermented umami that's completely different from hoisin sauce (don't confuse them). Good Jingjiang Rousi should have glossy, not greasy, pork. If the pork isn't silky-soft, the chef rushed the velveting step. This is a safe, approachable dish for anyone intimidated by more adventurous Beijing options."
+        },
+        {
+          "name": "Douzhi & Jiaoquan（豆汁儿配焦圈）",
+          "image": "images/chinese-food-hero.png",
+          "tags": ["Challenge", "Breakfast", "Acquired Taste"],
+          "description": "Beijing's most divisive breakfast and the ultimate authenticity test. Douzhi is a fermented mung bean drink — gray-green, slightly sour, with an aroma that hits you before the taste does. It's served piping hot alongside Jiaoquan (焦圈), deep-fried rings of dough that are impossibly crispy. A side of pickled vegetables cuts the funk. Together, they are Beijing's morning ritual for the brave.",
+          "history": "Originating in the Liao Dynasty (10th century), douzhi was first a byproduct of making mung bean starch for noodles. Poor hutong residents discovered that the fermented leftover liquid was surprisingly drinkable when heated. Over centuries, it evolved from survival food to nostalgic breakfast. Lao Cixi (慈禧) was said to enjoy it, elevating its status from paupers' drink to imperial breakfast.",
+          "method": "1. Soak mung beans overnight, grind into a slurry.<br>2. Let the slurry naturally ferment at room temperature for 24 hours.<br>3. Separate the liquid (douzhi) from the starch.<br>4. Heat douzhi gently — never bring to a full boil.<br>5. Serve in a bowl with jiaoquan (crispy fried dough rings) and pickled mustard root.",
+          "eatingGuide": "<b>Three sips to decide if you're a Beijinger.</b> The first sip is shocking — your brain says 'this is sour milk.' The second sip, you start to notice nutty, grassy undertones. By the third sip, you might understand why millions of Beijingers start their day this way. Alternate bites of jiaoquan (to absorb the liquid) with sips of douzhi. The pickled vegetables are essential — they provide the salty-sour counterpoint.",
+          "culturalCode": "<b>The drink that defines 'Old Beijing'.</b> If you claim to love Beijing but hate douzhi, a local will smile and say 'you haven't really been here yet.' It's the ultimate shibboleth — drinking a bowl of douzhi is drinking centuries of hutong history. The smell is part of the experience; don't fight it, lean in. Foreigners who finish their bowl earn instant respect from the lao Beijing uncles at the next table.",
+          "honestTalk": "<b>Most Chinese people outside Beijing can't stand it either.</b> You're in good company. The smell resembles wet sourdough starter mixed with gym socks. The taste is milder than the smell — think kombucha gone savory. Start at Huguosi Snack Shop (护国寺小吃), the most approachable version. Order a small bowl. Don't give up after one sip. The jiaoquan is genuinely delicious and you can always claim you came for the crispy dough."
+        }
+      ]
+    }
+  ]
+}
