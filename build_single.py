@@ -40,12 +40,12 @@ html = '''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Great Chinese Food Charm — 48 Traditional Dishes Across 5 Culinary Regions</title>
+<title>Great Chinese Food Charm — ''' + str(total_dishes) + ''' Traditional Dishes Across ''' + str(len(provinces)) + ''' Culinary Regions</title>
 <meta name="description" content="Explore ''' + str(total_dishes) + ''' authentic Chinese dishes from Sichuan, Chongqing, Shanghai, Jiangsu, and Hunan. History, cooking methods, eating guide, and cultural stories behind every dish.">
 <meta name="keywords" content="Chinese food, Sichuan cuisine, Chongqing food, Shanghai dishes, Jiangsu cuisine, Hunan food, Chinese recipes, 中华美食, 川菜, 湘菜">
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
 <link rel="canonical" href="https://food.eastculture.top/">
-<meta property="og:title" content="Great Chinese Food Charm — ''' + str(total_dishes) + ''' Traditional Dishes Across 5 Culinary Regions">
+<meta property="og:title" content="Great Chinese Food Charm — ''' + str(total_dishes) + ''' Traditional Dishes Across ''' + str(len(provinces)) + ''' Culinary Regions">
 <meta property="og:description" content="Explore authentic Chinese dishes — history, cooking methods, and cultural stories behind every dish.">
 <meta property="og:url" content="https://food.eastculture.top/">
 <meta property="og:type" content="website">
