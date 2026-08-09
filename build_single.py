@@ -164,13 +164,16 @@ html += '''
 </div></footer>
 </body></html>'''
 
-# Write output
-out_path = os.path.join(BASE, 'index_single.html')
+# Write output — 直接覆盖 index.html（GitHub Pages 认这个文件名）
+out_path = os.path.join(BASE, 'index.html')
 with open(out_path, 'w', encoding='utf-8') as f:
+    f.write(html)
+# 同时保留 index_single.html 作为备份
+backup_path = os.path.join(BASE, 'index_single.html')
+with open(backup_path, 'w', encoding='utf-8') as f:
     f.write(html)
 
 size_kb = os.path.getsize(out_path) / 1024
-print(f"Generated: {out_path}")
-print(f"Size: {size_kb:.1f} KB")
-print(f"Provinces: {len(provinces)}")
-print(f"Total dishes: {total_dishes}")
+print(f"Generated: {out_path} ({size_kb:.1f} KB)")
+print(f"Provinces: {len(provinces)}, Dishes: {total_dishes}")
+print("→ 下一步: git add -A && git commit && git push")
