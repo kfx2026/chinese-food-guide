@@ -1,0 +1,149 @@
+{
+ "id": "jiangxi",
+ "name_en": "Jiangxi · 南昌",
+ "name_zh": "江西·南昌",
+ "en": [
+  {
+   "id": "jiangxi-001",
+   "region": "Jiangxi · 南昌",
+   "date": "2026-09-13",
+   "dishes": [
+    {
+     "name": "Stir-fried Cured Pork with Artemisia Grass",
+     "name_zh": "藜蒿炒腊肉",
+     "image": "https://picsum.photos/seed/jiangxi-dish-1/400/300",
+     "tags": [
+      "Seasonal Delicacy",
+      "Poyang Lake Specialty",
+      "Savory and Crisp"
+     ],
+     "tags_zh": [
+      "春季时令",
+      "鄱阳湖特产",
+      "咸鲜脆嫩"
+     ],
+     "description": "In Nanchang, there is a saying: 'The grass of Poyang Lake is the treasure of Nanchang people.' Artemisia grass is a unique wild aquatic plant from the Poyang Lake area, carrying a distinct, refreshing fragrance. When stir-fried with homemade cured pork smoked over cypress branches, the rich fat of the pork permeates the grass, while the grass's aroma cuts through the greasiness. The dish boasts a golden hue and a crisp, tender texture, offering a savory taste filled with the essence of spring, perfectly embodying the 'authentic and original flavors' of Gan cuisine.",
+     "description_zh": "南昌人常说“鄱阳湖的草，南昌人的宝”。藜蒿是鄱阳湖水域特产的一种野生水草，带有独特的清香。与农家自制、经柏枝熏烤的腊肉同炒，腊肉的油脂渗入藜蒿，藜蒿的清香化解了腊肉的油腻。成菜色泽金黄，口感脆嫩，咸鲜中带着浓郁的春意，是赣菜中“原汁原味”的绝佳体现。",
+     "history": "This dish originated from the daily lives of fishermen along Poyang Lake. Legend has it that during the Ming Dynasty, when Zhu Yuanzhang and Chen Youliang fought a fierce battle on the lake, military rations were scarce. Fishermen fed the troops with wild artemisia grass from the lake and their own cured pork, accidentally discovering the exquisite combination. Artemisia grass was documented in the 'Nanchang County Annals' during the Qing Dynasty. By the Republic of China era, it had become a signature dish in Nanchang restaurants and is now one of the most representative dishes of Gan cuisine nationwide.",
+     "history_zh": "藜蒿炒腊肉起源于鄱阳湖沿岸的渔民生活。相传明代朱元璋与陈友谅在鄱阳湖大战时，军粮匮乏，渔民以湖中野生藜蒿和家中腊肉充饥，意外发现二者同炒异常鲜美。清代《南昌县志》中已有对藜蒿的记载，民国时期逐渐成为南昌酒楼的名菜，如今更是赣菜走向全国的代表作之一。",
+     "method": "1. Trim the tough roots of the fresh artemisia grass, wash it thoroughly, and cut it into inch-long sections; wash the cured pork to remove surface soot, then slice it thinly.<br>2. Add a little oil to the wok, put in the pork slices, and stir-fry over medium-low heat until the pork renders its fat and the edges curl slightly, turning golden brown.<br>3. Scoop out the excess rendered lard, leaving just a little oil in the wok; add shredded ginger and dried red chili segments to stir-fry until fragrant.<br>4. Turn to high heat, quickly add the prepared artemisia grass, and stir-fry evenly so that the grass is well-coated with the pork fat.<br>5. Splash a little cooking wine around the edge of the wok to enhance the aroma, add a dash of light soy sauce for umami; since the cured pork is already salty, no extra salt is usually needed.<br>6. Stir-fry until the grass is just cooked but remains crisp, add a pinch of chicken bouillon, drizzle with a few drops of sesame oil, toss well, and serve immediately.",
+     "method_zh": "1. 将新鲜藜蒿择去老根，洗净后切成寸段；腊肉用温水洗净表面烟熏杂质，切成薄片备用。<br>2. 锅中加少许底油，下入腊肉片，用中小火慢慢煸炒，直至腊肉出油、边缘微卷呈金黄色。<br>3. 将煸出的多余猪油盛出，锅中仅留少许底油，下入姜丝、干红椒段爆香。<br>4. 转大火，迅速倒入切好的藜蒿段，快速翻炒均匀，使藜蒿均匀裹上腊肉的油脂。<br>5. 沿锅边烹入少许料酒去腥增香，加入微量生抽提鲜，因腊肉本身有咸味，通常无需额外加盐。<br>6. 翻炒至藜蒿断生且保持脆嫩时，撒入少许鸡精，滴入几滴香油，翻匀后即可出锅装盘。"
+    },
+    {
+     "name": "Nanchang Three-Cup Chicken",
+     "name_zh": "南昌三杯鸡",
+     "image": "https://picsum.photos/seed/jiangxi-dish-2/400/300",
+     "tags": [
+      "Traditional Signature",
+      "Rich Sauce Aroma",
+      "Non-spicy"
+     ],
+     "tags_zh": [
+      "传统名菜",
+      "酱香浓郁",
+      "不辣/微辣"
+     ],
+     "description": "Nanchang Three-Cup Chicken is a classic poultry dish in Gan cuisine. Unlike its Taiwanese counterpart, the Nanchang version does not use Thai basil and adds not a single drop of water. Its essence lies in the 'three cups': one cup of tea oil (or lard), one cup of brewed rice wine, and one cup of premium soy sauce. The chicken is slow-braised in a sealed clay pot with these three ingredients. The result is a vibrant red dish with tender meat, where the wine and soy sauce aromas intertwine perfectly. It is rich, mellow, and not greasy, showcasing Nanchang people's ultimate pursuit of heat control and seasoning.",
+     "description_zh": "南昌三杯鸡是赣菜中的经典禽类佳肴，与台湾三杯鸡不同，南昌三杯鸡不加九层塔，且烹饪时不加一滴水。其精髓在于“三杯”：一杯茶油（或猪油）、一杯酿造米酒、一杯优质酱油。鸡肉在密闭的砂锅中被这三杯调料慢火煨熟，色泽红亮，肉质酥嫩，酒香与酱香完美交融，入口醇厚而不腻，展现了南昌人对火候和调味的极致追求。",
+     "history": "Legend traces back to the late Southern Song Dynasty when Wen Tianxiang, a national hero, was captured by the Yuan army. Nanchang locals went to visit him. A jailer brought chicken, rice wine, and soy sauce, but due to poor conditions, he braised the chicken with one cup of rice wine, one cup of soy sauce, and one cup of tea oil (or lard) as a tribute. After Wen's martyrdom, the dish spread among the people. Although not directly recorded in Yuan Mei's 'Suiyuan Shidan' in the Qing Dynasty, the 'three-cup' cooking method has existed in Nanchang folk cuisine for hundreds of years, serving as the signature dish of time-honored local restaurants.",
+     "history_zh": "相传南宋末年，文天祥抗元被俘，南昌百姓为其送行。一位狱卒带着鸡肉、米酒和酱油去探监，因条件简陋，便用一杯米酒、一杯酱油和一杯茶油（或猪油）将鸡肉焖熟，以此祭奠。文天祥就义后，这道菜在民间流传开来。清代袁枚的《随园食单》中虽未直接收录此名，但南昌民间烹制“三杯”之法已有数百年历史，是南昌老字号餐馆的镇店之宝。",
+     "method": "1. Select a tender yellow-feathered chicken, clean it, chop it into bite-sized pieces, soak in cold water to remove blood, then drain and set aside.<br>2. Line the bottom of a clay pot with scallion sections and ginger slices to prevent sticking and add base aroma; spread the drained chicken pieces evenly over the aromatics.<br>3. Pour in one cup of tea oil (or lard), one cup of local Nanchang brewed rice wine, and one cup of premium soy sauce, ensuring the liquid covers about two-thirds of the chicken.<br>4. Cover the clay pot, bring the broth to a boil over high heat first, then reduce to a very low simmer, sealing it to braise for about 30 to 40 minutes.<br>5. Do not open the lid during the process, allowing the chicken to fully absorb the flavors through the steam and boiling of the 'three cups' until the sauce thickens and the chicken becomes tender.<br>6. Uncover and turn to high heat to reduce the sauce; once the thick, glossy sauce coats the chicken, remove the scallions and ginger, drizzle with a little finishing oil for shine, and serve directly in the pot.",
+     "method_zh": "1. 选用鲜嫩三黄鸡一只，处理干净后剁成小块，用冷水浸泡去血水，捞出沥干水分备用。<br>2. 砂锅底部铺上葱段和姜片，防止粘锅并增加底香，将沥干的鸡块平铺在葱姜之上。<br>3. 依次倒入一杯茶油（或猪油）、一杯南昌本地酿造米酒和一杯优质酱油，确保液体刚好没过鸡肉的三分之二。<br>4. 盖上砂锅盖，先用大火将汤汁烧开，然后转微小火，密封焖煮约30至40分钟。<br>5. 期间不可开盖，让鸡肉在“三杯”调料的蒸汽和沸腾中充分吸收滋味，直至汤汁浓稠、鸡肉酥烂。<br>6. 开盖后转大火收汁，待汤汁浓亮包裹在鸡块上时，挑去葱姜，淋入少许明油增亮，即可原锅上桌。"
+    },
+    {
+     "name": "Nanchang Earthen Jar Slow-Simmered Soup",
+     "name_zh": "南昌瓦罐煨汤",
+     "image": "https://picsum.photos/seed/jiangxi-dish-3/400/300",
+     "tags": [
+      "Health Nourishing",
+      "Folk Culture",
+      "Mellow and Savory"
+     ],
+     "tags_zh": [
+      "养生滋补",
+      "市井文化",
+      "鲜香醇厚"
+     ],
+     "description": "'A bowl of earthen jar soup is half the history of Nanchang.' This soup is the soul of Nanchang people's breakfast and daily diet. It uses specially made giant earthen jars as containers, with numerous small jars placed inside, simmered over hard charcoal for hours. No complex spices are added; it relies solely on the natural flavors of the ingredients and water, achieving a clear, non-greasy, thick but not oily, and richly savory taste. The minced pork patty soup is the most classic variant, where the meat aroma perfectly blends with the original juice, warming both the stomach and the heart.",
+     "description_zh": "“一碗瓦罐汤，半部南昌史”。南昌瓦罐煨汤是南昌人早餐和日常饮食的灵魂。它采用特制的巨型瓦缸为容器，内部放置众多小瓦罐，以硬质木炭为燃料，经过数小时文火慢煨。汤品不加任何复杂香料，仅凭食材本味与水的交融，达到汤清不腻、稠而不油、鲜香醇厚的境界。肉饼汤是最经典的口味，肉香与原汁完美融合，暖胃更暖心。",
+     "history": "The history of earthen jar soup can be traced back to the Northern Song Dynasty, reportedly related to the construction of Nanchang's Tengwang Pavilion. To replenish their energy during hard labor, workers placed ingredients in earthen jars and roasted them over fires, accidentally discovering the exceptionally delicious broth. The 'Nanchang Prefecture Annals' of the Qing Dynasty documented the folk practice of simmering soup in earthen jars. In modern times, 'earthen jar soup shops' in the streets and alleys of Nanchang have become a unique urban landscape, and in 2011, the making technique of Nanchang earthen jar soup was listed as an Intangible Cultural Heritage of Jiangxi Province.",
+     "history_zh": "瓦罐煨汤的历史可追溯至北宋时期，据传与南昌滕王阁的修建有关。当时工匠们为了在繁重的劳作中补充体力，用瓦罐盛食材置于火堆中煨烤，意外发现汤汁异常鲜美。清代《南昌府志》中有关于民间用瓦罐煨汤的记载。到了近现代，南昌街头巷尾的“瓦罐汤店”成为城市独特的风景线，2011年南昌瓦罐汤制作技艺被列入江西省非物质文化遗产名录。",
+     "method": "1. Select pork front leg meat with a good ratio of lean to fat; mince it finely by hand, add a little minced ginger, chopped scallions, salt, and a pinch of white pepper, and stir in one direction until it becomes sticky and well-combined.<br>2. Place the seasoned minced meat at the bottom of a small earthen jar, press it firmly with a spoon to form an even patty, and poke a few small holes in the center with chopsticks to allow the broth to seep in.<br>3. Add an appropriate amount of clean water above the patty, filling the jar to about 80%; add two drops of cooking wine to remove any gamey odor, strictly avoiding artificial flavor enhancers like MSG.<br>4. Cover the small earthen jars and arrange them neatly on the middle iron rack inside the specially made giant earthen jar.<br>5. Light hard charcoal at the bottom of the giant jar, control the heat, and simmer at a constant low temperature for 4 to 6 hours, allowing the nutrients and umami of the ingredients to fully release into the soup.<br>6. After simmering, use a dedicated iron hook to take out the small jar, uncover it to reveal a clear broth with a rich meat aroma, sprinkle with a little chopped scallion, and it is ready to be consumed directly.",
+     "method_zh": "1. 选用肥瘦相间的猪前腿肉，手工剁成细腻的肉泥，加入少许姜末、葱花、盐和微量胡椒粉，顺一个方向搅拌上劲。<br>2. 将调好的肉泥放入小瓦罐底部，用勺子压实，制成厚度均匀的肉饼，中间可用筷子戳几个小孔以便汤汁渗入。<br>3. 在肉饼上方加入适量清水，水量以八分满为宜，滴入两滴料酒去腥，切忌加入味精等人工提鲜调料。<br>4. 将装好食材的小瓦罐加盖，整齐地码放在特制的巨型瓦缸内部的中层铁网上。<br>5. 在瓦缸底部点燃硬质木炭，控制火候，以文火恒温煨制4至6小时，使食材的营养和鲜味彻底释放入汤中。<br>6. 煨好后，用专用铁钩将小瓦罐取出，揭开盖子，汤色清亮，肉香扑鼻，撒上少许葱花即可直接饮用。"
+    }
+   ]
+  }
+ ],
+ "zh": [
+  {
+   "id": "jiangxi-001",
+   "region": "江西·南昌",
+   "date": "2026年9月13日",
+   "dishes": [
+    {
+     "name": "Stir-fried Cured Pork with Artemisia Grass",
+     "name_zh": "藜蒿炒腊肉",
+     "image": "https://picsum.photos/seed/jiangxi-dish-1/400/300",
+     "tags": [
+      "Seasonal Delicacy",
+      "Poyang Lake Specialty",
+      "Savory and Crisp"
+     ],
+     "tags_zh": [
+      "春季时令",
+      "鄱阳湖特产",
+      "咸鲜脆嫩"
+     ],
+     "description": "In Nanchang, there is a saying: 'The grass of Poyang Lake is the treasure of Nanchang people.' Artemisia grass is a unique wild aquatic plant from the Poyang Lake area, carrying a distinct, refreshing fragrance. When stir-fried with homemade cured pork smoked over cypress branches, the rich fat of the pork permeates the grass, while the grass's aroma cuts through the greasiness. The dish boasts a golden hue and a crisp, tender texture, offering a savory taste filled with the essence of spring, perfectly embodying the 'authentic and original flavors' of Gan cuisine.",
+     "description_zh": "南昌人常说“鄱阳湖的草，南昌人的宝”。藜蒿是鄱阳湖水域特产的一种野生水草，带有独特的清香。与农家自制、经柏枝熏烤的腊肉同炒，腊肉的油脂渗入藜蒿，藜蒿的清香化解了腊肉的油腻。成菜色泽金黄，口感脆嫩，咸鲜中带着浓郁的春意，是赣菜中“原汁原味”的绝佳体现。",
+     "history": "This dish originated from the daily lives of fishermen along Poyang Lake. Legend has it that during the Ming Dynasty, when Zhu Yuanzhang and Chen Youliang fought a fierce battle on the lake, military rations were scarce. Fishermen fed the troops with wild artemisia grass from the lake and their own cured pork, accidentally discovering the exquisite combination. Artemisia grass was documented in the 'Nanchang County Annals' during the Qing Dynasty. By the Republic of China era, it had become a signature dish in Nanchang restaurants and is now one of the most representative dishes of Gan cuisine nationwide.",
+     "history_zh": "藜蒿炒腊肉起源于鄱阳湖沿岸的渔民生活。相传明代朱元璋与陈友谅在鄱阳湖大战时，军粮匮乏，渔民以湖中野生藜蒿和家中腊肉充饥，意外发现二者同炒异常鲜美。清代《南昌县志》中已有对藜蒿的记载，民国时期逐渐成为南昌酒楼的名菜，如今更是赣菜走向全国的代表作之一。",
+     "method": "1. Trim the tough roots of the fresh artemisia grass, wash it thoroughly, and cut it into inch-long sections; wash the cured pork to remove surface soot, then slice it thinly.<br>2. Add a little oil to the wok, put in the pork slices, and stir-fry over medium-low heat until the pork renders its fat and the edges curl slightly, turning golden brown.<br>3. Scoop out the excess rendered lard, leaving just a little oil in the wok; add shredded ginger and dried red chili segments to stir-fry until fragrant.<br>4. Turn to high heat, quickly add the prepared artemisia grass, and stir-fry evenly so that the grass is well-coated with the pork fat.<br>5. Splash a little cooking wine around the edge of the wok to enhance the aroma, add a dash of light soy sauce for umami; since the cured pork is already salty, no extra salt is usually needed.<br>6. Stir-fry until the grass is just cooked but remains crisp, add a pinch of chicken bouillon, drizzle with a few drops of sesame oil, toss well, and serve immediately.",
+     "method_zh": "1. 将新鲜藜蒿择去老根，洗净后切成寸段；腊肉用温水洗净表面烟熏杂质，切成薄片备用。<br>2. 锅中加少许底油，下入腊肉片，用中小火慢慢煸炒，直至腊肉出油、边缘微卷呈金黄色。<br>3. 将煸出的多余猪油盛出，锅中仅留少许底油，下入姜丝、干红椒段爆香。<br>4. 转大火，迅速倒入切好的藜蒿段，快速翻炒均匀，使藜蒿均匀裹上腊肉的油脂。<br>5. 沿锅边烹入少许料酒去腥增香，加入微量生抽提鲜，因腊肉本身有咸味，通常无需额外加盐。<br>6. 翻炒至藜蒿断生且保持脆嫩时，撒入少许鸡精，滴入几滴香油，翻匀后即可出锅装盘。"
+    },
+    {
+     "name": "Nanchang Three-Cup Chicken",
+     "name_zh": "南昌三杯鸡",
+     "image": "https://picsum.photos/seed/jiangxi-dish-2/400/300",
+     "tags": [
+      "Traditional Signature",
+      "Rich Sauce Aroma",
+      "Non-spicy"
+     ],
+     "tags_zh": [
+      "传统名菜",
+      "酱香浓郁",
+      "不辣/微辣"
+     ],
+     "description": "Nanchang Three-Cup Chicken is a classic poultry dish in Gan cuisine. Unlike its Taiwanese counterpart, the Nanchang version does not use Thai basil and adds not a single drop of water. Its essence lies in the 'three cups': one cup of tea oil (or lard), one cup of brewed rice wine, and one cup of premium soy sauce. The chicken is slow-braised in a sealed clay pot with these three ingredients. The result is a vibrant red dish with tender meat, where the wine and soy sauce aromas intertwine perfectly. It is rich, mellow, and not greasy, showcasing Nanchang people's ultimate pursuit of heat control and seasoning.",
+     "description_zh": "南昌三杯鸡是赣菜中的经典禽类佳肴，与台湾三杯鸡不同，南昌三杯鸡不加九层塔，且烹饪时不加一滴水。其精髓在于“三杯”：一杯茶油（或猪油）、一杯酿造米酒、一杯优质酱油。鸡肉在密闭的砂锅中被这三杯调料慢火煨熟，色泽红亮，肉质酥嫩，酒香与酱香完美交融，入口醇厚而不腻，展现了南昌人对火候和调味的极致追求。",
+     "history": "Legend traces back to the late Southern Song Dynasty when Wen Tianxiang, a national hero, was captured by the Yuan army. Nanchang locals went to visit him. A jailer brought chicken, rice wine, and soy sauce, but due to poor conditions, he braised the chicken with one cup of rice wine, one cup of soy sauce, and one cup of tea oil (or lard) as a tribute. After Wen's martyrdom, the dish spread among the people. Although not directly recorded in Yuan Mei's 'Suiyuan Shidan' in the Qing Dynasty, the 'three-cup' cooking method has existed in Nanchang folk cuisine for hundreds of years, serving as the signature dish of time-honored local restaurants.",
+     "history_zh": "相传南宋末年，文天祥抗元被俘，南昌百姓为其送行。一位狱卒带着鸡肉、米酒和酱油去探监，因条件简陋，便用一杯米酒、一杯酱油和一杯茶油（或猪油）将鸡肉焖熟，以此祭奠。文天祥就义后，这道菜在民间流传开来。清代袁枚的《随园食单》中虽未直接收录此名，但南昌民间烹制“三杯”之法已有数百年历史，是南昌老字号餐馆的镇店之宝。",
+     "method": "1. Select a tender yellow-feathered chicken, clean it, chop it into bite-sized pieces, soak in cold water to remove blood, then drain and set aside.<br>2. Line the bottom of a clay pot with scallion sections and ginger slices to prevent sticking and add base aroma; spread the drained chicken pieces evenly over the aromatics.<br>3. Pour in one cup of tea oil (or lard), one cup of local Nanchang brewed rice wine, and one cup of premium soy sauce, ensuring the liquid covers about two-thirds of the chicken.<br>4. Cover the clay pot, bring the broth to a boil over high heat first, then reduce to a very low simmer, sealing it to braise for about 30 to 40 minutes.<br>5. Do not open the lid during the process, allowing the chicken to fully absorb the flavors through the steam and boiling of the 'three cups' until the sauce thickens and the chicken becomes tender.<br>6. Uncover and turn to high heat to reduce the sauce; once the thick, glossy sauce coats the chicken, remove the scallions and ginger, drizzle with a little finishing oil for shine, and serve directly in the pot.",
+     "method_zh": "1. 选用鲜嫩三黄鸡一只，处理干净后剁成小块，用冷水浸泡去血水，捞出沥干水分备用。<br>2. 砂锅底部铺上葱段和姜片，防止粘锅并增加底香，将沥干的鸡块平铺在葱姜之上。<br>3. 依次倒入一杯茶油（或猪油）、一杯南昌本地酿造米酒和一杯优质酱油，确保液体刚好没过鸡肉的三分之二。<br>4. 盖上砂锅盖，先用大火将汤汁烧开，然后转微小火，密封焖煮约30至40分钟。<br>5. 期间不可开盖，让鸡肉在“三杯”调料的蒸汽和沸腾中充分吸收滋味，直至汤汁浓稠、鸡肉酥烂。<br>6. 开盖后转大火收汁，待汤汁浓亮包裹在鸡块上时，挑去葱姜，淋入少许明油增亮，即可原锅上桌。"
+    },
+    {
+     "name": "Nanchang Earthen Jar Slow-Simmered Soup",
+     "name_zh": "南昌瓦罐煨汤",
+     "image": "https://picsum.photos/seed/jiangxi-dish-3/400/300",
+     "tags": [
+      "Health Nourishing",
+      "Folk Culture",
+      "Mellow and Savory"
+     ],
+     "tags_zh": [
+      "养生滋补",
+      "市井文化",
+      "鲜香醇厚"
+     ],
+     "description": "'A bowl of earthen jar soup is half the history of Nanchang.' This soup is the soul of Nanchang people's breakfast and daily diet. It uses specially made giant earthen jars as containers, with numerous small jars placed inside, simmered over hard charcoal for hours. No complex spices are added; it relies solely on the natural flavors of the ingredients and water, achieving a clear, non-greasy, thick but not oily, and richly savory taste. The minced pork patty soup is the most classic variant, where the meat aroma perfectly blends with the original juice, warming both the stomach and the heart.",
+     "description_zh": "“一碗瓦罐汤，半部南昌史”。南昌瓦罐煨汤是南昌人早餐和日常饮食的灵魂。它采用特制的巨型瓦缸为容器，内部放置众多小瓦罐，以硬质木炭为燃料，经过数小时文火慢煨。汤品不加任何复杂香料，仅凭食材本味与水的交融，达到汤清不腻、稠而不油、鲜香醇厚的境界。肉饼汤是最经典的口味，肉香与原汁完美融合，暖胃更暖心。",
+     "history": "The history of earthen jar soup can be traced back to the Northern Song Dynasty, reportedly related to the construction of Nanchang's Tengwang Pavilion. To replenish their energy during hard labor, workers placed ingredients in earthen jars and roasted them over fires, accidentally discovering the exceptionally delicious broth. The 'Nanchang Prefecture Annals' of the Qing Dynasty documented the folk practice of simmering soup in earthen jars. In modern times, 'earthen jar soup shops' in the streets and alleys of Nanchang have become a unique urban landscape, and in 2011, the making technique of Nanchang earthen jar soup was listed as an Intangible Cultural Heritage of Jiangxi Province.",
+     "history_zh": "瓦罐煨汤的历史可追溯至北宋时期，据传与南昌滕王阁的修建有关。当时工匠们为了在繁重的劳作中补充体力，用瓦罐盛食材置于火堆中煨烤，意外发现汤汁异常鲜美。清代《南昌府志》中有关于民间用瓦罐煨汤的记载。到了近现代，南昌街头巷尾的“瓦罐汤店”成为城市独特的风景线，2011年南昌瓦罐汤制作技艺被列入江西省非物质文化遗产名录。",
+     "method": "1. Select pork front leg meat with a good ratio of lean to fat; mince it finely by hand, add a little minced ginger, chopped scallions, salt, and a pinch of white pepper, and stir in one direction until it becomes sticky and well-combined.<br>2. Place the seasoned minced meat at the bottom of a small earthen jar, press it firmly with a spoon to form an even patty, and poke a few small holes in the center with chopsticks to allow the broth to seep in.<br>3. Add an appropriate amount of clean water above the patty, filling the jar to about 80%; add two drops of cooking wine to remove any gamey odor, strictly avoiding artificial flavor enhancers like MSG.<br>4. Cover the small earthen jars and arrange them neatly on the middle iron rack inside the specially made giant earthen jar.<br>5. Light hard charcoal at the bottom of the giant jar, control the heat, and simmer at a constant low temperature for 4 to 6 hours, allowing the nutrients and umami of the ingredients to fully release into the soup.<br>6. After simmering, use a dedicated iron hook to take out the small jar, uncover it to reveal a clear broth with a rich meat aroma, sprinkle with a little chopped scallion, and it is ready to be consumed directly.",
+     "method_zh": "1. 选用肥瘦相间的猪前腿肉，手工剁成细腻的肉泥，加入少许姜末、葱花、盐和微量胡椒粉，顺一个方向搅拌上劲。<br>2. 将调好的肉泥放入小瓦罐底部，用勺子压实，制成厚度均匀的肉饼，中间可用筷子戳几个小孔以便汤汁渗入。<br>3. 在肉饼上方加入适量清水，水量以八分满为宜，滴入两滴料酒去腥，切忌加入味精等人工提鲜调料。<br>4. 将装好食材的小瓦罐加盖，整齐地码放在特制的巨型瓦缸内部的中层铁网上。<br>5. 在瓦缸底部点燃硬质木炭，控制火候，以文火恒温煨制4至6小时，使食材的营养和鲜味彻底释放入汤中。<br>6. 煨好后，用专用铁钩将小瓦罐取出，揭开盖子，汤色清亮，肉香扑鼻，撒上少许葱花即可直接饮用。"
+    }
+   ]
+  }
+ ]
+}

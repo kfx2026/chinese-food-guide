@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chinese Food Explorer — Updates</title>
+    <link>https://food.eastculture.top/</link>
+    <description>Latest Chinese food guides, regional recipes, and cooking tips. Explore authentic cuisine from all 34 provinces of China.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jun 2026 09:33:59 +0000</lastBuildDate>
+    <ns0:link href="https://food.eastculture.top/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAQ Added — Chinese Cuisine Guide</title>
+      <link>https://food.eastculture.top/faq.html</link>
+      <description>Comprehensive FAQ: eight regional cuisines, vegetarian options, essential spices, cooking techniques, authentic vs overseas Chinese food, and restaurant tips.</description>
+      <pubDate>Wed, 10 Jun 2026 09:33:59 +0000</pubDate>
+      <guid>https://food.eastculture.top/faq.html</guid>
+    </item>
+  </channel>
+</rss>

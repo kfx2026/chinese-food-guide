@@ -1,0 +1,109 @@
+{
+ "provinces": [
+  {
+   "id": "sichuan",
+   "name_en": "Sichuan",
+   "name_zh": "四川省",
+   "dish_count": 19,
+   "status": "live"
+  },
+  {
+   "id": "chongqing",
+   "name_en": "Chongqing",
+   "name_zh": "重庆市",
+   "dish_count": 9,
+   "status": "live"
+  },
+  {
+   "id": "shanghai",
+   "name_en": "Shanghai",
+   "name_zh": "上海市",
+   "dish_count": 8,
+   "status": "live"
+  },
+  {
+   "id": "jiangsu",
+   "name_en": "Jiangsu · Nanjing",
+   "name_zh": "江苏·南京",
+   "dish_count": 6,
+   "status": "live"
+  },
+  {
+   "id": "hunan",
+   "name_en": "Hunan · Changsha",
+   "name_zh": "湖南·长沙",
+   "dish_count": 6,
+   "status": "live"
+  },
+  {
+   "id": "henan",
+   "name_en": "Henan · Zhengzhou",
+   "name_zh": "河南·郑州",
+   "dish_count": 4,
+   "status": "live"
+  },
+  {
+   "id": "beijing",
+   "name_en": "Beijing",
+   "name_zh": "北京",
+   "dish_count": 6,
+   "status": "live"
+  },
+  {
+   "id": "zhejiang",
+   "name_en": "Zhejiang",
+   "name_zh": "浙江省",
+   "dish_count": 3,
+   "status": "live"
+  },
+  {
+   "id": "guangzhou",
+   "name_en": "Guangdong",
+   "name_zh": "广东",
+   "dish_count": 6,
+   "status": "live"
+  },
+  {
+   "id": "xian",
+   "name_en": "Shaanxi",
+   "name_zh": "陕西",
+   "dish_count": 6,
+   "status": "live"
+  },
+  {
+   "id": "shandong",
+   "name_en": "Shandong",
+   "name_zh": "山东省",
+   "dish_count": 3,
+   "status": "live"
+  },
+  {
+   "id": "fujian",
+   "name_en": "Fujian · 福州",
+   "name_zh": "福建·福州",
+   "dish_count": 3,
+   "status": "live"
+  },
+  {
+   "id": "anhui",
+   "name_en": "Anhui · 合肥",
+   "name_zh": "安徽·合肥",
+   "dish_count": 3,
+   "status": "live"
+  },
+  {
+   "id": "hubei",
+   "name_en": "Hubei · 武汉",
+   "name_zh": "湖北·武汉",
+   "dish_count": 3,
+   "status": "live"
+  },
+  {
+   "id": "jiangxi",
+   "name_en": "Jiangxi · 南昌",
+   "name_zh": "江西·南昌",
+   "dish_count": 3,
+   "status": "live"
+  }
+ ]
+}

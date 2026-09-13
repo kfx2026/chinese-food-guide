@@ -1,0 +1,568 @@
+[
+ {
+  "name": "Cattail Shoots in Milk Broth",
+  "image": "images/gen-shandong-3.svg",
+  "tags": [
+   "Jinan elegance",
+   "spring city delicacy",
+   "milky white soup"
+  ],
+  "description": "Tender hearts of Daming Lake cattail shoots simmered in milk-white broth, thick and mellow as fresh cream. Shoots are translucent, crisp, and fiber-free, with a clean sweetness that echoes. The soup tastes rich yet light, lifted by ham and shiitake—one spoonful seems to drink the essence of a spring itself, a unique vegetarian treasure of the spring city.",
+  "region": "Shandong · 济南",
+  "date": "2026-09-06"
+ },
+ {
+  "name": "Braised Intestines in Nine Turns",
+  "image": "images/gen-shandong-2.svg",
+  "tags": [
+   "Soul of Lu cuisine",
+   "five-flavor composite",
+   "skill dish"
+  ],
+  "description": "Intestines pass through blanching, boiling, layering, and braising; the result is date-red, glossy, shaped in looping coils. Texture is soft-sticky yet springy: first sour, then sweet, then salty, finishing with light bitterness and spice—five flavors rotating on the tongue in rich sauce, revealing the true meaning of 'nine turns'.",
+  "region": "Shandong · 济南",
+  "date": "2026-09-06"
+ },
+ {
+  "name": "Sweet and Sour Carp",
+  "image": "images/gen-shandong-1.svg",
+  "tags": [
+   "Shandong cuisine flagship",
+   "sweet and sour crispy",
+   "banquet finale"
+  ],
+  "description": "Yellow River carp fried golden with tail raised high, draped in an amber sweet-and-sour sauce. The skin cracks like thin ice; within, the flesh is tender and snow-white. Sour leads into sweet, sweetness never overwhelming freshness, with a glossy glaze clinging to the plate—the definitive taste of New Year in old Jinan memory.",
+  "region": "Shandong · 济南",
+  "date": "2026-09-06"
+ },
+ {
+  "name": "Dongpo Pork",
+  "image": "images/gen-zhejiang-3.svg",
+  "tags": [
+   "slow-braised melting",
+   "rich soy glaze",
+   "literati brand"
+  ],
+  "description": "A whole slab of skin-on pork belly cut into 4cm cubes, slow-simmered in Shaoxing wine for two hours. Skin turns date-red and translucent, fat melts instantly, lean stays tender without shredding. Soy and wine aromas interlace, sweet-savory balanced, sauce thick as glue.",
+  "region": "Zhejiang · 杭州",
+  "date": "2026-08-09"
+ },
+ {
+  "name": "Longjing Shrimp",
+  "image": "images/gen-zhejiang-2.svg",
+  "tags": [
+   "tea-infused cuisine",
+   "jade-like elegance",
+   "spring seasonal"
+  ],
+  "description": "Fresh river shrimp are coated and flash-fried to snowy white, then tossed with tender Longjing tea leaves picked before Qingming. Tea fragrance seeps into the meat, which is bouncy and clean, with a faint bitter-sweet finish. No oily sheen on the plate—refined as an ink painting.",
+  "region": "Zhejiang · 杭州",
+  "date": "2026-08-09"
+ },
+ {
+  "name": "West Lake Vinegar Fish",
+  "image": "images/gen-zhejiang-1.svg",
+  "tags": [
+   "Hangzhou cuisine flagship",
+   "sweet-sour silky",
+   "Southern Song heritage"
+  ],
+  "description": "Grass carp or mandarin fish is scalded to seven-tenths doneness, then glazed with amber sweet-sour vinegar sauce. The flesh is as tender as tofu, opening with sour notes and finishing sweet, carrying a subtle crab-like aroma with ginger to cut fishiness. Its color is glossy red-brown.",
+  "region": "Zhejiang · 杭州",
+  "date": "2026-08-09"
+ },
+ {
+  "name": "Mapo Tofu",
+  "image": "images/mapo-tofu-2.jpg",
+  "tags": [
+   "Spicy",
+   "Signature"
+  ],
+  "description": "Silken tofu simmered in a rich, fiery sauce of fermented broad beans, chili oil, and Sichuan peppercorns. Invented in the late Qing Dynasty by Chen Mapo, a restaurateur in Chengdu. The dish balances t",
+  "region": "Sichuan · Chengdu",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Kung Pao Chicken",
+  "image": "images/kung-pao-chicken-1.jpg",
+  "tags": [
+   "Classic",
+   "Sweet-Spicy"
+  ],
+  "description": "Diced chicken stir-fried with peanuts, dried red chilies, and scallions in a sweet-savory sauce. Named after Ding Baozhen, a Qing Dynasty official whose title was \"Gongbao\".",
+  "region": "Sichuan · Chengdu",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Sichuan Hotpot",
+  "image": "images/sichuan-hotpot-1.jpg",
+  "tags": [
+   "Iconic",
+   "Communal"
+  ],
+  "description": "A communal dining experience centered around a pot of simmering, chili-laced broth. Diners cook raw ingredients tableside — from thin-sliced beef to tripe, lotus root, and tofu skin.",
+  "region": "Sichuan · Chengdu",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Jiangyou Braised Pork Intestine",
+  "image": "images/jiangyou-feichang-1.jpg",
+  "tags": [
+   "Challenge",
+   "Spicy"
+  ],
+  "description": "A legendary Sichuan dish from Jiangyou County, featuring pork intestines braised to tender perfection in a rich, spicy sauce. Chewy, bold, and definitely NOT for everyone. Dare to take the ultimate Si",
+  "region": "Sichuan · Chengdu",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Husband and Wife Lung Slice (Fuqi Feipian)",
+  "image": "images/fuqi-feipian-1.jpg",
+  "tags": [
+   "Challenge",
+   "Classic"
+  ],
+  "description": "Thin slices of beef, beef tripe, and offal in a numbing chili oil dressing. The name sounds wild — but the flavor is unforgettable. Brave hearts only.",
+  "region": "Sichuan · Chengdu",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Rabbit Head (Tu Tou)",
+  "image": "images/rabbit-head-1.jpg",
+  "tags": [
+   "Challenge",
+   "Snack"
+  ],
+  "description": "Sichuan's most controversial street snack — a whole rabbit head, spiced and braised. Intense flavor, hands-on eating. Not for the faint of heart.",
+  "region": "Sichuan · Chengdu",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Grilled Brain Flower (Kao Nao Hua)",
+  "image": "images/kao-nao-hua-1.jpg",
+  "tags": [
+   "Challenge",
+   "Street Food"
+  ],
+  "description": "Silky, creamy pig brain grilled on a skewer with chili, cumin, and Sichuan pepper. An acquired taste — but fans call it the ultimate late-night indulgence. Dare to try?",
+  "region": "Sichuan · Chengdu",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Dan Dan Noodles",
+  "image": "images/dan-dan-noodles-1.jpg",
+  "tags": [
+   "Classic",
+   "Street Food"
+  ],
+  "description": "Chengdu's iconic street noodles — thin wheat noodles topped with a spicy, numbing sauce of preserved vegetables, chili oil, Sichuan peppercorns, and minced pork. Originally carried by pole-bearing str",
+  "region": "Sichuan · Chengdu",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Sliced Fish in Hot Chili Oil (Shui Zhu Yu)",
+  "image": "images/shui-zhu-yu-1.jpg",
+  "tags": [
+   "Spicy",
+   "Signature"
+  ],
+  "description": "Tender fish fillets poached in mild broth, then smothered in hot chili oil with dried chilies and Sichuan peppercorns. The oil is for aroma, not for drinking — scoop it aside and enjoy the fish.",
+  "region": "Sichuan · Chengdu",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Kaishui Baicai (Boiled Cabbage in Supreme Broth)",
+  "image": "images/kaishui-baicai.jpg",
+  "tags": [
+   "Classic",
+   "National Banquet"
+  ],
+  "description": "Perhaps the most deceptive dish in all of Sichuan cuisine. What looks like plain cabbage in clear water is actually the pinnacle of Sichuan's clear-soup technique — a masterwork that shatters the ster",
+  "region": "Sichuan · Chengdu",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "San Da Pao (Three Cannons — Chengdu's Loudest Snack)",
+  "image": "images/san-dapao.jpg",
+  "tags": [
+   "Street Food",
+   "Intangible Heritage"
+  ],
+  "description": "A performance disguised as a snack. Three sticky glutinous rice balls are thrown with force against a wooden board fitted with brass plates — producing three explosive \"BANG — BANG — BANG\" sounds like",
+  "region": "Sichuan · Chengdu",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Leshan Sweet Glazed Duck (Tianpi Ya)",
+  "image": "images/tianpi-ya.jpg",
+  "tags": [
+   "Signature",
+   "Sweet-Savory"
+  ],
+  "description": "A whole duck brined with Sichuan spices, air-dried, brushed with maltose syrup, then deep-fried until the skin transforms into a glossy, caramelized amber. The crackling-sweet exterior gives way to te",
+  "region": "Sichuan · Leshan",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Bobo Chicken",
+  "image": "images/bobo-chicken.jpg",
+  "tags": [
+   "Cold",
+   "Spicy-Numbing"
+  ],
+  "description": "Cold skewers of chicken, tripe, duck tongue, lotus root, and vegetables steeped in a chilled broth of chili oil, Sichuan pepper, sesame, and aromatics. \"Bobo\" means earthenware pot in Sichuan dialect ",
+  "region": "Sichuan · Leshan",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Leshan Qiaojiao Beef (Crossed-Leg Beef Soup)",
+  "image": "images/qiaojiao-beef.jpg",
+  "tags": [
+   "Soup",
+   "Herbal"
+  ],
+  "description": "A soul-warming beef offal soup simmered with over 30 Chinese medicinal herbs. Clear golden broth, tender sliced beef and tripe, with a subtle aromatic complexity from white peony root, amomum villosum",
+  "region": "Sichuan · Leshan",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Linjiang Shredded Eel",
+  "image": "images/linjiang-shansi.jpg",
+  "tags": [
+   "Fresh-Spicy",
+   "Intangible Heritage"
+  ],
+  "description": "Fresh稻田 eels from Leshan's rice paddies, skillfully deboned with an ox-bone knife into perfect shreds, then quick-fried in pork fat with pickled chilies, Sichuan pepper, and local herbs. The eel shred",
+  "region": "Sichuan · Leshan",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Suji Fried Rice Puff Candy (Mihuatang)",
+  "image": "images/suji-mihuatang.jpg",
+  "tags": [
+   "Snack",
+   "Sweet-Crunchy"
+  ],
+  "description": "A traditional Leshan sweet snack made from premium glutinous rice, puffed in pork fat and bound with maltose syrup into snowy-white blocks studded with peanuts and sesame. Each bite shatters with a cr",
+  "region": "Sichuan · Leshan",
+  "date": "June 1, 2026"
+ },
+ {
+  "name": "Chongqing Hotpot",
+  "image": "images/chongqing-hotpot.jpg",
+  "tags": [
+   "Iconic",
+   "Communal"
+  ],
+  "description": "The original Chinese hotpot — a blazing cauldron of beef tallow, dried chilies, and Sichuan peppercorns. Born from Chongqing's dockworker culture.",
+  "region": "Chongqing",
+  "date": "June 2, 2026"
+ },
+ {
+  "name": "Mao Xue Wang",
+  "image": "images/mao-xue-wang.jpg",
+  "tags": [
+   "Signature",
+   "Spicy"
+  ],
+  "description": "Duck blood curd and tripe simmered in a crimson chili broth. Born from Chongqing's dock culture.",
+  "region": "Chongqing",
+  "date": "June 2, 2026"
+ },
+ {
+  "name": "Chongqing Xiao Mian (Small Noodles)",
+  "image": "images/chongqing-xiaomian.jpg",
+  "tags": [
+   "Street Food",
+   "Breakfast"
+  ],
+  "description": "Chongqing's soul breakfast — alkaline wheat noodles in a fiery blend of chili oil, Sichuan pepper, and sesame paste.",
+  "region": "Chongqing",
+  "date": "June 2, 2026"
+ },
+ {
+  "name": "Hechuan Peach Slice",
+  "image": "images/hechuan-taopian.jpg",
+  "tags": [
+   "Snack",
+   "Intangible Heritage"
+  ],
+  "description": "Paper-thin confection of glutinous rice and walnuts — 180-year-old tradition from Hechuan.",
+  "region": "Chongqing",
+  "date": "June 2, 2026"
+ },
+ {
+  "name": "Rongchang Braised Goose",
+  "image": "images/rongchang-braised-goose.jpg",
+  "tags": [
+   "Signature",
+   "Braised"
+  ],
+  "description": "Whole goose braised in century-old master stock with 30+ spices.",
+  "region": "Chongqing",
+  "date": "June 2, 2026"
+ },
+ {
+  "name": "Chongqing Youcha (Oil Tea)",
+  "image": "images/chongqing-youchai.jpg",
+  "tags": [
+   "Breakfast",
+   "Street Food"
+  ],
+  "description": "Silky rice porridge topped with crispy fried noodles and chili oil — a disappearing breakfast classic.",
+  "region": "Chongqing",
+  "date": "June 2, 2026"
+ },
+ {
+  "name": "Baishiyi Pressed Duck",
+  "image": "images/baishiyi-pressed-duck.jpg",
+  "tags": [
+   "Preserved",
+   "Smoked"
+  ],
+  "description": "Pressed, smoked whole duck with fan shape and intensely savory cured meat. Qing Dynasty heritage.",
+  "region": "Chongqing",
+  "date": "June 2, 2026"
+ },
+ {
+  "name": "Wanzhou Grilled Fish",
+  "image": "images/wanzhou-grilled-fish.jpg",
+  "tags": [
+   "Signature",
+   "Spicy"
+  ],
+  "description": "Charcoal-grilled whole river fish simmered tableside in chili-laced broth. Three Gorges culinary treasure.",
+  "region": "Chongqing",
+  "date": "June 2, 2026"
+ },
+ {
+  "name": "Tongnan Coiled Eel",
+  "image": "images/tongnan-coiled-eel.jpg",
+  "tags": [
+   "Signature",
+   "Dry-Fried"
+  ],
+  "description": "Whole baby eels dry-fried into spirals until the bones are crispy enough to eat. Ultimate Jianghu challenge.",
+  "region": "Chongqing",
+  "date": "June 2, 2026"
+ },
+ {
+  "name": "Nanjing Salted Duck (Yanshui Ya)",
+  "image": "images/nanjing-yanshuiya.jpg",
+  "tags": [
+   "Heritage",
+   "Signature"
+  ],
+  "description": "Nanjing's culinary crown — ivory-white duck, tender and delicately salted, served cold. The 'First Flavor of Jinling' with 2,000 years of history behind each slice.",
+  "region": "Jiangsu · Nanjing",
+  "date": "June 10, 2026"
+ },
+ {
+  "name": "Braised Pounded Eel (Dun Sheng Qiao)",
+  "image": "images/nanjing-dunshengqiao.jpg",
+  "tags": [
+   "Classic",
+   "Banquet"
+  ],
+  "description": "A lost art of Jinling banquets — eel pounded with a wooden mallet until melt-in-your-mouth tender, then braised for hours with pork belly.",
+  "region": "Jiangsu · Nanjing",
+  "date": "June 10, 2026"
+ },
+ {
+  "name": "Jinling Lion's Head Meatball",
+  "image": "images/nanjing-shizitou.jpg",
+  "tags": [
+   "Classic",
+   "Banquet"
+  ],
+  "description": "A half-jin giant meatball of hand-diced pork, enriched with crab roe and slow-braised for 3 hours. So tender it must be eaten with a spoon.",
+  "region": "Jiangsu · Nanjing",
+  "date": "June 10, 2026"
+ },
+ {
+  "name": "Meiling Porridge",
+  "image": "images/nanjing-meilingzhou.jpg",
+  "tags": [
+   "Sweet",
+   "Heritage"
+  ],
+  "description": "A velvety soy-milk porridge created for Soong Mei-ling — rice, Chinese yam, lily bulbs, and goji berries for a nourishing, elegant sweetness.",
+  "region": "Jiangsu · Nanjing",
+  "date": "June 10, 2026"
+ },
+ {
+  "name": "Duck Blood Vermicelli Soup",
+  "image": "images/nanjing-yaxuefensi.jpg",
+  "tags": [
+   "Street Food",
+   "Breakfast"
+  ],
+  "description": "Nanjing's ultimate morning ritual — milky duck bone broth with silky duck blood, vermicelli, and offal. The soul of the city in a bowl.",
+  "region": "Jiangsu · Nanjing",
+  "date": "June 10, 2026"
+ },
+ {
+  "name": "Osmanthus Sugar Taro",
+  "image": "images/nanjing-tangyumiao.jpg",
+  "tags": [
+   "Dessert",
+   "Seasonal"
+  ],
+  "description": "Baby taros slowly simmered in brown sugar and osmanthus syrup until meltingly tender. The taste of a Nanjing autumn in dessert form.",
+  "region": "Jiangsu · Nanjing",
+  "date": "June 10, 2026"
+ },
+ {
+  "name": "Poached Sea Clam in Supreme Chicken Broth",
+  "image": "images/gen-fujian-1.svg",
+  "tags": [
+   "Seafood",
+   "Soup",
+   "Premium",
+   "Fuzhou"
+  ],
+  "description": "A masterpiece of Fuzhou cuisine, this dish highlights the ultimate freshness of the sea. Plump, translucent sea clams are briefly blanched in a crystal-clear, intensely flavorful chicken broth. The meat is remarkably tender and sweet, while the broth is rich yet refreshing, embodying the Fuzhou culinary philosophy of preserving the original taste of premium ingredients.",
+  "region": "Fujian · 福州",
+  "date": "2026-09-14"
+ },
+ {
+  "name": "Lychee-Shaped Sweet and Sour Pork",
+  "image": "images/gen-fujian-2.svg",
+  "tags": [
+   "Pork",
+   "Sweet and Sour",
+   "Traditional",
+   "Knife Skills"
+  ],
+  "description": "A classic Fuzhou dish that showcases both culinary artistry and a delightful flavor profile. Pork is scored with a precise cross-hatch pattern, deep-fried to curl into the shape of a lychee fruit, and then tossed in a vibrant sweet and sour sauce. The result is a dish that is crispy on the outside, tender on the inside, and bursting with a tangy, fruity aroma.",
+  "region": "Fujian · 福州",
+  "date": "2026-09-14"
+ },
+ {
+  "name": "Drunken Chicken with Red Wine Lees",
+  "image": "images/gen-fujian-3.svg",
+  "tags": [
+   "Poultry",
+   "Fermented",
+   "Red Lees",
+   "Cold Dish"
+  ],
+  "description": "A signature cold dish that highlights Fuzhou's unique obsession with 'Zao' (red fermented rice lees). Tender poached chicken is marinated in a fragrant mixture of red wine lees, rice wine, and spices. The meat absorbs the deep, ruby-red color and a complex, intoxicating aroma of fermented rice, offering a savory, slightly sweet, and profoundly umami flavor.",
+  "region": "Fujian · 福州",
+  "date": "2026-09-14"
+ },
+ {
+  "name": "Cao Cao Chicken",
+  "image": "images/gen-anhui-1.svg",
+  "tags": [
+   "Medicinal",
+   "Historical",
+   "Braised",
+   "Hefei Specialty"
+  ],
+  "description": "A legendary medicinal braised chicken from Hefei, infused with a blend of traditional Chinese herbs. The meat is tender, the skin is glossy, and the flavor is rich with a subtle herbal aroma, reflecting the harmony of culinary and medical arts.",
+  "region": "Anhui · 合肥",
+  "date": "2026-09-11"
+ },
+ {
+  "name": "Lord Bao's Fish",
+  "image": "images/gen-anhui-2.svg",
+  "tags": [
+   "Cultural Icon",
+   "Bone-soft",
+   "Hefei Heritage",
+   "Savory"
+  ],
+  "description": "A signature Hefei dish featuring fish braised until the bones are completely soft and edible. Coated in a dark, glossy sauce, it offers a complex flavor profile of savory, sweet, and slight tanginess, symbolizing the incorruptible spirit of Lord Bao Zheng.",
+  "region": "Anhui · 合肥",
+  "date": "2026-09-11"
+ },
+ {
+  "name": "Wushan Tribute Goose",
+  "image": "images/gen-anhui-3.svg",
+  "tags": [
+   "Imperial Tribute",
+   "Braised",
+   "Savory",
+   "Lujiang Specialty"
+  ],
+  "description": "Originating from Wushan Town in Hefei, this premium braised goose is renowned for its succulent meat and fragrant, complex marinade. The skin is a rich amber, and the meat is tender yet chewy, carrying a deep umami flavor that has delighted emperors and commoners alike.",
+  "region": "Anhui · 合肥",
+  "date": "2026-09-11"
+ },
+ {
+  "name": "Steamed Wuchang Fish",
+  "image": "https://picsum.photos/seed/hubei-dish-1/400/300",
+  "tags": [
+   "Hubei Cuisine",
+   "River Fish",
+   "Classic",
+   "Steamed"
+  ],
+  "description": "A quintessential Hubei dish featuring the Wuchang bream, celebrated for its tender, sweet meat and delicate flavor. The fish is simply steamed with ginger, scallions, and a light soy-based dressing to highlight its natural freshness, embodying the culinary philosophy of preserving the original taste of premium river ingredients.",
+  "region": "Hubei · 武汉",
+  "date": "2026-09-12"
+ },
+ {
+  "name": "Pork Ribs and Lotus Root Soup",
+  "image": "https://picsum.photos/seed/hubei-dish-2/400/300",
+  "tags": [
+   "Hubei Cuisine",
+   "Soup",
+   "Comfort Food",
+   "Lotus Root"
+  ],
+  "description": "The ultimate comfort food in Wuhan, this rich, slow-simmered soup features pork ribs and the region's prized lotus roots. The lotus roots, specifically cultivated in the muddy wetlands of Hubei, become remarkably starchy, soft, and slightly sweet after hours of braising, while the broth turns a beautiful milky pink and absorbs the deep savory essence of the pork.",
+  "region": "Hubei · 武汉",
+  "date": "2026-09-12"
+ },
+ {
+  "name": "Stir-fried Hongshan Purple Cabbage with Cured Pork",
+  "image": "https://picsum.photos/seed/hubei-dish-3/400/300",
+  "tags": [
+   "Hubei Cuisine",
+   "Seasonal",
+   "Vegetable",
+   "Winter Specialty"
+  ],
+  "description": "A legendary seasonal delicacy exclusive to Wuhan, this dish pairs the crisp, sweet, and slightly peppery Hongshan purple cabbage with rich, smoky cured pork. The cabbage, grown in the unique microclimate of the Hongshan district, possesses a vibrant purple hue and a tender texture that perfectly balances the savory, salty fat of the winter-cured pork.",
+  "region": "Hubei · 武汉",
+  "date": "2026-09-12"
+ },
+ {
+  "name": "Stir-fried Cured Pork with Artemisia Grass",
+  "image": "https://picsum.photos/seed/jiangxi-dish-1/400/300",
+  "tags": [
+   "Seasonal Delicacy",
+   "Poyang Lake Specialty",
+   "Savory and Crisp"
+  ],
+  "description": "In Nanchang, there is a saying: 'The grass of Poyang Lake is the treasure of Nanchang people.' Artemisia grass is a unique wild aquatic plant from the Poyang Lake area, carrying a distinct, refreshing fragrance. When stir-fried with homemade cured pork smoked over cypress branches, the rich fat of the pork permeates the grass, while the grass's aroma cuts through the greasiness. The dish boasts a golden hue and a crisp, tender texture, offering a savory taste filled with the essence of spring, perfectly embodying the 'authentic and original flavors' of Gan cuisine.",
+  "region": "Jiangxi · 南昌",
+  "date": "2026-09-13"
+ },
+ {
+  "name": "Nanchang Three-Cup Chicken",
+  "image": "https://picsum.photos/seed/jiangxi-dish-2/400/300",
+  "tags": [
+   "Traditional Signature",
+   "Rich Sauce Aroma",
+   "Non-spicy"
+  ],
+  "description": "Nanchang Three-Cup Chicken is a classic poultry dish in Gan cuisine. Unlike its Taiwanese counterpart, the Nanchang version does not use Thai basil and adds not a single drop of water. Its essence lies in the 'three cups': one cup of tea oil (or lard), one cup of brewed rice wine, and one cup of premium soy sauce. The chicken is slow-braised in a sealed clay pot with these three ingredients. The result is a vibrant red dish with tender meat, where the wine and soy sauce aromas intertwine perfectly. It is rich, mellow, and not greasy, showcasing Nanchang people's ultimate pursuit of heat control and seasoning.",
+  "region": "Jiangxi · 南昌",
+  "date": "2026-09-13"
+ },
+ {
+  "name": "Nanchang Earthen Jar Slow-Simmered Soup",
+  "image": "https://picsum.photos/seed/jiangxi-dish-3/400/300",
+  "tags": [
+   "Health Nourishing",
+   "Folk Culture",
+   "Mellow and Savory"
+  ],
+  "description": "'A bowl of earthen jar soup is half the history of Nanchang.' This soup is the soul of Nanchang people's breakfast and daily diet. It uses specially made giant earthen jars as containers, with numerous small jars placed inside, simmered over hard charcoal for hours. No complex spices are added; it relies solely on the natural flavors of the ingredients and water, achieving a clear, non-greasy, thick but not oily, and richly savory taste. The minced pork patty soup is the most classic variant, where the meat aroma perfectly blends with the original juice, warming both the stomach and the heart.",
+  "region": "Jiangxi · 南昌",
+  "date": "2026-09-13"
+ }
+]

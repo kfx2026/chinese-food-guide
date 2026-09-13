@@ -1,0 +1,161 @@
+{
+ "id": "fujian",
+ "name_en": "Fujian · 福州",
+ "name_zh": "福建·福州",
+ "en": [
+  {
+   "id": "fujian-001",
+   "region": "Fujian · 福州",
+   "date": "2026-09-14",
+   "dishes": [
+    {
+     "name": "Poached Sea Clam in Supreme Chicken Broth",
+     "name_zh": "鸡汤汆海蚌",
+     "image": "images/gen-fujian-1.svg",
+     "tags": [
+      "Seafood",
+      "Soup",
+      "Premium",
+      "Fuzhou"
+     ],
+     "tags_zh": [
+      "海鲜",
+      "汤羹",
+      "顶级",
+      "福州"
+     ],
+     "description": "A masterpiece of Fuzhou cuisine, this dish highlights the ultimate freshness of the sea. Plump, translucent sea clams are briefly blanched in a crystal-clear, intensely flavorful chicken broth. The meat is remarkably tender and sweet, while the broth is rich yet refreshing, embodying the Fuzhou culinary philosophy of preserving the original taste of premium ingredients.",
+     "description_zh": "闽菜中的极品，完美诠释了福州菜对“鲜”的极致追求。晶莹剔透的漳港海蚌在清澈见底、醇厚鲜香的鸡汤中快速汆烫，蚌肉脆嫩甘甜，汤汁清亮如水却鲜美无比。这道菜将食材的本味发挥到了极致，是国宴级别的经典佳肴。",
+     "history": "Originating from Changle District in Fuzhou, the specific sea clam used is the 'Zhanggang Sea Clam,' renowned for its unique sweetness and crisp texture. In the 1980s, this dish was served at state banquets, cementing its status as a crown jewel of Min cuisine. The technique of 'quick-boiling' requires impeccable timing, reflecting the high culinary standards of Fuzhou chefs.",
+     "history_zh": "此菜发源于福州长乐区，所用海蚌特指“漳港海蚌”，以其独特的脆嫩甘甜闻名。20世纪80年代，这道菜曾多次登上国宴餐桌，奠定了其作为闽菜瑰宝的地位。“汆”的技法对火候的要求达到了苛刻的地步，体现了福州厨师对食材质地和鲜味的精准把控。",
+     "method": "1. Prepare the supreme chicken broth by simmering old hen, pork ribs, and premium ham for hours, then clarify it with minced chicken breast to achieve a crystal-clear appearance.<br>2. Carefully shuck the fresh Zhanggang sea clams, remove the internal organs, and gently wash them without damaging the delicate meat.<br>3. Slice the clam meat into thin, even pieces to ensure uniform cooking and optimal texture.<br>4. Bring a pot of water to a rapid boil, briefly blanch the clam slices for merely 10 to 15 seconds until they slightly curl and turn opaque.<br>5. Immediately transfer the blanched clams into a pre-heated serving bowl.<br>6. Pour the boiling hot, crystal-clear chicken broth over the clams, seasoning with a pinch of salt and white pepper to finish.",
+     "method_zh": "1. 熬制高级清汤：用老母鸡、排骨和优质火腿慢炖数小时，随后用鸡肉茸“扫汤”吸附杂质，使汤汁清澈见底。<br>2. 处理海蚌：将新鲜漳港海蚌去壳，剔除内脏，轻轻洗净，注意保持蚌肉完整娇嫩。<br>3. 切片：将蚌肉切成厚薄均匀的薄片，以确保受热均匀和口感一致。<br>4. 汆烫：锅中水烧至滚沸，放入蚌片快速汆烫10至15秒，待蚌肉微微卷曲、呈半透明状即可捞出。<br>5. 装碗：迅速将汆好的海蚌放入预热过的汤碗中。<br>6. 冲汤：将滚烫的清鸡汤浇入碗中，加入少许盐和胡椒粉调味即成。"
+    },
+    {
+     "name": "Lychee-Shaped Sweet and Sour Pork",
+     "name_zh": "荔枝肉",
+     "image": "images/gen-fujian-2.svg",
+     "tags": [
+      "Pork",
+      "Sweet and Sour",
+      "Traditional",
+      "Knife Skills"
+     ],
+     "tags_zh": [
+      "猪肉",
+      "酸甜",
+      "传统",
+      "刀工"
+     ],
+     "description": "A classic Fuzhou dish that showcases both culinary artistry and a delightful flavor profile. Pork is scored with a precise cross-hatch pattern, deep-fried to curl into the shape of a lychee fruit, and then tossed in a vibrant sweet and sour sauce. The result is a dish that is crispy on the outside, tender on the inside, and bursting with a tangy, fruity aroma.",
+     "description_zh": "福州传统名菜，完美融合了精湛的刀工与绝妙的味觉体验。猪肉经过精细的十字花刀处理，油炸后自然卷曲成荔枝果的形状，再裹上色泽红亮、酸甜适口的酱汁。成菜外酥里嫩，酸甜交织，不仅形似荔枝，更带有独特的果香风味，是福州人宴客必点的佳肴。",
+     "history": "Dating back to the Qing Dynasty, Lychee Pork is a testament to the ingenuity of Fuzhou chefs. Since fresh lychees were rare in northern Fuzhou, local cooks used their exceptional knife skills to transform ordinary pork into the shape of the beloved tropical fruit. The dish has been passed down for centuries, remaining a staple at festive banquets and family gatherings in Fujian.",
+     "history_zh": "荔枝肉创制于清代，是福州厨师智慧的结晶。因古时福州一带鲜荔枝难得，当地名厨便巧妙运用精湛的刀工，将普通的猪肉切成荔枝状，辅以荸荠搭配，形神兼备。这道菜历经数百年传承，至今仍是福建地区逢年过节、婚丧嫁娶宴席上不可或缺的传统名菜。",
+     "method": "1. Select lean pork tenderloin, score it with a fine cross-hatch pattern on one side, and cut it into bite-sized pieces, ensuring the cuts are deep enough to curl when fried.<br>2. Marinate the pork pieces with light soy sauce, rice wine, and a touch of red yeast rice powder for color.<br>3. Coat the marinated pork evenly with sweet potato starch, pressing gently so the starch adheres to the scored crevices.<br>4. Deep-fry the pork in hot oil until it curls into the shape of a lychee and turns golden and crispy, then remove and drain.<br>5. Prepare the sweet and sour sauce by simmering sugar, black vinegar, tomato paste, soy sauce, and a little water in a wok until slightly thickened.<br>6. Toss the fried pork and blanched water chestnuts in the sauce quickly over high heat, ensuring every piece is evenly coated, and serve immediately.",
+     "method_zh": "1. 选用猪里脊肉，在一面打上细密的十字花刀，切成小块，刀深需达肉厚的三分之二，以便油炸时卷曲。<br>2. 将肉块用生抽、料酒和少许红曲粉腌制入味，红曲粉可赋予其天然的微红色泽。<br>3. 均匀地裹上地瓜粉，轻轻按压，让淀粉充分嵌入花刀的缝隙中。<br>4. 热油下锅炸制，肉块受热自然卷曲成荔枝状，炸至金黄酥脆后捞出控油。<br>5. 调糖醋汁：锅中加白糖、香醋、番茄酱、生抽和少许清水，熬煮至汤汁浓稠起亮。<br>6. 将炸好的肉块与焯过水的荸荠倒入锅中快速翻炒，使每块肉均匀裹上酱汁，出锅装盘。"
+    },
+    {
+     "name": "Drunken Chicken with Red Wine Lees",
+     "name_zh": "醉糟鸡",
+     "image": "images/gen-fujian-3.svg",
+     "tags": [
+      "Poultry",
+      "Fermented",
+      "Red Lees",
+      "Cold Dish"
+     ],
+     "tags_zh": [
+      "禽类",
+      "发酵",
+      "红糟",
+      "凉菜"
+     ],
+     "description": "A signature cold dish that highlights Fuzhou's unique obsession with 'Zao' (red fermented rice lees). Tender poached chicken is marinated in a fragrant mixture of red wine lees, rice wine, and spices. The meat absorbs the deep, ruby-red color and a complex, intoxicating aroma of fermented rice, offering a savory, slightly sweet, and profoundly umami flavor.",
+     "description_zh": "凸显福州独特“糟”文化的经典冷盘。将白斩鸡浸入由红糟、料酒和香料调制的醉糟卤中腌制。鸡肉吸饱了红糟那深邃的宝石红泽与浓郁的酒香，口感鲜嫩，糟香扑鼻，咸鲜中带着微甜与醇厚的发酵风味，令人回味无穷。",
+     "history": "The use of red wine lees is a defining characteristic of Fuzhou cuisine, dating back over a thousand years to the Tang and Song dynasties. Red lees, made by fermenting rice with Monascus purpureus yeast, were historically used to preserve food and add a unique flavor. Drunken Red-Lees Chicken evolved from this ancient preservation technique into a celebrated delicacy, symbolizing the coastal people's ingenuity in flavor creation.",
+     "history_zh": "“红糟”的使用是福州菜的灵魂，其历史可追溯至唐宋时期。红糟是用糯米与红曲霉发酵而成，古人借此防腐并赋予食物独特风味。醉糟鸡正是在这一古老技艺基础上发展而来的名菜。它不仅体现了福州人“无糟不成席”的饮食习俗，更展现了沿海先民在调味与发酵工艺上的卓越智慧。",
+     "method": "1. Poach a whole free-range chicken in a gently simmering broth of ginger, scallions, and Shaoxing wine until just cooked through, then immediately plunge it into ice water to tighten the skin and retain juiciness.<br>2. Chop the cooled chicken into neat, bite-sized pieces with the bone in.<br>3. In a bowl, thoroughly mix premium Fuzhou red wine lees with rice wine, salt, sugar, and a pinch of MSG to create a smooth, aromatic marinade.<br>4. Place the chicken pieces in a deep container and evenly coat them with the red lees mixture, ensuring every piece is fully submerged in the marinade.<br>5. Seal the container and refrigerate for at least 6 to 8 hours, allowing the meat to absorb the vibrant red color and the intoxicating lees fragrance.<br>6. Arrange the marinated chicken on a serving plate, garnish with a sprinkle of toasted sesame or fresh coriander, and serve chilled.",
+     "method_zh": "1. 将整只土鸡放入加有葱姜、料酒的沸水锅中微火浸煮至刚熟，迅速捞出投入冰水中冷却，使鸡皮脆爽、肉质多汁。<br>2. 将冷却后的鸡肉斩成大小均匀、带骨的整齐小块。<br>3. 取优质福州红糟，加入料酒、盐、白糖和少许味精，搅拌调和成细腻浓香的红糟卤。<br>4. 将鸡块放入深盆中，倒入调好的红糟卤，充分抓拌均匀，确保每块鸡肉都被糟卤包裹。<br>5. 密封后放入冰箱冷藏腌制6至8小时以上，使鸡肉充分吸收红糟的艳丽色泽与浓郁酒香。<br>6. 取出装盘，可点缀少许熟芝麻或香菜，作为冷盘上桌享用。"
+    }
+   ]
+  }
+ ],
+ "zh": [
+  {
+   "id": "fujian-001",
+   "region": "福建·福州",
+   "date": "2026年9月14日",
+   "dishes": [
+    {
+     "name": "Poached Sea Clam in Supreme Chicken Broth",
+     "name_zh": "鸡汤汆海蚌",
+     "image": "images/gen-fujian-1.svg",
+     "tags": [
+      "Seafood",
+      "Soup",
+      "Premium",
+      "Fuzhou"
+     ],
+     "tags_zh": [
+      "海鲜",
+      "汤羹",
+      "顶级",
+      "福州"
+     ],
+     "description": "A masterpiece of Fuzhou cuisine, this dish highlights the ultimate freshness of the sea. Plump, translucent sea clams are briefly blanched in a crystal-clear, intensely flavorful chicken broth. The meat is remarkably tender and sweet, while the broth is rich yet refreshing, embodying the Fuzhou culinary philosophy of preserving the original taste of premium ingredients.",
+     "description_zh": "闽菜中的极品，完美诠释了福州菜对“鲜”的极致追求。晶莹剔透的漳港海蚌在清澈见底、醇厚鲜香的鸡汤中快速汆烫，蚌肉脆嫩甘甜，汤汁清亮如水却鲜美无比。这道菜将食材的本味发挥到了极致，是国宴级别的经典佳肴。",
+     "history": "Originating from Changle District in Fuzhou, the specific sea clam used is the 'Zhanggang Sea Clam,' renowned for its unique sweetness and crisp texture. In the 1980s, this dish was served at state banquets, cementing its status as a crown jewel of Min cuisine. The technique of 'quick-boiling' requires impeccable timing, reflecting the high culinary standards of Fuzhou chefs.",
+     "history_zh": "此菜发源于福州长乐区，所用海蚌特指“漳港海蚌”，以其独特的脆嫩甘甜闻名。20世纪80年代，这道菜曾多次登上国宴餐桌，奠定了其作为闽菜瑰宝的地位。“汆”的技法对火候的要求达到了苛刻的地步，体现了福州厨师对食材质地和鲜味的精准把控。",
+     "method": "1. Prepare the supreme chicken broth by simmering old hen, pork ribs, and premium ham for hours, then clarify it with minced chicken breast to achieve a crystal-clear appearance.<br>2. Carefully shuck the fresh Zhanggang sea clams, remove the internal organs, and gently wash them without damaging the delicate meat.<br>3. Slice the clam meat into thin, even pieces to ensure uniform cooking and optimal texture.<br>4. Bring a pot of water to a rapid boil, briefly blanch the clam slices for merely 10 to 15 seconds until they slightly curl and turn opaque.<br>5. Immediately transfer the blanched clams into a pre-heated serving bowl.<br>6. Pour the boiling hot, crystal-clear chicken broth over the clams, seasoning with a pinch of salt and white pepper to finish.",
+     "method_zh": "1. 熬制高级清汤：用老母鸡、排骨和优质火腿慢炖数小时，随后用鸡肉茸“扫汤”吸附杂质，使汤汁清澈见底。<br>2. 处理海蚌：将新鲜漳港海蚌去壳，剔除内脏，轻轻洗净，注意保持蚌肉完整娇嫩。<br>3. 切片：将蚌肉切成厚薄均匀的薄片，以确保受热均匀和口感一致。<br>4. 汆烫：锅中水烧至滚沸，放入蚌片快速汆烫10至15秒，待蚌肉微微卷曲、呈半透明状即可捞出。<br>5. 装碗：迅速将汆好的海蚌放入预热过的汤碗中。<br>6. 冲汤：将滚烫的清鸡汤浇入碗中，加入少许盐和胡椒粉调味即成。"
+    },
+    {
+     "name": "Lychee-Shaped Sweet and Sour Pork",
+     "name_zh": "荔枝肉",
+     "image": "images/gen-fujian-2.svg",
+     "tags": [
+      "Pork",
+      "Sweet and Sour",
+      "Traditional",
+      "Knife Skills"
+     ],
+     "tags_zh": [
+      "猪肉",
+      "酸甜",
+      "传统",
+      "刀工"
+     ],
+     "description": "A classic Fuzhou dish that showcases both culinary artistry and a delightful flavor profile. Pork is scored with a precise cross-hatch pattern, deep-fried to curl into the shape of a lychee fruit, and then tossed in a vibrant sweet and sour sauce. The result is a dish that is crispy on the outside, tender on the inside, and bursting with a tangy, fruity aroma.",
+     "description_zh": "福州传统名菜，完美融合了精湛的刀工与绝妙的味觉体验。猪肉经过精细的十字花刀处理，油炸后自然卷曲成荔枝果的形状，再裹上色泽红亮、酸甜适口的酱汁。成菜外酥里嫩，酸甜交织，不仅形似荔枝，更带有独特的果香风味，是福州人宴客必点的佳肴。",
+     "history": "Dating back to the Qing Dynasty, Lychee Pork is a testament to the ingenuity of Fuzhou chefs. Since fresh lychees were rare in northern Fuzhou, local cooks used their exceptional knife skills to transform ordinary pork into the shape of the beloved tropical fruit. The dish has been passed down for centuries, remaining a staple at festive banquets and family gatherings in Fujian.",
+     "history_zh": "荔枝肉创制于清代，是福州厨师智慧的结晶。因古时福州一带鲜荔枝难得，当地名厨便巧妙运用精湛的刀工，将普通的猪肉切成荔枝状，辅以荸荠搭配，形神兼备。这道菜历经数百年传承，至今仍是福建地区逢年过节、婚丧嫁娶宴席上不可或缺的传统名菜。",
+     "method": "1. Select lean pork tenderloin, score it with a fine cross-hatch pattern on one side, and cut it into bite-sized pieces, ensuring the cuts are deep enough to curl when fried.<br>2. Marinate the pork pieces with light soy sauce, rice wine, and a touch of red yeast rice powder for color.<br>3. Coat the marinated pork evenly with sweet potato starch, pressing gently so the starch adheres to the scored crevices.<br>4. Deep-fry the pork in hot oil until it curls into the shape of a lychee and turns golden and crispy, then remove and drain.<br>5. Prepare the sweet and sour sauce by simmering sugar, black vinegar, tomato paste, soy sauce, and a little water in a wok until slightly thickened.<br>6. Toss the fried pork and blanched water chestnuts in the sauce quickly over high heat, ensuring every piece is evenly coated, and serve immediately.",
+     "method_zh": "1. 选用猪里脊肉，在一面打上细密的十字花刀，切成小块，刀深需达肉厚的三分之二，以便油炸时卷曲。<br>2. 将肉块用生抽、料酒和少许红曲粉腌制入味，红曲粉可赋予其天然的微红色泽。<br>3. 均匀地裹上地瓜粉，轻轻按压，让淀粉充分嵌入花刀的缝隙中。<br>4. 热油下锅炸制，肉块受热自然卷曲成荔枝状，炸至金黄酥脆后捞出控油。<br>5. 调糖醋汁：锅中加白糖、香醋、番茄酱、生抽和少许清水，熬煮至汤汁浓稠起亮。<br>6. 将炸好的肉块与焯过水的荸荠倒入锅中快速翻炒，使每块肉均匀裹上酱汁，出锅装盘。"
+    },
+    {
+     "name": "Drunken Chicken with Red Wine Lees",
+     "name_zh": "醉糟鸡",
+     "image": "images/gen-fujian-3.svg",
+     "tags": [
+      "Poultry",
+      "Fermented",
+      "Red Lees",
+      "Cold Dish"
+     ],
+     "tags_zh": [
+      "禽类",
+      "发酵",
+      "红糟",
+      "凉菜"
+     ],
+     "description": "A signature cold dish that highlights Fuzhou's unique obsession with 'Zao' (red fermented rice lees). Tender poached chicken is marinated in a fragrant mixture of red wine lees, rice wine, and spices. The meat absorbs the deep, ruby-red color and a complex, intoxicating aroma of fermented rice, offering a savory, slightly sweet, and profoundly umami flavor.",
+     "description_zh": "凸显福州独特“糟”文化的经典冷盘。将白斩鸡浸入由红糟、料酒和香料调制的醉糟卤中腌制。鸡肉吸饱了红糟那深邃的宝石红泽与浓郁的酒香，口感鲜嫩，糟香扑鼻，咸鲜中带着微甜与醇厚的发酵风味，令人回味无穷。",
+     "history": "The use of red wine lees is a defining characteristic of Fuzhou cuisine, dating back over a thousand years to the Tang and Song dynasties. Red lees, made by fermenting rice with Monascus purpureus yeast, were historically used to preserve food and add a unique flavor. Drunken Red-Lees Chicken evolved from this ancient preservation technique into a celebrated delicacy, symbolizing the coastal people's ingenuity in flavor creation.",
+     "history_zh": "“红糟”的使用是福州菜的灵魂，其历史可追溯至唐宋时期。红糟是用糯米与红曲霉发酵而成，古人借此防腐并赋予食物独特风味。醉糟鸡正是在这一古老技艺基础上发展而来的名菜。它不仅体现了福州人“无糟不成席”的饮食习俗，更展现了沿海先民在调味与发酵工艺上的卓越智慧。",
+     "method": "1. Poach a whole free-range chicken in a gently simmering broth of ginger, scallions, and Shaoxing wine until just cooked through, then immediately plunge it into ice water to tighten the skin and retain juiciness.<br>2. Chop the cooled chicken into neat, bite-sized pieces with the bone in.<br>3. In a bowl, thoroughly mix premium Fuzhou red wine lees with rice wine, salt, sugar, and a pinch of MSG to create a smooth, aromatic marinade.<br>4. Place the chicken pieces in a deep container and evenly coat them with the red lees mixture, ensuring every piece is fully submerged in the marinade.<br>5. Seal the container and refrigerate for at least 6 to 8 hours, allowing the meat to absorb the vibrant red color and the intoxicating lees fragrance.<br>6. Arrange the marinated chicken on a serving plate, garnish with a sprinkle of toasted sesame or fresh coriander, and serve chilled.",
+     "method_zh": "1. 将整只土鸡放入加有葱姜、料酒的沸水锅中微火浸煮至刚熟，迅速捞出投入冰水中冷却，使鸡皮脆爽、肉质多汁。<br>2. 将冷却后的鸡肉斩成大小均匀、带骨的整齐小块。<br>3. 取优质福州红糟，加入料酒、盐、白糖和少许味精，搅拌调和成细腻浓香的红糟卤。<br>4. 将鸡块放入深盆中，倒入调好的红糟卤，充分抓拌均匀，确保每块鸡肉都被糟卤包裹。<br>5. 密封后放入冰箱冷藏腌制6至8小时以上，使鸡肉充分吸收红糟的艳丽色泽与浓郁酒香。<br>6. 取出装盘，可点缀少许熟芝麻或香菜，作为冷盘上桌享用。"
+    }
+   ]
+  }
+ ]
+}

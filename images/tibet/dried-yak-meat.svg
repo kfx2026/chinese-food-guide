@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#fdf6ec"/>
+<circle cx="400" cy="230" r="150" fill="#7b241c" opacity="0.16"/>
+<circle cx="400" cy="230" r="105" fill="#7b241c" opacity="0.24"/>
+<text x="400" y="225" font-family="Georgia,'Times New Roman',serif" font-size="44" fill="#2c3e50" text-anchor="middle" font-weight="bold">Dried Yak Meat</text>
+<text x="400" y="280" font-family="Georgia,'Times New Roman',serif" font-size="24" fill="#7b241c" text-anchor="middle">Air-Dried Yak Meat</text>
+<text x="400" y="400" font-family="Arial,sans-serif" font-size="16" fill="#95a5a6" text-anchor="middle">Tibet Cuisine &#183; Great Chinese Food</text>
+</svg>

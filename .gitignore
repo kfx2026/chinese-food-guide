@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Backup files
+backup/
+*.zip
+
+# Deploy artifacts
+deploy.log
+last-deploy.json
+
+# Temporary scripts
+_del_*.py
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+food-push
+# Redeployed Sat Jul 11 11:38:30     2026
+
+# Local scripts (not for static deploy)
+.wrangler/
+*.py
+*.ps1
+*.bak
+*.tmp
+*.log

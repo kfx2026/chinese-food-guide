@@ -1,0 +1,161 @@
+{
+ "id": "anhui",
+ "name_en": "Anhui · 合肥",
+ "name_zh": "安徽·合肥",
+ "en": [
+  {
+   "id": "anhui-001",
+   "region": "Anhui · 合肥",
+   "date": "2026-09-11",
+   "dishes": [
+    {
+     "name": "Cao Cao Chicken",
+     "name_zh": "曹操鸡",
+     "image": "images/gen-anhui-1.svg",
+     "tags": [
+      "Medicinal",
+      "Historical",
+      "Braised",
+      "Hefei Specialty"
+     ],
+     "tags_zh": [
+      "药膳",
+      "历史传说",
+      "卤制",
+      "合肥特产"
+     ],
+     "description": "A legendary medicinal braised chicken from Hefei, infused with a blend of traditional Chinese herbs. The meat is tender, the skin is glossy, and the flavor is rich with a subtle herbal aroma, reflecting the harmony of culinary and medical arts.",
+     "description_zh": "合肥一道充满传奇色彩的药膳卤鸡，融合了多种传统中草药烹制而成。鸡肉鲜嫩，色泽红亮，醇厚的卤汁中透着淡淡的药香，完美体现了药食同源的饮食智慧。",
+     "history": "Legend has it that during the Three Kingdoms period, Cao Cao suffered from severe headaches while stationed in Luzhou (modern-day Hefei). A local physician prescribed a chicken stewed with Chinese herbs, which remarkably alleviated his symptoms. The dish was later named in his honor and has been passed down for over a thousand years.",
+     "history_zh": "相传三国时期，曹操驻兵庐州（今合肥）时头风病发作，疼痛难忍。当地名医为其配制了以中草药炖煮的鸡汤，曹操食后病情大为好转。此菜因此得名，并作为地方名菜流传千年。",
+     "method": "1. Clean a whole free-range chicken and blanch it in boiling water with ginger and scallions to remove impurities.<br>2. Prepare a spice bag with over a dozen traditional Chinese herbs, including astragalus, angelica root, and goji berries.<br>3. Create a rich master stock using soy sauce, rock sugar, Shaoxing wine, and the herb bag.<br>4. Simmer the chicken in the master stock over low heat for about an hour until fully cooked and infused.<br>5. Remove the chicken, brush its skin with sesame oil, and let it rest to absorb the flavors.<br>6. Chop the chicken into pieces, arrange on a plate, and drizzle with the reduced, thickened herbal broth.",
+     "method_zh": "1. 将散养土鸡处理干净，加葱姜在沸水中焯烫去血水杂质。<br>2. 准备料包，装入黄芪、当归、枸杞等十余种传统中草药。<br>3. 用酱油、冰糖、绍兴黄酒及药包熬制一锅浓郁的秘制老卤。<br>4. 将鸡放入卤汁中，文火慢炖约一小时，使其熟透且充分吸收药香。<br>5. 捞出鸡肉，在表皮均匀刷上一层芝麻油，静置晾凉以锁住风味。<br>6. 将鸡斩件装盘，最后浇上浓缩收汁的醇厚卤汤即可。"
+    },
+    {
+     "name": "Lord Bao's Fish",
+     "name_zh": "包公鱼",
+     "image": "images/gen-anhui-2.svg",
+     "tags": [
+      "Cultural Icon",
+      "Bone-soft",
+      "Hefei Heritage",
+      "Savory"
+     ],
+     "tags_zh": [
+      "文化符号",
+      "酥烂脱骨",
+      "合肥非遗",
+      "酱香"
+     ],
+     "description": "A signature Hefei dish featuring fish braised until the bones are completely soft and edible. Coated in a dark, glossy sauce, it offers a complex flavor profile of savory, sweet, and slight tanginess, symbolizing the incorruptible spirit of Lord Bao Zheng.",
+     "description_zh": "合肥标志性名菜，将鱼烹制得骨酥肉烂，连骨头都可嚼食。鱼身裹满浓郁红亮的酱汁，咸甜交织，酱香醇厚，寓意包拯铁面无私、铁骨铮铮的高尚品格。",
+     "history": "Named after Bao Zheng, a famous and incorruptible judge of the Song Dynasty who was born in Hefei. The locals created this dish using black fish and lotus root, cooking it until the bones melt in the mouth to symbolize Bao's unyielding integrity and 'iron bones.' It remains a staple at local banquets.",
+     "history_zh": "此菜得名于北宋名臣、合肥人包拯。百姓选用乌鱼与莲藕同烹，慢火煨至骨酥肉烂，寓意包公铁面无私、铁骨铮铮。这道承载着百姓对清官敬仰的佳肴，至今仍是合肥宴席上的压轴名菜。",
+     "method": "1. Score a cleaned crucian carp or black fish, coat it lightly in starch, and deep-fry until the exterior is crispy and golden.<br>2. In a separate wok, caramelize rock sugar and add ginger, scallions, star anise, and dark soy sauce to build the sauce base.<br>3. Pour in Shaoxing wine and a splash of black vinegar, then add enough water to submerge the fish.<br>4. Place the fried fish and lotus root slices into the wok, bringing the liquid to a boil.<br>5. Cover and simmer on the lowest heat for over two hours until the bones are entirely tender.<br>6. Reduce the sauce over high heat until thick and glossy, then carefully transfer the fish to a plate.",
+     "method_zh": "1. 将处理好的鲫鱼或乌鱼改刀，拍上薄淀粉，下油锅炸至外皮金黄酥脆。<br>2. 另起锅炒化冰糖，加入葱姜、八角、老抽等香料炒出酱色底味。<br>3. 烹入绍兴黄酒与少许香醋，加入适量清水烧开。<br>4. 放入炸好的鱼与莲藕片，大火烧开后转微火。<br>5. 加盖慢煨两小时以上，直至鱼骨酥烂，入口即化。<br>6. 大火收汁至酱汁浓稠红亮，小心将鱼盛出装盘即可。"
+    },
+    {
+     "name": "Wushan Tribute Goose",
+     "name_zh": "吴山贡鹅",
+     "image": "images/gen-anhui-3.svg",
+     "tags": [
+      "Imperial Tribute",
+      "Braised",
+      "Savory",
+      "Lujiang Specialty"
+     ],
+     "tags_zh": [
+      "皇家贡品",
+      "秘制卤味",
+      "咸鲜醇厚",
+      "长丰特产"
+     ],
+     "description": "Originating from Wushan Town in Hefei, this premium braised goose is renowned for its succulent meat and fragrant, complex marinade. The skin is a rich amber, and the meat is tender yet chewy, carrying a deep umami flavor that has delighted emperors and commoners alike.",
+     "description_zh": "源自合肥吴山镇的顶级卤味名菜，以肉质鲜美、卤香浓郁著称。鹅皮色泽琥珀，肉质紧实而不柴，醇厚的鲜香滋味历经岁月沉淀，曾是进贡朝廷的御膳珍馐。",
+     "history": "Dating back to the Five Dynasties and Ten Kingdoms period, the local ruler of Luzhou presented a specially braised goose to the emperor as a tribute. The emperor was highly impressed by its exceptional taste, decreeing it an annual royal tribute. The recipe has been meticulously preserved in Wushan Town ever since.",
+     "history_zh": "追溯至五代十国时期，庐州地方官将当地特制的卤鹅作为贡品献给皇帝。皇帝品尝后大为赞赏，钦定为年年进贡的御膳佳品。此后，这一秘方在合肥吴山镇代代相传，成为闻名遐迩的地方名吃。",
+     "method": "1. Select a plump, free-range goose, clean it thoroughly, and blanch it in boiling water to tighten the skin.<br>2. Prepare a proprietary spice blend featuring sand ginger, cardamom, cinnamon, and dried tangerine peel.<br>3. Sauté the spices and aromatics in oil, then add rock sugar, premium soy sauce, and a rich bone broth.<br>4. Submerge the goose in the fragrant master brine, ensuring it is fully covered, and bring to a gentle boil.<br>5. Turn off the heat and let the goose steep in the residual warmth of the brine for several hours to deeply absorb the flavors.<br>6. Remove the goose, chop it into uniform pieces, and serve with a ladle of the warm, aromatic brine.",
+     "method_zh": "1. 挑选肥壮的散养白鹅，处理干净后入沸水焯烫，使鹅皮收紧定型。<br>2. 配制秘制香料包，内含沙姜、豆蔻、桂皮、陈皮等数十种香辛料。<br>3. 将香料煸炒出香，加入冰糖、优质酱油及浓郁的高汤熬制卤水。<br>4. 将鹅完全浸入卤水中，大火烧开后撇去浮沫。<br>5. 关火焖泡数小时，利用卤水的余温让鹅肉深层吸收醇厚香气。<br>6. 捞出贡鹅斩件装盘，淋上一勺温热的原卤汁即可上桌。"
+    }
+   ]
+  }
+ ],
+ "zh": [
+  {
+   "id": "anhui-001",
+   "region": "安徽·合肥",
+   "date": "2026年9月11日",
+   "dishes": [
+    {
+     "name": "Cao Cao Chicken",
+     "name_zh": "曹操鸡",
+     "image": "images/gen-anhui-1.svg",
+     "tags": [
+      "Medicinal",
+      "Historical",
+      "Braised",
+      "Hefei Specialty"
+     ],
+     "tags_zh": [
+      "药膳",
+      "历史传说",
+      "卤制",
+      "合肥特产"
+     ],
+     "description": "A legendary medicinal braised chicken from Hefei, infused with a blend of traditional Chinese herbs. The meat is tender, the skin is glossy, and the flavor is rich with a subtle herbal aroma, reflecting the harmony of culinary and medical arts.",
+     "description_zh": "合肥一道充满传奇色彩的药膳卤鸡，融合了多种传统中草药烹制而成。鸡肉鲜嫩，色泽红亮，醇厚的卤汁中透着淡淡的药香，完美体现了药食同源的饮食智慧。",
+     "history": "Legend has it that during the Three Kingdoms period, Cao Cao suffered from severe headaches while stationed in Luzhou (modern-day Hefei). A local physician prescribed a chicken stewed with Chinese herbs, which remarkably alleviated his symptoms. The dish was later named in his honor and has been passed down for over a thousand years.",
+     "history_zh": "相传三国时期，曹操驻兵庐州（今合肥）时头风病发作，疼痛难忍。当地名医为其配制了以中草药炖煮的鸡汤，曹操食后病情大为好转。此菜因此得名，并作为地方名菜流传千年。",
+     "method": "1. Clean a whole free-range chicken and blanch it in boiling water with ginger and scallions to remove impurities.<br>2. Prepare a spice bag with over a dozen traditional Chinese herbs, including astragalus, angelica root, and goji berries.<br>3. Create a rich master stock using soy sauce, rock sugar, Shaoxing wine, and the herb bag.<br>4. Simmer the chicken in the master stock over low heat for about an hour until fully cooked and infused.<br>5. Remove the chicken, brush its skin with sesame oil, and let it rest to absorb the flavors.<br>6. Chop the chicken into pieces, arrange on a plate, and drizzle with the reduced, thickened herbal broth.",
+     "method_zh": "1. 将散养土鸡处理干净，加葱姜在沸水中焯烫去血水杂质。<br>2. 准备料包，装入黄芪、当归、枸杞等十余种传统中草药。<br>3. 用酱油、冰糖、绍兴黄酒及药包熬制一锅浓郁的秘制老卤。<br>4. 将鸡放入卤汁中，文火慢炖约一小时，使其熟透且充分吸收药香。<br>5. 捞出鸡肉，在表皮均匀刷上一层芝麻油，静置晾凉以锁住风味。<br>6. 将鸡斩件装盘，最后浇上浓缩收汁的醇厚卤汤即可。"
+    },
+    {
+     "name": "Lord Bao's Fish",
+     "name_zh": "包公鱼",
+     "image": "images/gen-anhui-2.svg",
+     "tags": [
+      "Cultural Icon",
+      "Bone-soft",
+      "Hefei Heritage",
+      "Savory"
+     ],
+     "tags_zh": [
+      "文化符号",
+      "酥烂脱骨",
+      "合肥非遗",
+      "酱香"
+     ],
+     "description": "A signature Hefei dish featuring fish braised until the bones are completely soft and edible. Coated in a dark, glossy sauce, it offers a complex flavor profile of savory, sweet, and slight tanginess, symbolizing the incorruptible spirit of Lord Bao Zheng.",
+     "description_zh": "合肥标志性名菜，将鱼烹制得骨酥肉烂，连骨头都可嚼食。鱼身裹满浓郁红亮的酱汁，咸甜交织，酱香醇厚，寓意包拯铁面无私、铁骨铮铮的高尚品格。",
+     "history": "Named after Bao Zheng, a famous and incorruptible judge of the Song Dynasty who was born in Hefei. The locals created this dish using black fish and lotus root, cooking it until the bones melt in the mouth to symbolize Bao's unyielding integrity and 'iron bones.' It remains a staple at local banquets.",
+     "history_zh": "此菜得名于北宋名臣、合肥人包拯。百姓选用乌鱼与莲藕同烹，慢火煨至骨酥肉烂，寓意包公铁面无私、铁骨铮铮。这道承载着百姓对清官敬仰的佳肴，至今仍是合肥宴席上的压轴名菜。",
+     "method": "1. Score a cleaned crucian carp or black fish, coat it lightly in starch, and deep-fry until the exterior is crispy and golden.<br>2. In a separate wok, caramelize rock sugar and add ginger, scallions, star anise, and dark soy sauce to build the sauce base.<br>3. Pour in Shaoxing wine and a splash of black vinegar, then add enough water to submerge the fish.<br>4. Place the fried fish and lotus root slices into the wok, bringing the liquid to a boil.<br>5. Cover and simmer on the lowest heat for over two hours until the bones are entirely tender.<br>6. Reduce the sauce over high heat until thick and glossy, then carefully transfer the fish to a plate.",
+     "method_zh": "1. 将处理好的鲫鱼或乌鱼改刀，拍上薄淀粉，下油锅炸至外皮金黄酥脆。<br>2. 另起锅炒化冰糖，加入葱姜、八角、老抽等香料炒出酱色底味。<br>3. 烹入绍兴黄酒与少许香醋，加入适量清水烧开。<br>4. 放入炸好的鱼与莲藕片，大火烧开后转微火。<br>5. 加盖慢煨两小时以上，直至鱼骨酥烂，入口即化。<br>6. 大火收汁至酱汁浓稠红亮，小心将鱼盛出装盘即可。"
+    },
+    {
+     "name": "Wushan Tribute Goose",
+     "name_zh": "吴山贡鹅",
+     "image": "images/gen-anhui-3.svg",
+     "tags": [
+      "Imperial Tribute",
+      "Braised",
+      "Savory",
+      "Lujiang Specialty"
+     ],
+     "tags_zh": [
+      "皇家贡品",
+      "秘制卤味",
+      "咸鲜醇厚",
+      "长丰特产"
+     ],
+     "description": "Originating from Wushan Town in Hefei, this premium braised goose is renowned for its succulent meat and fragrant, complex marinade. The skin is a rich amber, and the meat is tender yet chewy, carrying a deep umami flavor that has delighted emperors and commoners alike.",
+     "description_zh": "源自合肥吴山镇的顶级卤味名菜，以肉质鲜美、卤香浓郁著称。鹅皮色泽琥珀，肉质紧实而不柴，醇厚的鲜香滋味历经岁月沉淀，曾是进贡朝廷的御膳珍馐。",
+     "history": "Dating back to the Five Dynasties and Ten Kingdoms period, the local ruler of Luzhou presented a specially braised goose to the emperor as a tribute. The emperor was highly impressed by its exceptional taste, decreeing it an annual royal tribute. The recipe has been meticulously preserved in Wushan Town ever since.",
+     "history_zh": "追溯至五代十国时期，庐州地方官将当地特制的卤鹅作为贡品献给皇帝。皇帝品尝后大为赞赏，钦定为年年进贡的御膳佳品。此后，这一秘方在合肥吴山镇代代相传，成为闻名遐迩的地方名吃。",
+     "method": "1. Select a plump, free-range goose, clean it thoroughly, and blanch it in boiling water to tighten the skin.<br>2. Prepare a proprietary spice blend featuring sand ginger, cardamom, cinnamon, and dried tangerine peel.<br>3. Sauté the spices and aromatics in oil, then add rock sugar, premium soy sauce, and a rich bone broth.<br>4. Submerge the goose in the fragrant master brine, ensuring it is fully covered, and bring to a gentle boil.<br>5. Turn off the heat and let the goose steep in the residual warmth of the brine for several hours to deeply absorb the flavors.<br>6. Remove the goose, chop it into uniform pieces, and serve with a ladle of the warm, aromatic brine.",
+     "method_zh": "1. 挑选肥壮的散养白鹅，处理干净后入沸水焯烫，使鹅皮收紧定型。<br>2. 配制秘制香料包，内含沙姜、豆蔻、桂皮、陈皮等数十种香辛料。<br>3. 将香料煸炒出香，加入冰糖、优质酱油及浓郁的高汤熬制卤水。<br>4. 将鹅完全浸入卤水中，大火烧开后撇去浮沫。<br>5. 关火焖泡数小时，利用卤水的余温让鹅肉深层吸收醇厚香气。<br>6. 捞出贡鹅斩件装盘，淋上一勺温热的原卤汁即可上桌。"
+    }
+   ]
+  }
+ ]
+}

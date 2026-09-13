@@ -1,0 +1,113 @@
+{
+    "zh":  [
+               {
+                   "id":  "zhejiang-003",
+                   "date":  "2026年8月9日",
+                   "region":  "浙江·杭州",
+                   "dishes":  [
+                                  {
+                                      "name":  "西湖醋鱼",
+                                      "tags":  [
+                                                   "杭帮菜之首",
+                                                   "酸甜滑嫩",
+                                                   "南宋古味"
+                                               ],
+                                      "description":  "草鱼或鳜鱼汆烫至七分熟，淋上琥珀色糖醋芡汁，鱼肉嫩如豆腐，入口先酸后甜，带一缕蟹香，姜末去腥提鲜，色泽红亮油润。",
+                                      "history":  "源于南宋临安‘宋嫂鱼羹’传说，后演化成清代酒楼名菜，因烹制时以西湖水养鱼去土腥，故名‘西湖醋鱼’，是杭州餐桌的活历史。",
+                                      "method":  "活鱼宰杀去鳞，沿脊剖成雌雄两片，洗净血污\u003cbr\u003e清水加葱姜黄酒烧沸，鱼皮朝上入锅煮3分钟至断生\u003cbr\u003e捞出沥干摆盘，锅内留250ml原汤\u003cbr\u003e调入酱油、白糖、米醋烧开，勾入湿淀粉成琉璃芡\u003cbr\u003e淋在鱼身，撒上姜末和胡椒粉即可",
+                                      "eatingGuide":  "\u003cb\u003e趁热吃，凉了就腥。\u003c/b\u003e夹一块鱼腹肉蘸匀芡汁，配一口白米饭，酸味开胃甜味收尾，姜末别挑掉，混着吃才解腻。",
+                                      "culturalCode":  "\u003cb\u003e酸甜里藏着江南的婉约。\u003c/b\u003e这道菜讲究‘鱼鲜、醋香、糖甜’三味平衡，像杭州人性格——外柔内秀，不烈不淡，正是宋韵文化‘中和’之美的盘上体现。",
+                                      "honestTalk":  "实话是，外地人首吃常觉得酸得冲鼻，但配饭越吃越上头，建议选鳜鱼版本，刺少肉细，比草鱼友好得多。",
+                                      "image":  "images/gen-zhejiang-1.svg"
+                                  },
+                                  {
+                                      "name":  "龙井虾仁",
+                                      "tags":  [
+                                                   "茶香入馔",
+                                                   "清雅如玉",
+                                                   "春季限定"
+                                               ],
+                                      "description":  "新鲜河虾仁上浆后滑油，白如凝脂，配明前龙井嫩芽同炒，茶香沁入虾肉，入口弹嫩清鲜，汁水带一丝微苦回甘，盘底无油光，雅致似水墨。",
+                                      "history":  "灵感源自清末杭州厨师受‘茶宴’启发，用虎跑泉水泡龙井，取茶汁与茶芽烹虾，上世纪30年代在楼外楼定型，成为文人菜的代表。",
+                                      "method":  "活河虾挤仁，用盐和蛋清抓洗至发白，再加淀粉浆匀，冷藏2小时\u003cbr\u003e龙井新茶用80℃水泡开，沥出茶汁，留少许茶芽\u003cbr\u003e热锅冷油滑炒虾仁至变色即捞出控油\u003cbr\u003e锅中留底油，倒入茶汁和虾仁快炒，勾薄芡\u003cbr\u003e出锅前撒上茶芽，翻匀装盘",
+                                      "eatingGuide":  "\u003cb\u003e一箸入口，三春不忘。\u003c/b\u003e直接空口吃最妙，别蘸醋汁，让茶香和虾甜在舌尖相遇；饮一口温润龙井茶，味道更绵长。",
+                                      "culturalCode":  "\u003cb\u003e茶不入饭，何以知江南？\u003c/b\u003e龙井虾仁将‘日常饮茶’升华为‘盘中诗画’，体现杭州人对自然节气的尊崇——春茶配春虾，时令即天理，是文人雅士的饮食哲学。",
+                                      "honestTalk":  "大实话：这道菜看着朴素，但极考功夫，饭店里常卖到上百元，自己在家做易老易腥，不如去老字号吃一份，值回票钱。",
+                                      "image":  "images/gen-zhejiang-2.svg"
+                                  },
+                                  {
+                                      "name":  "东坡肉",
+                                      "tags":  [
+                                                   "慢火酥烂",
+                                                   "浓油赤酱",
+                                                   "文豪IP"
+                                               ],
+                                      "description":  "整块带皮五花肉切成四厘米见方，用绍兴黄酒慢炖两小时，皮色枣红晶莹，肥肉入口即化，瘦肉酥而不柴，酱香酒香交织，甜咸平衡，汁浓如胶。",
+                                      "history":  "传为北宋苏轼任杭州知州时，为犒劳疏浚西湖的民工，将百姓送的猪肉以黄酒焖制，并教人‘慢着火，少着水’，后称‘东坡肉’，至今千年不衰。",
+                                      "method":  "五花肉焯水定型，切方块，皮上划十字刀\u003cbr\u003e砂锅底垫葱段姜片，肉皮朝下码入\u003cbr\u003e加生抽、老抽、冰糖、花雕酒没过肉面\u003cbr\u003e大火烧开，改微火焖90分钟\u003cbr\u003e翻面皮朝上，再焖30分钟，收汁亮油即可",
+                                      "eatingGuide":  "\u003cb\u003e一块肉，三碗饭，不虚此行。\u003c/b\u003e用筷子夹起颤巍巍的肉块，先咬肥皮，抿化后再嚼瘦肉，配米饭淋肉汁，勿配冷饮，以免腻住。",
+                                      "culturalCode":  "\u003cb\u003e火候到了，功夫自然成。\u003c/b\u003e东坡肉讲究‘慢’与‘忍’，恰似苏东坡宦海沉浮后的豁达——不急不躁，把苦涩日子炖成一锅甜糯，是杭州人‘耐得烦’的生存智慧。",
+                                      "honestTalk":  "听着太油？其实长时间炖煮把油脂逼出大半，入口根本不腻。但健康控脂人群吃半块尝鲜即可，剩下打包回家拌面更香。",
+                                      "image":  "images/gen-zhejiang-3.svg"
+                                  }
+                              ]
+               }
+           ],
+    "name_zh":  "浙江省",
+    "id":  "zhejiang",
+    "name_en":  "Zhejiang",
+    "en":  [
+               {
+                   "id":  "zhejiang-003",
+                   "date":  "August 9, 2026",
+                   "region":  "Zhejiang · Hangzhou",
+                   "dishes":  [
+                                  {
+                                      "name":  "West Lake Vinegar Fish",
+                                      "tags":  [
+                                                   "Hangzhou cuisine flagship",
+                                                   "sweet-sour silky",
+                                                   "Southern Song heritage"
+                                               ],
+                                      "description":  "Grass carp or mandarin fish is scalded to seven-tenths doneness, then glazed with amber sweet-sour vinegar sauce. The flesh is as tender as tofu, opening with sour notes and finishing sweet, carrying a subtle crab-like aroma with ginger to cut fishiness. Its color is glossy red-brown.",
+                                      "history":  "Originating from the Southern Song capital Lin\u0027an legend of \u0027Sister Song\u0027s Fish Soup,\u0027 it evolved into a famed Qing-dynasty restaurant dish. Named for keeping fish in West Lake water to remove muddy taste, it is a living history on Hangzhou\u0027s tables.",
+                                      "method":  "Slaughter live fish, scale, split along spine into two halves, rinse clean\u003cbr\u003eBoil water with scallion, ginger, and Shaoxing wine; cook fish skin-side up for 3 minutes until just done\u003cbr\u003eDrain and plate, reserve 250ml cooking liquid\u003cbr\u003eSeason liquid with soy sauce, sugar, and rice vinegar; thicken with wet starch to a glossy glaze\u003cbr\u003ePour over fish and sprinkle with minced ginger and white pepper",
+                                      "eatingGuide":  "\u003cb\u003eEat hot, or it turns fishy.\u003c/b\u003e Pick a belly piece, dip in glaze, and pair with plain rice—sour opens appetite, sweet lingers. Don\u0027t pick out ginger; mix it in to cut richness.",
+                                      "culturalCode":  "\u003cb\u003eIn sweet-sour lies Jiangnan\u0027s elegance.\u003c/b\u003e This dish balances \u0027fish freshness, vinegar tang, sugar sweetness\u0027 like Hangzhou\u0027s character—outwardly gentle, inwardly refined, not fierce or bland—a plate-level emblem of Song culture\u0027s golden mean.",
+                                      "honestTalk":  "Truth: first-timers often find the vinegar sharp, but with rice it grows addictive. Choose mandarin fish if possible—fewer bones, finer flesh, far friendlier than grass carp.",
+                                      "image":  "images/gen-zhejiang-1.svg"
+                                  },
+                                  {
+                                      "name":  "Longjing Shrimp",
+                                      "tags":  [
+                                                   "tea-infused cuisine",
+                                                   "jade-like elegance",
+                                                   "spring seasonal"
+                                               ],
+                                      "description":  "Fresh river shrimp are coated and flash-fried to snowy white, then tossed with tender Longjing tea leaves picked before Qingming. Tea fragrance seeps into the meat, which is bouncy and clean, with a faint bitter-sweet finish. No oily sheen on the plate—refined as an ink painting.",
+                                      "history":  "Inspired in late Qing by Hangzhou chefs exploring \u0027tea banquets,\u0027 it used Hupao spring water to steep Longjing leaves, cooking shrimp with the brew. Set in the 1930s at Louwailou, it became a literati-cuisine icon.",
+                                      "method":  "Shell live river shrimp, wash with salt and egg white until white, coat with starch, chill 2 hours\u003cbr\u003eSteep fresh Longjing in 80°C water; drain broth, reserve a few leaves\u003cbr\u003eHeat wok, cold oil, slide shrimp until color changes, remove and drain\u003cbr\u003eKeep base oil, add tea broth and shrimp, stir-fry quickly, add thin starch slurry\u003cbr\u003eScatter tea leaves, toss once, plate immediately",
+                                      "eatingGuide":  "\u003cb\u003eOne bite, spring never forgotten.\u003c/b\u003e Eat plain—skip vinegar dips so tea and shrimp sweetness meet on your tongue; follow with a sip of warm Longjing for a longer finish.",
+                                      "culturalCode":  "\u003cb\u003eIf tea never enters meals, how can one know Jiangnan?\u003c/b\u003e Longjing Shrimp elevates daily tea-drinking into poetry on a plate, honoring natural rhythms—spring tea meets spring shrimp, season as cosmic order—this is literati gastronomy.",
+                                      "honestTalk":  "Honest take: it looks simple but demands master technique. Restaurants often charge over 100 yuan; homemade versions tend to toughen or fishy taste—splurge at an old brand for genuine value.",
+                                      "image":  "images/gen-zhejiang-2.svg"
+                                  },
+                                  {
+                                      "name":  "Dongpo Pork",
+                                      "tags":  [
+                                                   "slow-braised melting",
+                                                   "rich soy glaze",
+                                                   "literati brand"
+                                               ],
+                                      "description":  "A whole slab of skin-on pork belly cut into 4cm cubes, slow-simmered in Shaoxing wine for two hours. Skin turns date-red and translucent, fat melts instantly, lean stays tender without shredding. Soy and wine aromas interlace, sweet-savory balanced, sauce thick as glue.",
+                                      "history":  "Attributed to Northern Song poet Su Shi, when as Hangzhou governor he rewarded workers dredging West Lake: he braised donated pork in yellow wine, teaching \u0027slow fire, little water.\u0027 Named Dongpo Pork, it thrives a millennium on.",
+                                      "method":  "Blanch pork belly to set shape, cut into cubes, score skin crosswise\u003cbr\u003eLine clay pot with scallion and ginger; place pork skin-side down\u003cbr\u003eAdd light soy, dark soy, rock sugar, and Shaoxing wine to cover\u003cbr\u003eBoil high, then simmer on micro-flame 90 minutes\u003cbr\u003eFlip skin-side up, simmer 30 more minutes, reduce sauce to glossy finish",
+                                      "eatingGuide":  "\u003cb\u003eOne piece, three bowls of rice—worth the trip.\u003c/b\u003e Pick up a trembling cube with chopsticks, melt the fatty skin first, then chew lean meat; spoon sauce over rice. Skip cold drinks to avoid heaviness.",
+                                      "culturalCode":  "\u003cb\u003eFire time done right, skill follows.\u003c/b\u003e Dongpo Pork is about \u0027slowness\u0027 and \u0027patience,\u0027 echoing Su Shi\u0027s resilience through exile—no rush, simmer bitter days into sweet tenderness. It is Hangzhou\u0027s wisdom of enduring calmly.",
+                                      "honestTalk":  "Sounds too fatty? Prolonged braising renders out most oil, so it\u0027s not greasy at all. But watch portions if you\u0027re health-conscious: a half piece as a taste, then pack the rest home—it\u0027s even better tossed with noodles.",
+                                      "image":  "images/gen-zhejiang-3.svg"
+                                  }
+                              ]
+               }
+           ]
+}

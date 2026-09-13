@@ -1,0 +1,203 @@
+{
+    "id":  "xian",
+    "name_en":  "Xi\u0027an",
+    "name_zh":  "西安",
+    "en":  [
+               {
+                   "id":  "xian-001",
+                   "date":  "August 17, 2026",
+                   "region":  "Shaanxi · Xi\u0027an",
+                   "dishes":  [
+                                  {
+                                      "name":  "Yangrou Paomo（羊肉泡馍）",
+                                      "tags":  [
+                                                   "Signature",
+                                                   "Hand-Torn",
+                                                   "Millennium-Old"
+                                               ],
+                                      "description":  "Xi\u0027an\u0027s soul food and the city\u0027s undisputed culinary crown. A dense, unleavened flatbread (饦饦馍) is torn by hand into chickpea-sized morsels, then submerged in a milky lamb broth that has simmered for hours with lamb bones, marrow, and over a dozen spices. Topped with tender lamb slices, wood ear fungus, glass noodles, and cilantro, finished with a spoonful of chili paste and pickled garlic.",
+                                      "history":  "With roots tracing back over 1,000 years to the Tang and Song Dynasties, yangrou paomo grew up along the Silk Road, where Muslim Hui traders and caravan merchants needed a hearty, portable meal. Legend says the dish was popularized by Zhao Kuangyin, the founding emperor of the Song Dynasty, who craved the humble lamb-and-bread soup of his youth. Today it is Xi\u0027an\u0027s most famous dish and a recognized national intangible cultural heritage.",
+                                      "method":  "1. Simmer lamb bones, marrow, and leg meat for 6+ hours with star anise, cinnamon, fennel, ginger, and Sichuan peppercorn until the broth turns milky.\u003cbr\u003e2. Tear the unleavened flatbread (饦饦馍) by hand into chickpea-sized pieces — the smaller, the better.\u003cbr\u003e3. Blanch the torn bread briefly in boiling water to soften.\u003cbr\u003e4. Place bread in a bowl, ladle the rich lamb broth over it.\u003cbr\u003e5. Top with sliced lamb, wood ear fungus, glass noodles, and cilantro.\u003cbr\u003e6. Finish with chili paste and pickled garlic on the side.",
+                                      "eatingGuide":  "\u003cb\u003eThe tearing is part of the ritual — don\u0027t let them do it for you.\u003c/b\u003e Sit down, wash your hands, and tear the flatbread into pieces the size of a soybean. The smaller you tear, the more broth each piece absorbs. Season it yourself with chili paste and pickled garlic. Eat the bread and broth together with chopsticks, sipping the soup between bites. Locals order it \u0027水围城\u0027 (water surrounding the city) for extra broth.",
+                                      "culturalCode":  "\u003cb\u003eEating paomo is a social ritual, not fast food.\u003c/b\u003e In old Xi\u0027an, friends gather around a table, tearing bread and talking for an hour before the soup even arrives. The slow, meditative act of tearing the bread is as important as the eating. Hui Muslim culture deeply shaped this dish — look for the halal (清真) sign, which guarantees authentic lamb and no pork.",
+                                      "honestTalk":  "\u003cb\u003eTear it yourself or the locals will quietly judge you.\u003c/b\u003e Pre-torn machine-cut bread is considered sacrilege. The dish is filling — one bowl can easily be a whole meal. Go to a place with \u0027老字号\u0027 (old brand) in the name, like Laosunjia (老孙家) or Tong Sheng Xiang (同盛祥). Expect ¥30-50 for an authentic bowl.",
+                                      "image":  "images/xian-paomo.svg"
+                                  },
+                                  {
+                                      "name":  "Roujiamo（肉夹馍）",
+                                      "tags":  [
+                                                   "Street Food",
+                                                   "Meat Lover",
+                                                   "Century-old Tradition"
+                                               ],
+                                      "description":  "Often called \u0027the world\u0027s oldest hamburger,\u0027 roujiamo is Xi\u0027an\u0027s legendary street sandwich. Succulent pork belly is braised for hours in a master broth of over 20 spices until it collapses into rich, glossy shreds, then stuffed into a freshly baked, crisp-shelled flatbread (白吉馍) that shatters when you bite. The contrast of crunchy bread and melting meat is pure street-food perfection.",
+                                      "history":  "Dating back to the Qin Dynasty (3rd century BC), roujiamo is one of China\u0027s oldest recorded foods. The name literally means \u0027meat in bread,\u0027 and its lineage is often claimed to predate the Western hamburger by nearly 2,000 years. The flatbread, baijimo, originated in the Tang Dynasty as a portable ration for soldiers and merchants on the Silk Road.",
+                                      "method":  "1. Braise pork belly in a spiced master broth with star anise, cinnamon, cloves, and rock sugar for 3-4 hours until tender.\u003cbr\u003e2. Pull the braised pork into chunky shreds, keeping some fat for richness.\u003cbr\u003e3. Bake the baijimo flatbread in a clay oven until the shell is crisp and blistered.\u003cbr\u003e4. Split the hot bread, stuff generously with shredded pork.\u003cbr\u003e5. Spoon a little braising broth over the meat, add chopped cilantro and green chili if desired.",
+                                      "eatingGuide":  "\u003cb\u003eEat it immediately, while the bread is still crackling.\u003c/b\u003e The magic is the contrast — crisp shell, soft crumb, and juicy, melting meat. Ask for \u0027肥瘦\u0027 (fat and lean mixed) for the best flavor; pure lean is drier. One is a snack, two is a meal. Pair it with a bowl of liangpi for the classic Xi\u0027an combo.",
+                                      "culturalCode":  "\u003cb\u003eThe taste of a thousand years of street commerce.\u003c/b\u003e Roujiamo stalls have fed Xi\u0027an for millennia, from Silk Road merchants to modern commuters. The best shops have been run by the same families for generations, guarding secret braising broths that never fully cool. In Muslim Xi\u0027an, you\u0027ll also find the beef version (腊汁牛肉夹馍) made with halal beef.",
+                                      "honestTalk":  "\u003cb\u003eThe best ones are at small, crowded street stalls, not fancy restaurants.\u003c/b\u003e Look for a queue of locals and a giant pot of braising pork visible at the front. The \u0027樊记\u0027 (Fan\u0027s) brand is the most famous, but humble neighborhood stalls are often just as good. Expect ¥10-15 each. The fat is the flavor — don\u0027t ask for lean.",
+                                      "image":  "images/xian-roujiamo.svg"
+                                  },
+                                  {
+                                      "name":  "Liangpi（凉皮）",
+                                      "tags":  [
+                                                   "Summer",
+                                                   "Refreshing",
+                                                   "Street Food"
+                                               ],
+                                      "description":  "Xi\u0027an\u0027s answer to summer heat — silky, translucent noodles made from wheat starch, served cold and slicked with a bright dressing of chili oil, black vinegar, garlic water, and sesame paste. Topped with julienned cucumber, blanched bean sprouts, and a sprinkle of crushed peanuts. It\u0027s the perfect cool, sour, spicy, chewy counterpoint to the city\u0027s heavier lamb and pork dishes.",
+                                      "history":  "Liangpi has been a Xi\u0027an staple for over 2,000 years, with legends tracing it to the Qin Dynasty (221-206 BC), when rice farmers near the ancient capital first steamed starch into sheets and cut them into noodles. Over centuries it evolved into the wheat-starch version eaten today, becoming the city\u0027s defining summer street food.",
+                                      "method":  "1. Mix wheat flour and water into a dough, then wash the dough in water to separate starch from gluten.\u003cbr\u003e2. Let the starch water settle, pour off the clear liquid, keeping the settled starch.\u003cbr\u003e3. Steam the starch in thin layers until translucent, then cool.\u003cbr\u003e4. Cut the steamed sheets into wide ribbon noodles.\u003cbr\u003e5. Toss with chili oil, black vinegar, garlic water, and a touch of sesame paste.\u003cbr\u003e6. Top with julienned cucumber, bean sprouts, and crushed peanuts.",
+                                      "eatingGuide":  "\u003cb\u003eMix everything thoroughly before the first bite.\u003c/b\u003e The dressing pools at the bottom, so toss the noodles until every strand is slick and red. It should be cold, sour, and gently numbing. Order it \u0027加辣\u0027 (extra spicy) if you can handle heat, or ask for less chili oil if you can\u0027t. It\u0027s the perfect partner to a hot roujiamo — the classic \u0027三秦套餐\u0027 (Shaanxi combo).",
+                                      "culturalCode":  "\u003cb\u003eThe official cooling system of a city that bakes in summer.\u003c/b\u003e Xi\u0027an summers are brutal, and liangpi is how the city survives them. The sight of vendors slicing glossy, translucent noodles and tossing them with red chili oil is as much a part of Xi\u0027an street life as the city walls themselves.",
+                                      "honestTalk":  "\u003cb\u003eIt looks simple, but the texture is everything.\u003c/b\u003e Great liangpi is bouncy and slippery, never mushy. The rice version (米皮) is thicker and softer; the wheat version (面皮) is more elastic. Try both. The famous \u0027魏家凉皮\u0027 chain is consistent, but a packed street stall at lunchtime is usually better. ¥8-15 a bowl.",
+                                      "image":  "images/xian-liangpi.svg"
+                                  },
+                                  {
+                                      "name":  "Biang Biang Noodles（Biangbiang面/油泼面）",
+                                      "tags":  [
+                                                   "Hand-Pulled",
+                                                   "Spicy",
+                                                   "Shaanxi Classic"
+                                               ],
+                                      "description":  "The noodle with the most complex Chinese character in the language (58 strokes). Thick, belt-wide noodles are hand-slapped and pulled to order, then buried under a mound of minced garlic, chili flakes, and chopped scallions. A sizzling ladle of smoking-hot oil is poured over the top, blooming the chili into a fragrant, crimson slick that clings to every wide, chewy strand.",
+                                      "history":  "Biang biang noodles come from the Guanzhong Plain, the wheat-growing heartland surrounding Xi\u0027an. The dish\u0027s name is onomatopoeic — said to mimic the \u0027biang biang\u0027 sound of the dough being slapped against the table. Its famous 58-stroke character is legendary for being so complex that no dictionary could contain it, symbolizing the region\u0027s deep, earthy noodle culture.",
+                                      "method":  "1. Knead high-gluten wheat flour, water, and salt into a firm dough, rest for an hour.\u003cbr\u003e2. Cut into thick strips, then slap and stretch each strip by hand into long, belt-wide noodles.\u003cbr\u003e3. Boil the noodles until wide, springy, and slightly chewy.\u003cbr\u003e4. Arrange minced garlic, chili flakes, and chopped scallions on top.\u003cbr\u003e5. Heat a generous ladle of oil until smoking, pour directly over the garlic and chili.\u003cbr\u003e6. Splash with soy sauce and black vinegar, toss and serve.",
+                                      "eatingGuide":  "\u003cb\u003eMix it the moment the hot oil hits.\u003c/b\u003e The sizzle is the signal — toss immediately so every wide noodle is coated in the blooming chili oil. The noodles should be thick, wide, and gloriously chewy, not soft. Eat them noisily; slurping is correct here. A splash of black vinegar at the end brightens everything.",
+                                      "culturalCode":  "\u003cb\u003eA dish written in a character so famous it became a legend.\u003c/b\u003e The 58-stroke \u0027biang\u0027 character is a cultural artifact in itself, found only in this dish\u0027s name. It represents the Guanzhong people\u0027s love of hearty, unpretentious wheat food — the staple that built the armies and merchants of the ancient capital.",
+                                      "honestTalk":  "\u003cb\u003eIt\u0027s oily and glorious — embrace it.\u003c/b\u003e The hot oil is the point, not a mistake. If you\u0027re watching calories, this is the wrong dish. The wide noodles are a workout for your chopsticks; don\u0027t be shy about using both hands. Find a shop that slaps the dough in front of you — that\u0027s the sign of fresh, authentic biang biang mian. ¥15-25 a bowl.",
+                                      "image":  "images/xian-biangbiang.svg"
+                                  },
+                                  {
+                                      "name":  "Hulu Chicken（葫芦鸡）",
+                                      "tags":  [
+                                                   "Banquet Dish",
+                                                   "Imperial",
+                                                   "Crispy"
+                                               ],
+                                      "description":  "Xi\u0027an\u0027s most famous banquet dish, shaped like a gourd (葫芦). A whole chicken is bound into a graceful hourglass form, then poached, steamed, and finally deep-fried until the skin blisters into shatteringly crisp, golden-brown crackling while the meat stays impossibly moist. Served whole, it\u0027s torn apart with gloved hands and dipped in Sichuan pepper-salt.",
+                                      "history":  "Hulu chicken traces back to the Tang Dynasty (618-907 AD), when it was served at the imperial court of Chang\u0027an, then the largest city on earth. The three-step cooking method — poach, steam, fry — was refined by the celebrated Tang minister and gourmand Wei Juyuan, whose legendary \u0027Shaowei feast\u0027 included the dish. It remains Xi\u0027an\u0027s proudest banquet centerpiece.",
+                                      "method":  "1. Select a whole young chicken, truss it into a gourd-like shape with twine.\u003cbr\u003e2. Poach gently in a spiced broth until just cooked through.\u003cbr\u003e3. Steam to lock in moisture and deepen flavor.\u003cbr\u003e4. Air-dry briefly, then deep-fry at high heat until the skin is golden and crackling.\u003cbr\u003e5. Serve whole with Sichuan pepper-salt (花椒盐) for dipping.",
+                                      "eatingGuide":  "\u003cb\u003ePut on the glove and tear it apart with your hands.\u003c/b\u003e Hulu chicken is finger food — the proper way is to pull it apart while hot, letting the steam rise. The skin is the prize: shatteringly crisp, with a whisper of aromatic oil. Dip each piece in the Sichuan pepper-salt, which numbs and brightens the rich meat.",
+                                      "culturalCode":  "\u003cb\u003eA dish born in the banquet halls of the world\u0027s greatest ancient capital.\u003c/b\u003e When Tang Dynasty Chang\u0027an hosted envoys from across Asia, hulu chicken was the kind of theatrical centerpiece that displayed the empire\u0027s culinary sophistication. Ordering it in Xi\u0027an today connects you to 1,300 years of imperial dining.",
+                                      "honestTalk":  "\u003cb\u003eThe best versions are in the famous \u0027老字号\u0027 restaurants, not street stalls.\u003c/b\u003e This is a proper sit-down dish. Xi\u0027an\u0027s \u0027西安饭庄\u0027 (Xi\u0027an Restaurant) is the classic name to try it. It\u0027s meant for sharing — order it as the centerpiece of a group meal. The skin is sensational hot but loses its crackle as it cools, so dig in immediately. ¥80-150 for a whole chicken.",
+                                      "image":  "images/xian-huluji.svg"
+                                  },
+                                  {
+                                      "name":  "Zeng Gao（甑糕）",
+                                      "tags":  [
+                                                   "Sweet",
+                                                   "Breakfast",
+                                                   "Ancient Recipe"
+                                               ],
+                                      "description":  "Xi\u0027an\u0027s ancient breakfast dessert, named after the zeng — a clay or iron steaming vessel used in China for over 3,000 years. Layer upon layer of glutinous rice and jujubes (red dates) are steamed for hours until they fuse into a dense, sticky, naturally sweet cake the color of mahogany. Served hot, cut into wedges, its caramelized jujube sweetness needs no added sugar.",
+                                      "history":  "Zeng gao is one of China\u0027s oldest surviving dishes, with a lineage stretching back to the Bronze Age. The \u0027zeng\u0027 steamer it\u0027s cooked in was the predecessor of the modern steamer, and the technique of layering rice with jujubes appears in texts from the Western Zhou Dynasty (11th century BC). In Xi\u0027an it has been a breakfast staple for generations, sold from dawn by street vendors.",
+                                      "method":  "1. Soak glutinous rice overnight until fully hydrated.\u003cbr\u003e2. Pit and soak red dates (jujubes).\u003cbr\u003e3. In a zeng steamer, layer glutinous rice and jujubes in alternating rows.\u003cbr\u003e4. Steam for 4-6 hours until the rice is sticky and the jujubes have melted into a dark syrup.\u003cbr\u003e5. Serve hot, scooping into wedges as the jujube syrup oozes between the rice layers.",
+                                      "eatingGuide":  "\u003cb\u003eEat it hot, ideally at dawn.\u003c/b\u003e Zeng gao is at its best fresh from the steamer, when the jujube syrup is molten and the rice is at peak stickiness. A spoonful should stretch into glossy strings. It\u0027s naturally sweet from the dates — resist adding sugar. Pair it with a cup of tea for the perfect old-Xi\u0027an breakfast.",
+                                      "culturalCode":  "\u003cb\u003eA breakfast that tastes of three thousand years.\u003c/b\u003e The zeng vessel is a direct link to China\u0027s earliest cooking technology. Eating zeng gao is eating living history — the same layered rice-and-jujube sweetness that fed the farmers and officials of the Zhou Dynasty capital, not far from today\u0027s Xi\u0027an.",
+                                      "honestTalk":  "\u003cb\u003eIt\u0027s much sweeter and denser than it looks.\u003c/b\u003e A small wedge is plenty — it\u0027s rich, sticky, and filling. Look for the early-morning vendors with the tall steaming pot, usually gone by 10 AM. The street version in the Muslim Quarter and around the city wall is the real deal. ¥5-10 for a generous portion.",
+                                      "image":  "images/xian-zenggao.svg"
+                                  }
+                              ]
+               }
+           ],
+    "zh":  [
+               {
+                   "id":  "xian-001",
+                   "date":  "August 17, 2026",
+                   "region":  "Shaanxi · Xi\u0027an",
+                   "dishes":  [
+                                  {
+                                      "name":  "Yangrou Paomo（羊肉泡馍）",
+                                      "tags":  [
+                                                   "Signature",
+                                                   "Hand-Torn",
+                                                   "Millennium-Old"
+                                               ],
+                                      "description":  "Xi\u0027an\u0027s soul food and the city\u0027s undisputed culinary crown. A dense, unleavened flatbread (饦饦馍) is torn by hand into chickpea-sized morsels, then submerged in a milky lamb broth that has simmered for hours with lamb bones, marrow, and over a dozen spices. Topped with tender lamb slices, wood ear fungus, glass noodles, and cilantro, finished with a spoonful of chili paste and pickled garlic.",
+                                      "history":  "With roots tracing back over 1,000 years to the Tang and Song Dynasties, yangrou paomo grew up along the Silk Road, where Muslim Hui traders and caravan merchants needed a hearty, portable meal. Legend says the dish was popularized by Zhao Kuangyin, the founding emperor of the Song Dynasty, who craved the humble lamb-and-bread soup of his youth. Today it is Xi\u0027an\u0027s most famous dish and a recognized national intangible cultural heritage.",
+                                      "method":  "1. Simmer lamb bones, marrow, and leg meat for 6+ hours with star anise, cinnamon, fennel, ginger, and Sichuan peppercorn until the broth turns milky.\u003cbr\u003e2. Tear the unleavened flatbread (饦饦馍) by hand into chickpea-sized pieces — the smaller, the better.\u003cbr\u003e3. Blanch the torn bread briefly in boiling water to soften.\u003cbr\u003e4. Place bread in a bowl, ladle the rich lamb broth over it.\u003cbr\u003e5. Top with sliced lamb, wood ear fungus, glass noodles, and cilantro.\u003cbr\u003e6. Finish with chili paste and pickled garlic on the side.",
+                                      "eatingGuide":  "\u003cb\u003eThe tearing is part of the ritual — don\u0027t let them do it for you.\u003c/b\u003e Sit down, wash your hands, and tear the flatbread into pieces the size of a soybean. The smaller you tear, the more broth each piece absorbs. Season it yourself with chili paste and pickled garlic. Eat the bread and broth together with chopsticks, sipping the soup between bites. Locals order it \u0027水围城\u0027 (water surrounding the city) for extra broth.",
+                                      "culturalCode":  "\u003cb\u003eEating paomo is a social ritual, not fast food.\u003c/b\u003e In old Xi\u0027an, friends gather around a table, tearing bread and talking for an hour before the soup even arrives. The slow, meditative act of tearing the bread is as important as the eating. Hui Muslim culture deeply shaped this dish — look for the halal (清真) sign, which guarantees authentic lamb and no pork.",
+                                      "honestTalk":  "\u003cb\u003eTear it yourself or the locals will quietly judge you.\u003c/b\u003e Pre-torn machine-cut bread is considered sacrilege. The dish is filling — one bowl can easily be a whole meal. Go to a place with \u0027老字号\u0027 (old brand) in the name, like Laosunjia (老孙家) or Tong Sheng Xiang (同盛祥). Expect ¥30-50 for an authentic bowl.",
+                                      "image":  "images/xian-paomo.svg"
+                                  },
+                                  {
+                                      "name":  "Roujiamo（肉夹馍）",
+                                      "tags":  [
+                                                   "Street Food",
+                                                   "Meat Lover",
+                                                   "Century-old Tradition"
+                                               ],
+                                      "description":  "Often called \u0027the world\u0027s oldest hamburger,\u0027 roujiamo is Xi\u0027an\u0027s legendary street sandwich. Succulent pork belly is braised for hours in a master broth of over 20 spices until it collapses into rich, glossy shreds, then stuffed into a freshly baked, crisp-shelled flatbread (白吉馍) that shatters when you bite. The contrast of crunchy bread and melting meat is pure street-food perfection.",
+                                      "history":  "Dating back to the Qin Dynasty (3rd century BC), roujiamo is one of China\u0027s oldest recorded foods. The name literally means \u0027meat in bread,\u0027 and its lineage is often claimed to predate the Western hamburger by nearly 2,000 years. The flatbread, baijimo, originated in the Tang Dynasty as a portable ration for soldiers and merchants on the Silk Road.",
+                                      "method":  "1. Braise pork belly in a spiced master broth with star anise, cinnamon, cloves, and rock sugar for 3-4 hours until tender.\u003cbr\u003e2. Pull the braised pork into chunky shreds, keeping some fat for richness.\u003cbr\u003e3. Bake the baijimo flatbread in a clay oven until the shell is crisp and blistered.\u003cbr\u003e4. Split the hot bread, stuff generously with shredded pork.\u003cbr\u003e5. Spoon a little braising broth over the meat, add chopped cilantro and green chili if desired.",
+                                      "eatingGuide":  "\u003cb\u003eEat it immediately, while the bread is still crackling.\u003c/b\u003e The magic is the contrast — crisp shell, soft crumb, and juicy, melting meat. Ask for \u0027肥瘦\u0027 (fat and lean mixed) for the best flavor; pure lean is drier. One is a snack, two is a meal. Pair it with a bowl of liangpi for the classic Xi\u0027an combo.",
+                                      "culturalCode":  "\u003cb\u003eThe taste of a thousand years of street commerce.\u003c/b\u003e Roujiamo stalls have fed Xi\u0027an for millennia, from Silk Road merchants to modern commuters. The best shops have been run by the same families for generations, guarding secret braising broths that never fully cool. In Muslim Xi\u0027an, you\u0027ll also find the beef version (腊汁牛肉夹馍) made with halal beef.",
+                                      "honestTalk":  "\u003cb\u003eThe best ones are at small, crowded street stalls, not fancy restaurants.\u003c/b\u003e Look for a queue of locals and a giant pot of braising pork visible at the front. The \u0027樊记\u0027 (Fan\u0027s) brand is the most famous, but humble neighborhood stalls are often just as good. Expect ¥10-15 each. The fat is the flavor — don\u0027t ask for lean.",
+                                      "image":  "images/xian-roujiamo.svg"
+                                  },
+                                  {
+                                      "name":  "Liangpi（凉皮）",
+                                      "tags":  [
+                                                   "Summer",
+                                                   "Refreshing",
+                                                   "Street Food"
+                                               ],
+                                      "description":  "Xi\u0027an\u0027s answer to summer heat — silky, translucent noodles made from wheat starch, served cold and slicked with a bright dressing of chili oil, black vinegar, garlic water, and sesame paste. Topped with julienned cucumber, blanched bean sprouts, and a sprinkle of crushed peanuts. It\u0027s the perfect cool, sour, spicy, chewy counterpoint to the city\u0027s heavier lamb and pork dishes.",
+                                      "history":  "Liangpi has been a Xi\u0027an staple for over 2,000 years, with legends tracing it to the Qin Dynasty (221-206 BC), when rice farmers near the ancient capital first steamed starch into sheets and cut them into noodles. Over centuries it evolved into the wheat-starch version eaten today, becoming the city\u0027s defining summer street food.",
+                                      "method":  "1. Mix wheat flour and water into a dough, then wash the dough in water to separate starch from gluten.\u003cbr\u003e2. Let the starch water settle, pour off the clear liquid, keeping the settled starch.\u003cbr\u003e3. Steam the starch in thin layers until translucent, then cool.\u003cbr\u003e4. Cut the steamed sheets into wide ribbon noodles.\u003cbr\u003e5. Toss with chili oil, black vinegar, garlic water, and a touch of sesame paste.\u003cbr\u003e6. Top with julienned cucumber, bean sprouts, and crushed peanuts.",
+                                      "eatingGuide":  "\u003cb\u003eMix everything thoroughly before the first bite.\u003c/b\u003e The dressing pools at the bottom, so toss the noodles until every strand is slick and red. It should be cold, sour, and gently numbing. Order it \u0027加辣\u0027 (extra spicy) if you can handle heat, or ask for less chili oil if you can\u0027t. It\u0027s the perfect partner to a hot roujiamo — the classic \u0027三秦套餐\u0027 (Shaanxi combo).",
+                                      "culturalCode":  "\u003cb\u003eThe official cooling system of a city that bakes in summer.\u003c/b\u003e Xi\u0027an summers are brutal, and liangpi is how the city survives them. The sight of vendors slicing glossy, translucent noodles and tossing them with red chili oil is as much a part of Xi\u0027an street life as the city walls themselves.",
+                                      "honestTalk":  "\u003cb\u003eIt looks simple, but the texture is everything.\u003c/b\u003e Great liangpi is bouncy and slippery, never mushy. The rice version (米皮) is thicker and softer; the wheat version (面皮) is more elastic. Try both. The famous \u0027魏家凉皮\u0027 chain is consistent, but a packed street stall at lunchtime is usually better. ¥8-15 a bowl.",
+                                      "image":  "images/xian-liangpi.svg"
+                                  },
+                                  {
+                                      "name":  "Biang Biang Noodles（Biangbiang面/油泼面）",
+                                      "tags":  [
+                                                   "Hand-Pulled",
+                                                   "Spicy",
+                                                   "Shaanxi Classic"
+                                               ],
+                                      "description":  "The noodle with the most complex Chinese character in the language (58 strokes). Thick, belt-wide noodles are hand-slapped and pulled to order, then buried under a mound of minced garlic, chili flakes, and chopped scallions. A sizzling ladle of smoking-hot oil is poured over the top, blooming the chili into a fragrant, crimson slick that clings to every wide, chewy strand.",
+                                      "history":  "Biang biang noodles come from the Guanzhong Plain, the wheat-growing heartland surrounding Xi\u0027an. The dish\u0027s name is onomatopoeic — said to mimic the \u0027biang biang\u0027 sound of the dough being slapped against the table. Its famous 58-stroke character is legendary for being so complex that no dictionary could contain it, symbolizing the region\u0027s deep, earthy noodle culture.",
+                                      "method":  "1. Knead high-gluten wheat flour, water, and salt into a firm dough, rest for an hour.\u003cbr\u003e2. Cut into thick strips, then slap and stretch each strip by hand into long, belt-wide noodles.\u003cbr\u003e3. Boil the noodles until wide, springy, and slightly chewy.\u003cbr\u003e4. Arrange minced garlic, chili flakes, and chopped scallions on top.\u003cbr\u003e5. Heat a generous ladle of oil until smoking, pour directly over the garlic and chili.\u003cbr\u003e6. Splash with soy sauce and black vinegar, toss and serve.",
+                                      "eatingGuide":  "\u003cb\u003eMix it the moment the hot oil hits.\u003c/b\u003e The sizzle is the signal — toss immediately so every wide noodle is coated in the blooming chili oil. The noodles should be thick, wide, and gloriously chewy, not soft. Eat them noisily; slurping is correct here. A splash of black vinegar at the end brightens everything.",
+                                      "culturalCode":  "\u003cb\u003eA dish written in a character so famous it became a legend.\u003c/b\u003e The 58-stroke \u0027biang\u0027 character is a cultural artifact in itself, found only in this dish\u0027s name. It represents the Guanzhong people\u0027s love of hearty, unpretentious wheat food — the staple that built the armies and merchants of the ancient capital.",
+                                      "honestTalk":  "\u003cb\u003eIt\u0027s oily and glorious — embrace it.\u003c/b\u003e The hot oil is the point, not a mistake. If you\u0027re watching calories, this is the wrong dish. The wide noodles are a workout for your chopsticks; don\u0027t be shy about using both hands. Find a shop that slaps the dough in front of you — that\u0027s the sign of fresh, authentic biang biang mian. ¥15-25 a bowl.",
+                                      "image":  "images/xian-biangbiang.svg"
+                                  },
+                                  {
+                                      "name":  "Hulu Chicken（葫芦鸡）",
+                                      "tags":  [
+                                                   "Banquet Dish",
+                                                   "Imperial",
+                                                   "Crispy"
+                                               ],
+                                      "description":  "Xi\u0027an\u0027s most famous banquet dish, shaped like a gourd (葫芦). A whole chicken is bound into a graceful hourglass form, then poached, steamed, and finally deep-fried until the skin blisters into shatteringly crisp, golden-brown crackling while the meat stays impossibly moist. Served whole, it\u0027s torn apart with gloved hands and dipped in Sichuan pepper-salt.",
+                                      "history":  "Hulu chicken traces back to the Tang Dynasty (618-907 AD), when it was served at the imperial court of Chang\u0027an, then the largest city on earth. The three-step cooking method — poach, steam, fry — was refined by the celebrated Tang minister and gourmand Wei Juyuan, whose legendary \u0027Shaowei feast\u0027 included the dish. It remains Xi\u0027an\u0027s proudest banquet centerpiece.",
+                                      "method":  "1. Select a whole young chicken, truss it into a gourd-like shape with twine.\u003cbr\u003e2. Poach gently in a spiced broth until just cooked through.\u003cbr\u003e3. Steam to lock in moisture and deepen flavor.\u003cbr\u003e4. Air-dry briefly, then deep-fry at high heat until the skin is golden and crackling.\u003cbr\u003e5. Serve whole with Sichuan pepper-salt (花椒盐) for dipping.",
+                                      "eatingGuide":  "\u003cb\u003ePut on the glove and tear it apart with your hands.\u003c/b\u003e Hulu chicken is finger food — the proper way is to pull it apart while hot, letting the steam rise. The skin is the prize: shatteringly crisp, with a whisper of aromatic oil. Dip each piece in the Sichuan pepper-salt, which numbs and brightens the rich meat.",
+                                      "culturalCode":  "\u003cb\u003eA dish born in the banquet halls of the world\u0027s greatest ancient capital.\u003c/b\u003e When Tang Dynasty Chang\u0027an hosted envoys from across Asia, hulu chicken was the kind of theatrical centerpiece that displayed the empire\u0027s culinary sophistication. Ordering it in Xi\u0027an today connects you to 1,300 years of imperial dining.",
+                                      "honestTalk":  "\u003cb\u003eThe best versions are in the famous \u0027老字号\u0027 restaurants, not street stalls.\u003c/b\u003e This is a proper sit-down dish. Xi\u0027an\u0027s \u0027西安饭庄\u0027 (Xi\u0027an Restaurant) is the classic name to try it. It\u0027s meant for sharing — order it as the centerpiece of a group meal. The skin is sensational hot but loses its crackle as it cools, so dig in immediately. ¥80-150 for a whole chicken.",
+                                      "image":  "images/xian-huluji.svg"
+                                  },
+                                  {
+                                      "name":  "Zeng Gao（甑糕）",
+                                      "tags":  [
+                                                   "Sweet",
+                                                   "Breakfast",
+                                                   "Ancient Recipe"
+                                               ],
+                                      "description":  "Xi\u0027an\u0027s ancient breakfast dessert, named after the zeng — a clay or iron steaming vessel used in China for over 3,000 years. Layer upon layer of glutinous rice and jujubes (red dates) are steamed for hours until they fuse into a dense, sticky, naturally sweet cake the color of mahogany. Served hot, cut into wedges, its caramelized jujube sweetness needs no added sugar.",
+                                      "history":  "Zeng gao is one of China\u0027s oldest surviving dishes, with a lineage stretching back to the Bronze Age. The \u0027zeng\u0027 steamer it\u0027s cooked in was the predecessor of the modern steamer, and the technique of layering rice with jujubes appears in texts from the Western Zhou Dynasty (11th century BC). In Xi\u0027an it has been a breakfast staple for generations, sold from dawn by street vendors.",
+                                      "method":  "1. Soak glutinous rice overnight until fully hydrated.\u003cbr\u003e2. Pit and soak red dates (jujubes).\u003cbr\u003e3. In a zeng steamer, layer glutinous rice and jujubes in alternating rows.\u003cbr\u003e4. Steam for 4-6 hours until the rice is sticky and the jujubes have melted into a dark syrup.\u003cbr\u003e5. Serve hot, scooping into wedges as the jujube syrup oozes between the rice layers.",
+                                      "eatingGuide":  "\u003cb\u003eEat it hot, ideally at dawn.\u003c/b\u003e Zeng gao is at its best fresh from the steamer, when the jujube syrup is molten and the rice is at peak stickiness. A spoonful should stretch into glossy strings. It\u0027s naturally sweet from the dates — resist adding sugar. Pair it with a cup of tea for the perfect old-Xi\u0027an breakfast.",
+                                      "culturalCode":  "\u003cb\u003eA breakfast that tastes of three thousand years.\u003c/b\u003e The zeng vessel is a direct link to China\u0027s earliest cooking technology. Eating zeng gao is eating living history — the same layered rice-and-jujube sweetness that fed the farmers and officials of the Zhou Dynasty capital, not far from today\u0027s Xi\u0027an.",
+                                      "honestTalk":  "\u003cb\u003eIt\u0027s much sweeter and denser than it looks.\u003c/b\u003e A small wedge is plenty — it\u0027s rich, sticky, and filling. Look for the early-morning vendors with the tall steaming pot, usually gone by 10 AM. The street version in the Muslim Quarter and around the city wall is the real deal. ¥5-10 for a generous portion.",
+                                      "image":  "images/xian-zenggao.svg"
+                                  }
+                              ]
+               }
+           ]
+}

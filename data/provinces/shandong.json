@@ -1,0 +1,149 @@
+{
+ "id": "shandong",
+ "name_en": "Shandong · 济南",
+ "name_zh": "山东·济南",
+ "en": [
+  {
+   "id": "shandong-001",
+   "region": "Shandong · 济南",
+   "date": "2026-09-13",
+   "dishes": [
+    {
+     "name": "Sweet and Sour Carp",
+     "name_zh": "糖醋鲤鱼",
+     "image": "images/gen-shandong-1.svg",
+     "tags": [
+      "Shandong cuisine flagship",
+      "sweet and sour crispy",
+      "banquet finale"
+     ],
+     "tags_zh": [
+      "鲁菜头牌",
+      "酸甜酥脆",
+      "宴席压轴"
+     ],
+     "description": "Yellow River carp fried golden with tail raised high, draped in an amber sweet-and-sour sauce. The skin cracks like thin ice; within, the flesh is tender and snow-white. Sour leads into sweet, sweetness never overwhelming freshness, with a glossy glaze clinging to the plate—the definitive taste of New Year in old Jinan memory.",
+     "description_zh": "黄河鲤鱼炸至金黄翘尾，浇上琥珀色糖醋汁。外皮酥脆如薄冰，内里鱼肉鲜嫩雪白，酸中带甜、甜不压鲜，芡汁亮润挂盘，是老济南人记忆里的“年味担当”。",
+     "history": "Rooted in traditional Yellow River carp cookery, Jinan's Huiquan Lou famously fried live carp to order in the late Qing. Shandong sweet-sour technique demands 'fry first, then glaze.' The dish crystallized in the Republican era as the signature of Yanxi Tang and Jufeng De, witnessing Jinan's port-city banquet splendor.",
+     "history_zh": "源自黄河鲤鱼传统烹法，清末济南“汇泉楼”以活鲤鱼现杀现炸闻名。鲁菜糖醋技法讲究“先炸后熘”，此菜定型于民国，曾为燕喜堂、聚丰德等老字号看家菜，见证济南开埠宴饮风华。",
+     "method": "Score carp in peony-cut pattern, marinate with salt and Shaoxing wine 15 min<br>Coat with starch batter, hold tail, lower into 70% hot oil; fry until set, then re-fry for crispness<br>Separately stir-fry scallion, ginger, garlic; make sauce with sugar-to-vinegar 2:1<br>Thicken with wet starch, add hot oil to brighten and bubble the glaze<br>Pour sauce over fish immediately and serve sizzling hot",
+     "method_zh": "鲤鱼改牡丹花刀，用盐、料酒腌15分钟<br>挂淀粉糊，手提鱼尾入七成热油，炸定型后复炸至酥脆<br>另起锅熬糖醋汁：糖醋按2:1，加葱姜蒜末炒香<br>湿淀粉勾芡，淋热油使汁明亮起泡<br>将热汁迅速浇在鱼身上，趁热上桌"
+    },
+    {
+     "name": "Braised Intestines in Nine Turns",
+     "name_zh": "九转大肠",
+     "image": "images/gen-shandong-2.svg",
+     "tags": [
+      "Soul of Lu cuisine",
+      "five-flavor composite",
+      "skill dish"
+     ],
+     "tags_zh": [
+      "鲁菜之魂",
+      "五味复合",
+      "功夫菜"
+     ],
+     "description": "Intestines pass through blanching, boiling, layering, and braising; the result is date-red, glossy, shaped in looping coils. Texture is soft-sticky yet springy: first sour, then sweet, then salty, finishing with light bitterness and spice—five flavors rotating on the tongue in rich sauce, revealing the true meaning of 'nine turns'.",
+     "description_zh": "大肠经焯、煮、套、烧等多道工序，成菜枣红油亮，形如层层回环。口感软糯中带弹韧，先酸后甜再咸，微苦与辛香收尾，五种味道在口中轮转，汁浓芡亮，入口方知“九转”真意。",
+     "history": "In the Guangxu era of Qing, Manager Du of Jinan's Jiuhua Lou, who loved intestines, created this dish. Named from the Daodejing's 'Nine-Turn Golden Elixir'—the process as intricate as refining immortality pills. Later refined by Lu cuisine masters, it became famed north-south as official cuisine; during the Republic, Peking opera stars always ordered it when visiting Ji'nan.",
+     "history_zh": "清光绪年间，济南“九华楼”掌柜杜氏喜食大肠，首创此菜。因工序繁复如炼仙丹，又取《易经》“九转金丹”之意定名。后经鲁菜大师改良，成为名震南北的官府菜，民国时京剧名角来济必点此菜。",
+     "method": "Rub pork intestines with salt and vinegar to remove odor; blanch, then boil with scallion and ginger until 80% cooked<br>Layer intestines (two or three tubes nested) for thickness; cut into sections<br>Stir-fry over medium heat until both sides turn golden and slightly charred<br>Add Shaoxing wine, soy sauce, sugar, clear stock, amomum powder, cinnamon powder; simmer 20 min over low heat<br>Reduce over high heat, drizzle with Sichuan pepper oil, flip, and plate in chrysanthemum shape",
+     "method_zh": "猪大肠用盐醋反复搓洗去腥，焯水后加葱姜煮至八成熟<br>将大肠套肠（两三根相套）增加厚度，切小段<br>热油中火煸炒至大肠两面金黄微焦<br>烹入黄酒、酱油，加白糖、清汤、砂仁粉、肉桂粉等小火烧20分钟<br>大火收汁，淋花椒油翻勺出锅，摆盘如菊花状"
+    },
+    {
+     "name": "Cattail Shoots in Milk Broth",
+     "name_zh": "奶汤蒲菜",
+     "image": "images/gen-shandong-3.svg",
+     "tags": [
+      "Jinan elegance",
+      "spring city delicacy",
+      "milky white soup"
+     ],
+     "tags_zh": [
+      "济南清雅",
+      "泉城至味",
+      "汤白如乳"
+     ],
+     "description": "Tender hearts of Daming Lake cattail shoots simmered in milk-white broth, thick and mellow as fresh cream. Shoots are translucent, crisp, and fiber-free, with a clean sweetness that echoes. The soup tastes rich yet light, lifted by ham and shiitake—one spoonful seems to drink the essence of a spring itself, a unique vegetarian treasure of the spring city.",
+     "description_zh": "大明湖蒲菜嫩芯入奶汤烩制，汤色乳白醇厚似鲜奶，蒲菜乳白透亮、脆嫩无渣，入口清甜回甘。汤味鲜而不腻，有火腿香菇提香，一勺下去，仿佛饮尽一汪泉水灵气，是泉城独有的素中珍品。",
+     "history": "Cattail shoots rank among Jinan's 'Three Beauties' (with lotus root and water caltrop). Records of eating bulrush shoots appear in the Northern Wei's Qimin Yaoshu. Qing-era Jinan milk broth, made from hen, pork hock, and duck carcass, met cattail shoots to become an official banquet classic, perfected at Jinsheng Lou, with literati praising it 'clear as autumn dew.'",
+     "history_zh": "蒲菜为济南“三美”之一（蒲菜、莲藕、大菱），自北魏《齐民要术》即有菰蒲食法记载。清代济南奶汤以母鸡、肘子、鸭架熬制，与蒲菜结合成官宴名品，老济南“锦盛楼”尤擅此菜，文人雅士赞其“清绝如秋露”。",
+     "method": "Remove hard husk from cattail shoots; take tender core and slice; shred ham, shiitake, and bamboo shoots<br>Simmer hen, pork hock, and duck bones at least 3 hours; strain for pure stock<br>Bring stock to boil; add shoots, ham, shiitake; simmer 2 min over low heat<br>Season with salt, Shaoxing wine, ginger juice; no soy sauce to keep soup white<br>Finish with chicken fat or lard; ladle into bowl, scatter pea shoots on top",
+     "method_zh": "蒲菜去硬壳取嫩芯，切段；火腿、香菇、玉兰片切细丝<br>母鸡、猪肘、鸭骨熬浓白汤（至少3小时），滤渣取净汤<br>汤烧开，下蒲菜、火腿丝、香菇丝，小火煮2分钟<br>加盐、黄酒、姜汁调味，不用酱油保持汤色<br>淋少许鸡油或猪油，装碗撒豌豆苗即可"
+    }
+   ]
+  }
+ ],
+ "zh": [
+  {
+   "id": "shandong-001",
+   "region": "山东·济南",
+   "date": "2026年9月13日",
+   "dishes": [
+    {
+     "name": "Sweet and Sour Carp",
+     "name_zh": "糖醋鲤鱼",
+     "image": "images/gen-shandong-1.svg",
+     "tags": [
+      "Shandong cuisine flagship",
+      "sweet and sour crispy",
+      "banquet finale"
+     ],
+     "tags_zh": [
+      "鲁菜头牌",
+      "酸甜酥脆",
+      "宴席压轴"
+     ],
+     "description": "Yellow River carp fried golden with tail raised high, draped in an amber sweet-and-sour sauce. The skin cracks like thin ice; within, the flesh is tender and snow-white. Sour leads into sweet, sweetness never overwhelming freshness, with a glossy glaze clinging to the plate—the definitive taste of New Year in old Jinan memory.",
+     "description_zh": "黄河鲤鱼炸至金黄翘尾，浇上琥珀色糖醋汁。外皮酥脆如薄冰，内里鱼肉鲜嫩雪白，酸中带甜、甜不压鲜，芡汁亮润挂盘，是老济南人记忆里的“年味担当”。",
+     "history": "Rooted in traditional Yellow River carp cookery, Jinan's Huiquan Lou famously fried live carp to order in the late Qing. Shandong sweet-sour technique demands 'fry first, then glaze.' The dish crystallized in the Republican era as the signature of Yanxi Tang and Jufeng De, witnessing Jinan's port-city banquet splendor.",
+     "history_zh": "源自黄河鲤鱼传统烹法，清末济南“汇泉楼”以活鲤鱼现杀现炸闻名。鲁菜糖醋技法讲究“先炸后熘”，此菜定型于民国，曾为燕喜堂、聚丰德等老字号看家菜，见证济南开埠宴饮风华。",
+     "method": "Score carp in peony-cut pattern, marinate with salt and Shaoxing wine 15 min<br>Coat with starch batter, hold tail, lower into 70% hot oil; fry until set, then re-fry for crispness<br>Separately stir-fry scallion, ginger, garlic; make sauce with sugar-to-vinegar 2:1<br>Thicken with wet starch, add hot oil to brighten and bubble the glaze<br>Pour sauce over fish immediately and serve sizzling hot",
+     "method_zh": "鲤鱼改牡丹花刀，用盐、料酒腌15分钟<br>挂淀粉糊，手提鱼尾入七成热油，炸定型后复炸至酥脆<br>另起锅熬糖醋汁：糖醋按2:1，加葱姜蒜末炒香<br>湿淀粉勾芡，淋热油使汁明亮起泡<br>将热汁迅速浇在鱼身上，趁热上桌"
+    },
+    {
+     "name": "Braised Intestines in Nine Turns",
+     "name_zh": "九转大肠",
+     "image": "images/gen-shandong-2.svg",
+     "tags": [
+      "Soul of Lu cuisine",
+      "five-flavor composite",
+      "skill dish"
+     ],
+     "tags_zh": [
+      "鲁菜之魂",
+      "五味复合",
+      "功夫菜"
+     ],
+     "description": "Intestines pass through blanching, boiling, layering, and braising; the result is date-red, glossy, shaped in looping coils. Texture is soft-sticky yet springy: first sour, then sweet, then salty, finishing with light bitterness and spice—five flavors rotating on the tongue in rich sauce, revealing the true meaning of 'nine turns'.",
+     "description_zh": "大肠经焯、煮、套、烧等多道工序，成菜枣红油亮，形如层层回环。口感软糯中带弹韧，先酸后甜再咸，微苦与辛香收尾，五种味道在口中轮转，汁浓芡亮，入口方知“九转”真意。",
+     "history": "In the Guangxu era of Qing, Manager Du of Jinan's Jiuhua Lou, who loved intestines, created this dish. Named from the Daodejing's 'Nine-Turn Golden Elixir'—the process as intricate as refining immortality pills. Later refined by Lu cuisine masters, it became famed north-south as official cuisine; during the Republic, Peking opera stars always ordered it when visiting Ji'nan.",
+     "history_zh": "清光绪年间，济南“九华楼”掌柜杜氏喜食大肠，首创此菜。因工序繁复如炼仙丹，又取《易经》“九转金丹”之意定名。后经鲁菜大师改良，成为名震南北的官府菜，民国时京剧名角来济必点此菜。",
+     "method": "Rub pork intestines with salt and vinegar to remove odor; blanch, then boil with scallion and ginger until 80% cooked<br>Layer intestines (two or three tubes nested) for thickness; cut into sections<br>Stir-fry over medium heat until both sides turn golden and slightly charred<br>Add Shaoxing wine, soy sauce, sugar, clear stock, amomum powder, cinnamon powder; simmer 20 min over low heat<br>Reduce over high heat, drizzle with Sichuan pepper oil, flip, and plate in chrysanthemum shape",
+     "method_zh": "猪大肠用盐醋反复搓洗去腥，焯水后加葱姜煮至八成熟<br>将大肠套肠（两三根相套）增加厚度，切小段<br>热油中火煸炒至大肠两面金黄微焦<br>烹入黄酒、酱油，加白糖、清汤、砂仁粉、肉桂粉等小火烧20分钟<br>大火收汁，淋花椒油翻勺出锅，摆盘如菊花状"
+    },
+    {
+     "name": "Cattail Shoots in Milk Broth",
+     "name_zh": "奶汤蒲菜",
+     "image": "images/gen-shandong-3.svg",
+     "tags": [
+      "Jinan elegance",
+      "spring city delicacy",
+      "milky white soup"
+     ],
+     "tags_zh": [
+      "济南清雅",
+      "泉城至味",
+      "汤白如乳"
+     ],
+     "description": "Tender hearts of Daming Lake cattail shoots simmered in milk-white broth, thick and mellow as fresh cream. Shoots are translucent, crisp, and fiber-free, with a clean sweetness that echoes. The soup tastes rich yet light, lifted by ham and shiitake—one spoonful seems to drink the essence of a spring itself, a unique vegetarian treasure of the spring city.",
+     "description_zh": "大明湖蒲菜嫩芯入奶汤烩制，汤色乳白醇厚似鲜奶，蒲菜乳白透亮、脆嫩无渣，入口清甜回甘。汤味鲜而不腻，有火腿香菇提香，一勺下去，仿佛饮尽一汪泉水灵气，是泉城独有的素中珍品。",
+     "history": "Cattail shoots rank among Jinan's 'Three Beauties' (with lotus root and water caltrop). Records of eating bulrush shoots appear in the Northern Wei's Qimin Yaoshu. Qing-era Jinan milk broth, made from hen, pork hock, and duck carcass, met cattail shoots to become an official banquet classic, perfected at Jinsheng Lou, with literati praising it 'clear as autumn dew.'",
+     "history_zh": "蒲菜为济南“三美”之一（蒲菜、莲藕、大菱），自北魏《齐民要术》即有菰蒲食法记载。清代济南奶汤以母鸡、肘子、鸭架熬制，与蒲菜结合成官宴名品，老济南“锦盛楼”尤擅此菜，文人雅士赞其“清绝如秋露”。",
+     "method": "Remove hard husk from cattail shoots; take tender core and slice; shred ham, shiitake, and bamboo shoots<br>Simmer hen, pork hock, and duck bones at least 3 hours; strain for pure stock<br>Bring stock to boil; add shoots, ham, shiitake; simmer 2 min over low heat<br>Season with salt, Shaoxing wine, ginger juice; no soy sauce to keep soup white<br>Finish with chicken fat or lard; ladle into bowl, scatter pea shoots on top",
+     "method_zh": "蒲菜去硬壳取嫩芯，切段；火腿、香菇、玉兰片切细丝<br>母鸡、猪肘、鸭骨熬浓白汤（至少3小时），滤渣取净汤<br>汤烧开，下蒲菜、火腿丝、香菇丝，小火煮2分钟<br>加盐、黄酒、姜汁调味，不用酱油保持汤色<br>淋少许鸡油或猪油，装碗撒豌豆苗即可"
+    }
+   ]
+  }
+ ]
+}

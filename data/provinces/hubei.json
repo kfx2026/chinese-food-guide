@@ -1,0 +1,161 @@
+{
+ "id": "hubei",
+ "name_en": "Hubei · 武汉",
+ "name_zh": "湖北·武汉",
+ "en": [
+  {
+   "id": "hubei-001",
+   "region": "Hubei · 武汉",
+   "date": "2026-09-12",
+   "dishes": [
+    {
+     "name": "Steamed Wuchang Fish",
+     "name_zh": "清蒸武昌鱼",
+     "image": "https://picsum.photos/seed/hubei-dish-1/400/300",
+     "tags": [
+      "Hubei Cuisine",
+      "River Fish",
+      "Classic",
+      "Steamed"
+     ],
+     "tags_zh": [
+      "鄂菜",
+      "河鲜",
+      "经典",
+      "清蒸"
+     ],
+     "description": "A quintessential Hubei dish featuring the Wuchang bream, celebrated for its tender, sweet meat and delicate flavor. The fish is simply steamed with ginger, scallions, and a light soy-based dressing to highlight its natural freshness, embodying the culinary philosophy of preserving the original taste of premium river ingredients.",
+     "description_zh": "湖北菜的经典代表，以武昌团头鲂为主料，以其肉质细嫩、味道鲜美著称。配以姜丝、葱段清蒸，辅以特制酱油调味，最大程度保留了鱼肉的鲜甜与原汁原味，完美诠释了鄂菜“原汁原味、咸鲜微辣”的烹饪哲学。",
+     "history": "The fame of this dish skyrocketed in 1965 when Chairman Mao Zedong wrote the famous poem 'Swimming', which included the line 'I have just drunk the water of Changsha, and now I am eating the Wuchang fish.' Since then, it has transcended a mere local delicacy to become a cultural icon of Wuhan, frequently served at state banquets and high-end gatherings.",
+     "history_zh": "此菜的声名大噪源于1965年毛泽东主席写下著名词作《水调歌头·游泳》，其中一句“才饮长沙水，又食武昌鱼”使其家喻户晓。自此，武昌鱼超越了地方美食的范畴，成为武汉乃至湖北的文化符号，并多次登上国宴及重要宴席的餐桌。",
+     "method": "1. Select a live Wuchang bream, scale it, clean the cavity, and score both sides of the fish with shallow diagonal cuts.<br>2. Rub the fish lightly with salt and Shaoxing wine, then stuff the cavity and the cuts with julienned ginger and scallion segments to marinate for 15 minutes.<br>3. Place the fish on a heat-proof plate, arranging chopsticks underneath to allow steam to circulate evenly, and steam over vigorously boiling water for exactly 8 to 10 minutes.<br>4. Remove the plate, carefully discard the melted juices and the old ginger and scallions, as they carry the fishy odor.<br>5. Garnish generously with fresh julienned ginger, scallion threads, and red chili strips, then drizzle with hot smoking oil to release their aromas.<br>6. Finally, pour a specially prepared mixture of steamed fish soy sauce and a touch of sugar around the edges of the plate before serving.",
+     "method_zh": "1. 选取鲜活武昌鱼（团头鲂），去鳞、去内脏洗净，在鱼身两面打上浅斜花刀。<br>2. 用少许盐和料酒均匀涂抹鱼身，将姜丝和葱段塞入鱼腹及花刀处，腌制15分钟去腥。<br>3. 将鱼置于盘中，盘底垫筷子使蒸汽流通，水开后上锅旺火蒸8至10分钟。<br>4. 取出鱼盘，倒掉盘中蒸出的腥水，拣去旧的葱姜。<br>5. 在鱼身上铺上新鲜的姜丝、葱丝和红椒丝，淋上滚烫的热油激发出香气。<br>6. 最后沿盘边淋入特调的蒸鱼豉油与少许白糖熬制的汁水即可上桌。"
+    },
+    {
+     "name": "Pork Ribs and Lotus Root Soup",
+     "name_zh": "排骨藕汤",
+     "image": "https://picsum.photos/seed/hubei-dish-2/400/300",
+     "tags": [
+      "Hubei Cuisine",
+      "Soup",
+      "Comfort Food",
+      "Lotus Root"
+     ],
+     "tags_zh": [
+      "鄂菜",
+      "煨汤",
+      "家常",
+      "莲藕"
+     ],
+     "description": "The ultimate comfort food in Wuhan, this rich, slow-simmered soup features pork ribs and the region's prized lotus roots. The lotus roots, specifically cultivated in the muddy wetlands of Hubei, become remarkably starchy, soft, and slightly sweet after hours of braising, while the broth turns a beautiful milky pink and absorbs the deep savory essence of the pork.",
+     "description_zh": "武汉人最钟爱的灵魂家常汤品，以猪排骨和湖北特产的优质莲藕慢火煨制而成。湖北水乡出产的莲藕富含淀粉，经过数小时煨炖后，口感变得粉糯绵软、清甜化渣，汤汁则呈现诱人的乳白微红色，吸饱了排骨的醇厚肉香，是冬日里最抚慰人心的美味。",
+     "history": "Hubei is known as the 'Hometown of Lotus Roots,' and the tradition of brewing soup in earthenware pots dates back over a thousand years to the Chu State period. In Wuhan, no family reunion or holiday feast is complete without a pot of rib and lotus root soup. The local earthenware pot, called a 'Diaozi,' is essential for achieving the soup's signature thick and mellow texture, representing the deep-rooted culinary heritage of the Chu people.",
+     "history_zh": "湖北素有“千湖之省、莲藕之乡”的美誉，用砂铫子煨汤的传统可追溯至千年前的楚国时期。在武汉，无论是逢年过节还是家庭团聚，餐桌上必有一锅排骨藕汤。当地特有的土砂铫子（吊子）是煨出汤汁浓白、藕块粉糯的关键，承载着楚地人民深厚的饮食记忆与乡愁。",
+     "method": "1. Choose high-starchy lotus roots from local wetlands, peel them, and cut them into large, thick chunks; soak them in water to prevent oxidation.<br>2. Blanch the pork ribs in cold water with ginger and cooking wine, then rinse thoroughly to remove impurities and blood scum.<br>3. Place the ribs, lotus root chunks, and a few slices of ginger into a traditional Hubei earthenware pot, adding enough cold water to submerge all ingredients.<br>4. Bring to a boil over high heat, skim off any remaining foam, then reduce to a very low simmer and cover tightly.<br>5. Simmer gently for at least 2 to 3 hours until the lotus roots are perfectly starchy and the broth turns a rich, creamy pinkish-white.<br>6. Season with salt and white pepper just before turning off the heat, and garnish with freshly chopped cilantro and scallions.",
+     "method_zh": "1. 挑选湖北本地的高淀粉粉藕，去皮后切成大块，浸泡在清水中防止氧化变黑。<br>2. 猪排骨冷水下锅，加姜片、料酒焯水，捞出温水洗净浮沫和血水。<br>3. 将排骨、藕块和姜片放入湖北特有的土砂铫子中，加入足量冷水没过食材。<br>4. 大火烧开后撇去残余浮沫，盖上盖子，转微火慢煨。<br>5. 持续煨炖2至3小时，直至藕块变得粉糯绵软，汤汁呈现浓郁的奶白微红色。<br>6. 关火前加入适量盐和少许白胡椒粉调味，撒上葱花和香菜末即可。"
+    },
+    {
+     "name": "Stir-fried Hongshan Purple Cabbage with Cured Pork",
+     "name_zh": "洪山菜薹炒腊肉",
+     "image": "https://picsum.photos/seed/hubei-dish-3/400/300",
+     "tags": [
+      "Hubei Cuisine",
+      "Seasonal",
+      "Vegetable",
+      "Winter Specialty"
+     ],
+     "tags_zh": [
+      "鄂菜",
+      "时令",
+      "蔬菜",
+      "冬令名菜"
+     ],
+     "description": "A legendary seasonal delicacy exclusive to Wuhan, this dish pairs the crisp, sweet, and slightly peppery Hongshan purple cabbage with rich, smoky cured pork. The cabbage, grown in the unique microclimate of the Hongshan district, possesses a vibrant purple hue and a tender texture that perfectly balances the savory, salty fat of the winter-cured pork.",
+     "description_zh": "武汉独有的传奇时令名菜，将清脆甘甜、微带辛香的洪山紫菜薹与醇香浓郁的腊肉完美结合。洪山地区独特的微气候造就了菜薹紫红鲜亮、脆嫩无渣的特质，它能完美中和腊肉的咸鲜与油腻，是冬日里不可多得的风味绝配。",
+     "history": "The Hongshan purple cabbage has been a tribute to the imperial court since the Song Dynasty, celebrated for its unique taste that cannot be replicated outside its native soil. The famous Qing Dynasty poet and food enthusiast Yuan Mei praised its exceptional quality in his culinary writings. Paired with traditional cured pork, this dish became a staple of high-end Wuhan banquets during the late Qing and early Republican eras, symbolizing the pinnacle of winter dining in the region.",
+     "history_zh": "洪山菜薹自宋代起便是朝廷贡品，因其“离开洪山土壤便失其风味”的独特性而闻名。清代著名文人袁枚在《随园食单》中对其赞誉有加。将其与传统的腊肉同炒，是清末民初武汉高档宴席上的压轴佳肴，代表着江城冬季饮食文化的最高水准。",
+     "method": "1. Select fresh Hongshan purple cabbages, snap the stems to remove the tough outer skin, and break them into uniform 4-centimeter segments by hand for a better texture.<br>2. Slice the winter-cured pork belly into thin, even pieces, and blanch them briefly in boiling water to remove excess salt and surface impurities.<br>3. Heat a wok, add a small amount of oil, and render the pork slices over medium-low heat until the fat becomes translucent and slightly crispy.<br>4. Toss in minced ginger, garlic, and dried chili segments, stir-frying briefly to release their fragrant oils into the rendered pork fat.<br>5. Increase the heat to high, add the cabbage stems first and stir-fry for a minute, then add the leaves, splashing a little Shaoxing wine around the wok edges.<br>6. Stir-fry rapidly until the cabbage is just tender but still crisp, season lightly with sugar to balance the saltiness, and serve immediately.",
+     "method_zh": "1. 挑选新鲜的洪山菜薹，掐去根部老皮，用手将其折断成约4厘米长的均匀小段，以保持口感。<br>2. 将冬季腌制的腊肉切成均匀的薄片，入沸水稍微焯烫，去除多余盐分和表面杂质。<br>3. 热锅凉油，下入腊肉片用中小火煸炒，直至肥肉部分变得透明且边缘微卷出油。<br>4. 加入姜末、蒜片和干辣椒段，利用腊肉煸出的油脂爆香辅料。<br>5. 转大火，先下入菜薹粗梗翻炒一分钟，再放入菜叶，沿锅边烹入少许料酒炝锅。<br>6. 快速翻炒至菜薹断生但仍保持脆嫩，加入极少量的白糖提鲜中和咸味，即可出锅装盘。"
+    }
+   ]
+  }
+ ],
+ "zh": [
+  {
+   "id": "hubei-001",
+   "region": "湖北·武汉",
+   "date": "2026年9月12日",
+   "dishes": [
+    {
+     "name": "Steamed Wuchang Fish",
+     "name_zh": "清蒸武昌鱼",
+     "image": "https://picsum.photos/seed/hubei-dish-1/400/300",
+     "tags": [
+      "Hubei Cuisine",
+      "River Fish",
+      "Classic",
+      "Steamed"
+     ],
+     "tags_zh": [
+      "鄂菜",
+      "河鲜",
+      "经典",
+      "清蒸"
+     ],
+     "description": "A quintessential Hubei dish featuring the Wuchang bream, celebrated for its tender, sweet meat and delicate flavor. The fish is simply steamed with ginger, scallions, and a light soy-based dressing to highlight its natural freshness, embodying the culinary philosophy of preserving the original taste of premium river ingredients.",
+     "description_zh": "湖北菜的经典代表，以武昌团头鲂为主料，以其肉质细嫩、味道鲜美著称。配以姜丝、葱段清蒸，辅以特制酱油调味，最大程度保留了鱼肉的鲜甜与原汁原味，完美诠释了鄂菜“原汁原味、咸鲜微辣”的烹饪哲学。",
+     "history": "The fame of this dish skyrocketed in 1965 when Chairman Mao Zedong wrote the famous poem 'Swimming', which included the line 'I have just drunk the water of Changsha, and now I am eating the Wuchang fish.' Since then, it has transcended a mere local delicacy to become a cultural icon of Wuhan, frequently served at state banquets and high-end gatherings.",
+     "history_zh": "此菜的声名大噪源于1965年毛泽东主席写下著名词作《水调歌头·游泳》，其中一句“才饮长沙水，又食武昌鱼”使其家喻户晓。自此，武昌鱼超越了地方美食的范畴，成为武汉乃至湖北的文化符号，并多次登上国宴及重要宴席的餐桌。",
+     "method": "1. Select a live Wuchang bream, scale it, clean the cavity, and score both sides of the fish with shallow diagonal cuts.<br>2. Rub the fish lightly with salt and Shaoxing wine, then stuff the cavity and the cuts with julienned ginger and scallion segments to marinate for 15 minutes.<br>3. Place the fish on a heat-proof plate, arranging chopsticks underneath to allow steam to circulate evenly, and steam over vigorously boiling water for exactly 8 to 10 minutes.<br>4. Remove the plate, carefully discard the melted juices and the old ginger and scallions, as they carry the fishy odor.<br>5. Garnish generously with fresh julienned ginger, scallion threads, and red chili strips, then drizzle with hot smoking oil to release their aromas.<br>6. Finally, pour a specially prepared mixture of steamed fish soy sauce and a touch of sugar around the edges of the plate before serving.",
+     "method_zh": "1. 选取鲜活武昌鱼（团头鲂），去鳞、去内脏洗净，在鱼身两面打上浅斜花刀。<br>2. 用少许盐和料酒均匀涂抹鱼身，将姜丝和葱段塞入鱼腹及花刀处，腌制15分钟去腥。<br>3. 将鱼置于盘中，盘底垫筷子使蒸汽流通，水开后上锅旺火蒸8至10分钟。<br>4. 取出鱼盘，倒掉盘中蒸出的腥水，拣去旧的葱姜。<br>5. 在鱼身上铺上新鲜的姜丝、葱丝和红椒丝，淋上滚烫的热油激发出香气。<br>6. 最后沿盘边淋入特调的蒸鱼豉油与少许白糖熬制的汁水即可上桌。"
+    },
+    {
+     "name": "Pork Ribs and Lotus Root Soup",
+     "name_zh": "排骨藕汤",
+     "image": "https://picsum.photos/seed/hubei-dish-2/400/300",
+     "tags": [
+      "Hubei Cuisine",
+      "Soup",
+      "Comfort Food",
+      "Lotus Root"
+     ],
+     "tags_zh": [
+      "鄂菜",
+      "煨汤",
+      "家常",
+      "莲藕"
+     ],
+     "description": "The ultimate comfort food in Wuhan, this rich, slow-simmered soup features pork ribs and the region's prized lotus roots. The lotus roots, specifically cultivated in the muddy wetlands of Hubei, become remarkably starchy, soft, and slightly sweet after hours of braising, while the broth turns a beautiful milky pink and absorbs the deep savory essence of the pork.",
+     "description_zh": "武汉人最钟爱的灵魂家常汤品，以猪排骨和湖北特产的优质莲藕慢火煨制而成。湖北水乡出产的莲藕富含淀粉，经过数小时煨炖后，口感变得粉糯绵软、清甜化渣，汤汁则呈现诱人的乳白微红色，吸饱了排骨的醇厚肉香，是冬日里最抚慰人心的美味。",
+     "history": "Hubei is known as the 'Hometown of Lotus Roots,' and the tradition of brewing soup in earthenware pots dates back over a thousand years to the Chu State period. In Wuhan, no family reunion or holiday feast is complete without a pot of rib and lotus root soup. The local earthenware pot, called a 'Diaozi,' is essential for achieving the soup's signature thick and mellow texture, representing the deep-rooted culinary heritage of the Chu people.",
+     "history_zh": "湖北素有“千湖之省、莲藕之乡”的美誉，用砂铫子煨汤的传统可追溯至千年前的楚国时期。在武汉，无论是逢年过节还是家庭团聚，餐桌上必有一锅排骨藕汤。当地特有的土砂铫子（吊子）是煨出汤汁浓白、藕块粉糯的关键，承载着楚地人民深厚的饮食记忆与乡愁。",
+     "method": "1. Choose high-starchy lotus roots from local wetlands, peel them, and cut them into large, thick chunks; soak them in water to prevent oxidation.<br>2. Blanch the pork ribs in cold water with ginger and cooking wine, then rinse thoroughly to remove impurities and blood scum.<br>3. Place the ribs, lotus root chunks, and a few slices of ginger into a traditional Hubei earthenware pot, adding enough cold water to submerge all ingredients.<br>4. Bring to a boil over high heat, skim off any remaining foam, then reduce to a very low simmer and cover tightly.<br>5. Simmer gently for at least 2 to 3 hours until the lotus roots are perfectly starchy and the broth turns a rich, creamy pinkish-white.<br>6. Season with salt and white pepper just before turning off the heat, and garnish with freshly chopped cilantro and scallions.",
+     "method_zh": "1. 挑选湖北本地的高淀粉粉藕，去皮后切成大块，浸泡在清水中防止氧化变黑。<br>2. 猪排骨冷水下锅，加姜片、料酒焯水，捞出温水洗净浮沫和血水。<br>3. 将排骨、藕块和姜片放入湖北特有的土砂铫子中，加入足量冷水没过食材。<br>4. 大火烧开后撇去残余浮沫，盖上盖子，转微火慢煨。<br>5. 持续煨炖2至3小时，直至藕块变得粉糯绵软，汤汁呈现浓郁的奶白微红色。<br>6. 关火前加入适量盐和少许白胡椒粉调味，撒上葱花和香菜末即可。"
+    },
+    {
+     "name": "Stir-fried Hongshan Purple Cabbage with Cured Pork",
+     "name_zh": "洪山菜薹炒腊肉",
+     "image": "https://picsum.photos/seed/hubei-dish-3/400/300",
+     "tags": [
+      "Hubei Cuisine",
+      "Seasonal",
+      "Vegetable",
+      "Winter Specialty"
+     ],
+     "tags_zh": [
+      "鄂菜",
+      "时令",
+      "蔬菜",
+      "冬令名菜"
+     ],
+     "description": "A legendary seasonal delicacy exclusive to Wuhan, this dish pairs the crisp, sweet, and slightly peppery Hongshan purple cabbage with rich, smoky cured pork. The cabbage, grown in the unique microclimate of the Hongshan district, possesses a vibrant purple hue and a tender texture that perfectly balances the savory, salty fat of the winter-cured pork.",
+     "description_zh": "武汉独有的传奇时令名菜，将清脆甘甜、微带辛香的洪山紫菜薹与醇香浓郁的腊肉完美结合。洪山地区独特的微气候造就了菜薹紫红鲜亮、脆嫩无渣的特质，它能完美中和腊肉的咸鲜与油腻，是冬日里不可多得的风味绝配。",
+     "history": "The Hongshan purple cabbage has been a tribute to the imperial court since the Song Dynasty, celebrated for its unique taste that cannot be replicated outside its native soil. The famous Qing Dynasty poet and food enthusiast Yuan Mei praised its exceptional quality in his culinary writings. Paired with traditional cured pork, this dish became a staple of high-end Wuhan banquets during the late Qing and early Republican eras, symbolizing the pinnacle of winter dining in the region.",
+     "history_zh": "洪山菜薹自宋代起便是朝廷贡品，因其“离开洪山土壤便失其风味”的独特性而闻名。清代著名文人袁枚在《随园食单》中对其赞誉有加。将其与传统的腊肉同炒，是清末民初武汉高档宴席上的压轴佳肴，代表着江城冬季饮食文化的最高水准。",
+     "method": "1. Select fresh Hongshan purple cabbages, snap the stems to remove the tough outer skin, and break them into uniform 4-centimeter segments by hand for a better texture.<br>2. Slice the winter-cured pork belly into thin, even pieces, and blanch them briefly in boiling water to remove excess salt and surface impurities.<br>3. Heat a wok, add a small amount of oil, and render the pork slices over medium-low heat until the fat becomes translucent and slightly crispy.<br>4. Toss in minced ginger, garlic, and dried chili segments, stir-frying briefly to release their fragrant oils into the rendered pork fat.<br>5. Increase the heat to high, add the cabbage stems first and stir-fry for a minute, then add the leaves, splashing a little Shaoxing wine around the wok edges.<br>6. Stir-fry rapidly until the cabbage is just tender but still crisp, season lightly with sugar to balance the saltiness, and serve immediately.",
+     "method_zh": "1. 挑选新鲜的洪山菜薹，掐去根部老皮，用手将其折断成约4厘米长的均匀小段，以保持口感。<br>2. 将冬季腌制的腊肉切成均匀的薄片，入沸水稍微焯烫，去除多余盐分和表面杂质。<br>3. 热锅凉油，下入腊肉片用中小火煸炒，直至肥肉部分变得透明且边缘微卷出油。<br>4. 加入姜末、蒜片和干辣椒段，利用腊肉煸出的油脂爆香辅料。<br>5. 转大火，先下入菜薹粗梗翻炒一分钟，再放入菜叶，沿锅边烹入少许料酒炝锅。<br>6. 快速翻炒至菜薹断生但仍保持脆嫩，加入极少量的白糖提鲜中和咸味，即可出锅装盘。"
+    }
+   ]
+  }
+ ]
+}

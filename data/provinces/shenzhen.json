@@ -1,0 +1,203 @@
+{
+  "id": "shenzhen",
+  "name_en": "Shenzhen",
+  "name_zh": "深圳",
+  "en": [
+    {
+      "id": "shenzhen-001",
+      "date": "September 7, 2026",
+      "region": "Guangdong · Shenzhen",
+      "dishes": [
+        {
+          "name": "Guangming Roast Pigeon（光明乳鸽）",
+          "image": "images/chinese-food-hero.png",
+          "tags": [
+            "Signature",
+            "Roast",
+            "Crispy Skin"
+          ],
+          "description": "Shenzhen's undisputed culinary icon. Young pigeons raised at the Guangming farm are marinated in a secret blend of soy, spices, and maltose, air-dried until the skin is taut, then roasted until it turns a deep mahogany and shatters like glass while the meat underneath stays impossibly juicy. Served whole so you can tear into it with your hands.",
+          "history": "Born in the 1980s at Guangming Farm (光明农场), originally a state-run dairy and poultry farm in the city's western suburbs. The farm's roast pigeon was so good that 'Guangming' became shorthand for the dish across the entire Pearl River Delta — a rare case of a single farm defining a city's signature food.",
+          "method": "1. Select young, tender pigeons (about 25 days old).<br>2. Marinate with soy sauce, spices, and a touch of maltose syrup.<br>3. Air-dry for several hours so the skin tightens.<br>4. Roast at high heat, basting continuously until mahogany-brown.<br>5. Rest briefly, then serve whole.",
+          "eatingGuide": "<b>Eat it with your hands, skin first.</b> The skin is the prize — it should crackle and shatter between your teeth. Tear into the legs and breast while the juices are still running. Order one pigeon per person at minimum; they're small and you'll want a second. Many shops serve pigeon blood rice (鸽血饭) on the side — don't skip it.",
+          "culturalCode": "<b>In Shenzhen, 'Guangming' means pigeon.</b> Saying you're going to Guangming for dinner is understood by every local as a pigeon pilgrimage. The dish is so central to the city's identity that the best roast pigeon is judged by one question: would you drive an hour to Guangming just for this?",
+          "honestTalk": "<b>It's small, so order generously.</b> A pigeon has less meat than it looks. For two people, order two to three pigeons plus sides. The best spots are in the actual Guangming district, not the city-center copies. Eat it within minutes of serving — reheated pigeon loses both the crackle and the juice."
+        },
+        {
+          "name": "Shajing Fresh Oysters（沙井鲜蚝）",
+          "image": "images/chinese-food-hero.png",
+          "tags": [
+            "Seafood",
+            "Fresh",
+            "Century-old"
+          ],
+          "description": "Shajing town in Bao'an has been farming oysters for over a thousand years, and its plump, briny oysters are prized across southern China. Served raw on the half shell, steamed with garlic and vermicelli, or grilled over charcoal — the flesh is creamy and sweet with a clean mineral finish that comes from the Pearl River estuary's brackish waters.",
+          "history": "Shajing's oyster beds trace back to the Song Dynasty (960–1279), making it one of China's oldest continuous oyster-farming regions. The oysters were so valued that they were once tribute paid to the imperial court. Modern Shajing still harvests by the same lunar-tide calendar its farmers have used for centuries.",
+          "method": "1. Shuck the freshest Shajing oysters, keeping the half shell.<br>2. For the classic: top with minced garlic, vermicelli, and scallions.<br>3. Steam over high heat for 5-8 minutes until just set.<br>4. Finish with a splash of soy and hot oil.<br>5. Serve immediately, still bubbling.",
+          "eatingGuide": "<b>Eat the steamed oyster in one bite.</b> Slurp the whole thing — oyster, garlic, vermicelli, and juices — in a single mouthful. The combination of creamy flesh and garlicky, slippery noodles is the point. Winter is peak season (肥蚝, 'fat oysters'), when the flesh is at its most plump and sweet.",
+          "culturalCode": "<b>Shajing oysters are Shenzhen's link to a pre-tech past.</b> Long before skyscrapers and Shenzhen's meteoric rise, this coast was a fishing and oyster-farming backwater. The oyster is a living reminder that Shenzhen has deep roots beneath its glass-and-steel surface.",
+          "honestTalk": "<b>Skip the raw version if you're squeamish.</b> Raw oysters carry risk, and Shajing's waters are brackish and industrial-adjacent. The steamed garlic-vermicelli version is the safer, more popular choice — and most locals prefer it anyway. For the freshest catch, go to the source in Bao'an rather than a downtown chain."
+        },
+        {
+          "name": "Gongming Roast Goose（公明烧鹅）",
+          "image": "images/chinese-food-hero.png",
+          "tags": [
+            "Roast",
+            "Cantonese BBQ",
+            "Local Classic"
+          ],
+          "description": "Gongming town's roast goose rivals the finest from Guangzhou and Hong Kong. Whole geese are marinated with five-spice and fermented bean paste, air-dried until the skin is drum-tight, then roasted until it blisters into a glossy amber lacquer. Sliced and served over a pool of its own juices, often with sour plum sauce on the side.",
+          "history": "Carried south by Cantonese migrants who settled Shenzhen's towns, the roast-goose tradition found a home in Gongming and was perfected over generations. The dish is part of the broader siu mei (烧味) barbecue culture that defines Cantonese lunch counters — but Gongming locals insist theirs stands apart.",
+          "method": "1. Clean and blanch the goose, then stuff with five-spice and bean paste.<br>2. Inflate under the skin and seal for even roasting.<br>3. Air-dry for several hours until the skin is taut.<br>4. Roast at high heat, rotating for an even, glossy color.<br>5. Rest, chop, and serve over the collected juices.",
+          "eatingGuide": "<b>Order the lower quarter (下庄) for the richest meat.</b> The skin should crack like thin glass — that's the whole point. Eat it hot and immediately after it's chopped. The sour plum sauce cuts the richness, but purists skip it to taste the goose itself. Ask for the wing and drumstick if you want the juiciest bites.",
+          "culturalCode": "<b>The cleaver's rhythm is Shenzhen's lunchtime soundtrack.</b> Every siu mei stall hangs a row of glossy geese in the window, their mahogany skin deepening with roasting time. Gongming roast goose represents the Cantonese roots that anchor Shenzhen's otherwise futuristic, migrant-driven food scene.",
+          "honestTalk": "<b>Cheap 'roast goose' is often roast duck.</b> A proper goose is a larger, richer bird and costs accordingly. If it's suspiciously cheap, you're likely being served duck. Look for glossy, deeply colored, dry skin and insist on freshly chopped meat. Eat it hot — reheated goose loses its crackle."
+        },
+        {
+          "name": "Hakka Stuffed Tofu（客家酿豆腐）",
+          "image": "images/chinese-food-hero.png",
+          "tags": [
+            "Hakka",
+            "Comfort Food",
+            "Traditional"
+          ],
+          "description": "Shenzhen's original settlers were Hakka people, and stuffed tofu is their most beloved dish. Blocks of silky tofu are hollowed and filled with a springy paste of minced pork and fish, then pan-fried until golden on one side and gently braised until the filling is cooked through and the tofu has soaked up the savory sauce.",
+          "history": "The Hakka people migrated south over centuries, and stuffed tofu is said to be their clever substitute for northern dumplings — with wheat scarce in the south, they stuffed minced meat into tofu instead of dough. The dish preserves the flavor and ritual of jiaozi in a form the south could grow.",
+          "method": "1. Cut firm tofu into thick rectangular blocks.<br>2. Hollow a small pocket in the center of each block.<br>3. Fill with a paste of minced pork, fish, and seasonings.<br>4. Pan-fry filling-side down until golden brown.<br>5. Add stock and sauce, braise gently until the filling is cooked through.",
+          "eatingGuide": "<b>Get the tofu and filling in one bite.</b> The contrast between the silky tofu and the springy, savory meat is the whole appeal. Spoon some braising sauce over the rice — it's quietly addictive. It's home-style comfort food, best ordered alongside other dishes rather than as a solo main.",
+          "culturalCode": "<b>Hakka cuisine is Shenzhen's forgotten root.</b> Beneath the city's reputation as a soulless tech hub lies a deep Hakka heritage — the Dapeng Peninsula's fortress towns, the ancestral halls, and this humble dish that's been fed to generations. Eating stuffed tofu in Shenzhen is a taste of the city before it was a city.",
+          "honestTalk": "<b>Judge it by the filling, not the looks.</b> It's a plain-looking dish. The difference between good and great is the freshness of the minced pork and the silky texture of the tofu. Avoid versions where the tofu is tough or the filling is dry and crumbly. Order it at a Hakka restaurant, not a mall food court."
+        },
+        {
+          "name": "Dapeng Poon Choi（大鹏盆菜）",
+          "image": "images/chinese-food-hero.png",
+          "tags": [
+            "Banquet Dish",
+            "Hakka",
+            "Festive"
+          ],
+          "description": "A spectacular layered feast served in a single large basin. Dozens of ingredients — roast duck, chicken, pork, abalone, mushrooms, dried oysters, and radish — are arranged in careful layers and braised together until the flavors intermingle. The Dapeng Peninsula's version is a treasured New Year and clan-gathering tradition.",
+          "history": "Legends trace poon choi to the Southern Song Dynasty, when villagers pooled whatever food they had into one basin to feed a fleeing emperor. On the Dapeng Peninsula, the dish became the centerpiece of ancestral rites and village banquets, a symbol of abundance and communal unity that endures today.",
+          "method": "1. Braise the cheapest, most absorbent ingredients (radish, pig skin) first.<br>2. Layer vegetables and tofu at the bottom of a large basin.<br>3. Add meats and seafood in ascending order of luxury.<br>4. Pour the braising sauce over the whole basin.<br>5. Simmer together until every layer absorbs the sauce.",
+          "eatingGuide": "<b>Eat from the top layer down.</b> The dish is eaten communally, with everyone reaching into the same basin. The luxuries sit on top; the real treasure is the radish and tofu at the bottom, which have soaked up all the juices from above. Save room for those final, flavor-packed bites.",
+          "culturalCode": "<b>Poon choi is a clan gathering on a plate.</b> The dish is inseparable from the Dapeng Peninsula's fortress villages and ancestral halls, where whole families once ate from a single basin during festivals. Eating it is a celebration of collective abundance — the opposite of Shenzhen's individualistic tech culture.",
+          "honestTalk": "<b>Order it for a group — it's enormous.</b> A proper poon choi feeds eight to twelve people and takes hours to prepare, so most restaurants require advance booking. Don't order it for two. The bottom-layer radish, ugly as it looks, is the single best bite in the whole basin."
+        },
+        {
+          "name": "Pork Tripe Chicken Hotpot（猪肚鸡）",
+          "image": "images/chinese-food-hero.png",
+          "tags": [
+            "Hotpot",
+            "Nourishing",
+            "Shenzhen Original"
+          ],
+          "description": "A whole chicken stuffed inside a pork tripe (stomach), simmered with generous white peppercorns until the broth turns milky and peppery-warm. The dish is believed to have originated in Shenzhen and is eaten as a hotpot — you drink the broth, eat the tender chicken and tripe, then cook vegetables and noodles in what's left.",
+          "history": "A relatively young dish said to have been born among Shenzhen's migrant-worker communities in the 1990s, where pork tripe and chicken were cheap, abundant ingredients. It spread rapidly across Guangdong and then the rest of China, becoming one of the city's few genuinely homegrown culinary exports.",
+          "method": "1. Clean the pork tripe thoroughly and blanch it.<br>2. Stuff a whole chicken inside the tripe and seal it.<br>3. Simmer with crushed white peppercorns for hours until the broth turns milky.<br>4. Slice the tripe and chicken, return to the pot.<br>5. Serve as a hotpot with vegetables, mushrooms, and noodles on the side.",
+          "eatingGuide": "<b>Drink the broth first — it's the whole point.</b> The white-pepper broth should warm you from the inside out, with a gentle heat that lingers. Sip a bowl before you touch the meat. The tripe has a distinctive chewy-crunchy texture that's an acquired taste; if you're unsure, focus on the chicken and broth first.",
+          "culturalCode": "<b>A dish born of Shenzhen's migrant identity.</b> In a city of newcomers from every province, pork tripe chicken is one of the few dishes Shenzhen can genuinely claim as its own. It's comfort food for a city built by people far from home — warming, communal, and unpretentious.",
+          "honestTalk": "<b>The pepper is strong and the tripe is polarizing.</b> The white-pepper punch isn't for everyone, and some people can't get past the idea of eating stomach. If that's you, the broth and chicken are still worth the trip. Order the version with the whole chicken inside the tripe for the real deal, not the pre-cut quick version."
+        }
+      ]
+    }
+  ],
+  "zh": [
+    {
+      "id": "shenzhen-001",
+      "date": "September 7, 2026",
+      "region": "Guangdong · Shenzhen",
+      "dishes": [
+        {
+          "name": "Guangming Roast Pigeon（光明乳鸽）",
+          "image": "images/chinese-food-hero.png",
+          "tags": [
+            "Signature",
+            "Roast",
+            "Crispy Skin"
+          ],
+          "description": "Shenzhen's undisputed culinary icon. Young pigeons raised at the Guangming farm are marinated in a secret blend of soy, spices, and maltose, air-dried until the skin is taut, then roasted until it turns a deep mahogany and shatters like glass while the meat underneath stays impossibly juicy. Served whole so you can tear into it with your hands.",
+          "history": "Born in the 1980s at Guangming Farm (光明农场), originally a state-run dairy and poultry farm in the city's western suburbs. The farm's roast pigeon was so good that 'Guangming' became shorthand for the dish across the entire Pearl River Delta — a rare case of a single farm defining a city's signature food.",
+          "method": "1. Select young, tender pigeons (about 25 days old).<br>2. Marinate with soy sauce, spices, and a touch of maltose syrup.<br>3. Air-dry for several hours so the skin tightens.<br>4. Roast at high heat, basting continuously until mahogany-brown.<br>5. Rest briefly, then serve whole.",
+          "eatingGuide": "<b>Eat it with your hands, skin first.</b> The skin is the prize — it should crackle and shatter between your teeth. Tear into the legs and breast while the juices are still running. Order one pigeon per person at minimum; they're small and you'll want a second. Many shops serve pigeon blood rice (鸽血饭) on the side — don't skip it.",
+          "culturalCode": "<b>In Shenzhen, 'Guangming' means pigeon.</b> Saying you're going to Guangming for dinner is understood by every local as a pigeon pilgrimage. The dish is so central to the city's identity that the best roast pigeon is judged by one question: would you drive an hour to Guangming just for this?",
+          "honestTalk": "<b>It's small, so order generously.</b> A pigeon has less meat than it looks. For two people, order two to three pigeons plus sides. The best spots are in the actual Guangming district, not the city-center copies. Eat it within minutes of serving — reheated pigeon loses both the crackle and the juice."
+        },
+        {
+          "name": "Shajing Fresh Oysters（沙井鲜蚝）",
+          "image": "images/chinese-food-hero.png",
+          "tags": [
+            "Seafood",
+            "Fresh",
+            "Century-old"
+          ],
+          "description": "Shajing town in Bao'an has been farming oysters for over a thousand years, and its plump, briny oysters are prized across southern China. Served raw on the half shell, steamed with garlic and vermicelli, or grilled over charcoal — the flesh is creamy and sweet with a clean mineral finish that comes from the Pearl River estuary's brackish waters.",
+          "history": "Shajing's oyster beds trace back to the Song Dynasty (960–1279), making it one of China's oldest continuous oyster-farming regions. The oysters were so valued that they were once tribute paid to the imperial court. Modern Shajing still harvests by the same lunar-tide calendar its farmers have used for centuries.",
+          "method": "1. Shuck the freshest Shajing oysters, keeping the half shell.<br>2. For the classic: top with minced garlic, vermicelli, and scallions.<br>3. Steam over high heat for 5-8 minutes until just set.<br>4. Finish with a splash of soy and hot oil.<br>5. Serve immediately, still bubbling.",
+          "eatingGuide": "<b>Eat the steamed oyster in one bite.</b> Slurp the whole thing — oyster, garlic, vermicelli, and juices — in a single mouthful. The combination of creamy flesh and garlicky, slippery noodles is the point. Winter is peak season (肥蚝, 'fat oysters'), when the flesh is at its most plump and sweet.",
+          "culturalCode": "<b>Shajing oysters are Shenzhen's link to a pre-tech past.</b> Long before skyscrapers and Shenzhen's meteoric rise, this coast was a fishing and oyster-farming backwater. The oyster is a living reminder that Shenzhen has deep roots beneath its glass-and-steel surface.",
+          "honestTalk": "<b>Skip the raw version if you're squeamish.</b> Raw oysters carry risk, and Shajing's waters are brackish and industrial-adjacent. The steamed garlic-vermicelli version is the safer, more popular choice — and most locals prefer it anyway. For the freshest catch, go to the source in Bao'an rather than a downtown chain."
+        },
+        {
+          "name": "Gongming Roast Goose（公明烧鹅）",
+          "image": "images/chinese-food-hero.png",
+          "tags": [
+            "Roast",
+            "Cantonese BBQ",
+            "Local Classic"
+          ],
+          "description": "Gongming town's roast goose rivals the finest from Guangzhou and Hong Kong. Whole geese are marinated with five-spice and fermented bean paste, air-dried until the skin is drum-tight, then roasted until it blisters into a glossy amber lacquer. Sliced and served over a pool of its own juices, often with sour plum sauce on the side.",
+          "history": "Carried south by Cantonese migrants who settled Shenzhen's towns, the roast-goose tradition found a home in Gongming and was perfected over generations. The dish is part of the broader siu mei (烧味) barbecue culture that defines Cantonese lunch counters — but Gongming locals insist theirs stands apart.",
+          "method": "1. Clean and blanch the goose, then stuff with five-spice and bean paste.<br>2. Inflate under the skin and seal for even roasting.<br>3. Air-dry for several hours until the skin is taut.<br>4. Roast at high heat, rotating for an even, glossy color.<br>5. Rest, chop, and serve over the collected juices.",
+          "eatingGuide": "<b>Order the lower quarter (下庄) for the richest meat.</b> The skin should crack like thin glass — that's the whole point. Eat it hot and immediately after it's chopped. The sour plum sauce cuts the richness, but purists skip it to taste the goose itself. Ask for the wing and drumstick if you want the juiciest bites.",
+          "culturalCode": "<b>The cleaver's rhythm is Shenzhen's lunchtime soundtrack.</b> Every siu mei stall hangs a row of glossy geese in the window, their mahogany skin deepening with roasting time. Gongming roast goose represents the Cantonese roots that anchor Shenzhen's otherwise futuristic, migrant-driven food scene.",
+          "honestTalk": "<b>Cheap 'roast goose' is often roast duck.</b> A proper goose is a larger, richer bird and costs accordingly. If it's suspiciously cheap, you're likely being served duck. Look for glossy, deeply colored, dry skin and insist on freshly chopped meat. Eat it hot — reheated goose loses its crackle."
+        },
+        {
+          "name": "Hakka Stuffed Tofu（客家酿豆腐）",
+          "image": "images/chinese-food-hero.png",
+          "tags": [
+            "Hakka",
+            "Comfort Food",
+            "Traditional"
+          ],
+          "description": "Shenzhen's original settlers were Hakka people, and stuffed tofu is their most beloved dish. Blocks of silky tofu are hollowed and filled with a springy paste of minced pork and fish, then pan-fried until golden on one side and gently braised until the filling is cooked through and the tofu has soaked up the savory sauce.",
+          "history": "The Hakka people migrated south over centuries, and stuffed tofu is said to be their clever substitute for northern dumplings — with wheat scarce in the south, they stuffed minced meat into tofu instead of dough. The dish preserves the flavor and ritual of jiaozi in a form the south could grow.",
+          "method": "1. Cut firm tofu into thick rectangular blocks.<br>2. Hollow a small pocket in the center of each block.<br>3. Fill with a paste of minced pork, fish, and seasonings.<br>4. Pan-fry filling-side down until golden brown.<br>5. Add stock and sauce, braise gently until the filling is cooked through.",
+          "eatingGuide": "<b>Get the tofu and filling in one bite.</b> The contrast between the silky tofu and the springy, savory meat is the whole appeal. Spoon some braising sauce over the rice — it's quietly addictive. It's home-style comfort food, best ordered alongside other dishes rather than as a solo main.",
+          "culturalCode": "<b>Hakka cuisine is Shenzhen's forgotten root.</b> Beneath the city's reputation as a soulless tech hub lies a deep Hakka heritage — the Dapeng Peninsula's fortress towns, the ancestral halls, and this humble dish that's been fed to generations. Eating stuffed tofu in Shenzhen is a taste of the city before it was a city.",
+          "honestTalk": "<b>Judge it by the filling, not the looks.</b> It's a plain-looking dish. The difference between good and great is the freshness of the minced pork and the silky texture of the tofu. Avoid versions where the tofu is tough or the filling is dry and crumbly. Order it at a Hakka restaurant, not a mall food court."
+        },
+        {
+          "name": "Dapeng Poon Choi（大鹏盆菜）",
+          "image": "images/chinese-food-hero.png",
+          "tags": [
+            "Banquet Dish",
+            "Hakka",
+            "Festive"
+          ],
+          "description": "A spectacular layered feast served in a single large basin. Dozens of ingredients — roast duck, chicken, pork, abalone, mushrooms, dried oysters, and radish — are arranged in careful layers and braised together until the flavors intermingle. The Dapeng Peninsula's version is a treasured New Year and clan-gathering tradition.",
+          "history": "Legends trace poon choi to the Southern Song Dynasty, when villagers pooled whatever food they had into one basin to feed a fleeing emperor. On the Dapeng Peninsula, the dish became the centerpiece of ancestral rites and village banquets, a symbol of abundance and communal unity that endures today.",
+          "method": "1. Braise the cheapest, most absorbent ingredients (radish, pig skin) first.<br>2. Layer vegetables and tofu at the bottom of a large basin.<br>3. Add meats and seafood in ascending order of luxury.<br>4. Pour the braising sauce over the whole basin.<br>5. Simmer together until every layer absorbs the sauce.",
+          "eatingGuide": "<b>Eat from the top layer down.</b> The dish is eaten communally, with everyone reaching into the same basin. The luxuries sit on top; the real treasure is the radish and tofu at the bottom, which have soaked up all the juices from above. Save room for those final, flavor-packed bites.",
+          "culturalCode": "<b>Poon choi is a clan gathering on a plate.</b> The dish is inseparable from the Dapeng Peninsula's fortress villages and ancestral halls, where whole families once ate from a single basin during festivals. Eating it is a celebration of collective abundance — the opposite of Shenzhen's individualistic tech culture.",
+          "honestTalk": "<b>Order it for a group — it's enormous.</b> A proper poon choi feeds eight to twelve people and takes hours to prepare, so most restaurants require advance booking. Don't order it for two. The bottom-layer radish, ugly as it looks, is the single best bite in the whole basin."
+        },
+        {
+          "name": "Pork Tripe Chicken Hotpot（猪肚鸡）",
+          "image": "images/chinese-food-hero.png",
+          "tags": [
+            "Hotpot",
+            "Nourishing",
+            "Shenzhen Original"
+          ],
+          "description": "A whole chicken stuffed inside a pork tripe (stomach), simmered with generous white peppercorns until the broth turns milky and peppery-warm. The dish is believed to have originated in Shenzhen and is eaten as a hotpot — you drink the broth, eat the tender chicken and tripe, then cook vegetables and noodles in what's left.",
+          "history": "A relatively young dish said to have been born among Shenzhen's migrant-worker communities in the 1990s, where pork tripe and chicken were cheap, abundant ingredients. It spread rapidly across Guangdong and then the rest of China, becoming one of the city's few genuinely homegrown culinary exports.",
+          "method": "1. Clean the pork tripe thoroughly and blanch it.<br>2. Stuff a whole chicken inside the tripe and seal it.<br>3. Simmer with crushed white peppercorns for hours until the broth turns milky.<br>4. Slice the tripe and chicken, return to the pot.<br>5. Serve as a hotpot with vegetables, mushrooms, and noodles on the side.",
+          "eatingGuide": "<b>Drink the broth first — it's the whole point.</b> The white-pepper broth should warm you from the inside out, with a gentle heat that lingers. Sip a bowl before you touch the meat. The tripe has a distinctive chewy-crunchy texture that's an acquired taste; if you're unsure, focus on the chicken and broth first.",
+          "culturalCode": "<b>A dish born of Shenzhen's migrant identity.</b> In a city of newcomers from every province, pork tripe chicken is one of the few dishes Shenzhen can genuinely claim as its own. It's comfort food for a city built by people far from home — warming, communal, and unpretentious.",
+          "honestTalk": "<b>The pepper is strong and the tripe is polarizing.</b> The white-pepper punch isn't for everyone, and some people can't get past the idea of eating stomach. If that's you, the broth and chicken are still worth the trip. Order the version with the whole chicken inside the tripe for the real deal, not the pre-cut quick version."
+        }
+      ]
+    }
+  ]
+}

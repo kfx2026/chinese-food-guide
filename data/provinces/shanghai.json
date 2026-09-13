@@ -1,0 +1,199 @@
+{
+  "id": "shanghai",
+  "name_en": "Shanghai",
+  "name_zh": "上海市",
+  "en": [
+    {
+      "id": "shanghai-001",
+      "date": "May 30, 2026",
+      "region": "Shanghai",
+      "dishes": [
+        {
+          "name": "Eight-Treasure Duck (Babao Ya)",
+          "image": "images/shanghai-babaya.jpg",
+          "tags": ["Festive", "Classic", "Heritage"],
+          "description": "Shanghai's banquet showstopper — a whole duck deboned, stuffed with 'eight treasures' of glutinous rice, diced ham, chestnuts, mushrooms, lotus seeds, ginkgo nuts, winter bamboo shoots, and chicken gizzards, then steamed for 8 hours until the duck melts and the rice absorbs every drop of duck fat. Dark, glossy, and decadently rich.",
+          "history": "Originated from the Qing Dynasty court dish 'Glutinous Rice Eight-Treasure Duck,' brought south by the Suzhou Imperial Textile Commissioner during the Qianlong era. In the 1930s, Shanghai Old Restaurant (上海老饭店) refined it by steaming the duck on the bone and standardizing the 'four meat, four vegetable' filling. In 2018, it was named one of Shanghai's Ten Classic Dishes and is a recognized intangible cultural heritage dish of Benbang cuisine.",
+          "method": "1. Select a Zhejiang white-feathered duck, clean and make an incision at the neck, keeping the skin intact. Marinate with salt, cooking wine, ginger-scallion water for 2 hours. 2. Soak glutinous rice, prepare filling: diced ham, shiitake mushrooms, chestnuts, ginkgo nuts, winter bamboo shoots, chicken gizzards, and pork. Season with salt, light soy sauce, and Shaoxing wine. 3. Stuff the duck cavity with filling, sew the neck tight with cotton string, seal openings with toothpicks. 4. Blanch in boiling water to tighten skin, hang to air-dry for 2 hours. 5. Brush skin with dark soy sauce, deep-fry until golden. 6. Place in a clay pot with stock, soy sauce, and rock sugar. Bring to boil, simmer 1.5 hours. 7. Steam for 8 hours until the duck is fall-apart tender and the rice is perfectly soft. Plate and drizzle with thickened sauce.",
+          "eatingGuide": "<b>How to eat it:</b> This is a sharing dish — the whole duck arrives at the table as a centerpiece. Use a spoon to break through the skin and scoop out the sticky rice from inside. The rice is arguably even better than the duck meat itself — it has absorbed all the duck fat and the essence of the eight treasures. Serve with steamed bok choy on the side to cut through the richness. <b>Pro tip:</b> Must be ordered at least one day in advance at most restaurants. The version at Shanghai Old Restaurant is the gold standard.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> Eight-Treasure Duck represents the pinnacle of Shanghai banquet culture — a dish that takes 10+ hours to prepare and demands mastery of deboning, stuffing, and long-steaming techniques. The number 'eight' (八, bā) is the most auspicious number in Chinese culture, symbolizing prosperity and completeness. It's never eaten casually — only at weddings, New Year celebrations, and important family gatherings.",
+          "honestTalk": "<b>The honest truth:</b> The duck skin is extremely rich — one or two spoonfuls of the rice is incredibly satisfying, but too much can be overwhelming if you're not used to heavy, oil-rich food. The deboning is not always perfect; you may find small bone fragments. For the full effect, eat it fresh at the restaurant — takeaway versions lose the magic. At ¥150-300 per duck, it's a splurge, but a worthy one for the experience."
+        },
+        {
+          "name": "Shrimp Roe Braised Sea Cucumber (Xiazi Da Wushen)",
+          "image": "images/shanghai-xiazishen.jpg",
+          "tags": ["Luxury", "Classic", "Signature"],
+          "description": "The crown jewel of Benbang cuisine — a massive dried sea cucumber, rehydrated over 3-4 days, then braised in a dark, glossy sauce of red-cooked pork braising liquid, premium soy sauce, rock sugar, and dried shrimp roe. The result: a jiggly, gelatinous, deeply savory dish so tender it must be eaten with a spoon. Known as 'the world's finest sea cucumber.'",
+          "history": "Created in the 1930s by Benbang cuisine master Yang Hesheng. The dish was born from necessity — foreign trading firms in Shanghai had warehouses of unsold sea cucumbers that nobody knew how to cook. Yang used the shrimp roe to elevate the sea cucumber's mild flavor and the 'red-braising' (红烧) technique to give it the signature Shanghai dark gloss. It became an instant classic and remains Benbang cuisine's most prestigious dish, a test of any Shanghai chef's skill.",
+          "method": "1. Take dried sea cucumber and scorch the skin over an open flame until blackened, then scrape clean. Soak in cold water for 12 hours. 2. Repeatedly bring to a boil, then turn off heat and let soak for 2-10 hours each cycle. This process takes 3-4 days until the sea cucumber is plump, soft, and elastic. Slit open, clean, and set aside. 3. Heat lard in a wok, fry scallion whites until fragrant, remove. Heat oil to 80%, place sea cucumber belly-up and fry until skin slightly cracks. Drain. 4. Place sea cucumber back-down in a pot, add Shaoxing wine, dark soy sauce, red-braised pork master stock, stock, rock sugar, and dried shrimp roe. Bring to boil, simmer 40 minutes. 5. Reduce sauce until thick, glossy, and deep mahogany. Plate and pour the concentrated sauce over the top.",
+          "eatingGuide": "<b>How to eat it:</b> Use a SPOON, not chopsticks — the sea cucumber is so tender it will slip right off. Take a bite with a generous amount of the shrimp roe sauce. The texture is uniquely gelatinous — like the softest jelly with a slight chew. The sauce is the real star: deeply savory, slightly sweet, intensely umami from the shrimp roe. <b>Pro tip:</b> This is the most expensive dish on any Benbang menu (¥200-400+ per portion). Order it for a special occasion, not a casual meal. Available at Shanghai Old Restaurant (上海老饭店) and Lao Zhengxing (老正兴).",
+          "culturalCode": "<b>Why it matters beyond taste:</b> This dish represents the zenith of Benbang technique — the 3-4 day rehydration process alone requires patience that modern kitchens rarely afford. It's also a story of Chinese culinary ingenuity: taking a rejected, 'useless' ingredient (sea cucumber was considered waste by Western traders) and transforming it through technique into the most luxurious dish on the menu. It's the Shanghai version of 'making something from nothing.'",
+          "honestTalk": "<b>The honest truth:</b> Sea cucumber has zero flavor on its own — it's a texture delivery system for the sauce. If you've never had it before, the gelatinous, jiggly texture can be shocking. Some people find it off-putting; others find it sublime. There's no middle ground. It's extremely expensive (¥200-400+ per portion) and the portion is small. Don't order it if you're looking for a filling meal — order it for the experience. The shrimp roe adds a subtle briny umami that you might not even notice unless you pay attention. It's a dish for slow, contemplative eating, not hungry devouring."
+        },
+        {
+          "name": "Oil-Blasted River Shrimp (Youbao Hexia)",
+          "image": "images/shanghai-yubaoxia.jpg",
+          "tags": ["Classic", "Quick-Fry", "Sweet-Savory"],
+          "description": "The quintessential Benbang quick-fry — live local river shrimp, no larger than a fingertip, flash-fried at extreme heat for exactly 15 seconds until the shells turn crimson and crisp. Tossed in a secret sweet-savory glaze of soy sauce, rock sugar, honey, and maltose, each shrimp is a crunchy, juicy, caramelized bite. Shell on, head and all — the ultimate Shanghai drinking snack.",
+          "history": "Dating to the Qing Dynasty, oil-blasted river shrimp became a Shanghai banquet staple by the Republican era. It's the purest expression of Benbang's 'red-braising in oil' (油爆) technique and the 'rich sauce, sweet finish' philosophy. Listed in Lu Xun's household recipes and preserved in Shanghai Old Restaurant's century-old techniques, it's a core dish of the Benbang intangible cultural heritage cooking tradition.",
+          "method": "1. Select green-shell, white-belly live river shrimp — approximately 80 per jin (500g). Wash and drain thoroughly. 2. Prepare the secret glaze: combine light soy sauce, premium soy sauce (六月鲜), and dark soy sauce with rock sugar, honey, and maltose. Add water, bring to boil, then simmer until thick and syrupy. 3. Heat oil to approximately 280°C (smoking hot). Add shrimp and flash-fry for exactly 15 seconds until shells redden, heads burst open, and tails spread. Remove and drain immediately. 4. Leave a small amount of oil in the wok, sauté scallion and ginger until fragrant. Return shrimp to wok, toss over high heat. 5. Pour the prepared glaze over the shrimp, toss for 30 seconds until each shrimp is evenly coated and glistening red-brown. Serve immediately.",
+          "eatingGuide": "<b>How to eat it:</b> Eat the WHOLE shrimp — shell, head, tail, and all. The shell is the best part: crispy, caramelized, packed with the concentrated flavor of the glaze. Pick up one shrimp with chopsticks, pop it in your mouth whole, and crunch down. The contrast between the crispy shell and the juicy, sweet shrimp meat is what makes this dish legendary. <b>Pro tip:</b> It's a drinking dish — order cold beer or warm Shaoxing wine with it. At proper Shanghai restaurants, it arrives sizzling and must be eaten within minutes while the shells are still crackling crisp.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> Oil-blasted river shrimp is the ultimate test of wok hei (镬气) — breath of the wok. The 15-second fry time requires perfect temperature control and timing. It's also a celebration of local terroir: the small river shrimp from Shanghai's waterways have a sweetness that larger prawns can't match. Eating the whole shrimp — shell and all — reflects the Chinese culinary philosophy of using every part of the ingredient.",
+          "honestTalk": "<b>The honest truth:</b> Eating shrimp with shells on is not for everyone. The shells can feel sharp or scratchy if the shrimp aren't fried hot enough. Some people find the experience uncomfortable — you're essentially eating the exoskeleton. If you don't like it, you can peel them, but you'll miss half the flavor. The dish is VERY sweet by Western standards because of the honey and maltose glaze — it's a sweet-savory dish, not a purely savory one. It's also quite oily — the name literally means 'oil-blasted.'"
+        },
+        {
+          "name": "Fermented Grain Hot Pot (Zao Botou)",
+          "image": "images/shanghai-zaobotou.jpg",
+          "tags": ["Nose-to-Tail", "Heritage", "Aromatic"],
+          "description": "Shanghai's ultimate nose-to-tail dish — a clay pot of pork lung, stomach, intestine, liver, and trotters slow-simmered for 3 hours, then finished with fermented grain mash (香糟卤) that transforms a humble offal stew into an aromatic, deeply comforting masterpiece. The fermented grain adds a wine-like complexity that cuts through the richness — no gaminess, just pure, soul-warming flavor.",
+          "history": "Born in the Qianlong era (mid-18th century) in Shanghai's Jiading district, farmers originally made this dish with leftover pig organs — a thrifty way to use every part of the animal. By the Guangxu period (late 19th century), Shanghai Old Restaurant elevated it to a clay pot dish with added ham, bamboo shoots, and tofu puffs. The gangster kingpin Du Yuesheng missed this dish so much after moving to Hong Kong that he reportedly had ingredients flown in.",
+          "method": "1. Prepare pork lung, stomach, large intestine, liver, trotters, plus ham, winter bamboo shoots, and oil-blanched tofu puffs. Scrub and rinse the organs repeatedly, blanch in boiling water, then boil until cooked and cut into pieces. 2. Slice liver, chop trotters, slice bamboo shoots and ham. Soak tofu puffs in light salt water to remove alkaline taste. 3. Layer sliced ginger and scallion in the bottom of a clay pot. Add lung, stomach, intestine, and trotters with Shaoxing wine, stock, and a touch of lard. Bring to boil, skim foam, reduce to low and simmer 3 hours until all ingredients are meltingly tender. 4. Remove the ginger and scallion. Add liver, bamboo shoots, ham, and tofu puffs. Simmer another 10 minutes. 5. Season with salt and MSG, pour in fermented grain brine (香糟卤), sprinkle with garlic sprouts, and bring the whole clay pot to the table.",
+          "eatingGuide": "<b>How to eat it:</b> It arrives in the clay pot, still bubbling. Start with the broth — the fermented grain aroma should hit you first, complex and wine-like. The organs should be incredibly tender, almost falling apart. The tofu puffs have absorbed the most flavor — save one for last. <b>Pro tip:</b> This is a winter dish — the fermented grain and the rich offal are designed to warm you from the inside. Order it at Shanghai Old Restaurant or a traditional Benbang restaurant. It's meant for sharing — one clay pot serves 3-4 people.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> Zao Botou embodies Shanghai's rural roots before the skyscrapers. The fermented grain technique (糟) is uniquely Jiangnan — a method of preserving and flavoring that dates back thousands of years. The dish is a edible museum of Chinese peasant cooking wisdom: nothing wasted, everything transformed. The name Du Yuesheng's nostalgia for this dish says everything about how deep Shanghai food memories run.",
+          "honestTalk": "<b>The honest truth:</b> This is an offal dish — lung, intestine, stomach, and liver are the main ingredients. If you're squeamish about organ meats, steer clear. The fermented grain flavor (糟香) is an acquired taste — it's like a funky, wine-like, slightly sweet aroma that permeates everything. Some people find it off-putting; others find it addictive. The texture of properly cooked intestine is soft and slightly chewy — completely different from what you might fear. Start with a small bowl of just the broth and tofu to see if you like the fermented grain flavor before committing to the organs."
+        },
+        {
+          "name": "Spring Bamboo Shoot Soup (Yan Du Xian)",
+          "image": "images/shanghai-yanduxian.jpg",
+          "tags": ["Seasonal", "Spring", "Comfort Food"],
+          "description": "Shanghai's ode to spring — 'yan' (salt-cured pork), 'du' (slow-simmer), 'xian' (fresh bamboo shoots and pork). A milky-white broth achieved through hours of patient simmering, where cured pork belly and fresh pork release their essence into tender spring bamboo shoots. No seasoning needed — the salt-cured meat does all the work. Every Shanghainese family has their own recipe, but all agree: it only counts when spring bamboo shoots are in season.",
+          "history": "A quintessential Jiangnan seasonal dish. Folk saying: 'Spend Qingming without Yan Du Xian, and you've wasted spring in Jiangnan' (清明不吃腌笃鲜，枉做江南人). Its roots trace to Huizhou-style cured pork stews, refined by late Qing merchants who added Jinhua ham and fresh bamboo shoots. It became a spring ritual across Shanghai, Suzhou, and the entire Yangtze Delta.",
+          "method": "1. Cut salt-cured pork and fresh pork belly into chunks. Blanch in cold water to remove scum, drain. 2. Blanch spring bamboo shoots briefly to remove bitterness. 3. Place all meats and shoots with ginger and scallion in a clay pot, cover with boiling water. Bring to a vigorous boil, then reduce to the gentlest simmer — this is the 'du' (笃), the slow, patient bubbling. Simmer 1 hour. 4. Add tofu skin knots (百叶结) and celtuce (莴笋), simmer another 20 minutes until the broth is milky white, the meat is tender, and the bamboo shoots are still crisp.",
+          "eatingGuide": "<b>How to eat it:</b> The BROTH is the point — sip it first, pure and unadulterated. The bamboo shoots should still have a slight crunch. The salt-cured pork is salty; the fresh pork is mild; eat them together for the full contrast. The tofu skin knots have absorbed the most flavor. <b>Pro tip:</b> This dish is ONLY available in spring (March-May). If you order it in autumn, the bamboo shoots will be canned or frozen — the magic is gone. The best version is homemade, but Shanghai Old Restaurant's is reliable.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> Yan Du Xian is Shanghai's calendar — when it appears on menus and dinner tables, winter is officially over. The dish's name is a poem in three characters: 腌 (cured), 笃 (simmer), 鲜 (fresh). It represents the Jiangnan philosophy of seasonal eating at its purest: use what nature provides right now, and let time and patience do the rest.",
+          "honestTalk": "<b>The honest truth:</b> The salt-cured pork is EXTREMELY salty if you eat it on its own — it's meant to flavor the broth, not be eaten in large pieces. The broth is the star; the solids are secondary. If you're vegetarian, this dish has nothing for you — the entire point is the pork-on-pork umami. It's also a very simple, rustic dish — don't expect complex spicing or fancy presentation. It tastes like a grandmother's cooking, which is exactly the point."
+        },
+        {
+          "name": "Nanxiang Soup Dumplings (Xiaolongbao)",
+          "image": "images/shanghai-xiaolongbao.jpg",
+          "tags": ["Iconic", "Snack", "Heritage"],
+          "description": "The most famous food export from Shanghai — tissue-thin wheat wrappers pleated into 14+ folds, each cradling a pork-and-gelatin filling that transforms into a spoonful of scalding, savory broth when steamed. Invented in Nanxiang town in 1871 and perfected at Shanghai's City God Temple since 1900. In 2014, it was inscribed on China's National Intangible Cultural Heritage list.",
+          "history": "Created in 1871 (Tongzhi 10th year) by Huang Mingxian, owner of Rihuaxuan in Nanxiang Town. Huang transformed the large 'meat buns' (大肉馒头) into smaller, thin-skinned versions. In 1900, the recipe was brought to Shanghai's City God Temple and became an instant sensation. The Nanxiang Steamed Bun Restaurant (南翔馒头店) at Yu Garden has been serving them continuously since 1900.",
+          "method": "1. Mince pork front leg into a fine paste, mix with minced ginger, salt, soy sauce, sugar, and aspic made from chicken stock — this is the 'soup' that will melt during steaming. 2. Make a semi-leavened dough with fine wheat flour and warm water, rest 20 minutes. Roll into circles — thin edges, slightly thicker center. 3. Fill each wrapper and pleat at least 14 folds to seal. 4. Steam over high heat for exactly 5 minutes. The aspic melts into the signature broth, and the wrapper becomes translucent.",
+          "eatingGuide": "<b>How to eat it:</b> NEVER bite straight in — the broth is scalding. 1. Pick up the dumpling gently by the pleated top. 2. Place it in your spoon. 3. Nibble a tiny hole in the side. 4. Blow gently to cool. 5. Sip the broth from the spoon. 6. Dip the remaining dumpling in black vinegar with ginger slivers. 7. Eat in one bite. <b>Pro tip:</b> The crab roe version (蟹粉小笼) is available in autumn and worth the premium. Jia Jia Tang Bao (佳家汤包) is the local favorite over the tourist-crowded Nanxiang.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> Xiaolongbao is Shanghai's edible ambassador — it's the dish that introduces millions of foreigners to the sophistication of Chinese cooking. The 14-pleat seal isn't just aesthetic; it creates the structure that holds the soup. In 2014, UNESCO recognition elevated it from street food to cultural heritage. For Shanghainese, a proper xiaolongbao is a point of civic pride — and they will passionately debate which shop makes the best ones.",
+          "honestTalk": "<b>The honest truth:</b> EVERY first-timer burns their mouth. The Nanxiang restaurant at Yu Garden has brutal queues (2+ hours on weekends), and the quality is inconsistent. Local foodies prefer Jia Jia Tang Bao or Fuchun Xiaolong. The frozen supermarket versions are NOT the same thing — the skin is thicker, the soup is less rich, and the experience is completely different. If you're in Shanghai, eat them fresh or don't bother. Crab roe xiaolongbao are expensive (¥60-100 per steamer) but worth it during hairy crab season (Oct-Nov)."
+        },
+        {
+          "name": "Osmanthus Sticky Rice Lotus Root (Guihua Nuomi Ou)",
+          "image": "images/shanghai-guihuaou.jpg",
+          "tags": ["Sweet", "Cold Dish", "Elegant"],
+          "description": "A jewel of Jiangnan cold cuisine — tender lotus root stuffed with glutinous rice, slow-cooked in a syrup of brown sugar and rock sugar until the root turns a deep rose-gold, then sliced and drizzled with osmanthus flower syrup. Each slice reveals a flower-like pattern of rice-filled holes. Sweet, subtly fragrant, and visually stunning — the perfect end to a Shanghai banquet.",
+          "history": "Origins trace to the Tang Dynasty, when poet-governor Bai Juyi promoted 'simmered lotus root' in Suzhou. By the Ming-Qing period, stuffing lotus root with glutinous rice was a standard technique, recorded in 'The Scholars' (儒林外史). By the Republican era, it had become a signature cold appetizer at Nanjing's Confucius Temple and Shanghai's City God Temple, symbolizing 'abundance year after year' (连年有余).",
+          "method": "1. Select a thick, starchy seven-hole lotus root (七孔粉藕). Wash and peel. 2. Cut off one end (about 2 cm) to use as a 'lid.' Rinse the holes thoroughly. 3. Soak round glutinous rice for 2 hours until crushable. 4. Using chopsticks, patiently stuff each lotus root hole with rice. Replace the lid and secure with toothpicks. 5. Place in a pressure cooker with water to cover, add brown sugar, rock sugar, and red dates. Pressure cook for 40 minutes. Or use a regular pot: simmer 2 hours until fork-tender. 6. Cool, slice into thick rounds, arrange on a plate, drizzle with the thickened cooking syrup and osmanthus flower syrup.",
+          "eatingGuide": "<b>How to eat it:</b> Served cold or at room temperature as a dessert or cold appetizer. Pick up a slice and admire the pattern — each hole should be perfectly filled with translucent rice. The texture is soft and slightly chewy from the rice, with a gentle crunch from the lotus root. The osmanthus fragrance is delicate — don't eat anything strongly flavored before it. <b>Pro tip:</b> It's always on the cold dish menu at Benbang restaurants. The homemade version is noticeably better because the syrup can be made thicker and more aromatic.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> This dish is edible poetry — the lotus root's holes naturally form a beautiful pattern when sliced, symbolizing wholeness and connection. In Chinese culture, lotus root (藕, ǒu) sounds like 'couple' (偶), making it a wedding banquet staple. The osmanthus flower (桂花) symbolizes nobility and success. Together, it's a dish that tastes like a Jiangnan autumn afternoon.",
+          "honestTalk": "<b>The honest truth:</b> It's extremely sweet — the brown sugar and rock sugar double-team creates an intense sweetness that might be too much if you're not used to Chinese desserts. The osmanthus flavor is very subtle; don't expect an in-your-face floral punch. The lotus root can be slightly fibrous if not cooked long enough. Restaurant versions are often pre-made and the syrup can be thin and watery — homemade is far superior. It's a beautiful dish to photograph, but the taste is simple and sweet rather than complex."
+        },
+        {
+          "name": "Pork Chop with Rice Cakes (Paigu Niangao)",
+          "image": "images/shanghai-paiguniangao.jpg",
+          "tags": ["Street Food", "Comfort Food", "Sweet-Savory"],
+          "description": "Shanghai's ultimate street comfort food — a golden, crispy fried pork chop paired with chewy, soft rice cakes, both swimming in a glossy, sweet-savory Benbang sauce. The contrast between the crunchy breaded chop and the tender, slippery rice cakes makes every bite a textural party. Born in the alleyways of the old Chinese City, it's been a Shanghai after-school and late-night staple for generations.",
+          "history": "Born in the Republican era around Shanghai's City God Temple and Shiliupu dock area. Street vendors sold fried pork chops alongside flat rice cakes (年糕) — someone had the genius idea to combine them. The dish represents the best of Shanghai street food culture: affordable ingredients elevated through technique. Today, it's still found at traditional snack shops in Yu Garden, Yunnan South Road, and neighborhood eateries across the city.",
+          "method": "1. Select fresh pork loin chops. Pound repeatedly with the back of a cleaver until tender and slightly flattened. Marinate with cooking wine, light soy sauce, salt, white pepper, and minced scallion-ginger for 30 minutes. 2. Coat marinated chops in flour, then batter, then fry in oil at 170°C (medium-high) until golden brown and crispy on both sides. Drain on paper towels. 3. Cut local water-milled rice cakes (年糕) into strips, boil in water until soft. 4. In a separate pan, combine light soy sauce, sweet bean paste (甜面酱), a little sugar, and water. Simmer until thick and glossy. 5. Add the fried pork chops and boiled rice cakes to the sauce, simmer briefly on low heat until everything is coated. Serve immediately.",
+          "eatingGuide": "<b>How to eat it:</b> The perfect bite has a piece of pork chop AND a strip of rice cake together. The pork chop should still be crispy despite the sauce. The rice cakes should be bouncy and chewy, not mushy. It's a knife-and-fork dish, though locals eat it with chopsticks. <b>Pro tip:</b> Yunnan South Road (云南南路) food street has several shops that specialize in this. The version at Da Hu Chun (大壶春) is excellent. Ask for extra sauce if you like it saucy.",
+          "culturalCode": "<b>Why it matters beyond taste:</b> Pork Chop with Rice Cakes is Shanghai street food at its most democratic — it costs ¥25-40 and fills you up completely. The dish reflects Shanghai's pragmatic food culture: take Western-style breaded pork (a nod to the city's international history), pair it with purely Chinese rice cakes, and tie it together with Benbang sweet-savory sauce. It's fusion food from an era before 'fusion' was a buzzword.",
+          "honestTalk": "<b>The honest truth:</b> The combination sounds strange — fried pork chops with chewy rice cakes? But it works surprisingly well. The pork chop quality varies by shop; cheap versions are mostly batter with a thin sliver of meat. Look for thick-cut chops at reputable shops. The dish is heavy — fried meat + dense rice cakes = a full meal, not a light snack. If the sauce is too sweet for you, ask for it on the side. It's not a fancy dish — it's honest, working-class comfort food, and that's exactly its charm."
+        }
+      ]
+    }
+  ],
+  "zh": [
+    {
+      "id": "shanghai-001",
+      "date": "2026年5月30日",
+      "region": "上海",
+      "dishes": [
+        {
+          "name": "八宝鸭",
+          "image": "images/shanghai-babaya.jpg",
+          "tags": ["宴席", "经典", "非遗"],
+          "description": "上海宴席压轴大菜——整鸭脱骨，填入糯米、火腿丁、栗子、香菇、莲子、银杏、冬笋、鸡胗等八宝馅料，蒸制8小时至鸭肉酥烂、糯米吸饱鸭油。深琥珀色外皮，浓香软糯，是海派宴席文化的代表作。",
+          "history": "源自清代宫廷'糯米八宝鸭'，乾隆年间苏州织造进贡后传入江南。1930年代上海老饭店改良，带骨蒸制，定型为'四荤四素'馅料。2018年入选上海十大经典名菜，是本帮菜非遗代表。",
+          "method": "选浙江白条鸭洗净，鸭脖处开口保持鸭皮完整，用盐、料酒、葱姜水腌制2小时。糯米浸泡，搭配火腿、香菇、栗子、银杏、冬笋、鸡胗、猪肉丁等馅料，加盐、生抽、黄酒拌匀。馅料填入鸭腹，棉线扎紧鸭颈，牙签封口，沸水汆烫鸭皮收紧，挂起风干2小时。鸭皮抹老抽，入热油炸至金黄，放入砂锅加高汤、酱油、冰糖，大火烧开转小火炖1.5小时，再入蒸锅蒸8小时至鸭肉酥烂，扣盘淋芡汁即可。",
+          "eatingGuide": "<b>怎么吃：</b>整鸭上桌是仪式感——用勺子破开鸭皮，挖出里面的糯米。糯米比鸭肉还好吃——吸饱了鸭油和八宝的精华。配清炒时蔬解腻。<b>点菜秘籍：</b>大多数餐厅需要提前一天预订。上海老饭店的版本是标杆。",
+          "culturalCode": "<b>不止是好吃：</b>八宝鸭代表了上海宴席文化的巅峰——耗时10+小时，要求脱骨、填馅、长时蒸制三大技艺。'八'是中国文化最吉利的数字，象征完满富足。它从不在日常餐桌上出现——只有婚礼、年夜饭和重要家宴才有。",
+          "honestTalk": "<b>实话实说：</b>鸭皮极之油腻——吃一两勺糯米就超级满足，多吃会腻。脱骨不一定完美，可能吃到小骨头渣。一定要在店里趁热吃——打包回家味道大打折扣。¥150-300一只，值这个体验。"
+        },
+        {
+          "name": "虾子大乌参",
+          "image": "images/shanghai-xiazishen.jpg",
+          "tags": ["奢华", "经典", "招牌"],
+          "description": "本帮菜头牌大菜——干制大乌参经3-4天反复泡发至膨松柔软，用红烧肉卤、酱油、冰糖、干虾子慢火焖制40分钟。成菜软糯如胶，用汤匙舀食，酱汁浓稠红亮，被誉为'天下第一参'。",
+          "history": "1930年代本帮菜宗师杨和生创制，初衷是解决洋行积压的滞销乌参。以虾子提鲜，融合浓油赤酱技法，成菜软糯入味。是本帮菜最高难度的菜品，也是考验本帮厨师功力的试金石。",
+          "method": "选用干制大乌参，明火燎烤表皮至焦黑，刮净焦层，冷水浸泡12小时。反复入锅煮沸、熄火焖制，每次2-10小时，历时3-4天，直至参体膨松、肉质柔软有弹性，剖腹去内脏洗净备用。锅中放猪油，炸香葱白后捞出，油温升至八成热，放入沥干水分的海参，腹朝上油炸至表皮微裂，捞出沥油。海参背朝上入锅，烹绍酒，加老抽、红烧肉卤、高汤、冰糖、干虾子，大火烧开转小火焖40分钟，收汁至汤汁浓稠红亮，装盘后浇淋卤汁即可。",
+          "eatingGuide": "<b>怎么吃：</b>用勺子不能用筷子——海参软到筷子夹不住。舀一勺带足虾子酱汁，入口即化的胶质感。酱汁是灵魂：咸鲜带甜，虾子的鲜味深邃悠长。<b>点菜秘籍：</b>这是本帮菜最贵的一道（¥200-400+），适合请客撑场面。上海老饭店和老正兴是经典之选。",
+          "culturalCode": "<b>不止是好吃：</b>虾子大乌参代表了本帮菜技术的巅峰——光是3-4天的泡发过程就需要现代厨房极少有的耐心。它也是一个化腐朽为神奇的故事：把洋行卖不掉的'废品'海参，通过技艺变成菜单上最矜贵的一道菜。这是上海版的'无中生有'。",
+          "honestTalk": "<b>实话实说：</b>海参本身没有味道——它是酱汁的载体。第一次吃的口感会很震撼：果冻般软糯，略带弹性。有人一秒爱上，有人无法接受，没有中间地带。极贵（¥200-400+一份）且量少。不是吃饱的菜，是吃体验的菜。虾子的鲜味很微妙，不仔细品可能察觉不到。这是一道需要慢慢吃的菜，不是狼吞虎咽的。"
+        },
+        {
+          "name": "油爆河虾",
+          "image": "images/shanghai-yubaoxia.jpg",
+          "tags": ["经典", "爆炒", "甜咸"],
+          "description": "本帮菜油爆技法的极致——鲜活本地河虾，每斤约80只，280°C极热油炸15秒至壳红头爆，再以生抽、冰糖、蜂蜜、麦芽糖熬制的秘制酱汁大火翻炒30秒收汁。带壳入口，酥脆焦香、甜咸交融，是上海人的顶级下酒菜。",
+          "history": "源于清代，民国时期成为沪上宴席名菜。是本帮菜'浓油赤酱、咸中带甜'的典型代表。上海老饭店传承百年技法，为非遗'本帮菜肴传统烹饪技艺'核心菜品。鲁迅家用菜谱中亦有记载。",
+          "method": "选青壳白肚、鲜活弹跳的本地河虾，每斤约80只，洗净沥干水分。秘制酱汁配比：生抽、六月鲜、老抽混合，加冰糖、蜂蜜、麦芽糖，加水大火烧开后小火熬制浓稠备用。锅中倒油，油温升至八成热（约280°C），倒入河虾快速油炸15秒，至虾壳泛红、头壳爆开、尾脚须张，立即捞出控油。锅中留少许底油，放入葱段、姜片爆香，倒入炸好的河虾，大火快速翻炒，淋入秘制酱汁，颠勺收汁30秒，红亮油润时出锅。",
+          "eatingGuide": "<b>怎么吃：</b>整只吃——壳、头、尾全吃！壳是最好吃的部分：酥脆焦香，裹满糖色酱汁。筷子夹一只整只入口，嘎嘣脆。虾壳的酥脆和虾肉的鲜甜是对比享受。<b>点菜秘籍：</b>这是下酒菜——配冰啤酒或温黄酒最佳。上桌时滋滋作响，必须在几分钟内吃完，壳软了就不好吃了。",
+          "culturalCode": "<b>不止是好吃：</b>油爆河虾是镬气（wok hei）的终极考验——15秒的油炸时间要求完美的火候掌控。它也是本地风土的礼赞：上海水系的小河虾有着大虾无法比拟的甜度。带壳全吃体现了中国烹饪'物尽其用'的哲学。",
+          "honestTalk": "<b>实话实说：</b>带壳吃虾不是人人都能接受。壳如果炸得不够透会扎嘴。不喜欢的话可以剥壳，但味道少一半。这道菜非常甜——蜂蜜和麦芽糖的甜味远超一般西餐。而且很油——名字就叫'油爆'。"
+        },
+        {
+          "name": "糟钵头",
+          "image": "images/shanghai-zaobotou.jpg",
+          "tags": ["内脏", "非遗", "糟香"],
+          "description": "上海终极内脏菜——猪肺、猪肚、猪大肠、猪肝、猪脚加火腿、冬笋、油豆腐，砂锅小火焖3小时至酥软，出锅前淋入香糟卤。糟香浓郁扑鼻，肉质软糯毫无腥味，连砂锅一起上桌，是上海人冬日最暖心的砂锅菜。",
+          "history": "起源于清代乾隆年间，由上海嘉定农家首创，最初用猪内脏等'下脚料'烹制。光绪年间老饭店改良为砂锅炖煮，加入火腿、笋片、油豆腐，糟香醇厚。杜月笙定居香港后仍念念不忘此味，据说曾让人空运食材。",
+          "method": "备猪肺、猪肚、猪大肠、猪肝、猪脚、火腿、冬笋、油豆腐、香糟卤、葱姜、黄酒、鲜汤。猪肺、大肠、猪肚反复洗净，焯水后煮熟，切块备用；猪肝切片，猪脚斩块，冬笋、火腿切片，油豆腐淡盐水浸泡去碱味。砂锅底部铺姜片、葱节，放入猪肺、大肠、猪肚、猪脚，加黄酒、鲜汤、少许猪油，大火烧开撇沫，转小火焖3小时至食材酥软。拣去葱姜，加入猪肝、冬笋、火腿、油豆腐，小火再烧10分钟，加盐、味精调味，淋入香糟卤，撒蒜苗末，离火即可连砂锅上桌。",
+          "eatingGuide": "<b>怎么吃：</b>砂锅端上桌时还在咕嘟冒泡。先喝一口汤——糟香应该扑面而来，复杂如陈年美酒。内脏应该酥烂到快化的程度。油豆腐吸汤最多——留一块最后吃。<b>点菜秘籍：</b>这是冬季菜——糟香和内脏都是为了暖身暖胃。上海老饭店或传统本帮菜馆有售。一大砂锅够3-4人分。",
+          "culturalCode": "<b>不止是好吃：</b>糟钵头是上海在高楼大厦之前、还是农村时的味觉记忆。糟制技艺（糟）是江南独有——一种历史数千年的保存与调味方法。这道菜是中国农民烹饪智慧的活态博物馆：什么都不浪费，一切都被转化。杜月笙对这道菜的念念不忘，说明上海人的美食记忆有多深。",
+          "honestTalk": "<b>实话实说：</b>这是内脏菜——猪肺、大肠、肚子、肝全是主角。怕吃内脏的请绕行。糟香味是种需要适应的味道——像带酒味的发酵香气，有人觉得销魂，有人觉得怪异。好大肠的口感是软中带弹——完全不是你想象的可怕。不确定能不能接受的话先喝口汤吃块油豆腐试试糟香味。"
+        },
+        {
+          "name": "腌笃鲜",
+          "image": "images/shanghai-yanduxian.jpg",
+          "tags": ["时令", "春季", "家常"],
+          "description": "上海献给春天的情诗——'腌'为咸肉，'鲜'为鲜肉春笋，'笃'是吴语小火慢炖。咸肉和鲜肉在春笋中释放精华，汤色奶白，不需任何调味料。'清明不吃腌笃鲜，枉做江南人。'",
+          "history": "江南时令菜，雏形源自徽州腊肉炖，晚清徽商改良，用火腿春笋同炖，后成沪苏春季必吃菜。'清明不吃腌笃鲜，枉做江南人'之说流传至今。",
+          "method": "咸肉、鲜肉切块，冷水下锅焯水去沫捞出。春笋焯水去涩，与肉类同入砂锅，加姜葱、足量沸水，大火烧开转小火'笃'1小时。加百叶结、莴笋再炖20分钟，汤色奶白、肉烂笋脆即成。",
+          "eatingGuide": "<b>怎么吃：</b>先喝汤——汤是灵魂。春笋应该还带脆劲。咸肉很咸，鲜肉清淡——一起吃才有对比。百叶结吸汤最多。<b>点菜秘籍：</b>这道菜只有春天（3-5月）才有——其他季节的笋是罐头或冷冻的，没有那股鲜灵劲儿。最好吃的是家里做的，但上海老饭店的出品也靠谱。",
+          "culturalCode": "<b>不止是好吃：</b>腌笃鲜是上海的日历——当它出现在菜单和餐桌上，冬天就正式结束了。菜名是三个字的诗：腌（岁月沉淀）、笃（耐心等待）、鲜（自然馈赠）。它代表着江南时令饮食哲学的极致：用当下大自然给的东西，让时间和耐心完成剩下的工作。",
+          "honestTalk": "<b>实话实说：</b>咸肉单吃非常咸——它是用来给汤提鲜的，不是用来大口吃的。汤是重点，固体是配角。素食者不用想——整道菜的精华就是猪肉叠加猪肉的鲜味。这也是道很朴素的菜——别指望复杂的调味或精致摆盘。它吃起来就是奶奶做的味道，而这正是它的魅力。"
+        },
+        {
+          "name": "南翔小笼包",
+          "image": "images/shanghai-xiaolongbao.jpg",
+          "tags": ["招牌", "小吃", "非遗"],
+          "description": "上海最著名的美食名片——薄如纸的面皮捏出14道以上褶子，包着猪肉皮冻馅，蒸熟后化为一勺滚烫鲜汤。1871年创于南翔镇，1900年传入城隍庙。2014年入选国家级非遗，皮薄、汁多、馅鲜。",
+          "history": "源于清同治十年（1871年），南翔镇日华轩店主黄明贤改良大肉馒头，创'重馅薄皮、以大改小'的小笼包。1900年传入上海城隍庙，成沪上名点。2014年入选国家级非物质文化遗产。",
+          "method": "猪前腿肉剁酱，加姜末、盐、酱油、糖、肉皮冻（鸡汤熬制）拌匀成馅。精面粉加温水揉紧酵面团，醒20分钟，擀成中间厚四周薄的圆皮。包入馅料，捏14个以上褶子，旺火蒸5分钟即熟。",
+          "eatingGuide": "<b>怎么吃：</b>千万别一口咬——汤汁会烫破嘴！1.轻轻夹起。2.放勺子上。3.咬一个小口。4.吹吹凉。5.吸汤。6.蘸黑醋姜丝。7.一口吃掉。<b>点菜秘籍：</b>蟹粉小笼秋天才有，值得升级。佳家汤包是本地人最爱，比游客扎堆的南翔馒头店靠谱。冷冻超市版完全不是一回事——皮厚汤少，在店里趁热吃。",
+          "culturalCode": "<b>不止是好吃：</b>小笼包是上海的美食大使——它让无数外国人第一次领略到中国烹饪的精妙。14道褶子不是为了好看——它创造了包裹汤汁的结构。2014年联合国教科文组织的认可让它从街头小吃升格为文化遗产。对上海人来说，哪家小笼最好吃是能吵起来的严肃话题。",
+          "honestTalk": "<b>实话实说：</b>每个第一次吃的人都会烫到嘴。城隍庙南翔馒头店排队2小时以上，品质也不稳定。本地人更推荐佳家汤包或富春小笼。冷冻超市版完全不是同一个东西。在上海就趁热吃新鲜的，否则别吃。蟹粉小笼贵（¥60-100/笼），但秋天大闸蟹季绝对值。"
+        },
+        {
+          "name": "桂花糯米藕",
+          "image": "images/shanghai-guihuaou.jpg",
+          "tags": ["甜品", "冷盘", "雅致"],
+          "description": "江南冷盘明珠——肥厚七孔粉藕塞满糯米，红糖冰糖慢炖至玫瑰金色，切片淋桂花糖浆。每片藕孔中嵌满半透明的糯米，如花瓣图案。甜润软糯、桂香袅袅，是上海宴席最美的收尾。",
+          "history": "起源可追溯至唐代，白居易任苏州刺史时推广'焐熟藕'，填糯米慢煨；明清定型为'糯米灌藕'，《儒林外史》已有记载；民国成南京夫子庙、上海城隍庙招牌小吃，寓意'连年有余、富贵吉祥'。",
+          "method": "选七孔粉藕1节（肥厚粉糯）、圆糯米200克、红糖100克、冰糖50克、糖桂花3勺、红枣6颗。糯米提前泡2小时至可捏碎；藕洗净，切顶端1小段当'盖'，冲洗藕孔；用筷子将糯米慢慢填满藕孔，盖回藕盖，牙签扎紧固定。藕入高压锅，加清水没过，放红糖、冰糖、红枣，大火上汽转小火压40分钟；或砂锅小火慢炖2小时至藕软糯。取出放凉切厚片，摆盘淋浓稠藕汁，浇糖桂花即可。",
+          "eatingGuide": "<b>怎么吃：</b>冷吃或常温，作为甜品或冷盘。夹一片先欣赏——每个孔里嵌满半透明糯米很漂亮。口感软糯带嚼劲，藕身微脆。桂花香气很含蓄——吃之前别吃味道太重的东西。<b>点菜秘籍：</b>本帮菜馆冷菜菜单上永远有它。自己做的明显更好吃——藕汁可以熬得更浓更香。",
+          "culturalCode": "<b>不止是好吃：</b>这道菜是能吃进嘴里的诗——藕孔切片后形成的天然图案，象征圆满和联系。'藕'谐音'偶'，是婚宴必备。桂花象征高贵和成功。合在一起，是一道尝起来像江南秋日下午的点心。",
+          "honestTalk": "<b>实话实说：</b>非常甜——红糖加冰糖的双重甜度，不习惯中式甜品的人可能觉得过了。桂花味非常含蓄——别指望浓烈的花香冲击。藕如果炖不够时间会有点粗纤维感。餐厅里的通常预制，藕汁稀薄；自己做的远胜。拍照非常好看，但味道就是清甜软糯，不算复杂。"
+        },
+        {
+          "name": "排骨年糕",
+          "image": "images/shanghai-paiguniangao.jpg",
+          "tags": ["小吃", "主食", "咸甜"],
+          "description": "上海最具代表性的街头小吃——金黄酥脆的炸猪排搭配软糯Q弹的水磨年糕，浇上甜面酱与生抽调制的浓稠酱汁。肉排外酥里嫩，年糕软韧有嚼劲，酱汁甜咸入味。诞生于老城厢弄堂，是几代上海人的童年记忆。",
+          "history": "诞生于民国时期的城隍庙、十六铺一带。旧时摊贩以炸猪排搭配水磨年糕售卖，凭鲜香口感迅速走红。融合了海派小吃特色——西式面包糠炸排配中式年糕，是'融合菜'出现之前的融合菜。如今豫园、云南南路等美食街区仍能吃到正宗风味。",
+          "method": "选用新鲜猪大排，用刀背反复捶打至肉质松软，加入料酒、生抽、盐、胡椒粉、葱姜末腌制半小时入味。腌好的大排均匀裹上面粉与面糊，下入六成热油锅，炸至外皮金黄酥脆后捞出控油。本地水磨年糕切长条，清水煮熟备用。锅中留少许底油，加入生抽、甜面酱、少许糖与清水熬煮浓稠。放入炸好的排骨和煮软的年糕，小火慢煨片刻，让酱汁充分裹附食材，收汁后即可出锅。",
+          "eatingGuide": "<b>怎么吃：</b>最完美的吃法是一口猪排一口年糕——酥脆和软糯的双重口感。猪排即使沾了酱汁也应该保持酥脆。年糕应该Q弹不烂。刀叉或筷子都行。<b>点菜秘籍：</b>云南南路美食街有好几家专门做这个的。大壶春的版本也很赞。喜欢酱多的可以要求多加酱。¥25-40一份，吃饱吃好。",
+          "culturalCode": "<b>不止是好吃：</b>排骨年糕是上海街头美食最平民化的一面——¥25-40就能吃得饱饱的。这道菜反映了上海务实的饮食文化：用西式炸猪排（致敬国际化历史），配纯中式年糕，用本帮甜咸酱汁串联。它是在'融合'成为流行词之前的融合菜。",
+          "honestTalk": "<b>实话实说：</b>炸猪排配年糕的组合听起来诡异——但真的搭。猪排品质因店而异：差的是厚面糊裹薄肉片。找肉排厚实的靠谱店。这道菜很顶饱——炸物+糯米年糕=一顿完整正餐，不是轻食。酱汁偏甜的话可以要求分开。这不是高级菜——是实在的打工人美食，而正因如此才够味。"
+        }
+      ]
+    }
+  ]
+}

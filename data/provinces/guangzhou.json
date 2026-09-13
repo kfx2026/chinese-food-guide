@@ -1,0 +1,203 @@
+{
+    "id":  "guangzhou",
+    "name_en":  "Guangzhou",
+    "name_zh":  "广州",
+    "en":  [
+               {
+                   "id":  "guangzhou-001",
+                   "date":  "August 31, 2026",
+                   "region":  "Guangdong · Guangzhou",
+                   "dishes":  [
+                                  {
+                                      "name":  "White-cut Chicken（白切鸡）",
+                                      "tags":  [
+                                                   "Cantonese Classic",
+                                                   "Poached",
+                                                   "Fresh"
+                                               ],
+                                      "description":  "The purest test of Cantonese cooking skill. A free-range chicken is gently poached in barely-simmering stock, then plunged into ice water so the skin snaps tight and glossy while the meat stays moist and tender. Served cold, usually at room temperature, with a side of ginger-scallion dip — no heavy sauce, no spice, just the honest flavor of good chicken.",
+                                      "history":  "Guangzhou\u0027s signature dish that defines the Cantonese philosophy of \u0027freshness above all\u0027. For centuries it has been the benchmark dish at banquets, family dinners, and temple offerings — a chef is judged by whether his white-cut chicken has \u0027chicken flavor\u0027 (鸡味), that elusive clean, sweet taste of a properly raised bird.",
+                                      "method":  "1. Choose a free-range chicken, clean and trim.\u003cbr\u003e2. Bring a large pot of stock to a bare simmer (about 80°C).\u003cbr\u003e3. Submerge the chicken, poach gently without boiling for 25-30 minutes.\u003cbr\u003e4. Plunge into ice water to firm the skin.\u003cbr\u003e5. Chop into pieces and serve with ginger-scallion dip.",
+                                      "eatingGuide":  "\u003cb\u003eThe blood-bone pink is a feature, not a bug.\u003c/b\u003e Proper white-cut chicken is slightly pink near the bone — this means it\u0027s cooked perfectly, not undercooked. Dip each piece in the ginger-scallion oil. Eat the breast to judge the meat, the thigh for richness, and the skin for that satisfying snap. The bones should glisten with a hint of red jelly.",
+                                      "culturalCode":  "\u003cb\u003eIf a Cantonese restaurant can\u0027t do white-cut chicken, don\u0027t trust anything else.\u003c/b\u003e It\u0027s the first dish ordered at every important family meal, and the one dish every Guangzhou grandmother judges a restaurant by. The Cantonese saying \u0027无鸡不成宴\u0027 — no feast is complete without chicken — starts here.",
+                                      "honestTalk":  "\u003cb\u003eFirst-timers often find it \u0027bland\u0027.\u003c/b\u003e That\u0027s the point — it\u0027s about the chicken\u0027s own flavor, not seasoning. The magic is in the ginger-scallion dip and the texture. If you\u0027re used to heavily sauced food, order it alongside a richer dish. Choose a restaurant that prides itself on its chicken rather than a dim sum chain.",
+                                      "image":  "images/guangzhou-baiqieji.svg"
+                                  },
+                                  {
+                                      "name":  "Roast Goose（烧鹅）",
+                                      "tags":  [
+                                                   "Roast",
+                                                   "Cantonese BBQ",
+                                                   "Crispy Skin"
+                                               ],
+                                      "description":  "Guangzhou\u0027s most beloved roasted meat. A whole goose is marinated with five-spice and fermented bean paste, air-dried until the skin is taut, then roasted until the skin blisters into a glassy, crackling lacquer of amber-brown. Sliced and served over a pool of its own juices, often with plum sauce on the side.",
+                                      "history":  "Roast goose arrived in Guangzhou via the \u0027deep well\u0027 roasting technique (深井烧鹅) from the Hong Kong border town of Sham Tseng, perfected over generations into Guangzhou\u0027s defining siu mei (烧味) dish. It has been a banquet centerpiece and a daily lunchbox staple for over a century.",
+                                      "method":  "1. Clean and blanch the goose, then stuff with five-spice and fermented bean paste.\u003cbr\u003e2. Inflate under the skin and seal with a hook.\u003cbr\u003e3. Air-dry for several hours until the skin is dry and tight.\u003cbr\u003e4. Roast at high heat, rotating for even color.\u003cbr\u003e5. Rest, then chop and serve over the collected juices.",
+                                      "eatingGuide":  "\u003cb\u003eOrder the lower quarter (下庄) — it has the most fat and flavor.\u003c/b\u003e The skin is the whole point: it should shatter like glass. Eat it immediately while it\u0027s still warm and crackling. The plum sauce cuts through the richness, but purists skip it to taste the goose itself. Ask for the wing and drumstick if you want the richest, juiciest meat.",
+                                      "culturalCode":  "\u003cb\u003eThe sound of cleaver on chopping board is Guangzhou\u0027s lunchtime music.\u003c/b\u003e Every siu mei stall hangs a row of glossy geese in the window — the deeper the mahogany color, the longer it was roasted. Roast goose represents the Cantonese love of technique and the daily ritual of \u0027加餸\u0027 (adding a meat dish to dinner).",
+                                      "honestTalk":  "\u003cb\u003eCheap roast goose is a different animal.\u003c/b\u003e Good roast goose costs more because it uses a proper mature goose, not a young duck substitute. If it\u0027s suspiciously cheap, it\u0027s probably roast duck being passed off. Look for glossy, dry, deeply colored skin and ask for it freshly chopped. Eat it hot — reheated goose loses the crackle.",
+                                      "image":  "images/guangzhou-shaoe.svg"
+                                  },
+                                  {
+                                      "name":  "Shrimp Dumpling（虾饺）",
+                                      "tags":  [
+                                                   "Dim Sum",
+                                                   "Steamed",
+                                                   "Signature"
+                                               ],
+                                      "description":  "The crown jewel of Guangzhou dim sum. A translucent, pleated wrapper made from wheat starch encases a filling of fresh whole shrimp, sometimes with bamboo shoot and a touch of pork fat for silkiness. Steamed until the wrapper turns glassy enough to reveal the pink shrimp inside.",
+                                      "history":  "Invented in the early 20th century at a teahouse near Guangzhou\u0027s Wu Feng Village, har gow quickly became the dish by which dim sum chefs are measured. The traditional pleat count — at least 12, ideally 13 — is a quiet boast of skill passed down through generations of master chefs.",
+                                      "method":  "1. Knead wheat starch with boiling water into a pliable dough.\u003cbr\u003e2. Prepare filling of whole shrimp, bamboo shoot, and pork fat.\u003cbr\u003e3. Roll dough thin and pleat around the filling.\u003cbr\u003e4. Steam over high heat for 5-6 minutes until translucent.\u003cbr\u003e5. Serve immediately in a bamboo steamer.",
+                                      "eatingGuide":  "\u003cb\u003ePick it up with chopsticks, don\u0027t let it sit.\u003c/b\u003e The wrapper turns tough and gummy as it cools, so eat shrimp dumplings the moment they arrive. One clean bite should reveal a whole, bouncy shrimp. The ideal wrapper is thin enough to see through but strong enough not to tear. Don\u0027t douse it in soy — a tiny dab of chili oil is all it needs.",
+                                      "culturalCode":  "\u003cb\u003eDim sum is Guangzhou\u0027s social glue.\u003c/b\u003e Morning tea (饮茶) is less about the tea and more about the ritual of gathering. Shrimp dumpling is always the first item checked off the order sheet — its presence signals a serious dim sum house. The Cantonese phrase \u0027一盅两件\u0027 (one pot, two items) describes the relaxed, communal pace of the meal.",
+                                      "honestTalk":  "\u003cb\u003eFactory-made har gow has a thick, rubbery skin.\u003c/b\u003e The difference between good and bad is immediate: a proper one has a thin, delicate, slightly elastic wrapper you can see through. Avoid the ones that look bright white and opaque — they\u0027ve been over-steamed or machine-made. Go for the busiest teahouse at breakfast and order two baskets up front.",
+                                      "image":  "images/guangzhou-xiajiao.svg"
+                                  },
+                                  {
+                                      "name":  "Rice Noodle Roll（肠粉）",
+                                      "tags":  [
+                                                   "Breakfast",
+                                                   "Street Food",
+                                                   "Steamed"
+                                               ],
+                                      "description":  "Guangzhou\u0027s beloved breakfast of silky rice noodle sheets, traditionally steamed on a cloth (布拉肠粉) so thin and smooth they slide apart on the plate. Filled with shrimp, char siu, or beef, folded into soft layers, and finished with a spoonful of sweet-savory soy sauce.",
+                                      "history":  "Born in Guangzhou\u0027s Xiguan district over a century ago, cheung fun began as a humble street breakfast and grew into a city-wide obsession. The original cloth-steamed method, which produces the most delicate sheets, is a dying art kept alive by a handful of old masters.",
+                                      "method":  "1. Grind rice into a smooth, thin batter.\u003cbr\u003e2. Spread a thin layer over a steaming cloth or metal tray.\u003cbr\u003e3. Add filling (shrimp, char siu, or beef).\u003cbr\u003e4. Steam for 1-2 minutes until set.\u003cbr\u003e5. Roll and cut, then drizzle with sweet soy sauce.",
+                                      "eatingGuide":  "\u003cb\u003eThe sauce makes or breaks it.\u003c/b\u003e A good rice noodle roll should be silky and nearly transparent, not thick and doughy. The sweet-savory soy sauce is poured on at the last second — ask for extra if you like. Eat it as breakfast, ideally from a street stall where you can watch it being steamed to order.",
+                                      "culturalCode":  "\u003cb\u003eEvery Guangzhou person has a \u0027their\u0027 stall.\u003c/b\u003e Cheung fun is the taste of Guangzhou mornings — steam rising from roadside carts, office workers queueing with takeaway boxes. The debate over \u0027cloth-steamed vs metal-tray\u0027 is a genuine local rivalry that has raged for decades.",
+                                      "honestTalk":  "\u003cb\u003eSkip the fancy restaurants for this one.\u003c/b\u003e The best rice noodle rolls come from unglamorous street stalls and tiny neighborhood shops, not hotel dim sum. Look for a stall with a long morning queue of locals and watch them make it fresh. A good one costs a few yuan — don\u0027t pay tourist prices for a worse product.",
+                                      "image":  "images/guangzhou-changfen.svg"
+                                  },
+                                  {
+                                      "name":  "Cantonese Slow-cooked Soup（老火靓汤）",
+                                      "tags":  [
+                                                   "Home Cooking",
+                                                   "Nourishing",
+                                                   "Slow-cooked"
+                                               ],
+                                      "description":  "The soul of Cantonese home cooking. Pork bones, dried ingredients, and fresh herbs simmer gently for three to four hours until the liquid becomes a clear, deeply flavored elixir. Every family has its own formula, tuned to the season and the diners\u0027 needs — from watercress and apricot kernels to lotus root and cuttlefish.",
+                                      "history":  "Rooted in traditional Chinese medicine\u0027s belief in food as nourishment (食疗), lao huo soup has been a daily fixture of Guangzhou homes for centuries. The Cantonese insistence that \u0027every meal begins with soup\u0027 reflects a deep cultural belief that good health is cooked, not just eaten.",
+                                      "method":  "1. Blanch pork bones to remove impurities.\u003cbr\u003e2. Combine with dried ingredients and fresh herbs in a clay pot.\u003cbr\u003e3. Cover with cold water and bring to a boil.\u003cbr\u003e4. Reduce to a bare simmer for 3-4 hours.\u003cbr\u003e5. Season lightly with salt and serve the clear broth.",
+                                      "eatingGuide":  "\u003cb\u003eDrink the soup, not the solid ingredients.\u003c/b\u003e The broth is the point — all the goodness has been extracted into the liquid. Sip it slowly at the start of the meal to \u0027wake up\u0027 the stomach. The leftover soup ingredients are usually discarded, which surprises first-timers but is completely normal.",
+                                      "culturalCode":  "\u003cb\u003eA bowl of soup is how Guangzhou says \u0027I care about you\u0027.\u003c/b\u003e Mothers simmer soup for children before exams, wives for husbands working late, and every family gathering opens with it. The question \u0027饮汤了吗?\u0027 (have you had your soup?) is a genuine expression of love.",
+                                      "honestTalk":  "\u003cb\u003eReal lao huo soup takes hours — instant versions are not the same.\u003c/b\u003e A proper bowl is clear but deeply flavorful, not cloudy or greasy. Restaurant soup that arrives in five minutes is either pre-made or rushed. For the real thing, eat at a home-style restaurant (住家菜) or befriend a Guangzhou local who\u0027ll invite you home.",
+                                      "image":  "images/guangzhou-laohuo-tang.svg"
+                                  },
+                                  {
+                                      "name":  "Sampan Congee（艇仔粥）",
+                                      "tags":  [
+                                                   "Comfort Food",
+                                                   "Street Food",
+                                                   "Historic"
+                                               ],
+                                      "description":  "Guangzhou\u0027s historic riverside porridge. Rice is simmered until it breaks down into a silky, almost creamy congee, then topped with a generous medley: shredded fish, squid, peanuts, fried dough sticks, and scallions. The name comes from the sampan boats that once sold it along the Pearl River.",
+                                      "history":  "Once sold from wooden sampan boats that rowed along Guangzhou\u0027s Pearl River and Liwan Lake, sampan congee fed the city\u0027s river traders and night market crowds. As the boat-dwellers moved ashore, the dish became a beloved fixture of Xiguan\u0027s old streets and a UNESCO-recognized memory of old Guangzhou.",
+                                      "method":  "1. Rinse rice and soak, then simmer with stock until broken down.\u003cbr\u003e2. Marinate thin slices of fish and squid.\u003cbr\u003e3. Cook the seafood gently in the hot congee.\u003cbr\u003e4. Ladle into bowls and top with peanuts, fried dough, and scallions.\u003cbr\u003e5. Drizzle with a little soy and sesame oil.",
+                                      "eatingGuide":  "\u003cb\u003eStir before you eat.\u003c/b\u003e The toppings settle at the bottom, so give it a gentle mix first. The contrast of silky congee, tender seafood, crunchy peanuts, and crisp fried dough is the whole appeal. Eat it piping hot — congee turns gluey as it cools. Best enjoyed as breakfast or a late-night snack.",
+                                      "culturalCode":  "\u003cb\u003eA taste of old Guangzhou\u0027s water-bound past.\u003c/b\u003e The name \u0027sampan\u0027 carries the memory of a city built around its river, when food arrived by boat and the Pearl River was the city\u0027s main street. Eating it in Xiguan\u0027s old alleys is like tasting a living postcard.",
+                                      "honestTalk":  "\u003cb\u003eIt\u0027s porridge, but not the bland kind.\u003c/b\u003e If you\u0027ve only ever had plain rice porridge, sampan congee will surprise you with its depth and texture. The seafood is fresh and lightly cooked, the congee is silky, and the toppings make every spoonful different. Avoid versions with limp, pre-fried dough sticks — they should be crisp.",
+                                      "image":  "images/guangzhou-tingzai-zhou.svg"
+                                  }
+                              ]
+               }
+           ],
+    "zh":  [
+               {
+                   "id":  "guangzhou-001",
+                   "date":  "August 31, 2026",
+                   "region":  "Guangdong · Guangzhou",
+                   "dishes":  [
+                                  {
+                                      "name":  "White-cut Chicken（白切鸡）",
+                                      "tags":  [
+                                                   "Cantonese Classic",
+                                                   "Poached",
+                                                   "Fresh"
+                                               ],
+                                      "description":  "The purest test of Cantonese cooking skill. A free-range chicken is gently poached in barely-simmering stock, then plunged into ice water so the skin snaps tight and glossy while the meat stays moist and tender. Served cold, usually at room temperature, with a side of ginger-scallion dip — no heavy sauce, no spice, just the honest flavor of good chicken.",
+                                      "history":  "Guangzhou\u0027s signature dish that defines the Cantonese philosophy of \u0027freshness above all\u0027. For centuries it has been the benchmark dish at banquets, family dinners, and temple offerings — a chef is judged by whether his white-cut chicken has \u0027chicken flavor\u0027 (鸡味), that elusive clean, sweet taste of a properly raised bird.",
+                                      "method":  "1. Choose a free-range chicken, clean and trim.\u003cbr\u003e2. Bring a large pot of stock to a bare simmer (about 80°C).\u003cbr\u003e3. Submerge the chicken, poach gently without boiling for 25-30 minutes.\u003cbr\u003e4. Plunge into ice water to firm the skin.\u003cbr\u003e5. Chop into pieces and serve with ginger-scallion dip.",
+                                      "eatingGuide":  "\u003cb\u003eThe blood-bone pink is a feature, not a bug.\u003c/b\u003e Proper white-cut chicken is slightly pink near the bone — this means it\u0027s cooked perfectly, not undercooked. Dip each piece in the ginger-scallion oil. Eat the breast to judge the meat, the thigh for richness, and the skin for that satisfying snap. The bones should glisten with a hint of red jelly.",
+                                      "culturalCode":  "\u003cb\u003eIf a Cantonese restaurant can\u0027t do white-cut chicken, don\u0027t trust anything else.\u003c/b\u003e It\u0027s the first dish ordered at every important family meal, and the one dish every Guangzhou grandmother judges a restaurant by. The Cantonese saying \u0027无鸡不成宴\u0027 — no feast is complete without chicken — starts here.",
+                                      "honestTalk":  "\u003cb\u003eFirst-timers often find it \u0027bland\u0027.\u003c/b\u003e That\u0027s the point — it\u0027s about the chicken\u0027s own flavor, not seasoning. The magic is in the ginger-scallion dip and the texture. If you\u0027re used to heavily sauced food, order it alongside a richer dish. Choose a restaurant that prides itself on its chicken rather than a dim sum chain.",
+                                      "image":  "images/guangzhou-baiqieji.svg"
+                                  },
+                                  {
+                                      "name":  "Roast Goose（烧鹅）",
+                                      "tags":  [
+                                                   "Roast",
+                                                   "Cantonese BBQ",
+                                                   "Crispy Skin"
+                                               ],
+                                      "description":  "Guangzhou\u0027s most beloved roasted meat. A whole goose is marinated with five-spice and fermented bean paste, air-dried until the skin is taut, then roasted until the skin blisters into a glassy, crackling lacquer of amber-brown. Sliced and served over a pool of its own juices, often with plum sauce on the side.",
+                                      "history":  "Roast goose arrived in Guangzhou via the \u0027deep well\u0027 roasting technique (深井烧鹅) from the Hong Kong border town of Sham Tseng, perfected over generations into Guangzhou\u0027s defining siu mei (烧味) dish. It has been a banquet centerpiece and a daily lunchbox staple for over a century.",
+                                      "method":  "1. Clean and blanch the goose, then stuff with five-spice and fermented bean paste.\u003cbr\u003e2. Inflate under the skin and seal with a hook.\u003cbr\u003e3. Air-dry for several hours until the skin is dry and tight.\u003cbr\u003e4. Roast at high heat, rotating for even color.\u003cbr\u003e5. Rest, then chop and serve over the collected juices.",
+                                      "eatingGuide":  "\u003cb\u003eOrder the lower quarter (下庄) — it has the most fat and flavor.\u003c/b\u003e The skin is the whole point: it should shatter like glass. Eat it immediately while it\u0027s still warm and crackling. The plum sauce cuts through the richness, but purists skip it to taste the goose itself. Ask for the wing and drumstick if you want the richest, juiciest meat.",
+                                      "culturalCode":  "\u003cb\u003eThe sound of cleaver on chopping board is Guangzhou\u0027s lunchtime music.\u003c/b\u003e Every siu mei stall hangs a row of glossy geese in the window — the deeper the mahogany color, the longer it was roasted. Roast goose represents the Cantonese love of technique and the daily ritual of \u0027加餸\u0027 (adding a meat dish to dinner).",
+                                      "honestTalk":  "\u003cb\u003eCheap roast goose is a different animal.\u003c/b\u003e Good roast goose costs more because it uses a proper mature goose, not a young duck substitute. If it\u0027s suspiciously cheap, it\u0027s probably roast duck being passed off. Look for glossy, dry, deeply colored skin and ask for it freshly chopped. Eat it hot — reheated goose loses the crackle.",
+                                      "image":  "images/guangzhou-shaoe.svg"
+                                  },
+                                  {
+                                      "name":  "Shrimp Dumpling（虾饺）",
+                                      "tags":  [
+                                                   "Dim Sum",
+                                                   "Steamed",
+                                                   "Signature"
+                                               ],
+                                      "description":  "The crown jewel of Guangzhou dim sum. A translucent, pleated wrapper made from wheat starch encases a filling of fresh whole shrimp, sometimes with bamboo shoot and a touch of pork fat for silkiness. Steamed until the wrapper turns glassy enough to reveal the pink shrimp inside.",
+                                      "history":  "Invented in the early 20th century at a teahouse near Guangzhou\u0027s Wu Feng Village, har gow quickly became the dish by which dim sum chefs are measured. The traditional pleat count — at least 12, ideally 13 — is a quiet boast of skill passed down through generations of master chefs.",
+                                      "method":  "1. Knead wheat starch with boiling water into a pliable dough.\u003cbr\u003e2. Prepare filling of whole shrimp, bamboo shoot, and pork fat.\u003cbr\u003e3. Roll dough thin and pleat around the filling.\u003cbr\u003e4. Steam over high heat for 5-6 minutes until translucent.\u003cbr\u003e5. Serve immediately in a bamboo steamer.",
+                                      "eatingGuide":  "\u003cb\u003ePick it up with chopsticks, don\u0027t let it sit.\u003c/b\u003e The wrapper turns tough and gummy as it cools, so eat shrimp dumplings the moment they arrive. One clean bite should reveal a whole, bouncy shrimp. The ideal wrapper is thin enough to see through but strong enough not to tear. Don\u0027t douse it in soy — a tiny dab of chili oil is all it needs.",
+                                      "culturalCode":  "\u003cb\u003eDim sum is Guangzhou\u0027s social glue.\u003c/b\u003e Morning tea (饮茶) is less about the tea and more about the ritual of gathering. Shrimp dumpling is always the first item checked off the order sheet — its presence signals a serious dim sum house. The Cantonese phrase \u0027一盅两件\u0027 (one pot, two items) describes the relaxed, communal pace of the meal.",
+                                      "honestTalk":  "\u003cb\u003eFactory-made har gow has a thick, rubbery skin.\u003c/b\u003e The difference between good and bad is immediate: a proper one has a thin, delicate, slightly elastic wrapper you can see through. Avoid the ones that look bright white and opaque — they\u0027ve been over-steamed or machine-made. Go for the busiest teahouse at breakfast and order two baskets up front.",
+                                      "image":  "images/guangzhou-xiajiao.svg"
+                                  },
+                                  {
+                                      "name":  "Rice Noodle Roll（肠粉）",
+                                      "tags":  [
+                                                   "Breakfast",
+                                                   "Street Food",
+                                                   "Steamed"
+                                               ],
+                                      "description":  "Guangzhou\u0027s beloved breakfast of silky rice noodle sheets, traditionally steamed on a cloth (布拉肠粉) so thin and smooth they slide apart on the plate. Filled with shrimp, char siu, or beef, folded into soft layers, and finished with a spoonful of sweet-savory soy sauce.",
+                                      "history":  "Born in Guangzhou\u0027s Xiguan district over a century ago, cheung fun began as a humble street breakfast and grew into a city-wide obsession. The original cloth-steamed method, which produces the most delicate sheets, is a dying art kept alive by a handful of old masters.",
+                                      "method":  "1. Grind rice into a smooth, thin batter.\u003cbr\u003e2. Spread a thin layer over a steaming cloth or metal tray.\u003cbr\u003e3. Add filling (shrimp, char siu, or beef).\u003cbr\u003e4. Steam for 1-2 minutes until set.\u003cbr\u003e5. Roll and cut, then drizzle with sweet soy sauce.",
+                                      "eatingGuide":  "\u003cb\u003eThe sauce makes or breaks it.\u003c/b\u003e A good rice noodle roll should be silky and nearly transparent, not thick and doughy. The sweet-savory soy sauce is poured on at the last second — ask for extra if you like. Eat it as breakfast, ideally from a street stall where you can watch it being steamed to order.",
+                                      "culturalCode":  "\u003cb\u003eEvery Guangzhou person has a \u0027their\u0027 stall.\u003c/b\u003e Cheung fun is the taste of Guangzhou mornings — steam rising from roadside carts, office workers queueing with takeaway boxes. The debate over \u0027cloth-steamed vs metal-tray\u0027 is a genuine local rivalry that has raged for decades.",
+                                      "honestTalk":  "\u003cb\u003eSkip the fancy restaurants for this one.\u003c/b\u003e The best rice noodle rolls come from unglamorous street stalls and tiny neighborhood shops, not hotel dim sum. Look for a stall with a long morning queue of locals and watch them make it fresh. A good one costs a few yuan — don\u0027t pay tourist prices for a worse product.",
+                                      "image":  "images/guangzhou-changfen.svg"
+                                  },
+                                  {
+                                      "name":  "Cantonese Slow-cooked Soup（老火靓汤）",
+                                      "tags":  [
+                                                   "Home Cooking",
+                                                   "Nourishing",
+                                                   "Slow-cooked"
+                                               ],
+                                      "description":  "The soul of Cantonese home cooking. Pork bones, dried ingredients, and fresh herbs simmer gently for three to four hours until the liquid becomes a clear, deeply flavored elixir. Every family has its own formula, tuned to the season and the diners\u0027 needs — from watercress and apricot kernels to lotus root and cuttlefish.",
+                                      "history":  "Rooted in traditional Chinese medicine\u0027s belief in food as nourishment (食疗), lao huo soup has been a daily fixture of Guangzhou homes for centuries. The Cantonese insistence that \u0027every meal begins with soup\u0027 reflects a deep cultural belief that good health is cooked, not just eaten.",
+                                      "method":  "1. Blanch pork bones to remove impurities.\u003cbr\u003e2. Combine with dried ingredients and fresh herbs in a clay pot.\u003cbr\u003e3. Cover with cold water and bring to a boil.\u003cbr\u003e4. Reduce to a bare simmer for 3-4 hours.\u003cbr\u003e5. Season lightly with salt and serve the clear broth.",
+                                      "eatingGuide":  "\u003cb\u003eDrink the soup, not the solid ingredients.\u003c/b\u003e The broth is the point — all the goodness has been extracted into the liquid. Sip it slowly at the start of the meal to \u0027wake up\u0027 the stomach. The leftover soup ingredients are usually discarded, which surprises first-timers but is completely normal.",
+                                      "culturalCode":  "\u003cb\u003eA bowl of soup is how Guangzhou says \u0027I care about you\u0027.\u003c/b\u003e Mothers simmer soup for children before exams, wives for husbands working late, and every family gathering opens with it. The question \u0027饮汤了吗?\u0027 (have you had your soup?) is a genuine expression of love.",
+                                      "honestTalk":  "\u003cb\u003eReal lao huo soup takes hours — instant versions are not the same.\u003c/b\u003e A proper bowl is clear but deeply flavorful, not cloudy or greasy. Restaurant soup that arrives in five minutes is either pre-made or rushed. For the real thing, eat at a home-style restaurant (住家菜) or befriend a Guangzhou local who\u0027ll invite you home.",
+                                      "image":  "images/guangzhou-laohuo-tang.svg"
+                                  },
+                                  {
+                                      "name":  "Sampan Congee（艇仔粥）",
+                                      "tags":  [
+                                                   "Comfort Food",
+                                                   "Street Food",
+                                                   "Historic"
+                                               ],
+                                      "description":  "Guangzhou\u0027s historic riverside porridge. Rice is simmered until it breaks down into a silky, almost creamy congee, then topped with a generous medley: shredded fish, squid, peanuts, fried dough sticks, and scallions. The name comes from the sampan boats that once sold it along the Pearl River.",
+                                      "history":  "Once sold from wooden sampan boats that rowed along Guangzhou\u0027s Pearl River and Liwan Lake, sampan congee fed the city\u0027s river traders and night market crowds. As the boat-dwellers moved ashore, the dish became a beloved fixture of Xiguan\u0027s old streets and a UNESCO-recognized memory of old Guangzhou.",
+                                      "method":  "1. Rinse rice and soak, then simmer with stock until broken down.\u003cbr\u003e2. Marinate thin slices of fish and squid.\u003cbr\u003e3. Cook the seafood gently in the hot congee.\u003cbr\u003e4. Ladle into bowls and top with peanuts, fried dough, and scallions.\u003cbr\u003e5. Drizzle with a little soy and sesame oil.",
+                                      "eatingGuide":  "\u003cb\u003eStir before you eat.\u003c/b\u003e The toppings settle at the bottom, so give it a gentle mix first. The contrast of silky congee, tender seafood, crunchy peanuts, and crisp fried dough is the whole appeal. Eat it piping hot — congee turns gluey as it cools. Best enjoyed as breakfast or a late-night snack.",
+                                      "culturalCode":  "\u003cb\u003eA taste of old Guangzhou\u0027s water-bound past.\u003c/b\u003e The name \u0027sampan\u0027 carries the memory of a city built around its river, when food arrived by boat and the Pearl River was the city\u0027s main street. Eating it in Xiguan\u0027s old alleys is like tasting a living postcard.",
+                                      "honestTalk":  "\u003cb\u003eIt\u0027s porridge, but not the bland kind.\u003c/b\u003e If you\u0027ve only ever had plain rice porridge, sampan congee will surprise you with its depth and texture. The seafood is fresh and lightly cooked, the congee is silky, and the toppings make every spoonful different. Avoid versions with limp, pre-fried dough sticks — they should be crisp.",
+                                      "image":  "images/guangzhou-tingzai-zhou.svg"
+                                  }
+                              ]
+               }
+           ]
+}
